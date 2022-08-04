@@ -1,0 +1,986 @@
+[
+  {
+    "countryName": "Albania",
+    "prCode": "alban",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Andorra",
+    "prCode": "andor",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Angola",
+    "prCode": "angol",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Argentina",
+    "prCode": "argen",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Armenia",
+    "prCode": "armen",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Austria",
+    "prCode": "ausri",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Australia",
+    "prCode": "austr",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Azerbaijan",
+    "prCode": "azerb",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Bahrain",
+    "prCode": "bahra",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Bangladesh",
+    "prCode": "bangl",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Barbados",
+    "prCode": "barba",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Belarus",
+    "prCode": "belar",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Belgium",
+    "prCode": "belgi",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Belize",
+    "prCode": "beliz",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Bolivia, Plurinational State Of",
+    "prCode": "boliv",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Bosnia and Herzegovina",
+    "prCode": "bosni",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Brazil",
+    "prCode": "brazi",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Brunei Darussalam",
+    "prCode": "brune",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Bulgaria",
+    "prCode": "bulga",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Canada",
+    "prCode": "canad",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Cape Verde",
+    "prCode": "capev",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Chile",
+    "prCode": "chile",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Colombia",
+    "prCode": "colom",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Costa Rica",
+    "prCode": "costa",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Croatia",
+    "prCode": "croat",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Cyprus",
+    "prCode": "cypru",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Czech Republic",
+    "prCode": "czech",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Denmark",
+    "prCode": "denma",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Dominica",
+    "prCode": "domia",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Dominican Republic",
+    "prCode": "domin",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Ecuador",
+    "prCode": "ecuad",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Egypt",
+    "prCode": "egypt",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "El Salvador",
+    "prCode": "elsalv",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Estonia",
+    "prCode": "eston",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Finland",
+    "prCode": "finla",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "France",
+    "prCode": "franc",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "French Guiana",
+    "prCode": "frgui",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "French Polynesia",
+    "prCode": "frpol",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Georgia",
+    "prCode": "georg",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Germany",
+    "prCode": "germa",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Greece",
+    "prCode": "greec",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Greenland",
+    "prCode": "green",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Grenada",
+    "prCode": "grena",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Guatemala",
+    "prCode": "guate",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Guyana",
+    "prCode": "guyan",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Honduras",
+    "prCode": "hondu",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Iceland",
+    "prCode": "icela",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "India",
+    "prCode": "india",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Indonesia",
+    "prCode": "indon",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Ireland",
+    "prCode": "irela",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Israel",
+    "prCode": "israe",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Italy",
+    "prCode": "italy",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Jamaica",
+    "prCode": "jamai",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Jordan",
+    "prCode": "jorda",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Kenya",
+    "prCode": "kenya",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Kuwait",
+    "prCode": "kuwai",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Kyrgyzstan",
+    "prCode": "kyrgy",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Latvia",
+    "prCode": "latvi",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Lebanon",
+    "prCode": "leban",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Liechtenstein",
+    "prCode": "liech",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "m-d-Y"
+  },
+  {
+    "countryName": "Luxembourg",
+    "prCode": "luxem",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Macedonia, the Former Yugoslav Republic Of",
+    "prCode": "maced",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Malaysia",
+    "prCode": "malay",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Maldives",
+    "prCode": "maldi",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Malta",
+    "prCode": "malta",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Mexico",
+    "prCode": "mexic",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Moldova, Republic of",
+    "prCode": "moldo",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Monaco",
+    "prCode": "monac",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Montenegro",
+    "prCode": "monte",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Namibia",
+    "prCode": "namib",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Netherlands",
+    "prCode": "nethe",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "New Zealand",
+    "prCode": "newze",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Nicaragua",
+    "prCode": "nicar",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Norway",
+    "prCode": "norwa",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Oman",
+    "prCode": "oman",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Panama",
+    "prCode": "panam",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Paraguay",
+    "prCode": "parag",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Peru",
+    "prCode": "peru",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Poland",
+    "prCode": "polan",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Portugal",
+    "prCode": "portu",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Qatar",
+    "prCode": "qatar",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Romania",
+    "prCode": "roman",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Russia",
+    "prCode": "russi",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Saudi Arabia",
+    "prCode": "saudi",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Serbia",
+    "prCode": "serbi",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Slovakia",
+    "prCode": "slova",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Slovenia",
+    "prCode": "slove",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Saint Lucia",
+    "prCode": "sluci",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Spain",
+    "prCode": "spain",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Suriname",
+    "prCode": "surin",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Switzerland",
+    "prCode": "switz",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Tajikistan",
+    "prCode": "tajik",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Thailand",
+    "prCode": "thail",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Trinidad and Tobago",
+    "prCode": "trini",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Tunisia",
+    "prCode": "tunis",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Turkey",
+    "prCode": "turke",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "United Arab Emirates",
+    "prCode": "uarab",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "United Kingdom",
+    "prCode": "uking",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Ukraine",
+    "prCode": "ukrai",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Uruguay",
+    "prCode": "urugu",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Uzbekistan",
+    "prCode": "uzbek",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Venezuela",
+    "prCode": "venez",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Vietnam",
+    "prCode": "vietn",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Yemen",
+    "prCode": "yemen",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Zimbabwe",
+    "prCode": "zimba",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Antigua and Barbuda",
+    "prCode": "antig",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Aruba",
+    "prCode": "aruba",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Bahamas",
+    "prCode": "baham",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Bermuda",
+    "prCode": "bermu",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Botswana",
+    "prCode": "botsw",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Burkina Faso",
+    "prCode": "burki",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Burundi",
+    "prCode": "burun",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Cayman Islands",
+    "prCode": "cayma",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Congo",
+    "prCode": "congb",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Congo, The Democratic Republic Of The",
+    "prCode": "congk",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Cook Islands",
+    "prCode": "cooki",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Côte D'Ivoire",
+    "prCode": "coted",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Faroe Islands",
+    "prCode": "faroe",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Fiji",
+    "prCode": "fiji",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Gambia",
+    "prCode": "gambi",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Gibraltar",
+    "prCode": "gibra",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Guadeloupe",
+    "prCode": "guade",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Guernsey",
+    "prCode": "guern",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Haiti",
+    "prCode": "haiti",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Isle of Man",
+    "prCode": "islem",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Jersey",
+    "prCode": "jerse",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Madagascar",
+    "prCode": "madag",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Mali",
+    "prCode": "mali",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Martinique",
+    "prCode": "marti",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Mauritius",
+    "prCode": "mauri",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Mozambique",
+    "prCode": "mozam",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "New Caledonia",
+    "prCode": "newca",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Papua New Guinea",
+    "prCode": "papau",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Samoa",
+    "prCode": "samoa",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "San Marino",
+    "prCode": "sanma",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Senegal",
+    "prCode": "seneg",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Seychelles",
+    "prCode": "seych",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Saint Kitts and Nevis",
+    "prCode": "skitt",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Solomon Islands",
+    "prCode": "solom",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Saint Vincent and the Grenadines",
+    "prCode": "svinc",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Tanzania, United Republic of",
+    "prCode": "tanza",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Togo",
+    "prCode": "togo",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Vanuatu",
+    "prCode": "vanua",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Virgin Islands, British",
+    "prCode": "virgi",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Zambia",
+    "prCode": "zambi",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Philippines",
+    "prCode": "phili",
+    "format": "<Month> <Day>,<Year>",
+    "dateFormat": "m d,Y"
+  },
+  {
+    "countryName": "United States",
+    "prCode": "ustat",
+    "format": "<Month> <Day>,<Year>",
+    "dateFormat": "m d,Y"
+  },
+  {
+    "countryName": "Cambodia",
+    "prCode": "cambo",
+    "format": "<Year> <Month> <Day>",
+    "dateFormat": "Y m d"
+  },
+  {
+    "countryName": "China",
+    "prCode": "china",
+    "format": "<Year>-<Month>-<Day>",
+    "dateFormat": "Y-m-d"
+  },
+  {
+    "countryName": "Hong Kong",
+    "prCode": "hongk",
+    "format": "<Year> <Month> <Day>",
+    "dateFormat": "Y m d"
+  },
+  {
+    "countryName": "Hungary",
+    "prCode": "hunga",
+    "format": "<Year> <Month> <Day>",
+    "dateFormat": "Y m d"
+  },
+  {
+    "countryName": "Japan",
+    "prCode": "japan",
+    "format": "<Year> <Month> <Day>",
+    "dateFormat": "Y m d"
+  },
+  {
+    "countryName": "Kazakhstan",
+    "prCode": "kazak",
+    "format": "<Year> <Month> <Day>",
+    "dateFormat": "Y m d"
+  },
+  {
+    "countryName": "Lithuania",
+    "prCode": "lithu",
+    "format": "<Year> <Month> <Day>",
+    "dateFormat": "Y m d"
+  },
+  {
+    "countryName": "Macao",
+    "prCode": "macau",
+    "format": "<Year> <Month> <Day>",
+    "dateFormat": "Y m d"
+  },
+  {
+    "countryName": "Mongolia",
+    "prCode": "mongo",
+    "format": "<Year> <Month> <Day>",
+    "dateFormat": "Y m d"
+  },
+  {
+    "countryName": "South Africa",
+    "prCode": "safri",
+    "format": "<Year> <Month> <Day>",
+    "dateFormat": "Y m d"
+  },
+  {
+    "countryName": "Singapore",
+    "prCode": "singa",
+    "format": "<Year> <Month> <Day>",
+    "dateFormat": "Y m d"
+  },
+  {
+    "countryName": "South Korea",
+    "prCode": "skore",
+    "format": "<Year> 년 <Month> <Day> 일",
+    "dateFormat": "Y 년 m d 일"
+  },
+  {
+    "countryName": "Sri Lanka",
+    "prCode": "srila",
+    "format": "<Year> <Month> <Day>",
+    "dateFormat": "Y m d"
+  },
+  {
+    "countryName": "Sweden",
+    "prCode": "swede",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "Taiwan",
+    "prCode": "taiwa",
+    "format": "<Year> <Month> <Day>",
+    "dateFormat": "Y m d"
+  },
+  {
+    "countryName": "CÃ´te D'Ivoire",
+    "prCode": "coted",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  },
+  {
+    "countryName": "CÃƒÂ´te D'Ivoire",
+    "prCode": "coted",
+    "format": "<Day> <Month> <Year>",
+    "dateFormat": "d m Y"
+  }
+]
