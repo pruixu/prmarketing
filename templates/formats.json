@@ -879,7 +879,7 @@
     "countryName": "United States",
     "prCode": "ustat",
     "format": "<Month> <Day>,<Year>",
-    "dateFormat": "m d,Y"
+    "dateFormat": "F d,Y"
   },
   {
     "countryName": "Cambodia",
