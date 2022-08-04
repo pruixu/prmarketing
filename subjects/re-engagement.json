@@ -1,0 +1,272 @@
+[
+  {
+    "language_name": "English",
+    "pr_code": "eng",
+    "language": "en-US",
+    "subject_variation_1": "Look what you’re missing. NEW Special Offer Inside!",
+    "subject_variation_2": "We’ve missed you! Here’s 40% OFF EVERYTHING!",
+    "subject_variation_3": "It’s been a while! Here’s 40% OFF of our new products since you been gone",
+    "subject_variation_4": "Last Chance… Don’t Let 40% OFF Get Away!"
+  },
+  {
+    "language_name": "Azerbaijani",
+    "pr_code": "aze",
+    "language": "az",
+    "subject_variation_1": "Nəyin əskik olduğuna nəzər salın. YENİ xüsusi təklif!",
+    "subject_variation_2": "Biz sizin üçün darıxmışıq! HƏR BİR MALA 40% ENDİRİM!",
+    "subject_variation_3": "Çoxdan belə şey olmamışdır! Siz getdiyiniz gündən yeni məhsullara 40% ENDİRİM",
+    "subject_variation_4": "Son şans...40% ENDİRİMİN əldən çıxmasına izin verməyin!"
+  },
+  {
+    "language_name": "Bulgarian",
+    "pr_code": "bul",
+    "language": "bg",
+    "subject_variation_1": "Вижте какво изпускате! Вътре има НОВА специална оферта!",
+    "subject_variation_2": "Липсвахте ни! Ето 40%  ОТСТЪПКА НА ВСИЧКО!",
+    "subject_variation_3": "Мина толкова време! Ето 40%  ОТСТЪПКА на новите ни продукти, откакто отсъствахте",
+    "subject_variation_4": "Последна възможност… Не изпускайте цели 40% ОТСТЪПКА!"
+  },
+  {
+    "language_name": "Danish",
+    "pr_code": "dan",
+    "language": "da",
+    "subject_variation_1": "Se, hvad du går glip af. NYT særtilbud indeni!",
+    "subject_variation_2": "Vi har savnet dig! Her er 40 %  RABAT PÅ ALT!",
+    "subject_variation_3": "Det er længe siden! Her er 40 %  RABAT på vores nye produkter siden sidst",
+    "subject_variation_4": "Sidste chance... Lad ikke 40 % rabat slippe væk!"
+  },
+  {
+    "language_name": "German",
+    "pr_code": "deu",
+    "language": "de",
+    "subject_variation_1": "Sehen Sie, was Sie verpassen. Ein NEUES Sonderangebot wartet auf Sie!",
+    "subject_variation_2": "Wir haben Sie vermisst! Hier sind 40% RABATT AUF ALLES!",
+    "subject_variation_3": "Es ist schon eine Weile her! Hier sind 40% RABATT auf unsere neuen Produkte seit Ihrem letzten Besuch",
+    "subject_variation_4": "Letzte Chance... Lassen Sie sich die 40 % Rabatt nicht entgehen!"
+  },
+  {
+    "language_name": "Greek (modern)",
+    "pr_code": "ell",
+    "language": "el",
+    "subject_variation_1": "Δείτε τι χάνετε. ΝΕΑ Ειδική Προσφορά Εντός!",
+    "subject_variation_2": "Μας λείψατε! Ορίστε 40% ΕΚΠΤΩΣΗ ΣΕ ΟΛΑ!",
+    "subject_variation_3": "Πέρασε καιρός! Ορίστε 40% ΕΚΠΤΩΣΗ στα νέα προϊόντα από τότε που φύγατε",
+    "subject_variation_4": "Τελευταία ευκαιρία… Μην χάσετε την ΕΚΠΤΩΣΗ 40%!"
+  },
+  {
+    "language_name": "Finnish",
+    "pr_code": "fin",
+    "language": "fi",
+    "subject_variation_1": "Katso, mistä jäät paitsi. Sisältää UUDEN erikoistarjouksen!",
+    "subject_variation_2": "Olemme kaivanneet sinua! Tässä 40 % ALENNUS KAIKESTA!",
+    "subject_variation_3": "Siitä on jo aikaa! Tässä 40 % ALENNUS uusista tuotteistamme siitä lähtien, kun olet ollut muualla",
+    "subject_variation_4": "Viimeinen tilaisuus… Älä päästä 40 % alennusta karkuun!"
+  },
+  {
+    "language_name": "French",
+    "pr_code": "fra",
+    "language": "fr",
+    "subject_variation_1": "À ne pas manquer. NOUVELLE offre spéciale à l'intérieur !",
+    "subject_variation_2": "Vous nous avez manqué ! Voici 40 %  DE REMISE SUR TOUT !",
+    "subject_variation_3": "Ça faisait longtemps ! Voici 40 %  DE REMISE sur tous les nouveaux produits depuis votre dernière visite",
+    "subject_variation_4": "Dernière chance... Ne laissez pas la réduction de 40 % s'envoler !"
+  },
+  {
+    "language_name": "Croatian",
+    "pr_code": "hrv",
+    "language": "hr",
+    "subject_variation_1": "Pogledajte što propuštate. NOVA posebna ponuda!",
+    "subject_variation_2": "Nedostajali ste nam! Častimo vas s 40% POPUSTA NA SVE!",
+    "subject_variation_3": "Nije vas dugo bilo! Častimo vas s 40% POPUSTA na naše nove proizvode od vašeg zadnjeg posjeta",
+    "subject_variation_4": "Posljednja prilika… ne propustite 40 % popusta!"
+  },
+  {
+    "language_name": "Hungarian",
+    "pr_code": "hun",
+    "language": "hu",
+    "subject_variation_1": "Nézze meg, mit hagy ki! ÚJ különleges ajánlatunk Önre vár!",
+    "subject_variation_2": "Már hiányoljuk! MINDENRE 40% KEDVEZMÉNYT adunk Önnek!",
+    "subject_variation_3": "Régen járt nálunk. 40% KEDVEZMÉNYT adunk Önnek minden, a legutóbbi látogatása óta megjelent új termékünkre",
+    "subject_variation_4": "Utolsó lehetőség… ne hagyja veszni a 40% KEDVEZMÉNYT!"
+  },
+  {
+    "language_name": "Indonesian",
+    "pr_code": "ind",
+    "language": "id",
+    "subject_variation_1": "Lihat apa yang Anda lewatkan. Ada Penawaran Spesial BARU!",
+    "subject_variation_2": "Lama tak berjumpa! Kami berikan diskon 40% UNTUK SEMUA PRODUK!",
+    "subject_variation_3": "Lama tak berjumpa! Kami berikan DISKON 40% untuk produk baru kami",
+    "subject_variation_4": "Kesempatan Terakhir… Jangan Lewatkan DISKON 40%!"
+  },
+  {
+    "language_name": "Italian",
+    "pr_code": "ita",
+    "language": "it",
+    "subject_variation_1": "Guarda cosa ti stavi perdendo. Una NUOVA offerta speciale per te!",
+    "subject_variation_2": "Abbiamo sentito la tua mancanza! Ecco per te uno SCONTO del 40%  SU TUTTO!",
+    "subject_variation_3": "Ne è passato di tempo! Per festeggiare il tuo ritorno, ecco uno SCONTO del 40%  sui nostri nuovi prodotti",
+    "subject_variation_4": "Ultima occasione... Non lasciarti sfuggire lo sconto del 40%!"
+  },
+  {
+    "language_name": "Japanese",
+    "pr_code": "jpn",
+    "language": "ja",
+    "subject_variation_1": "見逃したアイテムはこちらです。新しい特別オファーをご覧ください！",
+    "subject_variation_2": "お久しぶりです！全品40% オフです！",
+    "subject_variation_3": "しばらくぶりですね！前回のご来店以降追加された40% オフの商品はこちらです",
+    "subject_variation_4": "最後のチャンス…40%オフをお見逃しなく！"
+  },
+  {
+    "language_name": "Korean",
+    "pr_code": "kor",
+    "language": "ko",
+    "subject_variation_1": "새로운 특가 판매 프로모션이 안에 있으니 놓치지 마세요!",
+    "subject_variation_2": "고객님을 놓치고 싶지 않습니다! 전 제품 40% 전격 할인!",
+    "subject_variation_3": "오랜만의 특가 행사입니다! 신제품에 대한 40% 특별 할인",
+    "subject_variation_4": "마지막 40% 할인 찬스를 놓치지 마세요!"
+  },
+  {
+    "language_name": "Malay",
+    "pr_code": "msa",
+    "language": "ms",
+    "subject_variation_1": "Lihatlah perkara yang anda terlepas. Tawaran Istimewa BAHARU di Dalam!",
+    "subject_variation_2": "Kami merindui anda! Dapatkan POTONGAN 40%  UNTUK SEMUA ITEM!",
+    "subject_variation_3": "Sudah sekian lama! Dapatkan POTONGAN 40%  bagi produk baharu memandangkan sudah lama anda tidak ke sini",
+    "subject_variation_4": "Peluang terakhir... Jangan Lepaskan POTONGAN 40%!"
+  },
+  {
+    "language_name": "Dutch",
+    "pr_code": "nld",
+    "language": "nl",
+    "subject_variation_1": "Kijk wat u mist. We hebben een NIEUWE speciale aanbieding!",
+    "subject_variation_2": "We hebben u gemist! U krijgt 40%  KORTING OP ALLES!",
+    "subject_variation_3": "Het is een tijdje geleden! U krijgt 40%  KORTING op onze nieuwe producten sinds uw laatste bezoek",
+    "subject_variation_4": "Laatste kans... Laat die 40% korting niet lopen!"
+  },
+  {
+    "language_name": "Norwegian",
+    "pr_code": "nor",
+    "language": "no",
+    "subject_variation_1": "Se hva du går glipp av. Et nytt tilbud!",
+    "subject_variation_2": "Vi savner deg! Du får 40 % AVSLAG PÅ ALT!",
+    "subject_variation_3": "Det er en stund siden sist! Siden du har vært borte får du 40 % AVSLAG på de nye produktene våre",
+    "subject_variation_4": "Siste sjanse ... Ikke gå glipp av 40 % RABATT!"
+  },
+  {
+    "language_name": "Polish",
+    "pr_code": "pol",
+    "language": "pl",
+    "subject_variation_1": "Spójrz, co tracisz. NOWA specjalna oferta w środku!",
+    "subject_variation_2": "Brakowało nam Ciebie! Oto 40%  ZNIŻKI NA WSZYSTKO!",
+    "subject_variation_3": "Dawno Cię nie było! Oto 40%  ZNIŻKI na nasze nowe produkty, które pojawiły się pod Twoją nieobecność",
+    "subject_variation_4": "Ostatnia szansa… Nie przegap 40% RABATU!"
+  },
+  {
+    "language_name": "Portuguese",
+    "pr_code": "por",
+    "language": "pt",
+    "subject_variation_1": "Confira o que você está perdendo. NOVA oferta especial dentro da loja!",
+    "subject_variation_2": "Estamos com saudades! Confira TUDO COM 40%  DE DESCONTO!",
+    "subject_variation_3": "Cadê você, sumido(a)! 40%  DE DESCONTO nos novos produtos esperam a sua volta",
+    "subject_variation_4": "Última oportunidade... não perca o super desconto de 40%!"
+  },
+  {
+    "language_name": "Romanian",
+    "pr_code": "ron",
+    "language": "ro",
+    "subject_variation_1": "Iată ce pierdeți! O NOUĂ ofertă specială în interior!",
+    "subject_variation_2": "Ne era dor de dvs.! Primiți 40% REDUCERE LA TOATE ARTICOLELE!",
+    "subject_variation_3": "A trecut ceva timp! Primiți 40% REDUCERE la noile produse care au apărut de când nu ne-ați vizitat",
+    "subject_variation_4": "Ultima șansă… Nu ratați reducerea de 40%!"
+  },
+  {
+    "language_name": "Russian",
+    "pr_code": "rus",
+    "language": "ru",
+    "subject_variation_1": "Не упустите шанс: посмотрите на наше НОВОЕ специальное предложение!",
+    "subject_variation_2": "Как здорово, что вы вернулись! Для вас скидка 40 %  НА ВСЁ!",
+    "subject_variation_3": "Как же давно вас не было! Мы приготовили для вас скидку 40 %  на все товары!",
+    "subject_variation_4": "СКИДКА 40% — такую возможность просто нельзя упускать!"
+  },
+  {
+    "language_name": "Slovak",
+    "pr_code": "slk",
+    "language": "sk",
+    "subject_variation_1": "Len sa pozrite, o čo prichádzate. Vnútri máte NOVÚ špeciálnu ponuku!",
+    "subject_variation_2": "Chýbali ste nám! TU MÁTE ZĽAVU 40 %  NA VŠETKO!",
+    "subject_variation_3": "Už je to dosť dávno! Odkedy ste odišli, máme tu zľavu 40 %  na naše nové výrobky",
+    "subject_variation_4": "Posledná šanca... Nenechajte si ujsť 40 % ZĽAVU!"
+  },
+  {
+    "language_name": "Slovene",
+    "pr_code": "slv",
+    "language": "sl",
+    "subject_variation_1": "Oglejte si, kaj zamujate. Znotraj najdete NOVO posebno ponudbo!",
+    "subject_variation_2": "Pogrešali smo vas! Tukaj je 40%  POPUSTA NA VSE!",
+    "subject_variation_3": "Kar nekaj časa je minilo! Tukaj je 40%  POPUSTA na vse naše nove izdelke, ki so bili dodani ponudbi, odkar ste nas nazadnje obiskali",
+    "subject_variation_4": "Zadnja priložnost… ne dovolite, da vam pobegne 40 % POPUST!"
+  },
+  {
+    "language_name": "Spanish",
+    "pr_code": "spa",
+    "language": "es",
+    "subject_variation_1": "Mire lo que se está perdiendo. ¡NUEVA oferta especial en el interior!",
+    "subject_variation_2": "¡Le hemos echado de menos! ¡Disfrute de un 40 % DE DESCUENTO EN TODOS NUESTROS PRODUCTOS!",
+    "subject_variation_3": "¡Cuánto tiempo! ¡Disfrute de un 40 % DE DESCUENTO en todos los nuevos productos lanzados durante su ausencia!",
+    "subject_variation_4": "¡Última oportunidad! ¡No desaproveche el descuento del 40 %!"
+  },
+  {
+    "language_name": "Swedish",
+    "pr_code": "swe",
+    "language": "sv",
+    "subject_variation_1": "Kolla vad du har missat. NYTT specialerbjudande här!",
+    "subject_variation_2": "Vi har saknat dig! Här får du 40%  RABATT PÅ ALLT!",
+    "subject_variation_3": "Det var ett tag sen! Här får du 40%  RABATT på våra nya produkter sedan vi sågs senast",
+    "subject_variation_4": "Sista chansen... Låt inte 40 % RABATT komma undan!"
+  },
+  {
+    "language_name": "Thai",
+    "pr_code": "tha",
+    "language": "th",
+    "subject_variation_1": "ดูว่าคุณพลาดอะไรไปบ้าง มีข้อเสนอใหม่อยู่ด้านใน!",
+    "subject_variation_2": "เราคิดถึงคุณ! นี่คือส่วนลด 40%  สำหรับการซื้อสินค้าทุกรายการ!",
+    "subject_variation_3": "ผ่านมานานแล้วนะ! นี่คือส่วนลด 40%  สำหรับการซื้อสินค้าใหม่ ๆ ตั้งแต่ที่คุณหายไปจากเรา",
+    "subject_variation_4": "โอกาสสุดท้าย… อย่าปล่อยให้ส่วนลด 40% หลุดลอยไป!"
+  },
+  {
+    "language_name": "Turkish",
+    "pr_code": "tur",
+    "language": "tr",
+    "subject_variation_1": "Ne kaçırdığınızı görün. YENİ Özel Teklif İçeride!",
+    "subject_variation_2": "Sizi özledik! İşte TÜM ÜRÜNLERDE GEÇERLİ % 40 İNDİRİM!",
+    "subject_variation_3": "Uzun zaman oldu! İşte siz yokken sunduğumuz yeni ürünler için % 40 İNDİRİM",
+    "subject_variation_4": "Son Şans… % 40 İNDİRİMİ Kaçırmayın!"
+  },
+  {
+    "language_name": "Vietnamese",
+    "pr_code": "vie",
+    "language": "vi",
+    "subject_variation_1": "Hãy xem bạn bỏ lỡ điều gì. Ưu đãi đặc biệt MỚI bên trong!",
+    "subject_variation_2": "Chúng tôi nhớ bạn! Đây là 40% KHUYẾN MẠI CHO MỌI THỨ!",
+    "subject_variation_3": "Cũng khá lâu rồi đấy nhỉ! Đây là 40% GIẢM GIÁ cho các sản phẩm mới của chúng tôi từ khi bạn rời đi",
+    "subject_variation_4": "Cơ hội cuối cùng… Đừng bỏ lỡ GIẢM GIÁ 40%!"
+  },
+  {
+    "language_name": "Chinese Simplified",
+    "pr_code": "zhs",
+    "language": "zh-CHS",
+    "subject_variation_1": "查看您错过了什么。内有新的优惠。",
+    "subject_variation_2": "想念您！这里尽享6折优惠！",
+    "subject_variation_3": "有一段时间没来了！我们的新品有6折优惠。",
+    "subject_variation_4": "最后机会…不要错过40%优惠折扣！"
+  },
+  {
+    "language_name": "Chinese Traditional",
+    "pr_code": "zht",
+    "language": "zh-CHT",
+    "subject_variation_1": "查看您錯過了什麽。内有新的優惠。",
+    "subject_variation_2": "想念您！這裏盡享6折優惠！",
+    "subject_variation_3": "有一段時間沒來了，我們的新品有6折優惠。",
+    "subject_variation_4": "最后机会…不要错过40%优惠折扣！"
+  }
+]

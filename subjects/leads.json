@@ -1,0 +1,242 @@
+[
+  {
+    "language_name": "English",
+    "pr_code": "eng",
+    "language": "en-US",
+    "subject_variation_1": "Your Welcome Coupon Has Arrived!",
+    "subject_variation_2": "Take 25% OFF, with Over 3,000 Products to Choose From!",
+    "subject_variation_3": "Enjoy 25% OFF on High-Quality Vitamins at an Exceptional Value"
+  },
+  {
+    "language_name": "Azerbaijani",
+    "pr_code": "aze",
+    "language": "az",
+    "subject_variation_1": "Sizin Salamlama kuponunuz gəldi!",
+    "subject_variation_2": "Seçim üçün 3,000-dən çox məhsullarla 25% ENDİRİM əldə edin!",
+    "subject_variation_3": "Misli görünməmiş qiymətlərlə yüksək keyfiyyətli vitaminlər alın və 25% ENDİRİMDƏN həzz alın"
+  },
+  {
+    "language_name": "Bulgarian",
+    "pr_code": "bul",
+    "language": "bg",
+    "subject_variation_1": "Вашият ваучер за Добре дошли пристигна!",
+    "subject_variation_2": "Вземете 25% ОТСТЪПКА с повече от 3000 продукта, между които да избирате!",
+    "subject_variation_3": "Насладете се на 25% ОТСТЪПКА за висококачествени витамини на изключителна стойност"
+  },
+  {
+    "language_name": "Danish",
+    "pr_code": "dan",
+    "language": "da",
+    "subject_variation_1": "Din velkomstkupon er ankommet!",
+    "subject_variation_2": "Rabat på 25 %, med over 3.000 produkter at vælge imellem!",
+    "subject_variation_3": "Nyd 25 % rabat på vitaminer af høj kvalitet for en enestående værdi"
+  },
+  {
+    "language_name": "German",
+    "pr_code": "deu",
+    "language": "de",
+    "subject_variation_1": "Ihr Begrüßungsgutschein ist da!",
+    "subject_variation_2": "Erhalten Sie 25 % RABATT mit über 3.000 Produkten zur Auswahl!",
+    "subject_variation_3": "Profitieren Sie von 25 % RABATT auf hochwertige Vitamine zu einem außergewöhnlichen Wert"
+  },
+  {
+    "language_name": "Greek (modern)",
+    "pr_code": "ell",
+    "language": "el",
+    "subject_variation_1": "Το κουπόνι υποδοχής σας έφτασε!",
+    "subject_variation_2": "Κερδίστε έκπτωση 25%, σε μια επιλογή από 3.000 και πλέον προϊόντα!",
+    "subject_variation_3": "Απολαύστε έκπτωση 25% σε βιταμίνες υψηλής ποιότητας σε εξαιρετική τιμή"
+  },
+  {
+    "language_name": "Finnish",
+    "pr_code": "fin",
+    "language": "fi",
+    "subject_variation_1": "Tervetuliaiskuponkisi on saapunut!",
+    "subject_variation_2": "Saat 25 % alennuksen ja voit valita yli 3 000 tuotteesta!",
+    "subject_variation_3": "Saat 25 % alennuksen korkealaatuisista, poikkeuksellisen arvokkaista vitamiineista"
+  },
+  {
+    "language_name": "French",
+    "pr_code": "fra",
+    "language": "fr",
+    "subject_variation_1": "Votre coupon de bienvenue est arrivé !",
+    "subject_variation_2": "Bénéficiez de 25 % de RÉDUCTION parmi un choix de 3 000 produits !",
+    "subject_variation_3": "Profitez de 25 % de RÉDUCTION sur des vitamines de haute qualité et d'une valeur exceptionnelle"
+  },
+  {
+    "language_name": "Croatian",
+    "pr_code": "hrv",
+    "language": "hr",
+    "subject_variation_1": "Vaš je kupon dobrodošlice stigao!",
+    "subject_variation_2": "Iskoristite POPUST od 25% uz ponudu od više od 3000 proizvoda!",
+    "subject_variation_3": "Uživajte u POPUSTU od 25% na visokokvalitetne vitamine izvanredne vrijednosti"
+  },
+  {
+    "language_name": "Hungarian",
+    "pr_code": "hun",
+    "language": "hu",
+    "subject_variation_1": "Megérkezett az üdvözlő kuponja!",
+    "subject_variation_2": "25% KEDVEZMÉNY, több mint 3000 termékből álló választékkal!",
+    "subject_variation_3": "25% KEDVEZMÉNYT kaphat minőségi vitaminokra, kivételes ár-érték aránnyal!"
+  },
+  {
+    "language_name": "Indonesian",
+    "pr_code": "ind",
+    "language": "id",
+    "subject_variation_1": "Kupon Selamat Datang Anda Telah Tiba!",
+    "subject_variation_2": "Ambil DISKON 25%, pada Lebih dari 3.000 Produk yang Bisa Dipilih!",
+    "subject_variation_3": "Nikmati DISKON 25% pada Vitamin Berkualitas Tinggi dengan Nilai Luar Biasa"
+  },
+  {
+    "language_name": "Italian",
+    "pr_code": "ita",
+    "language": "it",
+    "subject_variation_1": "Il tuo coupon di benvenuto è pronto!",
+    "subject_variation_2": "Ottieni il 25% di sconto su oltre 3.000 prodotti!",
+    "subject_variation_3": "Approfitta del 25% di sconto per acquistare vitamine di alta qualità a un prezzo eccezionale"
+  },
+  {
+    "language_name": "Japanese",
+    "pr_code": "jpn",
+    "language": "ja",
+    "subject_variation_1": "優待券が届きました！",
+    "subject_variation_2": "3,000点以上もの商品から選べる25% 割引！",
+    "subject_variation_3": "他にはない価格で手に入る高品質ビタミンを25% の割引価格でどうぞ"
+  },
+  {
+    "language_name": "Korean",
+    "pr_code": "kor",
+    "language": "ko",
+    "subject_variation_1": "웰컴 쿠폰이 도착했습니다!",
+    "subject_variation_2": "선택 가능한 3,000개 이상의 제품에 대해 25% 할인을 받으세요!",
+    "subject_variation_3": "우수한 가치를 지닌 고품질 비타민에 대한 25% 할인을 누려보세요"
+  },
+  {
+    "language_name": "Malay",
+    "pr_code": "msa",
+    "language": "ms",
+    "subject_variation_1": "Kupon Alu-aluan Anda Sudah Tiba!",
+    "subject_variation_2": "Dapatkan POTONGAN 25%, dengan Lebih 3,000 Produk untuk Dipilih!",
+    "subject_variation_3": "Nikmati POTONGAN 25% untuk Vitamin Bermutu Tinggi pada Nilai yang Luar Biasa"
+  },
+  {
+    "language_name": "Dutch",
+    "pr_code": "nld",
+    "language": "nl",
+    "subject_variation_1": "Uw welkomstcoupon is gearriveerd!",
+    "subject_variation_2": "Ontvang 25% KORTING op meer dan 3000 producten naar keuze!",
+    "subject_variation_3": "Profiteer van 25% KORTING op eersteklas, zeer voordelige vitamines"
+  },
+  {
+    "language_name": "Norwegian",
+    "pr_code": "nor",
+    "language": "no",
+    "subject_variation_1": "Velkomstkupongen din er kommet!",
+    "subject_variation_2": "Få 25 % RABATT med over 3000 produkter å velge mellom!",
+    "subject_variation_3": "Få 25 % RABATT på vitaminer av høy kvalitet til en enestående verdi"
+  },
+  {
+    "language_name": "Polish",
+    "pr_code": "pol",
+    "language": "pl",
+    "subject_variation_1": "Twój kupon powitalny jest gotowy!",
+    "subject_variation_2": "Odbierz 25% ZNIŻKI na ponad 3 000 produktów!",
+    "subject_variation_3": "Skorzystaj z 25% ZNIŻKI na wysokiej jakości witaminy w wyjątkowo atrakcyjnych cenach"
+  },
+  {
+    "language_name": "Portuguese",
+    "pr_code": "por",
+    "language": "pt",
+    "subject_variation_1": "Chegou seu cupom de boas-vindas!",
+    "subject_variation_2": "Ganhe 25% de desconto em mais de 3.000 produtos de sua escolha!",
+    "subject_variation_3": "Aproveite 25% de desconto em vitaminas de alto teor de qualidade, por um valor incrível"
+  },
+  {
+    "language_name": "Romanian",
+    "pr_code": "ron",
+    "language": "ro",
+    "subject_variation_1": "Cuponul dvs. de bun venit a sosit!",
+    "subject_variation_2": "Aveți 25% REDUCERE, și peste 3.000 de produse din care să alegeți!",
+    "subject_variation_3": "Bucurați-vă de 25% REDUCERE la vitamine de înaltă calitate la o valoare excepțională"
+  },
+  {
+    "language_name": "Russian",
+    "pr_code": "rus",
+    "language": "ru",
+    "subject_variation_1": "Ваш приветственный купон уже здесь!",
+    "subject_variation_2": "Скидка 25% на более 3000 продуктов!",
+    "subject_variation_3": "Воспользуйтесь скидкой 25% и купите витамины высокого качества по невероятно низкой цене"
+  },
+  {
+    "language_name": "Slovak",
+    "pr_code": "slk",
+    "language": "sk",
+    "subject_variation_1": "Prišiel Váš uvítací kupón!",
+    "subject_variation_2": "Prijmite ZĽAVU 25 % a viac ako 3000 výrobkov na výber!",
+    "subject_variation_3": "Užite si 25 % ZĽAVU na vysoko kvalitné vitamíy výnimočnej hodnoty"
+  },
+  {
+    "language_name": "Slovene",
+    "pr_code": "slv",
+    "language": "sl",
+    "subject_variation_1": "Vaš kupon dobrodošlice je prispel!",
+    "subject_variation_2": "Pridobite 25% POPUST, na izbiro več kot 3.000 izdelkov!",
+    "subject_variation_3": "Izkoristite 25% POPUST za visokokakovostne vitamine z izjemno vrednostjo"
+  },
+  {
+    "language_name": "Spanish",
+    "pr_code": "spa",
+    "language": "es",
+    "subject_variation_1": "¡Ya está aquí su cupón de bienvenida!",
+    "subject_variation_2": "¡Disfrute de un 25 % de descuento en más de 3000 productos!",
+    "subject_variation_3": "¡Aproveche el 25 % de descuento y disfrute de vitaminas de alta calidad al mejor precio!"
+  },
+  {
+    "language_name": "Swedish",
+    "pr_code": "swe",
+    "language": "sv",
+    "subject_variation_1": "Din välkomstkupong är här nu!",
+    "subject_variation_2": "Få 25 % RABATT, med över 3000 produkter att välja mellan!",
+    "subject_variation_3": "Njut av 25 % RABATT på högkvalitativa vitaminer av ett exceptionellt värde"
+  },
+  {
+    "language_name": "Thai",
+    "pr_code": "tha",
+    "language": "th",
+    "subject_variation_1": "คูปองต้อนรับของคุณมาถึงแล้ว!",
+    "subject_variation_2": "รับส่วนลด 25% กับสินค้ากว่า 3,000 รายการที่มีให้คุณเลือก!",
+    "subject_variation_3": "เพลิดเพลินกับส่วนลด 25% กับวิตามินคุณภาพสูงในราคาสุดคุ้ม"
+  },
+  {
+    "language_name": "Turkish",
+    "pr_code": "tur",
+    "language": "tr",
+    "subject_variation_1": "Hoş Geldin Kuponunuz Geldi!",
+    "subject_variation_2": "3.000'den Fazla Üründe % 25 İNDİRİM Alın!",
+    "subject_variation_3": "Kıymetli Yüksek Kaliteli Vitaminlerde % 25 İNDİRİM"
+  },
+  {
+    "language_name": "Vietnamese",
+    "pr_code": "vie",
+    "language": "vi",
+    "subject_variation_1": "Mã giảm giá chào mừng của bạn đã đến!",
+    "subject_variation_2": "Nhận GIẢM GIÁ 25%, với hơn 3.000 sản phẩm để lựa chọn!",
+    "subject_variation_3": "Tận hưởng GIẢM GIÁ 25% đối với các vitamin chất lượng cao với giá trị vượt trội"
+  },
+  {
+    "language_name": "Chinese Simplified",
+    "pr_code": "zhs",
+    "language": "zh-CHS",
+    "subject_variation_1": "您的欢迎券到了！",
+    "subject_variation_2": "享受75折，有3,000多种产品可供选择！",
+    "subject_variation_3": "优质维生素超值享受75折优惠"
+  },
+  {
+    "language_name": "Chinese Traditional",
+    "pr_code": "zht",
+    "language": "zh-CHT",
+    "subject_variation_1": "您的歡迎券到了！",
+    "subject_variation_2": "享受75折，有3,000多種產品可供選擇！",
+    "subject_variation_3": "優質維生素超值享受75折優惠"
+  }
+]

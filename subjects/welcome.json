@@ -1,0 +1,182 @@
+[
+  {
+    "language_name": "English",
+    "language": "en-US",
+    "pr_code": "eng",
+    "subject_variation_1": "WELCOME TO PIPING ROCK!"
+  },
+  {
+    "language_name": "Azerbaijani",
+    "language": "az",
+    "pr_code": "aze",
+    "subject_variation_1": "PIPING ROCK-A XOŞ GƏLMIŞSINIZ!"
+  },
+  {
+    "language_name": "Bulgarian",
+    "language": "bg",
+    "pr_code": "bul",
+    "subject_variation_1": "ДОБРЕ ДОШЛИ В PIPING ROCK!"
+  },
+  {
+    "language_name": "Danish",
+    "language": "da",
+    "pr_code": "dan",
+    "subject_variation_1": "VELKOMMEN TIL PIPING ROCK!"
+  },
+  {
+    "language_name": "German",
+    "language": "de",
+    "pr_code": "deu",
+    "subject_variation_1": "WILLKOMMEN BEI PIPING ROCK!"
+  },
+  {
+    "language_name": "Greek (modern)",
+    "language": "el",
+    "pr_code": "ell",
+    "subject_variation_1": "ΚΑΛΩΣ ΟΡΙΣΑΤΕ ΣΤΗΝ PIPING ROCK!"
+  },
+  {
+    "language_name": "Finnish",
+    "language": "fi",
+    "pr_code": "fin",
+    "subject_variation_1": "TERVETULOA PIPING ROCKIIN!"
+  },
+  {
+    "language_name": "French",
+    "language": "fr",
+    "pr_code": "fra",
+    "subject_variation_1": "BIENVENUE CHEZ PIPING ROCK !"
+  },
+  {
+    "language_name": "Croatian",
+    "language": "hr",
+    "pr_code": "hrv",
+    "subject_variation_1": "DOBRO DOŠLI U PIPING ROCK!"
+  },
+  {
+    "language_name": "Hungarian",
+    "language": "hu",
+    "pr_code": "hun",
+    "subject_variation_1": "KÖSZÖNTJÜK A PIPING ROCKNÁL!"
+  },
+  {
+    "language_name": "Indonesian",
+    "language": "id",
+    "pr_code": "ind",
+    "subject_variation_1": "SELAMAT DATANG DI PIPING ROCK!"
+  },
+  {
+    "language_name": "Italian",
+    "language": "it",
+    "pr_code": "ita",
+    "subject_variation_1": "TI DIAMO IL BENVENUTO IN PIPING ROCK!"
+  },
+  {
+    "language_name": "Japanese",
+    "language": "ja",
+    "pr_code": "jpn",
+    "subject_variation_1": "PIPING ROCKへようこそ！"
+  },
+  {
+    "language_name": "Korean",
+    "language": "ko",
+    "pr_code": "kor",
+    "subject_variation_1": "PIPING ROCK 방문을 환영합니다!"
+  },
+  {
+    "language_name": "Malay",
+    "language": "ms",
+    "pr_code": "msa",
+    "subject_variation_1": "SELAMAT DATANG KE PIPING ROCK!"
+  },
+  {
+    "language_name": "Dutch",
+    "language": "nl",
+    "pr_code": "nld",
+    "subject_variation_1": "WELKOM BIJ PIPING ROCK!"
+  },
+  {
+    "language_name": "Norwegian",
+    "language": "no",
+    "pr_code": "nor",
+    "subject_variation_1": "VELKOMMEN TIL PIPING ROCK!"
+  },
+  {
+    "language_name": "Polish",
+    "language": "pl",
+    "pr_code": "pol",
+    "subject_variation_1": "WITAMY W PIPING ROCK!"
+  },
+  {
+    "language_name": "Portuguese",
+    "language": "pt",
+    "pr_code": "por",
+    "subject_variation_1": "BEM-VINDO(A) À PIPING ROCK!"
+  },
+  {
+    "language_name": "Romanian",
+    "language": "ro",
+    "pr_code": "ron",
+    "subject_variation_1": "BINE AȚI VENIT LA PIPING ROCK!"
+  },
+  {
+    "language_name": "Russian",
+    "language": "ru",
+    "pr_code": "rus",
+    "subject_variation_1": "ДОБРО ПОЖАЛОВАТЬ НА PIPING ROCK!"
+  },
+  {
+    "language_name": "Slovak",
+    "language": "sk",
+    "pr_code": "slk",
+    "subject_variation_1": "VÍTAME VÁS V PIPING ROCK!"
+  },
+  {
+    "language_name": "Slovene",
+    "language": "sl",
+    "pr_code": "slv",
+    "subject_variation_1": "DOBRODOŠLI NA PIPING ROCKU."
+  },
+  {
+    "language_name": "Spanish",
+    "language": "es",
+    "pr_code": "spa",
+    "subject_variation_1": "¡LE DAMOS LA BIENVENIDA A PIPING ROCK!"
+  },
+  {
+    "language_name": "Swedish",
+    "language": "sv",
+    "pr_code": "swe",
+    "subject_variation_1": "VÄLKOMMEN TILL PIPING ROCK!"
+  },
+  {
+    "language_name": "Thai",
+    "language": "th",
+    "pr_code": "tha",
+    "subject_variation_1": "ยินดีต้อนรับสู่ PIPING ROCK!"
+  },
+  {
+    "language_name": "Turkish",
+    "language": "tr",
+    "pr_code": "tur",
+    "subject_variation_1": "PIPING ROCK'A HOŞ GELDINIZ!"
+  },
+  {
+    "language_name": "Vietnamese",
+    "language": "vi",
+    "pr_code": "vie",
+    "subject_variation_1": "CHÀO MỪNG BẠN ĐẾN VỚI PIPING ROCK!"
+  },
+  {
+    "language_name": "Chinese Simplified",
+    "language": "zh-CHS",
+    "pr_code": "zhs",
+    "subject_variation_1": "欢迎光临PIPING ROCK!"
+  },
+  {
+    "language_name": "Chinese Traditional",
+    "language": "zh-CHT",
+    "pr_code": "zht",
+    "subject_variation_1": "歡迎光臨PIPING ROCK!"
+  }
+]
