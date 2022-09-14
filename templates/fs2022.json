@@ -1,6 +1,6 @@
 [
  {
-  "eng": "3 DAYS ONLY",
+  "en-US": "3 DAYS ONLY",
   "aze": "YALNIZ 3 GÜN!",
   "bul": "САМО 3 ДНИ",
   "dan": "KUN 3 DAGE",
@@ -32,7 +32,7 @@
   "zht": "僅限3天!"
  },
  {
-  "eng": "FLASH SALE!",
+  "en-US": "FLASH SALE!",
   "aze": "FLASH SATIŞ!",
   "bul": "БЪРЗА РАЗПРОДАЖБА!",
   "dan": "LYNUDSALG!",
@@ -64,7 +64,7 @@
   "zht": "限時搶購！"
  },
  {
-  "eng": "40% OFF",
+  "en-US": "40% OFF",
   "aze": "40% ENDİRİM",
   "bul": "40% ОТСТЪПКА",
   "dan": "40 % RABAT",
@@ -73,7 +73,7 @@
   "fin": "40 % ALENNUSTA",
   "fra": "40 % DE RÉDUCTION",
   "hrv": "40 % POPUSTA",
-  "hun": "40% ENGEDMÉNY",
+  "hun": "40% en-USEDMÉNY",
   "ind": "DISKON 40%",
   "ita": "SCONTO DEL 40%",
   "jpn": "40%割引",
@@ -96,7 +96,7 @@
   "zht": "40% 優惠"
  },
  {
-  "eng": "50% OFF",
+  "en-US": "50% OFF",
   "aze": "50% ENDIRIM ",
   "bul": "50% ОТСТЪПКА",
   "dan": "50 % RABAT",
@@ -105,7 +105,7 @@
   "fin": "50 % ALENNUS",
   "fra": "50 % DE RÉDUCTION",
   "hrv": "50 % POPUSTA",
-  "hun": "50% ENGEDMÉNY",
+  "hun": "50% en-USEDMÉNY",
   "ind": "DISKON 50%",
   "ita": "50% DI SCONTO",
   "jpn": "50%割引",
@@ -128,7 +128,7 @@
   "zht": "50% 優惠"
  },
  {
-  "eng": "60% OFF",
+  "en-US": "60% OFF",
   "aze": "60% ENDIRIM ",
   "bul": "60% ОТСТЪПКА",
   "dan": "60 % RABAT",
@@ -137,7 +137,7 @@
   "fin": "60% ALENNUS",
   "fra": "60 % DE RÉDUCTION",
   "hrv": "60 % POPUSTA",
-  "hun": "60% ENGEDMÉNY",
+  "hun": "60% en-USEDMÉNY",
   "ind": "DISKON 60%",
   "ita": "60% DI SCONTO",
   "jpn": "60%割引",
@@ -160,7 +160,7 @@
   "zht": "60% 優惠"
  },
  {
-  "eng": "ON 300 PRODUCTS",
+  "en-US": "ON 300 PRODUCTS",
   "aze": "300 POZİSİYA ÜZRƏ",
   "bul": "НА 300 ПРОДУКТА",
   "dan": "PÅ 300 VARER",
@@ -192,7 +192,7 @@
   "zht": "適用於 300 項商品"
  },
  {
-  "eng": "ON 200 PRODUCTS",
+  "en-US": "ON 200 PRODUCTS",
   "aze": "200 POZİSİYA ÜZRƏ",
   "bul": "НА 200 ПРОДУКТА",
   "dan": "PÅ 200 VARER",
@@ -224,7 +224,7 @@
   "zht": "適用於 200 項商品"
  },
  {
-  "eng": "ON 100 PRODUCTS",
+  "en-US": "ON 100 PRODUCTS",
   "aze": "100 POZİSİYA ÜZRƏ",
   "bul": "НА 100 ПРОДУКТА",
   "dan": "PÅ 100 VARER",
@@ -256,7 +256,7 @@
   "zht": "適用於 100 項商品"
  },
  {
-  "eng": "SAVE NOW",
+  "en-US": "SAVE NOW",
   "aze": "İNDİ QƏNAƏT ET",
   "bul": "СПЕСТЕТЕ ОЩЕ СЕГА",
   "dan": "SPAR NU",
@@ -288,7 +288,7 @@
   "zht": "立即收藏"
  },
  {
-  "eng": "Stock up and Save!",
+  "en-US": "Stock up and Save!",
   "aze": "Ehtiyat toplayın və qənaət edin!",
   "bul": "Запасете се и спестете!",
   "dan": "Lager op og spar!",
@@ -320,7 +320,7 @@
   "zht": "特價囤貨，收藏加購！"
  },
  {
-  "eng": "DEAL OF THE MONTH",
+  "en-US": "DEAL OF THE MONTH",
   "aze": "AYIN TƏKLIFLƏRI",
   "bul": "ОФЕРТИ НА МЕСЕЦА",
   "dan": "MÅNEDENS TILBUD",
@@ -352,7 +352,7 @@
   "zht": "本月精選 折扣"
  },
  {
-  "eng": "Mega Multi for Men 50 Plus",
+  "en-US": "Mega Multi for Men 50 Plus",
   "aze": "Kişilər üçün Meqa Kompleks 50 Plyus",
   "bul": "Mega Multiple за мъже над 50-годишна възраст",
   "dan": "Mega Multiple for mænd på 50+",
@@ -384,7 +384,7 @@
   "zht": "男性 Mega 複合物 50 + "
  },
  {
-  "eng": "100 Coated Caplets",
+  "en-US": "100 Coated Caplets",
   "aze": "100 Örtülü Kapsulşəkilli Tabletlər",
   "bul": "Филмирани каплети",
   "dan": "Overtrukne kapsler",
@@ -416,7 +416,7 @@
   "zht": "衣膜錠"
  },
  {
-  "eng": "SHOP NOW",
+  "en-US": "SHOP NOW",
   "aze": "İNDI ALIN",
   "bul": "ПАЗАРУВАЙ СЕГА",
   "dan": "KØB NU",
@@ -448,7 +448,7 @@
   "zht": "現在購買"
  },
  {
-  "eng": "Hyaluronic Acid Complex",
+  "en-US": "Hyaluronic Acid Complex",
   "aze": "Hyaluronic turşu kompleksi",
   "bul": "Комплекс хиалуронова киселина",
   "dan": "Hyaluronsyrekompleks",
@@ -480,7 +480,7 @@
   "zht": "透明質酸複合物"
  },
  {
-  "eng": "90 Quick Release Capsules",
+  "en-US": "90 Quick Release Capsules",
   "aze": "Tez həll olunan kapsulalar",
   "bul": "Капсули с бързо освобождаване",
   "dan": "Kapsler for hurtig frigivelse",
@@ -512,7 +512,7 @@
   "zht": "快速釋放膠囊"
  },
  {
-  "eng": "70% 0FF",
+  "en-US": "70% 0FF",
   "aze": "70% ENDIRIM ",
   "bul": "70% ОТСТЪПКА",
   "dan": "70% RABAT",
@@ -521,7 +521,7 @@
   "fin": "70% ALENNUS",
   "fra": "70% DE RÉDUCTION",
   "hrv": "70% POPUSTA",
-  "hun": "70% ENGEDMÉNY",
+  "hun": "70% en-USEDMÉNY",
   "ind": "DISKON 70%",
   "ita": "70% DI SCONTO",
   "jpn": "50%割引",
@@ -544,7 +544,7 @@
   "zht": "50% 優惠"
  },
  {
-  "eng": "YOU MIGHT ALSO LIKE",
+  "en-US": "YOU MIGHT ALSO LIKE",
   "aze": "SİZ HƏMÇİNİN BUNLARI BƏYƏNƏ BİLƏRSİNİZ",
   "bul": "МОЖЕ СЪЩО ДА ХАРЕСАТЕ",
   "dan": "Du kan måske også lide",
@@ -576,7 +576,7 @@
   "zht": "您可能也喜歡"
  },
  {
-  "eng": "Advanced Triple Strength Glucosamine",
+  "en-US": "Advanced Triple Stren-USth Glucosamine",
   "aze": "Təkmilləşdirilmiş Üçqat Güclü Qlükozamin",
   "bul": "Усъвършенствана, тройна комбинация глюкозамин",
   "dan": "Avanceret tredobbelt styrke glucosamin",
@@ -585,8 +585,8 @@
   "fin": "Edistynyt kolminkertaisen vahvuuden glukosamiini",
   "fra": "Glucosamine triple force avancée",
   "hrv": "Glukozamin napredni trostruke snage",
-  "hun": "Advanced Triple Strength Glükózamin",
-  "ind": "Glukosamin Advanced Triple Strength",
+  "hun": "Advanced Triple Stren-USth Glükózamin",
+  "ind": "Glukosamin Advanced Triple Stren-USth",
   "ita": "Glucosamina evoluta a tripla intensità",
   "jpn": "3倍強力濃縮グルコサミン",
   "kor": "최신 삼중 강화 글루코사민",
@@ -601,14 +601,14 @@
   "slv": "Napredna trojna moč glukozamina",
   "spa": "Glucosamina avanzada triplemente reforzada",
   "swe": "Avancerad trippelstyrka glukosamin",
-  "tha": "กลูโคซามีน สูตร Advanced Triple Strength",
+  "tha": "กลูโคซามีน สูตร Advanced Triple Stren-USth",
   "tur": "Gelişmiş Üç Kat Güçlü Glukozamin",
   "vie": "Glucosamine tăng lực gấp ba lần",
   "zhs": "高级三倍强度氨基葡萄糖",
   "zht": "高級三倍強度氨基葡萄糖"
  },
  {
-  "eng": "Vitamin C Serum 12%+",
+  "en-US": "Vitamin C Serum 12%+",
   "aze": "Vitamin C Zərdabı ",
   "bul": "Серум с витамин С ",
   "dan": "Vitamin C-serum ",
@@ -640,7 +640,7 @@
   "zht": "維生素C精華液  "
  },
  {
-  "eng": "Vitamin C 1000 mg",
+  "en-US": "Vitamin C 1000 mg",
   "aze": "C Vitamini 1000 mq",
   "bul": "Витамин C 1000 mg",
   "dan": "C-Vitamin 1000 mg",
@@ -672,7 +672,7 @@
   "zht": "維生素 C 1000 毫克"
  },
  {
-  "eng": "EMPOWERING YOUR HEALTH PATH",
+  "en-US": "EMPOWERING YOUR HEALTH PATH",
   "aze": "SAĞLAMLIĞINIZI GÜÇLƏNDİRMƏ YOLUNUN GENİŞLƏNDİRİLMƏSİ",
   "bul": "ВАШИЯТ ОПИТЕН ВОДАЧ КЪМ ЗДРАВОСЛОВЕН НАЧИН НА ЖИВОТ",
   "dan": "HJÆLP PÅ DIN VEJ TIL SUNDHED",
@@ -704,7 +704,7 @@
   "zht": "為您的健康之路助力"
  },
  {
-  "eng": "3 Day Only FLASH SALE! On 800 Products",
+  "en-US": "3 Day Only FLASH SALE! On 800 Products",
   "aze": "Yalnız 3 Gün FLASH SATIŞI! 800 məhsul üzrə",
   "bul": "Само 3 дни БЪРЗА РАЗПРОДАЖБА! на 800 продукта",
   "dan": "Kun 3 dag FLASH-SALG! På 800 varer",
