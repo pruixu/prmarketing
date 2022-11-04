@@ -1,0 +1,182 @@
+[
+  {
+    "language_name": "English",
+    "pr_code": "eng",
+    "language": "en-US",
+    "pre_header_variation_1": "THE SALE EVENT OF THE YEAR IS HERE"
+  },
+  {
+    "language_name": "Azerbaijani",
+    "pr_code": "aze",
+    "language": "az",
+    "pre_header_variation_1": "İLİN ENDİRİM VAXTI BAŞLAYIR"
+  },
+  {
+    "language_name": "Bulgarian",
+    "pr_code": "bul",
+    "language": "bg",
+    "pre_header_variation_1": "РАЗПРОДАЖБАТА НА ГОДИНАТА Е ТУК"
+  },
+  {
+    "language_name": "Danish",
+    "pr_code": "dan",
+    "language": "da",
+    "pre_header_variation_1": "ÅRETS SALGSBEGIVENHED ER HER"
+  },
+  {
+    "language_name": "German",
+    "pr_code": "deu",
+    "language": "de",
+    "pre_header_variation_1": "DAS VERKAUFSEVENT DES JAHRES IST DA"
+  },
+  {
+    "language_name": "Greek (modern)",
+    "pr_code": "ell",
+    "language": "el",
+    "pre_header_variation_1": "ΤΟ ΕΚΠΤΩΤΙΚΟ ΓΕΓΟΝΟΣ ΤΗΣ ΧΡΟΝΙΑΣ ΕΙΝΑΙ ΕΔΩ"
+  },
+  {
+    "language_name": "Finnish",
+    "pr_code": "fin",
+    "language": "fi",
+    "pre_header_variation_1": "VUODEN ALENNUSTAPAHTUMA ON ALKANUT"
+  },
+  {
+    "language_name": "French",
+    "pr_code": "fra",
+    "language": "fr",
+    "pre_header_variation_1": "LA VENTE ÉVÉNEMENT DE L'ANNÉE EST ARRIVÉE"
+  },
+  {
+    "language_name": "Croatian",
+    "pr_code": "hrv",
+    "language": "hr",
+    "pre_header_variation_1": "PRODAJNI DOGAĐAJ GODINE JE OVDJE"
+  },
+  {
+    "language_name": "Hungarian",
+    "pr_code": "hun",
+    "language": "hu",
+    "pre_header_variation_1": "AZ ÉV KIÁRUSÍTÁSA MEGÉRKEZETT"
+  },
+  {
+    "language_name": "Indonesian",
+    "pr_code": "ind",
+    "language": "id",
+    "pre_header_variation_1": "ACARA OBRAL TAHUN INI SUDAH DIMULAI"
+  },
+  {
+    "language_name": "Italian",
+    "pr_code": "ita",
+    "language": "it",
+    "pre_header_variation_1": "È ARRIVATA L'OFFERTA-EVENTO DELL'ANNO"
+  },
+  {
+    "language_name": "Japanese",
+    "pr_code": "jpn",
+    "language": "ja",
+    "pre_header_variation_1": "今年のセールイベントが到来"
+  },
+  {
+    "language_name": "Korean",
+    "pr_code": "kor",
+    "language": "ko",
+    "pre_header_variation_1": "2018년 최대 할인 행사"
+  },
+  {
+    "language_name": "Malay",
+    "pr_code": "msa",
+    "language": "ms",
+    "pre_header_variation_1": "ACARA JUALAN TAHUN INI SUDAH TIBA"
+  },
+  {
+    "language_name": "Dutch",
+    "pr_code": "nld",
+    "language": "nl",
+    "pre_header_variation_1": "DE UITVERKOOP VAN HET JAAR IS BEGONNEN"
+  },
+  {
+    "language_name": "Norwegian",
+    "pr_code": "nor",
+    "language": "no",
+    "pre_header_variation_1": "ÅRETS SALGSARRANGEMENT ER HER"
+  },
+  {
+    "language_name": "Polish",
+    "pr_code": "pol",
+    "language": "pl",
+    "pre_header_variation_1": "WYPRZEDAŻ ROKU JUŻ SIĘ ZACZĘŁA"
+  },
+  {
+    "language_name": "Portuguese",
+    "pr_code": "por",
+    "language": "pt",
+    "pre_header_variation_1": "O EVENTO DE LIQUIDAÇÃO DESTE ANO JÁ CHEGOU"
+  },
+  {
+    "language_name": "Romanian",
+    "pr_code": "ron",
+    "language": "ro",
+    "pre_header_variation_1": "PROMOȚIA ANULUI ESTE AICI"
+  },
+  {
+    "language_name": "Russian",
+    "pr_code": "rus",
+    "language": "ru",
+    "pre_header_variation_1": "ГЛАВНАЯ РАСПРОДАЖА ГОДА УЖЕ СТАРТОВАЛА"
+  },
+  {
+    "language_name": "Slovak",
+    "pr_code": "slk",
+    "language": "sk",
+    "pre_header_variation_1": "JE TU VÝPREDAJOVÁ UDALOSŤ ROKA"
+  },
+  {
+    "language_name": "Slovene",
+    "pr_code": "slv",
+    "language": "sl",
+    "pre_header_variation_1": "RAZPRODAJNI DOGODEK LETA JE TUKAJ"
+  },
+  {
+    "language_name": "Spanish",
+    "pr_code": "spa",
+    "language": "es",
+    "pre_header_variation_1": "YA ESTÁN AQUÍ LAS OFERTAS MÁS ESPERADAS DEL AÑO"
+  },
+  {
+    "language_name": "Swedish",
+    "pr_code": "swe",
+    "language": "sv",
+    "pre_header_variation_1": "ÅRETS UTFÖRSÄLJNINGSHÄNDELSE"
+  },
+  {
+    "language_name": "Thai",
+    "pr_code": "tha",
+    "language": "th",
+    "pre_header_variation_1": "การลดราคาครั้งใหญ่ประจำปีได้มาถึงแล้ว"
+  },
+  {
+    "language_name": "Turkish",
+    "pr_code": "tur",
+    "language": "tr",
+    "pre_header_variation_1": "YILIN İNDİRİMİ BAŞLADI"
+  },
+  {
+    "language_name": "Vietnamese",
+    "pr_code": "vie",
+    "language": "vi",
+    "pre_header_variation_1": "SỰ KIỆN BÁN HÀNG CỦA NĂM TẠI ĐÂY"
+  },
+  {
+    "language_name": "Chinese Simplified",
+    "pr_code": "zhs",
+    "language": "zh-CHS",
+    "pre_header_variation_1": "今年的销售活动在这"
+  },
+  {
+    "language_name": "Chinese Traditional",
+    "pr_code": "zht",
+    "language": "zh-CHT",
+    "pre_header_variation_1": "今年的銷售活動在這"
+  }
+]

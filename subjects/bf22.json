@@ -3,180 +3,210 @@
     "language": "en-US",
     "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
     "subject_variation_2":"Black Friday Sale Starts… NOW!",
-    "subject_variation_3":"EXTENDED! Black Friday still going on"
+    "subject_variation_3":"EXTENDED! Black Friday still going on",
+    "subject_variation_4":"This Black Friday, Get 40% off"
   },
   {
     "language": "az",
     "subject_variation_1": "Heç Zaman Olmayan Ən Böyük Qara Cümə Endiriminə Çixiş",
     "subject_variation_2":"Qara Cümə Endirimi Başlayir....Indi!",
-    "subject_variation_3":"Genişləndirilib! Qara Cümə Hələ Də Davam Edir"
+    "subject_variation_3":"Genişləndirilib! Qara Cümə Hələ Də Davam Edir",
+    "subject_variation_4":"Bu Qara Cümə ertəsi 40% Endirim qazanın"
   },
   {
     "language": "bg",
     "subject_variation_1": "Ранен Достъп До Нашата Най-Голяма Разпродажба Черен Петък",
     "subject_variation_2":"Разпродажбата Черен Петък Започва... Сега!",
-    "subject_variation_3":"Удължено! Черният Петък Все Още Продължава"
+    "subject_variation_3":"Удължено! Черният Петък Все Още Продължава",
+    "subject_variation_4":"Този черен петък вземете отстъпка от 40%"
   },
   {
     "language": "da",
     "subject_variation_1": "Tidlig Adgang Til Vores Største Black Friday Udsalg Nogensinde",
     "subject_variation_2":"Black Friday Udsalg Starter... Nu!",
-    "subject_variation_3":"Udvidet! Black Friday Kører Stadig"
+    "subject_variation_3":"Udvidet! Black Friday Kører Stadig",
+    "subject_variation_4":"Få 40 % rabat denne Black Friday"
   },
   {
     "language": "de",
     "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
     "subject_variation_2":"Der Black-Friday-Verkauf Beginnt... Jetzt!",
-    "subject_variation_3":"Verlängert! Der Black Friday Geht Noch Weiter"
+    "subject_variation_3":"Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4":"Diesen Black Friday 40%  Rabatt"
   },
   {
     "language": "el",
     "subject_variation_1": "Εκμεταλλευτειτε Απο Πιο Νωρις Το Μεγαλυτερο Εκπτωτικο Γεγονος Black Friday Που Εγινε Ποτε",
     "subject_variation_2":"Οι Εκπτωσεις Της Black Friday Ξεκινουν... Τωρα!",
-    "subject_variation_3":"Με Παραταση! Η Black Friday Συνεχιζεται"
+    "subject_variation_3":"Με Παραταση! Η Black Friday Συνεχιζεται",
+    "subject_variation_4":"Αυτή τη Black Friday, Έκπτωση 40%"
   },
   {
     "language": "fi",
     "subject_variation_1": "Varhainen Pääsy Kaikkien Aikojen Suurimpaan Black Friday -Alennusmyyntiimme",
     "subject_variation_2":"Black Friday -Alennusmyynti Alkaa… Nyt!",
-    "subject_variation_3":"Jatkettu! Black Friday Jatkuu Edelleen"
+    "subject_variation_3":"Jatkettu! Black Friday Jatkuu Edelleen",
+    "subject_variation_4":"Tänä mustana perjantaina, 40%  halvemmalla"
   },
   {
     "language": "fr",
     "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
     "subject_variation_2":"Les Soldes Du Black Friday Commencent... Maintenant !",
-    "subject_variation_3":"Prolongation ! Le Black Friday Continue"
+    "subject_variation_3":"Prolongation ! Le Black Friday Continue",
+    "subject_variation_4":"Pendant ce Black Friday, profitez de 40%  de réduction"
   },
   {
     "language": "hr",
     "subject_variation_1": "Rani Pristup Našoj Najvećoj Akciji Crnog Petka Ikad",
     "subject_variation_2":"Akcija Crnog Petka Započinje... Sada!",
-    "subject_variation_3":"Produženo! Crni Petak I Dalje Traje"
+    "subject_variation_3":"Produženo! Crni Petak I Dalje Traje",
+    "subject_variation_4":"Za ovaj Crni petak iskoristite 40%  popusta"
   },
   {
     "language": "hu",
     "subject_variation_1": "Korai Hozzáférés A Valaha Volt Legnagyobb Fekete Pénteki Akciónkhoz",
     "subject_variation_2":"A Fekete Pénteki Kiárusítás Most Kezdődik!",
-    "subject_variation_3":"Meghosszabbítva! A Fekete Péntek Tovább Folytatódik"
+    "subject_variation_3":"Meghosszabbítva! A Fekete Péntek Tovább Folytatódik",
+    "subject_variation_4":"Black Friday akciók, 40% kedvezménnyel"
   },
   {
     "language": "id",
     "subject_variation_1": "Akses Awal Ke Obral Black Friday Terbesar Kami",
     "subject_variation_2":"Obral Black Friday Dimulai… Sekarang!",
-    "subject_variation_3":"Diperpanjang! Black Friday Masih Terus Berlangsung"
+    "subject_variation_3":"Diperpanjang! Black Friday Masih Terus Berlangsung",
+    "subject_variation_4":"Black Friday ini, Dapatkan diskon 40%"
   },
   {
     "language": "it",
     "subject_variation_1": "Accesso Anticipato Alla Nostra Più Grande Offerta Del Black Friday Di Sempre",
     "subject_variation_2":"L'Offerta Del Black Friday Inizia… Ora!",
-    "subject_variation_3":"Prolungata! Il Black Friday Continua"
+    "subject_variation_3":"Prolungata! Il Black Friday Continua",
+    "subject_variation_4":"Per il Black Friday, approfitta del 40%  di sconto"
   },
   {
     "language": "ja",
     "subject_variation_1": "最大級のブラックフライデーセールへの早期アクセス",
     "subject_variation_2":"ブラックフライデーセールの開始は...今です！",
-    "subject_variation_3":"延長されました！ブラックフライデーが開催中"
+    "subject_variation_3":"延長されました！ブラックフライデーが開催中",
+    "subject_variation_4":"今回のブラックフライデー、40% オフ！"
   },
   {
     "language": "ko",
     "subject_variation_1": "역대 최대 규모의 블랙 프라이데이 세일을 일찍 만나볼 수 있는 기회",
     "subject_variation_2":"블랙 프라이데이 세일이 지금 시작됩니다!",
-    "subject_variation_3":"연장! 블랙 프라이데이는 계속됩니다"
+    "subject_variation_3":"연장! 블랙 프라이데이는 계속됩니다",
+    "subject_variation_4":"이번 블랙 프라이데이, 40%  할인 혜택"
   },
   {
     "language": "ms",
     "subject_variation_1": "Akses Awal Kepada Jualan Black Friday Terbesar Kami Setakat Ini",
     "subject_variation_2":"Jualan Black Friday Bermula… Sekarang!",
-    "subject_variation_3":"Dilanjutkan! Black Friday Masih Berlangsung"
+    "subject_variation_3":"Dilanjutkan! Black Friday Masih Berlangsung",
+    "subject_variation_4":"Pada Black Friday ini, Dapatkan POTONGAN 40%"
   },
   {
     "language": "nl",
     "subject_variation_1": "Vroege Toegang Tot Onze Grootste Black Friday-Uitverkoop Ooit",
     "subject_variation_2":"De Black Friday-Uitverkoop Begint... Nu!",
-    "subject_variation_3":"Verlengd! Black Friday Gaat Nog Steeds Door"
+    "subject_variation_3":"Verlengd! Black Friday Gaat Nog Steeds Door",
+    "subject_variation_4":"Ontvang deze Black Friday 40%  KORTING"
   },
   {
     "language": "no",
     "subject_variation_1": "Tidlig Tilgang Til Vårt Største Black Friday-Salg Noensinne",
     "subject_variation_2":"Black Friday-Salget Starter ... Nå!",
-    "subject_variation_3":"Forlenget! Black Friday Pågår Fortsatt"
+    "subject_variation_3":"Forlenget! Black Friday Pågår Fortsatt",
+    "subject_variation_4":"Få 40% rabatt på Black Friday"
   },
   {
     "language": "pl",
     "subject_variation_1": "Wcześniejszy Dostęp Do Naszej Największej Wyprzedaży W Czarny Piątek",
     "subject_variation_2":"Wyprzedaż W Czarny Piątek Zaczyna Się... Teraz!",
-    "subject_variation_3":"Przedłużona! Czarny Piątek Nadal Trwa"
+    "subject_variation_3":"Przedłużona! Czarny Piątek Nadal Trwa",
+    "subject_variation_4":"W ten Czarny Piątek odbierz 40%  RABATU"
   },
   {
     "language": "pt",
     "subject_variation_1": "Acesso Antecipado À Maior Black Friday De Todos Os Tempos",
     "subject_variation_2":"A Promoção De Black Friday Começa... Agora!",
-    "subject_variation_3":"Prorrogada! A Black Friday Ainda Está Rolando"
+    "subject_variation_3":"Prorrogada! A Black Friday Ainda Está Rolando",
+    "subject_variation_4":"Garanta 40%  de desconto nesta Black Friday"
   },
   {
     "language": "ro",
     "subject_variation_1": "Acces Timpuriu La Cea Mai Mare Promoție De Black Friday",
     "subject_variation_2":"Black Friday Începe… Acum!",
-    "subject_variation_3":"Prelungită! Black Friday Continuă"
+    "subject_variation_3":"Prelungită! Black Friday Continuă",
+    "subject_variation_4":"De Black Friday, Get 40%  discount"
   },
   {
     "language": "ru",
     "subject_variation_1": "Предварительный Доступ К Нашей Самой Грандиозной Распродаже «Черная Пятница» В Истории",
     "subject_variation_2":"Распродажа «Черная Пятница» Начинается ... Сейчас!",
-    "subject_variation_3":"Продлена! «Черная Пятница» Все Еще Продолжается"
+    "subject_variation_3":"Продлена! «Черная Пятница» Все Еще Продолжается",
+    "subject_variation_4":"В Черную пятницу получите скидку 40%"
   },
   {
     "language": "sk",
     "subject_variation_1": "Skorý Prístup K Nášmu Doposiaľ Najväčšiemu Výpredaju Na Čierny Piatok",
     "subject_variation_2":"Výpredaj Na Čierny Piatok Začína… Teraz!",
-    "subject_variation_3":"Predĺžené! Akcia Čierny Piatok Stále Trvá"
+    "subject_variation_3":"Predĺžené! Akcia Čierny Piatok Stále Trvá",
+    "subject_variation_4":"Tento čierny piatok získajte zľavu 40 %"
   },
   {
     "language": "sl",
     "subject_variation_1": "Zgodnji Dostop Do Naše Največje Razprodaje Črni Petek",
     "subject_variation_2":"Popusti Črnega Petka Se Začnejo ... Zdaj!",
-    "subject_variation_3":"Podaljšan! Črni Petek Še Vedno Traja"
+    "subject_variation_3":"Podaljšan! Črni Petek Še Vedno Traja",
+    "subject_variation_4":"Ta črni petek izkoristite 40%  popusta"
   },
   {
     "language": "es",
     "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
     "subject_variation_2":"¡Las Rebajas De Viernes Negro Empiezan… Ya!",
-    "subject_variation_3":"¡Ampliado! Ampliamos El Viernes Negro"
+    "subject_variation_3":"¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4":"Este Viernes Negro, obtenga un 40% de descuento"
   },
   {
     "language": "sv",
     "subject_variation_1": "Kom Tidigt Åt Vår Största Black Friday-Rea Någonsin",
     "subject_variation_2":"Black Friday-Rean Startar... Nu!",
-    "subject_variation_3":"Förlängd! Black Friday Pågår Fortfarande"
+    "subject_variation_3":"Förlängd! Black Friday Pågår Fortfarande",
+    "subject_variation_4":"Få 40%  RABATT denna Black Friday"
   },
   {
     "language": "th",
     "subject_variation_1": "เข้าถึงการลดราคา Black Friday ครั้งใหญ่ที่สุดของเราได้ก่อนใคร",
     "subject_variation_2":"การลดราคา Black Friday เริ่มต้น... วันนี้!",
-    "subject_variation_3":"ขยายเวลา! Black Friday ยังคงดำเนินอยู่"
+    "subject_variation_3":"ขยายเวลา! Black Friday ยังคงดำเนินอยู่",
+    "subject_variation_4":"Black Friday นี้ลด 40%"
   },
   {
     "language": "tr",
     "subject_variation_1": "Şimdiye Kadarki En Büyük Kara Cuma Indirimine Erken Erişim Imkani",
     "subject_variation_2":"Kara Cuma Indirimi Başliyor... Şimdi!",
-    "subject_variation_3":"Uzatildi! Kara Cuma Devam Ediyor"
+    "subject_variation_3":"Uzatildi! Kara Cuma Devam Ediyor",
+    "subject_variation_4":"Bu Kara Cuma, % 40 indirim"
   },
   {
     "language": "vi",
     "subject_variation_1": "Nhanh Tay Tiếp Cận Sự Kiện Khuyến Mãi Thứ Sáu Đen Tối Lớn Nhất Của Chúng Tôi!",
     "subject_variation_2":"Khuyến Mãi Thứ Sáu Đen Tối Bắt Đầu...Ngay Bây Giờ!",
-    "subject_variation_3":"Mở Rộng! Thứ Sáu Đen Tối Vẫn Tiếp Diễn"
+    "subject_variation_3":"Mở Rộng! Thứ Sáu Đen Tối Vẫn Tiếp Diễn",
+    "subject_variation_4":"Ngày Thứ Sáu Đen Này Bạn Sẽ Nhận Ưu Đãi Giảm 40%"
   },
   {
     "language": "zhs",
     "subject_variation_1": "尽早进入我们最大的黑色星期五促销活动",
     "subject_variation_2":"黑色星期五促销开始......现在！",
-    "subject_variation_3":"延长！黑色星期五仍在继续"
+    "subject_variation_3":"延长！黑色星期五仍在继续",
+    "subject_variation_4":"黑色星期五，享受40%折扣"
   },
   {
     "language": "zht",
     "subject_variation_1": "儘早進入我們最大的黑色星期五促銷活動",
     "subject_variation_2":"黑色星期五促銷開始......現在！",
-    "subject_variation_3":"延長！黑色星期五仍在繼續"
+    "subject_variation_3":"延長！黑色星期五仍在繼續",
+    "subject_variation_4":"黑色星期五，享受40%折扣"
   }
 ]
