@@ -55,7 +55,11 @@
    "sale_event_year": "THE SALE EVENT OF THE YEAR!",
    "on_1000": "ON 1000 PRODUCTS",
    "one_day_only": "ONE DAY ONLY!",
-   "40_off": "40% OFF"
+   "40_off": "40% OFF",
+   "guaranteed_satisfaction": "100% Guaranteed Satisfaction",
+   "us_manufacturing":"U.S. Manufacturing",
+   "50_years_experience":"50+ Years of Trusted Experience",
+   "empowering_your_health_journey":"Empowering Your Health Journey"
  },
  {
    "language_name": "Azerbaijani",
@@ -113,7 +117,10 @@
    "sale_event_year": "İLİN ENDİRİM ZAMANI BAŞLAYIR!",
    "on_1000": "1000 POZİSİYA ÜZRƏ",
    "one_day_only": "YALNIZ BİR GÜN!",
-   "40_off": "40% ENDIRIM"
+   "40_off": "40% ENDIRIM",
+   "us_manufacturing":"ABŞ i̇stehsalı",
+   "50_years_experience":"50+ illik etibarlı təcrübə",
+   "empowering_your_health_journey":"Sağlamlığa yolunuzun genişləndirilməsi"
  },
  {
    "language_name": "Bulgarian",
@@ -171,7 +178,10 @@
    "sale_event_year": "РАЗПРОДАЖБАТА НА ГОДИНАТА!",
    "on_1000": "НА 1000 ПРОДУКТА",
    "one_day_only": "САМО ЗА ДЕН!",
-   "40_off": "40% ОТСТЪПКА"
+   "40_off": "40% ОТСТЪПКА",
+   "us_manufacturing":"Произведено в САЩ",
+   "50_years_experience":"Над 50-годишен доказан опит",
+   "empowering_your_health_journey":"Верен страж и съюзник по пътя към здравето"
  },
  {
    "language_name": "Danish",
@@ -229,7 +239,10 @@
    "sale_event_year": "ÅRETS SALGSBEGIVENHED!",
    "on_1000": "PÅ 1000 VARER",
    "one_day_only": "KUN ÉN DAG!",
-   "40_off": "40% RABAT"
+   "40_off": "40% RABAT",
+   "us_manufacturing":"Fremstillet i USA",
+   "50_years_experience":"50+ års pålidelig erfaring",
+   "empowering_your_health_journey":"Vi styrker din sundhedsrejse"
  },
  {
    "language_name": "German",
@@ -287,7 +300,10 @@
    "sale_event_year": "DAS VERKAUFSEVENT DES JAHRES!",
    "on_1000": "AUF 1000 PRODUKTE",
    "one_day_only": "NUR 1 TAG!",
-   "40_off": "40% RABATT"
+   "40_off": "40% RABATT",
+   "us_manufacturing":"Herstellung in den USA",
+   "50_years_experience":"Über 50 Jahre vertrauensvolle Erfahrung",
+   "empowering_your_health_journey":"Unterstützung für Ihre Gesundheit"
  },
  {
    "language_name": "Greek (modern)",
@@ -345,7 +361,10 @@
    "sale_event_year": "Η ΕΚΠΤΩΣΗ ΤΗΣ ΧΡΟΝΙΑΣ!",
    "on_1000": "ΣΕ 1000 ΠΡΟΪΟΝΤΑ",
    "one_day_only": "ΜΙΑ ΗΜΕΡΑ ΜΟΝΟ!",
-   "40_off": "4ΕΚΠΤΩΣΗ 40%"
+   "40_off": "4ΕΚΠΤΩΣΗ 40%",
+   "us_manufacturing":"Παραγωγή ΗΠΑ",
+   "50_years_experience":"50+ Χρόνια Εγγυημένης Εμπειρίας",
+   "empowering_your_health_journey":"Ενδυναμώνοντας το Ταξίδι της Υγείας σας"
  },
  {
    "language_name": "Finnish",
@@ -403,7 +422,10 @@
    "sale_event_year": "VUODEN ALENNUSTAPAHTUMA!",
    "on_1000": "1000 TUOTTEESTA",
    "one_day_only": "VAIN YHDEN PÄIVÄN!",
-   "40_off": "40% ALENNUS"
+   "40_off": "40% ALENNUS",
+   "us_manufacturing":"Valmistus Yhdysvalloissa",
+   "50_years_experience":"Yli 50 vuoden luotettava kokemus",
+   "empowering_your_health_journey":"Tukee terveysmatkaasi"
  },
  {
    "language_name": "French",
@@ -461,7 +483,11 @@
    "sale_event_year": "LA VENTE DE L'ANNÉE !",
    "on_1000": "SUR 1000 PRODUITS",
    "one_day_only": "UN JOUR SEULEMENT",
-   "40_off": "40% DE RÉDUCTION"
+   "40_off": "40% DE RÉDUCTION",
+   "guaranteed_satisfaction": "Satisfaction garantie à 100 %",
+   "us_manufacturing":"Fabrication américaine",
+   "50_years_experience":"Plus de 50 ans d'une expérience digne de confiance",
+   "empowering_your_health_journey":"Consolidez votre parcours santé"
  },
  {
    "language_name": "Croatian",
@@ -519,7 +545,11 @@
    "sale_event_year": "PRODAJNI DOGAĐAJ GODINE!",
    "on_1000": "NA 1000 PROIZVODA",
    "one_day_only": "SAMO JEDAN DAN!",
-   "40_off": "40% POPUSTA"
+   "40_off": "40% POPUSTA",
+   "guaranteed_satisfaction": "100 % zajamčeno zadovoljstvo",
+   "us_manufacturing":"Proizvedeno u SAD-u",
+   "50_years_experience":"Više od 50 godina iskustva s povjerenjem",
+   "empowering_your_health_journey":"Osnaživanje vašeg puta prema zdravlju"
  },
  {
    "language_name": "Hungarian",
@@ -577,7 +607,11 @@
    "sale_event_year": "AZ ÉV KIÁRUSÍTÁSA!",
    "on_1000": "1000 TERMÉKEN",
    "one_day_only": "CSAK EGY NAPIG!",
-   "40_off": "40% ENGEDMÉNY"
+   "40_off": "40% ENGEDMÉNY",
+   "guaranteed_satisfaction": "100% garantált elégedettség",
+   "us_manufacturing":"Amerikai gyártás",
+   "50_years_experience":"50+ évnyi megbízható tapasztalat",
+   "empowering_your_health_journey":"Az Ön egészségügyi útjának elősegítése"
  },
  {
    "language_name": "Indonesian",
@@ -635,7 +669,11 @@
    "sale_event_year": "ACARA OBRAL TAHUN INI!",
    "on_1000": "UNTUK 1000 PRODUK",
    "one_day_only": "HANYA SATU HARI!",
-   "40_off": "DISKON 40%"
+   "40_off": "DISKON 40%",
+   "guaranteed_satisfaction": "Jaminan Kepuasan 100%",
+   "us_manufacturing":"Manufaktur A.S",
+   "50_years_experience":"Pengalaman Tepercaya 50+ Tahun",
+   "empowering_your_health_journey":"Memberdayakan Perjalanan Kesehatan Anda"
  },
  {
    "language_name": "Italian",
@@ -693,7 +731,11 @@
    "sale_event_year": "L'OFFERTA-EVENTO DELL'ANNO!",
    "on_1000": "SU 1000 ARTICOLI",
    "one_day_only": "PER UN SOLO GIORNO!",
-   "40_off": "40% DI SCONTO"
+   "40_off": "40% DI SCONTO",
+   "guaranteed_satisfaction": "Soddisfazione garantita al 100%",
+   "us_manufacturing":"Produzione negli USA",
+   "50_years_experience":"50+ anni di esperienza e fiducia",
+   "empowering_your_health_journey":"Potenzia il tuo percorso di benessere"
  },
  {
    "language_name": "Japanese",
@@ -751,7 +793,11 @@
    "sale_event_year": "今年のセールイベント！",
    "on_1000": "1000品目が対象",
    "one_day_only": "一日限り！",
-   "40_off": "40%オフ"
+   "40_off": "40%オフ",
+   "guaranteed_satisfaction": "100%満足保証",
+   "us_manufacturing":"米国製",
+   "50_years_experience":"50年以上もの信頼できる実績",
+   "empowering_your_health_journey":"皆様の健康を支えます"
  },
  {
    "language_name": "Korean",
@@ -809,7 +855,11 @@
    "sale_event_year": "올해의 최대 할인 행사!",
    "on_1000": "1000여개 품목",
    "one_day_only": "단 하루만 세일!",
-   "40_off": "40% 할인"
+   "40_off": "40% 할인",
+   "guaranteed_satisfaction": "100% 만족 보장",
+   "us_manufacturing":"미국 제조",
+   "50_years_experience":"50여 년의 신뢰받은 경험",
+   "empowering_your_health_journey":"건강을 향한 여정에 힘을 더함"
  },
  {
    "language_name": "Malay",
@@ -867,7 +917,11 @@
    "sale_event_year": "ACARA JUALAN TAHUN INI",
    "on_1000": "KE ATAS 1000 PRODUK",
    "one_day_only": "SATU HARI SAHAJA!",
-   "40_off": "POTONGAN 40%"
+   "40_off": "POTONGAN 40%",
+   "guaranteed_satisfaction": "Kepuasan Dijamin 100%",
+   "us_manufacturing":"Perkilangan A.S.",
+   "50_years_experience":"50+ Tahun Pengalaman yang Dipercayai",
+   "empowering_your_health_journey":"Memperkasakan Perjalanan Kesihatan Anda"
  },
  {
    "language_name": "Dutch",
@@ -925,7 +979,11 @@
    "sale_event_year": "DE UITVERKOOP VAN HET JAAR!",
    "on_1000": "OP 1000 PRODUCTEN",
    "one_day_only": "SLECHTS ÉÉN DAG!",
-   "40_off": "40% KORTING"
+   "40_off": "40% KORTING",
+   "guaranteed_satisfaction": "100% gegarandeerde tevredenheid",
+   "us_manufacturing":"Gefabriceerd in de VS",
+   "50_years_experience":"50+ jaar vertrouwde ervaring",
+   "empowering_your_health_journey":"Wij versterken uw gezondheidsreis"
  },
  {
    "language_name": "Norwegian",
@@ -983,7 +1041,11 @@
    "sale_event_year": "ÅRETS SALGSARRANGEMENT!",
    "on_1000": "PÅ 1000 PRODUKTER",
    "one_day_only": "KUN ÉN DAG!",
-   "40_off": "40% RABATT"
+   "40_off": "40% RABATT",
+   "guaranteed_satisfaction": "100% fornøyd garanti",
+   "us_manufacturing":"Laget i USA",
+   "50_years_experience":"50+ års pålitelig erfaring",
+   "empowering_your_health_journey":"Vi styrker din helsereise"
  },
  {
    "language_name": "Polish",
@@ -1041,7 +1103,11 @@
    "sale_event_year": "IMPREZA SPRZEDAŻY ROKU!",
    "on_1000": "NA 1000 PRODUKTÓW",
    "one_day_only": "TYLKO JEDEN DZIEŃ!",
-   "40_off": "40% ZNIŻKI"
+   "40_off": "40% ZNIŻKI",
+   "guaranteed_satisfaction": "100% gwarantowanej satysfakcji",
+   "us_manufacturing":"Wytwarzanie w Stanach Zjednoczonych",
+   "50_years_experience":"Ponad 50 lat zaufanego doświadczenia",
+   "empowering_your_health_journey":"Zwiększenie możliwości podróżowania w zdrowiu"
  },
  {
    "language_name": "Portuguese",
@@ -1099,7 +1165,11 @@
    "sale_event_year": "O EVENTO DE VENDAS DO ANO!",
    "on_1000": "COM 1000 PRODUTOS",
    "one_day_only": "UM DIA APENAS!",
-   "40_off": "45% DE DESCONTO"
+   "40_off": "45% DE DESCONTO",
+   "guaranteed_satisfaction": "100% de satisfação garantida",
+   "us_manufacturing":"Fabricação nos Estados Unidos",
+   "50_years_experience":"Mais de 50 Anos de Experiência Confiável",
+   "empowering_your_health_journey":"Capacitando Sua Viagem De Saúde"
  },
  {
    "language_name": "Romanian",
@@ -1157,7 +1227,11 @@
    "sale_event_year": "PROMOȚIA ANULUI!",
    "on_1000": "LA 1000 DE ARTICOLE",
    "one_day_only": "DOAR TIMP DE O ZI!",
-   "40_off": "40% REDUCERE"
+   "40_off": "40% REDUCERE",
+   "guaranteed_satisfaction": "Satisfacție garantată 100%",
+   "us_manufacturing":"Fabricare Statele Unite",
+   "50_years_experience":"Peste 50 de ani de experiență fiabilă",
+   "empowering_your_health_journey":"Vă împuternicim călătoria de sănătate"
  },
  {
    "language_name": "Russian",
@@ -1215,7 +1289,11 @@
    "sale_event_year": "ГЛАВНАЯ РАСПРОДАЖА ГОДА!",
    "on_1000": "НА 1000 НАИМЕНОВАНИЙ",
    "one_day_only": "ТОЛЬКО ОДИН ДЕНЬ!",
-   "40_off": "СКИДКА 40%"
+   "40_off": "СКИДКА 40%",
+   "guaranteed_satisfaction": "100% гарантия удовлетворенности",
+   "us_manufacturing":"Сделано в США",
+   "50_years_experience":"Более 50 лет опыта и доверия",
+   "empowering_your_health_journey":"Ваш надёжный проводник на пути к здоровой жизни"
  },
  {
    "language_name": "Slovak",
@@ -1273,7 +1351,11 @@
    "sale_event_year": "VÝPREDAJOVÁ AKCIA ROKA!",
    "on_1000": "NA 1000 POLOŽIEK",
    "one_day_only": "LEN JEDEN DEŇ!",
-   "40_off": "40% VÝPREDAJ"
+   "40_off": "40% VÝPREDAJ",
+   "guaranteed_satisfaction": "100% záruka spokojnosti",
+   "us_manufacturing":"Výroba v USA",
+   "50_years_experience":"50+ rokov dôveryhodných skúseností",
+   "empowering_your_health_journey":"Posilnenie vašej cesty za zdravím"
  },
  {
    "language_name": "Slovene",
@@ -1331,7 +1413,11 @@
    "sale_event_year": "RAZPRODAJNI DOGODEK LETA!",
    "on_1000": "NA 1000 IZDELKOV",
    "one_day_only": "SAMO EN DAN!",
-   "40_off": "40% POPUSTA"
+   "40_off": "40% POPUSTA",
+   "guaranteed_satisfaction": "100-odstotno zajamčeno zadovoljstvo",
+   "us_manufacturing":"Izdelano v ZDA",
+   "50_years_experience":"50+ let zaupanja vrednih izkušenj",
+   "empowering_your_health_journey":"Opolnomočenje vaše zdravstvene poti"
  },
  {
    "language_name": "Spanish",
@@ -1389,7 +1475,11 @@
    "sale_event_year": "¡EL EVENTO DE OFERTAS DEL AÑO!",
    "on_1000": "EN 1000 PRODUCTOS",
    "one_day_only": "¡SOLO POR UN DÍA!",
-   "40_off": "40 % DE DESCUENTO"
+   "40_off": "40 % DE DESCUENTO",
+   "guaranteed_satisfaction": "Satisfacción 100 % garantizada",
+   "us_manufacturing":"Fabricado en los EE. UU.",
+   "50_years_experience":"Más de 50 años de experiencia demostrada",
+   "empowering_your_health_journey":"Cómo potenciar su experiencia en el ámbito de la salud"
  },
  {
    "language_name": "Swedish",
@@ -1447,7 +1537,11 @@
    "sale_event_year": "ÅRETS UTFÖRSÄLJNINGSHÄNDELSE!",
    "on_1000": "PÅ 1000 ARTIKLAR",
    "one_day_only": "ENDAST EN DAG!",
-   "40_off": "40% RABATT"
+   "40_off": "40% RABATT",
+   "guaranteed_satisfaction": "100 % garanterad nöjdhet",
+   "us_manufacturing":"Tillverkning i USA",
+   "50_years_experience":"Mer än 50 års tillförlitlig erfarenhet",
+   "empowering_your_health_journey":"Vi stärker din hälsoresa"
  },
  {
    "language_name": "Thai",
@@ -1505,7 +1599,11 @@
    "sale_event_year": "มหกรรมลดราคาครั้งใหญ่ประจำปี!",
    "on_1000": "กับสินค้า 1,000 รายการ",
    "one_day_only": "วันเดียวเท่านั้น!",
-   "40_off": "ลดราคา 40%"
+   "40_off": "ลดราคา 40%",
+   "guaranteed_satisfaction": "รับประกันความพึงพอใจ 100%",
+   "us_manufacturing":"บริษัทผู้ผลิตในสหรัฐฯ",
+   "50_years_experience":"ประสบการณ์ที่เชื่อถือได้กว่า 50 ปี",
+   "empowering_your_health_journey":"เพิ่มพลังให้เส้นทางเพื่อสุขภาพของคุณ"
  },
  {
    "language_name": "Turkish",
@@ -1563,7 +1661,11 @@
    "sale_event_year": "YILIN İNDİRİMİ!",
    "on_1000": "1000 ÜRÜNDE",
    "one_day_only": "SADECE BİR GÜN!",
-   "40_off": "%40 İNDİRİM"
+   "40_off": "%40 İNDİRİM",
+   "guaranteed_satisfaction": "% 100 Memnuniyet Garantisi",
+   "us_manufacturing":"ABD Üretimi",
+   "50_years_experience":"50 Yıllık Güvenilir Deneyim",
+   "empowering_your_health_journey":"Sağlık Yolculuğunuzda Destek"
  },
  {
    "language_name": "Vietnamese",
@@ -1621,7 +1723,11 @@
    "sale_event_year": "SỰ KIỆN GIẢM GIÁ LỚN NHẤT NĂM!",
    "on_1000": "TRÊN 1.000 SẢN PHẨM",
    "one_day_only": "CHỈ MỘT NGÀY DUY NHẤT",
-   "40_off": "GIẢM GIÁ 40%"
+   "40_off": "GIẢM GIÁ 40%",
+   "guaranteed_satisfaction": "Đảm bảo hài lòng 100%",
+   "us_manufacturing":"Sản xuất tại Hoa Kỳ",
+   "50_years_experience":"Hơn 50 năm kinh nghiệm uy tín",
+   "empowering_your_health_journey":"Hỗ trợ hành trình sức khỏe của bạn"
  },
  {
    "language_name": "Chinese Simplified",
@@ -1679,7 +1785,11 @@
    "sale_event_year": "年度促销活动！",
    "on_1000": "适用于 1000 件商品",
    "one_day_only": "仅限一天！",
-   "40_off": "40%的折扣"
+   "40_off": "40%的折扣",
+   "guaranteed_satisfaction": "100% 保证满意",
+   "us_manufacturing":"美国制造",
+   "50_years_experience":"备受信赖 50 余年",
+   "empowering_your_health_journey":"健康人生，为您助力"
  },
  {
    "language_name": "Chinese Traditional",
@@ -1737,6 +1847,10 @@
    "sale_event_year": "年度促銷活動！",
    "on_1000": "適用於 1000 項商品",
    "one_day_only": "僅限一天！",
-   "40_off": "40%的折扣"
+   "40_off": "40%的折扣",
+   "guaranteed_satisfaction": "100% 保證滿意",
+   "us_manufacturing":"美國製造",
+   "50_years_experience":"備受信賴 50 餘年",
+   "empowering_your_health_journey":"健康人生，為您助力"
  }
 ]
