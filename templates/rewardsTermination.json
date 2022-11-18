@@ -38,7 +38,7 @@
    "termination_alert":"След 23:59ч. EST на 18 януари 2023 г. Вашите пари от награди и точки от награди вече няма да могат да се използват.",
    "other_information":"ДРУГА ИНФОРМАЦИЯ:",
    "when_you_joined":"ДРУГА Когато за първи път се присъединихте към нашата Програма за награди, вие спазвахте Условията за ползване на нашия уебсайт, които уреждат нашата програма.",
-   "terms_of_use_indicate":"Както е посочено в Условията за ползване, ние имаме право да прекратим нашата програма за награди, като публикуваме известие за прекратяване на нашия уебсайт. Всички термини, написани с главни букви по-долу, имат същите значения като в Условията за ползване.",
+   "terms_of_use_indicate":"Както е посочено в Условията за ползване, ние имаме право да прекратим нашата програма за награди, като публикуваме известие за прекратяване на нашия уебсайт. Всички термини с главни букви по-горе имат същите значения като в Условията за ползване.",
    "thank_you_for_participation":"БЛАГОДАРИМ ВИ ЗА УЧАСТИЕТО В НАШАТА ПРОГРАМА"
  },
  {
@@ -52,7 +52,7 @@
    "termination_alert":"Efter klokken 23.59. EST den 18. januar 2023 vil dine belønningspenge og belønningspoint ikke længere være brugbare.",
    "other_information":"ANDRE OPLYSNINGER:",
    "when_you_joined":"Da du først tiltrådte vores belønningsprogram, gjorde du det i henhold til vilkårene for brug på vores hjemmeside, som styrer vores program.",
-   "terms_of_use_indicate":"Както е посочено в Условията за ползване, ние имаме право да прекратим нашата програма за награди, като публикуваме известие за прекратяване на нашия уебсайт. Всички термини с главни букви по-горе имат същите значения като в Условията за ползване.",
+   "terms_of_use_indicate":"Som det fremgår af vilkårene for brug, har vi ret til at afslutte vores belønningsprogram ved at offentliggøre en opsigelsesmeddelelse på vores hjemmeside. Alle ovenstående udtryk med stort bogstav har samme betydning som i brugsbetingelserne.",
    "thank_you_for_participation":"TAK FOR DIN DELTAGELSE I VORES PROGRAM"
  },
  {
@@ -66,7 +66,7 @@
    "termination_alert":"Nach 23:59 Uhr EST am 18. Januar 2023 können Ihr Prämiengeld und Ihre Prämienpunkte nicht mehr verwendet werden.",
    "other_information":"ANDERE INFORMATIONEN:",
    "when_you_joined":"Als Sie unserem Prämienprogramm zum ersten Mal beigetreten sind, haben Sie dies gemäß den Nutzungsbedingungen auf unserer Website getan, die unser Programm regeln.",
-   "terms_of_use_indicate":"Wie in den Nutzungsbedingungen angegeben, haben wir das Recht, unser Prämienprogramm durch Veröffentlichung einer Kündigungsmitteilung auf unserer Website zu beenden. Alle großgeschriebenen Begriffe unten haben dieselbe Bedeutung wie in den Nutzungsbedingungen.",
+   "terms_of_use_indicate":"Wie in den Nutzungsbedingungen angegeben, haben wir das Recht, unser Prämienprogramm durch Veröffentlichung einer Kündigungsmitteilung auf unserer Website zu beenden. Alle großgeschriebenen Begriffe oben haben dieselbe Bedeutung wie in den Nutzungsbedingungen.",
    "thank_you_for_participation":"VIELEN DANK FÜR IHRE TEILNAHME AN UNSEREM PROGRAMM"
  },
  {
@@ -80,7 +80,7 @@
    "termination_alert":"Μετά τις 11:59 μ.μ. EST στις 18 Ιανουαρίου 2023, τα χρήματα και οι πόντοι ανταμοιβών σας δεν θα μπορούν πλέον να χρησιμοποιηθούν.",
    "other_information":"ΑΛΛΕΣ ΠΛΗΡΟΦΟΡΙΕΣ:",
    "when_you_joined":"Όταν εγγραφήκατε για πρώτη φορά στο Πρόγραμμα Ανταμοιβών μας, το κάνατε σύμφωνα με τους Όρους Χρήσης στον ιστότοπό μας, οι οποίοι διέπουν το πρόγραμμά μας.",
-   "terms_of_use_indicate":"Όπως υποδεικνύουν οι Όροι Χρήσης, έχουμε το δικαίωμα να τερματίσουμε το Πρόγραμμα Ανταμοιβών δημοσιεύοντας μια ειδοποίηση τερματισμού στον ιστότοπό μας. Όλοι οι παρακάτω όροι με κεφαλαία έχουν την ίδια σημασία όπως στους Όρους Χρήσης.",
+   "terms_of_use_indicate":"Όπως υποδεικνύουν οι Όροι Χρήσης, έχουμε το δικαίωμα να τερματίσουμε το Πρόγραμμα Ανταμοιβών δημοσιεύοντας μια ειδοποίηση τερματισμού στον ιστότοπό μας. Όλοι οι παραπάνω όροι με κεφαλαία έχουν την ίδια σημασία με τους Όρους Χρήσης.",
    "thank_you_for_participation":"ΕΥΧΑΡΙΣΤΟΥΜΕ ΓΙΑ ΤΗ ΣΥΜΜΕΤΟΧΗ ΣΑΣ ΣΤΟ ΠΡΟΓΡΑΜΜΑ ΜΑΣ"
  },
  {
@@ -90,11 +90,11 @@
    "rewards_termination_subject": "Tärkeä irtisanoutumisilmoitus palkinto-ohjelman osallistujille",
    "terminating_rewards":"PIPINGROCK LOPETA PALKINTAOHJELMAN",
    "important_note":"Siksi on tärkeää, että kiinnität huomiota siihen, mitä sinun on tehtävä käyttääksesi palkintopisteesi tietyissä aikaväleissä.",
-   "termination_list":"<li>Palkinto-ohjelmamme päättyy 18.1.2023 klo 23.59. EST.</li><li>Tämä lopetusilmoitus julkaistaan ​​PipingRock-verkkosivustollamme ja lähetetään jokaiselle osallistujalle sähköpostitse 18.11.2022.</li><li>5. joulukuuta 2022 alkaen et enää ansaitse pisteitä tai palkintorahoja palkinto-ohjelmassa.</li><li>Alkaen 5.12.2022 ja päättyy 18.1.2023 klo 23.59. EST, kaikki palkintopisteesi ovat käytettävissä vain pipingrock.com-ostoksiasi varten.</li><li>Voit pyytää 5.12.2022 välisenä aikana lähettämällä meille sähköpostia osoitteeseen rewards@pipingrock.com, että jaamme sinulle palkintorahasi shekin muodossa.</li><li>Huomaa, että jos haluat tehdä niin, sähköpostisi on oltava.</li><li>Vastaanota 5.12.2022 klo 23.59 EST tai ennen sitä.</li><li>Anna osoite, johon maksu tulee lähettää.</li><li>Klo 23.59 jälkeen EST 18. tammikuuta 2023 Rewards Money ja Rewards Points eivät ole enää käytettävissä.</li><li>Velvollisuutemme palkintorahoihin ja palkintopisteisiisi on rajoitettu enintään kuuden kuukauden palkkioihin, jotka lasketaan palkintojesi perusteella ajalta 19. joulukuuta 2022 ja 18. tammikuuta 2023 välisenä aikana.</li>",
+   "termination_list":"<li>Palkinto-ohjelmamme päättyy 18.1.2023 klo 23.59. EST.</li><li>Tämä lopetusilmoitus julkaistaan</li><li>PipingRock-verkkosivustollamme ja lähetetään jokaiselle osallistujalle sähköpostitse 18.11.2022.</li><li>5. joulukuuta 2022 alkaen et enää ansaitse pisteitä tai palkintorahoja palkinto-ohjelmassa.</li><li>Alkaen 5.12.2022 ja päättyy 18.1.2023 klo 23.59. EST, kaikki palkintopisteesi ovat käytettävissä vain pipingrock.com-ostoksiasi varten.</li><li>Voit pyytää 5.12.2022 välisenä aikana lähettämällä meille sähköpostia osoitteeseen rewards@pipingrock.com, että jaamme sinulle palkintorahasi shekin muodossa.</li><li>Huomaa, että jos haluat tehdä niin, sähköpostisi on oltava.</li><li>Vastaanota 5.12.2022 klo 23.59 EST tai ennen sitä.</li><li>Anna osoite, johon maksu tulee lähettää.</li><li>Klo 23.59 jälkeen EST 18. tammikuuta 2023 Rewards Money ja Rewards Points eivät ole enää käytettävissä.</li><li>Velvollisuutemme palkintorahoihin ja palkintopisteisiisi on rajoitettu enintään kuuden kuukauden palkkioihin, jotka lasketaan palkintojesi perusteella ajalta 19. joulukuuta 2022 ja 18. tammikuuta 2023 välisenä aikana.</li>",
    "termination_alert":"Klo 23.59 jälkeen EST 18. tammikuuta 2023 Rewards Money ja Rewards Points eivät ole enää käytettävissä.",
    "other_information":"MUITA TIETOJA:",
    "when_you_joined":"Kun liityit ensimmäisen kerran Rewards-ohjelmaamme, noudatit verkkosivustomme käyttöehtoja, jotka säätelevät ohjelmaamme.",
-   "terms_of_use_indicate":"Kuten käyttöehdoissa mainitaan, meillä on oikeus lopettaa Rewards-ohjelmamme julkaisemalla irtisanomisilmoitus verkkosivustollamme. Kaikilla alla kirjoitetuilla termeillä on sama merkitys kuin käyttöehdoissa.",
+   "terms_of_use_indicate":"Kuten käyttöehdoissa mainitaan, meillä on oikeus lopettaa Rewards-ohjelmamme julkaisemalla irtisanomisilmoitus verkkosivustollamme. Kaikilla yllä kirjoitetuilla termeillä on sama merkitys kuin käyttöehdoissa.",
    "thank_you_for_participation":"KIITOS OSALLISTUMISESTASI OHJELMISEMME"
  },
  {
@@ -108,7 +108,7 @@
    "termination_alert":"Après 23h59. EST le 18 janvier 2023, votre argent de récompense et vos points de récompense ne seront plus utilisables.",
    "other_information":"LES AUTRES INFORMATIONS:",
    "when_you_joined":"Lorsque vous avez rejoint notre programme de récompenses pour la première fois, vous l'avez fait conformément aux conditions d'utilisation de notre site Web, qui régissent notre programme.",
-   "terms_of_use_indicate":"Comme les conditions d'utilisation l'indiquent, nous avons le droit de résilier notre programme de récompenses en publiant un avis de résiliation sur notre site Web. Tous les termes en majuscules ci-dessous ont la même signification que dans les Conditions d'utilisation.",
+   "terms_of_use_indicate":"Comme les conditions d'utilisation l'indiquent, nous avons le droit de résilier notre programme de récompenses en publiant un avis de résiliation sur notre site Web. Tous les termes en majuscule ci-dessus ont la même signification que dans les Conditions d'utilisation.",
    "thank_you_for_participation":"MERCI POUR VOTRE PARTICIPATION À NOTRE PROGRAMME"
  },
  {
@@ -118,11 +118,11 @@
    "rewards_termination_subject": "Važna obavijest o raskidu za sudionike našeg programa nagrađivanja",
    "terminating_rewards":"PIPINGROCK UKIDA PROGRAM NAGRAĐIVANJA",
    "important_note":"Zato je važno da zabilježite što morate učiniti kako biste iskoristili svoje nagradne bodove u zadanim vremenskim okvirima.",
-   "termination_list":"<li>Naš program nagrađivanja prestaje 18. siječnja 2023. u 23:59 EST.</li><li>Ova obavijest o raskidu objavljuje se na našoj web stranici PipingRock i šalje se e-poštom svakom sudioniku 18. studenog 2022.</li><li>Od 5. prosinca 2022. više nećete zarađivati ​​bodove ili novčane nagrade u Programu nagrađivanja.</li><li>Početak 5. prosinca 2022. i završetak 18. siječnja 2023. u 23:59. EST, svi vaši nagradni bodovi moći će se koristiti samo za vaše kupnje na pipingrock.com.</li><li>Od sada do 5. prosinca 2022. možete zatražiti slanjem e-pošte na rewards@pipingrock.com da vam podijelimo vaš novac od nagrade u obliku čeka.</li><li>Imajte na umu da ako to želite učiniti, vaša e-pošta mora.</li><li>Biti primljen od nas do ili prije 23:59 EST 5. prosinca 2022.</li><li>Navedite adresu na koju treba poslati takvu uplatu.</li><li>Nakon 23:59 sati. EST 18. siječnja 2023. Vaš nagradni novac i nagradni bodovi više neće biti upotrebljivi.</li><li>Naša obveza u pogledu vašeg nagradnog novca i nagradnih bodova ograničena je na najviše šest mjeseci nagrada, izračunatih na temelju vaših nagrada za razdoblje od 19. prosinca 2022. do 18. siječnja 2023.</li>",
+   "termination_list":"<li>Naš program nagrađivanja prestaje 18. siječnja 2023. u 23:59 EST.</li><li>Ova obavijest o raskidu objavljuje se na našoj web stranici PipingRock i šalje se e-poštom svakom sudioniku 18. studenog 2022.</li><li>Od 5. prosinca 2022. više nećete zarađivati</li><li>bodove ili novčane nagrade u Programu nagrađivanja.</li><li>Početak 5. prosinca 2022. i završetak 18. siječnja 2023. u 23:59. EST, svi vaši nagradni bodovi moći će se koristiti samo za vaše kupnje na pipingrock.com.</li><li>Od sada do 5. prosinca 2022. možete zatražiti slanjem e-pošte na rewards@pipingrock.com da vam podijelimo vaš novac od nagrade u obliku čeka.</li><li>Imajte na umu da ako to želite učiniti, vaša e-pošta mora.</li><li>Biti primljen od nas do ili prije 23:59 EST 5. prosinca 2022.</li><li>Navedite adresu na koju treba poslati takvu uplatu.</li><li>Nakon 23:59 sati. EST 18. siječnja 2023. Vaš nagradni novac i nagradni bodovi više neće biti upotrebljivi.</li><li>Naša obveza u pogledu vašeg nagradnog novca i nagradnih bodova ograničena je na najviše šest mjeseci nagrada, izračunatih na temelju vaših nagrada za razdoblje od 19. prosinca 2022. do 18. siječnja 2023.</li>",
    "termination_alert":"Nakon 23.59 sati. EST 18. siječnja 2023. Vaš nagradni novac i nagradni bodovi više neće biti upotrebljivi.",
    "other_information":"DRUGE PODATKE:",
    "when_you_joined":"Kada ste se prvi put pridružili našem programu nagrađivanja, učinili ste u skladu s Uvjetima korištenja na našoj web stranici, koji uređuju naš program.",
-   "terms_of_use_indicate":"Kao što je navedeno u Uvjetima korištenja, imamo pravo prekinuti naš program nagrađivanja objavljivanjem obavijesti o raskidu na našoj web stranici. Svi pojmovi napisani velikim slovima u nastavku imaju isto značenje kao u Uvjetima korištenja.",
+   "terms_of_use_indicate":"Kao što je navedeno u Uvjetima korištenja, imamo pravo prekinuti naš program nagrađivanja objavljivanjem obavijesti o raskidu na našoj web stranici. Svi gornji pojmovi napisani velikim slovima imaju ista značenja kao u Uvjetima korištenja.",
    "thank_you_for_participation":"HVALA VAM NA SUDJELOVANJU U NAŠEM PROGRAMU"
  },
  {
@@ -136,7 +136,7 @@
    "termination_alert":"23:59 után EST 2023. január 18-án a Rewards Money és a Rewards Points már nem használható fel.",
    "other_information":"EGYÉB INFORMÁCIÓK:",
    "when_you_joined":"Amikor először csatlakozott Jutalomprogramunkhoz, a weboldalunkon található, programunkat szabályozó Felhasználási Feltételek szerint tette.",
-   "terms_of_use_indicate":"Amint azt a Felhasználási feltételek is jelzik, jogunkban áll felmondani Jutalomprogramunkat a felmondási nyilatkozat weboldalunkon történő közzétételével. Az alábbi nagybetűs kifejezések jelentése ugyanaz, mint a Felhasználási feltételekben.",
+   "terms_of_use_indicate":"Amint azt a Felhasználási feltételek is jelzik, jogunkban áll felmondani Jutalomprogramunkat a felmondási nyilatkozat weboldalunkon történő közzétételével. A fenti nagybetűs kifejezések jelentése ugyanaz, mint a Felhasználási feltételekben.",
    "thank_you_for_participation":"KÖSZÖNJÜK, HOGY RÉSZVÉTELT PROGRAMUNKBAN"
  },
  {
@@ -150,7 +150,7 @@
    "termination_alert":"Setelah 11:59 malam. EST pada 18 Januari 2023, Uang Rewards dan Poin Rewards Anda tidak dapat digunakan lagi.",
    "other_information":"INFORMASI LAINNYA:",
    "when_you_joined":"Saat Anda pertama kali bergabung dengan Program Hadiah kami, Anda mengikuti Ketentuan Penggunaan di situs web kami, yang mengatur program kami.",
-   "terms_of_use_indicate":"Seperti yang ditunjukkan oleh Ketentuan Penggunaan, kami memiliki hak untuk menghentikan Program Hadiah kami dengan memasang pemberitahuan penghentian di situs web kami. Semua istilah yang dikapitalisasi di bawah ini memiliki arti yang sama seperti dalam Ketentuan Penggunaan.",
+   "terms_of_use_indicate":"Seperti yang ditunjukkan oleh Ketentuan Penggunaan, kami memiliki hak untuk menghentikan Program Hadiah kami dengan memasang pemberitahuan penghentian di situs web kami. Semua istilah yang dikapitalisasi di atas memiliki arti yang sama seperti dalam Ketentuan Penggunaan.",
    "thank_you_for_participation":"TERIMA KASIH ATAS PARTISIPASI ANDA DALAM PROGRAM KAMI"
  },
  {
@@ -164,7 +164,7 @@
    "termination_alert":"Dopo le 23:59 EST del 18 gennaio 2023, i tuoi soldi Rewards e i punti Rewards non saranno più utilizzabili.",
    "other_information":"ALTRE INFORMAZIONI:",
    "when_you_joined":"Quando hai aderito per la prima volta al nostro Programma Rewards, hai rispettato i Termini di utilizzo sul nostro sito Web, che regolano il nostro programma.",
-   "terms_of_use_indicate":"Come indicato dai Termini di utilizzo, abbiamo il diritto di terminare il nostro Programma a premi pubblicando un avviso di risoluzione sul nostro sito web. Tutti i termini in maiuscolo di seguito hanno lo stesso significato dei Termini di utilizzo.",
+   "terms_of_use_indicate":"Come indicato dai Termini di utilizzo, abbiamo il diritto di terminare il nostro Programma a premi pubblicando un avviso di risoluzione sul nostro sito web. Tutti i termini in maiuscolo di cui sopra hanno lo stesso significato dei Termini di utilizzo.",
    "thank_you_for_participation":"GRAZIE PER LA TUA PARTECIPAZIONE AL NOSTRO PROGRAMMA"
  },
  {
@@ -179,7 +179,7 @@
    "termination_alert":"23時59分以降2023 年 1 月 18 日の EST に、リワード マネーとリワード ポイントは使用できなくなります。",
    "other_information":"その他の情報：",
    "when_you_joined":"当社のリワード プログラムに最初に参加したときは、当社のプログラムを管理する当社のウェブサイトの利用規約に従いました。",
-   "terms_of_use_indicate":"利用規約に示されているように、当社は、当社のウェブサイトに終了通知を掲載することにより、報酬プログラムを終了する権利を有します。以下の大文字で始まる用語はすべて、利用規約と同じ意味を持ちます。",
+   "terms_of_use_indicate":"利用規約に示されているように、当社は、当社のウェブサイトに終了通知を掲載することにより、報酬プログラムを終了する権利を有します。上記の大文字で始まる用語はすべて、利用規約と同じ意味を持ちます。",
    "thank_you_for_participation":"私たちのプログラムにご参加いただきありがとうございます"
  },
  {
@@ -193,7 +193,7 @@
    "termination_alert":"밤 11시 59분 이후 2023년 1월 18일 EST부터 Your Rewards Money 및 Rewards 포인트는 더 이상 사용할 수 없습니다.",
    "other_information":"기타 정보:",
    "when_you_joined":"귀하가 당사 보상 프로그램에 처음 가입했을 때 귀하는 당사 프로그램을 관리하는 당사 웹사이트의 사용 약관에 따라 가입했습니다.",
-   "terms_of_use_indicate":"이용 약관에서 알 수 있듯이 당사는 당사 웹사이트에 종료 통지를 게시하여 보상 프로그램을 종료할 권리가 있습니다. 아래의 대문자로 표시된 모든 용어는 이용 약관에서와 동일한 의미를 갖습니다.",
+   "terms_of_use_indicate":"이용 약관에서 알 수 있듯이 당사는 당사 웹사이트에 종료 통지를 게시하여 보상 프로그램을 종료할 권리가 있습니다. 위의 대문자로 표시된 모든 용어는 이용 약관에서와 동일한 의미를 갖습니다.",
    "thank_you_for_participation":"프로그램에 참여해 주셔서 감사합니다."
  },
  {
@@ -207,7 +207,7 @@
    "termination_alert":"Selepas jam 11:59 malam. EST pada 18 Januari 2023, Wang Ganjaran dan Mata Ganjaran Anda tidak akan dapat digunakan lagi.",
    "other_information":"MAKLUMAT LAIN:",
    "when_you_joined":"Apabila anda mula-mula menyertai Program Ganjaran kami, anda telah mengikut Syarat Penggunaan di tapak web kami, yang mengawal program kami.",
-   "terms_of_use_indicate":"Seperti yang dinyatakan oleh Syarat Penggunaan, kami mempunyai hak untuk menamatkan Program Ganjaran kami dengan menyiarkan notis penamatan di tapak web kami. Semua istilah berhuruf besar di bawah mempunyai maksud yang sama seperti dalam Syarat Penggunaan.",
+   "terms_of_use_indicate":"Seperti yang dinyatakan oleh Syarat Penggunaan, kami mempunyai hak untuk menamatkan Program Ganjaran kami dengan menyiarkan notis penamatan di tapak web kami. Semua istilah berhuruf besar di atas mempunyai maksud yang sama seperti dalam Syarat Penggunaan.",
    "thank_you_for_participation":"TERIMA KASIH ATAS PENYERTAAN ANDA DALAM PROGRAM KAMI"
  },
  {
@@ -221,7 +221,7 @@
    "termination_alert":"Na 23:59 uur EST op 18 januari 2023, zijn uw beloningsgeld en beloningspunten niet langer bruikbaar.",
    "other_information":"ANDERE INFORMATIE:",
    "when_you_joined":"Toen u zich voor het eerst aanmeldde voor ons Beloningsprogramma, deed u dat overeenkomstig de Gebruiksvoorwaarden op onze website, die van toepassing zijn op ons programma.",
-   "terms_of_use_indicate":"Zoals de gebruiksvoorwaarden aangeven, hebben we het recht om ons beloningsprogramma te beëindigen door een beëindigingsbericht op onze website te plaatsen. Alle termen met een hoofdletter hieronder hebben dezelfde betekenis als in de Gebruiksvoorwaarden.",
+   "terms_of_use_indicate":"Zoals de gebruiksvoorwaarden aangeven, hebben we het recht om ons beloningsprogramma te beëindigen door een beëindigingsbericht op onze website te plaatsen. Alle bovenstaande termen met een hoofdletter hebben dezelfde betekenis als in de Gebruiksvoorwaarden.",
    "thank_you_for_participation":"BEDANKT VOOR JE DEELNAME AAN ONS PROGRAMMA"
  },
  {
@@ -235,7 +235,7 @@
    "termination_alert":"Etter klokken 23:59 EST den 18. januar 2023 vil ikke dine belønningspenger og belønningspoeng lenger være brukbare.",
    "other_information":"ANNEN INFORMASJON:",
    "when_you_joined":"Da du først ble med i vårt belønningsprogram, gjorde du det i henhold til vilkårene for bruk på nettstedet vårt, som styrer programmet vårt.",
-   "terms_of_use_indicate":"Som vilkårene for bruk indikerer, har vi rett til å avslutte vårt belønningsprogram ved å legge ut et oppsigelsesvarsel på nettstedet vårt. Alle begrepene med store bokstaver nedenfor har samme betydning som i vilkårene for bruk.",
+   "terms_of_use_indicate":"Som vilkårene for bruk indikerer, har vi rett til å avslutte vårt belønningsprogram ved å legge ut et oppsigelsesvarsel på nettstedet vårt. Alle begrepene med store bokstaver ovenfor har samme betydning som i vilkårene for bruk.",
    "thank_you_for_participation":"TAKK FOR DIN DELTAKELSE I VÅRT PROGRAM"
  },
  {
@@ -249,7 +249,7 @@
    "termination_alert":"Po 23:59 EST w dniu 18 stycznia 2023 r. Twoje pieniądze z programu Rewards i punkty Rewards nie będą już dostępne.",
    "other_information":"INNE INFORMACJE:",
    "when_you_joined":"Kiedy po raz pierwszy dołączyłeś do naszego Programu nagród, zrobiłeś to zgodnie z Warunkami korzystania z naszej witryny internetowej, które regulują nasz program.",
-   "terms_of_use_indicate":"Zgodnie z Warunkami użytkowania mamy prawo do zakończenia naszego Programu nagród poprzez opublikowanie zawiadomienia o zakończeniu na naszej stronie internetowej. Wszystkie poniższe terminy pisane wielką literą mają takie samo znaczenie, jak w Warunkach użytkowania.",
+   "terms_of_use_indicate":"Zgodnie z Warunkami użytkowania mamy prawo do zakończenia naszego Programu nagród poprzez opublikowanie zawiadomienia o zakończeniu na naszej stronie internetowej. Wszystkie powyższe terminy pisane wielką literą mają takie samo znaczenie, jak w Warunkach użytkowania.",
    "thank_you_for_participation":"DZIĘKUJEMY ZA UDZIAŁ W NASZYM PROGRAMIE"
  },
  {
@@ -263,7 +263,7 @@
    "termination_alert":"Depois das 23h59. EST em 18 de janeiro de 2023, seu dinheiro de recompensas e pontos de recompensas não poderão mais ser usados.",
    "other_information":"OUTRA INFORMAÇÃO:",
    "when_you_joined":"Quando você se juntou ao nosso Programa de Recompensas, você o fez de acordo com os Termos de Uso em nosso site, que regem nosso programa.",
-   "terms_of_use_indicate":"Conforme indicam os Termos de Uso, temos o direito de encerrar nosso Programa de Recompensas publicando um aviso de rescisão em nosso site. Todos os termos em letras maiúsculas abaixo têm os mesmos significados que nos Termos de Uso.",
+   "terms_of_use_indicate":"Conforme indicam os Termos de Uso, temos o direito de encerrar nosso Programa de Recompensas publicando um aviso de rescisão em nosso site. Todos os termos em letras maiúsculas acima têm os mesmos significados dos Termos de Uso.",
    "thank_you_for_participation":"OBRIGADO POR SUA PARTICIPAÇÃO EM NOSSO PROGRAMA"
  },
  {
@@ -277,7 +277,7 @@
    "termination_alert":"După ora 23:59. EST pe 18 ianuarie 2023, banii și punctele dvs. de recompense nu vor mai fi utilizabile.",
    "other_information":"ALTE INFORMAȚII:",
    "when_you_joined":"Când v-ați alăturat pentru prima dată programului nostru de recompense, ați făcut-o în conformitate cu Termenii de utilizare de pe site-ul nostru, care guvernează programul nostru.",
-   "terms_of_use_indicate":"După cum indică Termenii de utilizare, avem dreptul de a rezilia Programul nostru de recompense prin publicarea unei notificări de reziliere pe site-ul nostru web. Toți termenii cu majuscule de mai jos au aceleași semnificații ca în Termenii de utilizare.",
+   "terms_of_use_indicate":"După cum indică Termenii de utilizare, avem dreptul de a rezilia Programul nostru de recompense prin publicarea unei notificări de reziliere pe site-ul nostru web. Toți termenii cu majuscule de mai sus au aceleași semnificații ca în Termenii de utilizare.",
    "thank_you_for_participation":"MULȚUMIM PENTRU PARTICIPAREA DVS. LA PROGRAMUL NOSTRU"
  },
  {
@@ -291,7 +291,7 @@
    "termination_alert":"После 23:59 18 января 2023 года по восточному поясному времени ваши бонусные деньги и бонусные баллы больше нельзя будет использовать.",
    "other_information":"ДОПОЛНИТЕЛЬНАЯ ИНФОРМАЦИЯ:",
    "when_you_joined":"Когда вы впервые присоединились к нашей Программе вознаграждений, вы сделали это в соответствии с Условиями использования на нашем веб-сайте, которые регулируют нашу программу.",
-   "terms_of_use_indicate":"Как указано в Условиях использования, мы имеем право прекратить действие нашей Программы вознаграждений, разместив уведомление о прекращении на нашем веб-сайте. Все приведенные ниже термины, написанные с заглавной буквы, имеют те же значения, что и в Условиях использования.",
+   "terms_of_use_indicate":"Как указано в Условиях использования, мы имеем право прекратить действие нашей Программы вознаграждений, разместив уведомление о прекращении на нашем веб-сайте. Все приведенные выше термины, написанные с заглавной буквы, имеют те же значения, что и в Условиях использования.",
    "thank_you_for_participation":"СПАСИБО ЗА УЧАСТИЕ В НАШЕЙ ПРОГРАММЕ"
  },
  {
@@ -305,7 +305,7 @@
    "termination_alert":"Po 23:59 hod. EST dňa 18. januára 2023, vaše odmenové peniaze a odmenové body už nebudú použiteľné.",
    "other_information":"ĎALŠIE INFORMÁCIE:",
    "when_you_joined":"Keď ste sa prvýkrát zapojili do nášho Programu odmien, postupovali ste v súlade s Podmienkami používania na našej webovej stránke, ktoré riadia náš program.",
-   "terms_of_use_indicate":"Ako uvádzajú Podmienky používania, máme právo ukončiť náš program odmien zverejnením oznámenia o ukončení na našej webovej stránke. Všetky výrazy uvedené nižšie majú rovnaký význam ako v podmienkach používania.",
+   "terms_of_use_indicate":"Ako uvádzajú Podmienky používania, máme právo ukončiť náš program odmien zverejnením oznámenia o ukončení na našej webovej stránke. Všetky vyššie uvedené výrazy s veľkými písmenami majú rovnaký význam ako v podmienkach používania.",
    "thank_you_for_participation":"ĎAKUJEME ZA ÚČASŤ V NAŠOM PROGRAME"
  },
  {
@@ -319,7 +319,7 @@
    "termination_alert":"Po 23.59 uri. EST 18. januarja 2023 vaš denar za nagrade in nagradne točke ne bodo več uporabni.",
    "other_information":"DRUGE INFORMACIJE:",
    "when_you_joined":"Ko ste se prvič pridružili našemu programu nagrajevanja, ste ravnali v skladu s pogoji uporabe na naši spletni strani, ki urejajo naš program.",
-   "terms_of_use_indicate":"Kot navajajo pogoji uporabe, imamo pravico prekiniti naš program nagrajevanja z objavo obvestila o prekinitvi na naši spletni strani. Vsi spodnji izrazi z veliko začetnico imajo enak pomen kot v pogojih uporabe.",
+   "terms_of_use_indicate":"Kot navajajo pogoji uporabe, imamo pravico prekiniti naš program nagrajevanja z objavo obvestila o prekinitvi na naši spletni strani. Vsi zgornji izrazi z veliko začetnico imajo enak pomen kot v pogojih uporabe.",
    "thank_you_for_participation":"HVALA ZA SODELOVANJE V NAŠEM PROGRAMU"
  },
  {
@@ -333,7 +333,7 @@
    "termination_alert":"Después de las 23:59 EST del 18 de enero de 2023, su dinero de recompensas y puntos de recompensas ya no se podrán utilizar.",
    "other_information":"OTRA INFORMACIÓN:",
    "when_you_joined":"Cuando se unió por primera vez a nuestro Programa de recompensas, lo hizo de conformidad con los Términos de uso de nuestro sitio web, que rigen nuestro programa.",
-   "terms_of_use_indicate":"Como indican los Términos de uso, tenemos derecho a cancelar nuestro Programa de recompensas mediante la publicación de un aviso de terminación en nuestro sitio web. Todos los términos en mayúscula a continuación tienen los mismos significados que en los Términos de uso.",
+   "terms_of_use_indicate":"Como indican los Términos de uso, tenemos derecho a cancelar nuestro Programa de recompensas mediante la publicación de un aviso de terminación en nuestro sitio web. Todos los términos en mayúscula anteriores tienen los mismos significados que en los Términos de uso.",
    "thank_you_for_participation":"GRACIAS POR SU PARTICIPACIÓN EN NUESTRO PROGRAMA"
  },
  {
@@ -347,7 +347,7 @@
    "termination_alert":"Efter 23:59 EST den 18 januari 2023 kommer dina belöningspengar och belöningspoäng inte längre att vara användbara.",
    "other_information":"ANNAN INFORMATION:",
    "when_you_joined":"När du först gick med i vårt belöningsprogram gjorde du det i enlighet med användarvillkoren på vår webbplats, som styr vårt program.",
-   "terms_of_use_indicate":"Som användarvillkoren anger har vi rätt att avsluta vårt belöningsprogram genom att lägga upp ett meddelande om uppsägning på vår webbplats. Alla termer med versaler nedan har samma betydelser som i användarvillkoren.",
+   "terms_of_use_indicate":"Som användarvillkoren anger har vi rätt att avsluta vårt belöningsprogram genom att lägga upp ett meddelande om uppsägning på vår webbplats. Alla termer med versaler ovan har samma betydelser som i användarvillkoren.",
    "thank_you_for_participation":"TACK FÖR DITT DELTAGANDE I VÅRT PROGRAM"
  },
  {
@@ -361,7 +361,7 @@
    "termination_alert":"หลัง 23.59 น. EST ในวันที่ 18 มกราคม 2023 เงิน Rewards และคะแนน Rewards ของคุณจะไม่สามารถใช้ได้อีกต่อไป",
    "other_information":"ข้อมูลอื่น ๆ:",
    "when_you_joined":"เมื่อคุณเข้าร่วมโปรแกรมรางวัลของเราเป็นครั้งแรก คุณได้ปฏิบัติตามข้อกำหนดการใช้งานบนเว็บไซต์ของเราซึ่งควบคุมโปรแกรมของเรา",
-   "terms_of_use_indicate":"ตามที่ข้อกำหนดการใช้งานระบุไว้ เรามีสิทธิ์ที่จะยุติโปรแกรมรางวัลของเราโดยการโพสต์ประกาศการสิ้นสุดบนเว็บไซต์ของเรา คำที่ใช้อักษรตัวพิมพ์ใหญ่ทั้งหมดด้านล่างมีความหมายเช่นเดียวกับในข้อกำหนดการใช้งาน",
+   "terms_of_use_indicate":"ตามที่ข้อกำหนดการใช้งานระบุไว้ เรามีสิทธิ์ที่จะยุติโปรแกรมรางวัลของเราโดยการโพสต์ประกาศการสิ้นสุดบนเว็บไซต์ของเรา คำที่ใช้อักษรตัวพิมพ์ใหญ่ทั้งหมดข้างต้นมีความหมายเช่นเดียวกับในข้อกำหนดการใช้งาน",
    "thank_you_for_participation":"ขอบคุณสำหรับการมีส่วนร่วมของคุณในโปรแกรมของเรา"
  },
  {
@@ -375,7 +375,7 @@
    "termination_alert":"23:59'dan sonra 18 Ocak 2023'te EST, Ödül Paranız ve Ödül Puanlarınız artık kullanılamayacaktır.",
    "other_information":"DİĞER BİLGİLER:",
    "when_you_joined":"Ödül Programımıza ilk katıldığınızda, programımızı yöneten web sitemizdeki Kullanım Koşullarına göre katıldınız.",
-   "terms_of_use_indicate":"Kullanım Koşullarında belirtildiği gibi, web sitemizde bir fesih bildirimi yayınlayarak Ödül Programımızı feshetme hakkımız vardır. Aşağıdaki büyük harfle yazılmış terimlerin tümü, Kullanım Koşulları'ndaki anlamlarla aynıdır.",
+   "terms_of_use_indicate":"Kullanım Koşullarında belirtildiği gibi, web sitemizde bir fesih bildirimi yayınlayarak Ödül Programımızı feshetme hakkımız vardır. Yukarıdaki büyük harfle yazılmış terimlerin tümü, Kullanım Koşulları'ndaki anlamlarla aynıdır.",
    "thank_you_for_participation":"PROGRAMIMIZA KATILIMINIZ İÇİN TEŞEKKÜR EDERİZ"
  },
  {
@@ -389,7 +389,7 @@
    "termination_alert":"Sau 11:59 tối EST vào ngày 18 tháng 1 năm 2023, Tiền thưởng và Điểm thưởng của bạn sẽ không còn sử dụng được nữa.",
    "other_information":"THÔNG TIN KHÁC:",
    "when_you_joined":"Khi bạn lần đầu tiên tham gia Chương trình phần thưởng của chúng tôi, bạn đã tuân theo Điều khoản sử dụng trên trang web của chúng tôi, điều này chi phối chương trình của chúng tôi.",
-   "terms_of_use_indicate":"Như Điều khoản sử dụng chỉ ra, chúng tôi có quyền chấm dứt Chương trình phần thưởng của mình bằng cách đăng thông báo chấm dứt trên trang web của chúng tôi. Tất cả các thuật ngữ viết hoa dưới đây đều có ý nghĩa tương tự như trong Điều khoản sử dụng.",
+   "terms_of_use_indicate":"Như Điều khoản sử dụng chỉ ra, chúng tôi có quyền chấm dứt Chương trình phần thưởng của mình bằng cách đăng thông báo chấm dứt trên trang web của chúng tôi. Tất cả các thuật ngữ viết hoa ở trên đều có ý nghĩa tương tự như trong Điều khoản sử dụng.",
    "thank_you_for_participation":"CẢM ƠN BẠN ĐÃ THAM GIA CHƯƠNG TRÌNH CỦA CHÚNG TÔI"
  },
  {
@@ -403,7 +403,7 @@
    "termination_alert":"晚上 11:59 之后美国东部时间 2023 年 1 月 18 日，您的奖励资金和奖励积分将不再可用。",
    "other_information":"其他信息：",
    "when_you_joined":"当您第一次加入我们的奖励计划时，您是根据我们网站上管理我们计划的使用条款进行的。",
-   "terms_of_use_indicate":"如使用条款所示，我们有权通过在我们的网站上发布终止通知来终止我们的奖励计划。以下所有大写术语与使用条款中的含义相同。",
+   "terms_of_use_indicate":"如使用条款所示，我们有权通过在我们的网站上发布终止通知来终止我们的奖励计划。以上所有大写术语与使用条款中的含义相同。",
    "thank_you_for_participation":"感谢您参与我们的计划"
  },
  {
@@ -417,7 +417,7 @@
    "termination_alert":"晚上 11:59 之後美國東部時間 2023 年 1 月 18 日，您的獎勵資金和獎勵積分將不再可用。",
    "other_information":"其他信息：",
    "when_you_joined":"當您第一次加入我們的獎勵計劃時，您是根據我們網站上管理我們計劃的使用條款進行的。",
-   "terms_of_use_indicate":"如使用條款所示，我們有權通過在我們的網站上發布終止通知來終止我們的獎勵計劃。以下所有大寫術語與使用條款中的含義相同。",
+   "terms_of_use_indicate":"如使用條款所示，我們有權通過在我們的網站上發布終止通知來終止我們的獎勵計劃。以上所有大寫術語與使用條款中的含義相同。",
    "thank_you_for_participation":"感謝您參與我們的計劃"
  }
 ]
