@@ -1,0 +1,303 @@
+[
+  {
+    "language_name": "English",
+    "pr_code": "eng",
+    "language": "en-US",
+    "subject_variation_1": "Enjoy 50% OFF to Begin your Wellness Resolutions!",
+    "subject_variation_2": "Ring in the New Year with 50% OFF!",
+    "subject_variation_3": "50% OFF your First Step to a Healthier New Year",
+    "subject_variation_4": "Last Shot for 50% OFF to Begin the New Year!!",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Azerbaijani",
+    "pr_code": "aze",
+    "language": "az",
+    "subject_variation_1": "Sağlamlığınıza dair qərarlar verməyə başlamaq üçün 50% ENDİRİMDƏN yararlanın!",
+    "subject_variation_2": "Yeni ilə 50% ENDİRİMLƏ başlayın!",
+    "subject_variation_3": "50% ENDİRİM daha sağlam Yeni İl üçün İlk addımınızdır",
+    "subject_variation_4": "50% ENDİRİM Yeni İlə başlamaq üçün son fürsətdir!",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Bulgarian",
+    "pr_code": "bul",
+    "language": "bg",
+    "subject_variation_1": "Възползвайте се от 50% ОТСТЪПКА в подкрепа на отлагани решения за уелнес! ",
+    "subject_variation_2": "Почувствайте коледното настроение с 50% ОТСТЪПКА!",
+    "subject_variation_3": "50% ОТСТЪПКА, за да положите началото на по-здрава Нова година!",
+    "subject_variation_4": "Последна възможност за 50% ОТСТЪПКА за годината на новото начало!",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Danish",
+    "pr_code": "dan",
+    "language": "da",
+     "subject_variation_1": "Nyd 50% RABAT for at begynde dine wellness-forsætter!",
+    "subject_variation_2": "Ringe det nye år ind med 50% RABAT!",
+    "subject_variation_3": "50% RABAT på dit første skridt mod et sundere nyt år",
+    "subject_variation_4": "Sidste chance for 50% RABAT for at begynde det nye år!",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "German",
+    "pr_code": "deu",
+    "language": "de",
+    "subject_variation_1": "Genießen Sie 50 % RABATT um Ihre Wellness-Vorsätze in die Tat umzusetzen!",
+    "subject_variation_2": "Läuten Sie das neue Jahr mit 50 % RABATT ein!",
+    "subject_variation_3": "50 % RABATT auf Ihren ersten Schritt in ein gesünderes neues Jahr",
+    "subject_variation_4": "Letzte Chance für 5 0% RABATT zum Start ins neue Jahr!",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Greek (modern)",
+    "pr_code": "ell",
+    "language": "el",
+    "subject_variation_1": "Απόλαυσε την ΕΚΠΤΩΣΗ 50% για να Αρχίσεις τα Αποτελέσματα Ευεξίας!",
+    "subject_variation_2": "Μπες στο Νέο Έτος 2023 με την ΕΚΠΤΩΣΗ 50%!",
+    "subject_variation_3": "ΕΚΠΤΩΣΗ 50% είναι το Πρώτο σου Βήμα για το Υγιέστατο Νέο Έτος!",
+    "subject_variation_4": "Τελευταίο Χτύπημα για την ΕΚΠΤΩΣΗ 50% για να Ξεκινήσεις τη Νέα Χρονιά!",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Finnish",
+    "pr_code": "fin",
+    "language": "fi",
+    "subject_variation_1": "Saa 50 % ALENNUSTA hyvinvointipäätöstesi tueksi!",
+    "subject_variation_2": "Toivota uusi vuosi tervetulleeksi 50 %:n ALENNUKSELLA!",
+    "subject_variation_3": "50 % ALENNUSTA ensimmäisestä askeleestasi kohti terveempää uutta vuotta!",
+    "subject_variation_4": "50 % ALENNUSTA ensimmäisestä askeleestasi kohti terveempää uutta vuotta",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "French",
+    "pr_code": "fra",
+    "language": "fr",
+    "subject_variation_1": "Profitez de 50 % de réduction pour commencer à respecter vos résolutions de bien-être !",
+    "subject_variation_2": "Fêtez la nouvelle année avec 50 % de réduction !",
+    "subject_variation_3": "50 % de réduction pour votre premier pas vers une nouvelle année en meilleure santé",
+    "subject_variation_4": "Dernière chance de profiter de 50 % de réduction pour commencer la nouvelle année !",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Croatian",
+    "pr_code": "hrv",
+    "language": "hr",
+    "subject_variation_1": "Uživajte u 50% POPUSTA i započnite svoj Wellness Resolutions!",
+    "subject_variation_2": "Dočekajte Novu godinu sa 50% POPUSTA!",
+    "subject_variation_3": "50% POPUSTA za vaš prvi korak do zdravije Nove godine",
+    "subject_variation_4": "Posljednja prilika za 50% POPUSTA za početak Nove godine!",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Hungarian",
+    "pr_code": "hun",
+    "language": "hu",
+    "subject_variation_1": "Kezdje meg wellness-fogadalmai teljesítését 50% KEDVEZMÉNNYEL!",
+    "subject_variation_2": "Kezdje az új évet 50% KEDVEZMÉNNYEL!",
+    "subject_variation_3": "50% KEDVEZMÉNY az egészségesebb új év felé tett első lépésénél",
+    "subject_variation_4": "Utolsó esély, hogy az új évet 50% KEDVEZMÉNNYEL kezdje!",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Indonesian",
+    "pr_code": "ind",
+    "language": "id",
+    "subject_variation_1": "Dapatkan DISKON 50% untuk Memulai Resolusi Kesehatan Anda!",
+    "subject_variation_2": "Rayakan Tahun Baru dengan DISKON 50%!",
+    "subject_variation_3": "DISKON 50% untuk Mengawali Langkah Pertama Anda menuju Tahun Baru yang Lebih Sehat",
+    "subject_variation_4": "Kesempatan terakhir untuk meraih DISKON 50% dan Mengawali Tahun Baru!",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Italian",
+    "pr_code": "ita",
+    "language": "it",
+    "subject_variation_1": "Approfitta del 50% di sconto per mantenere i tuoi propositi di benessere!",
+    "subject_variation_2": "Inizia il nuovo anno con uno sconto del 50%!",
+    "subject_variation_3": "50% di sconto sul tuo primo passo verso un anno di benessere",
+    "subject_variation_4": "Ultima occasione per iniziare il nuovo anno con il 50% di sconto!",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Japanese",
+    "pr_code": "jpn",
+    "language": "ja",
+    "subject_variation_1": "50%OFFで健康な暮らしを始めましょう！",
+    "subject_variation_2": "50%OFFで新年を迎えましょう！",
+    "subject_variation_3": "50%OFFで健康な新年への第一歩を踏み出しましょう",
+    "subject_variation_4": "50%OFFで新年を迎える最後のチャンス！",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Korean",
+    "pr_code": "kor",
+    "language": "ko",
+    "subject_variation_1": "건강 계획을 실천하기 위한 50% 할인을 즐기세요!",
+    "subject_variation_2": "새해 맞이 50% 할인!",
+    "subject_variation_3": "건강한 새해를 맞이하기 위한 50% 할인",
+    "subject_variation_4": "새해를 시작하는 50% 할인의 마지막 기회!",
+    "subject_variation_5": ""
+  },
+  },
+  {
+    "language_name": "Malay",
+    "pr_code": "msa",
+    "language": "ms",
+    "subject_variation_1": "Nikmati POTONGAN 50% untuk Memulakan Azam Kesejahteraan anda!",
+    "subject_variation_2": "Sambut Tahun Baru dengan POTONGAN 50%!",
+    "subject_variation_3": "POTONGAN 50% sebagai Langkah Pertama untuk Tahun Baru Lebih Sihat",
+    "subject_variation_4": "Peluang Terakhir untuk POTONGAN 50% untuk Memulakan Tahun Baru!",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Dutch",
+    "pr_code": "nld",
+    "language": "nl",
+    "subject_variation_1": "Geniet van 50% KORTING om te beginnen met je welzijnsvoornemens!",
+    "subject_variation_2": "Luid het nieuwe jaar in met 50% KORTING!",
+    "subject_variation_3": "50% KORTING op je eerste stap naar een gezonder nieuw jaar",
+    "subject_variation_4": "Laatste kans voor 50% KORTING om het nieuwe jaar te beginnen!",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Norwegian",
+    "pr_code": "nor",
+    "language": "no",
+    "subject_variation_1": "Få 50 % RABATT for å begynne med velværeresolusjonene!",
+    "subject_variation_2": "Hils det nye året velkommen med 50 % RABATT!",
+    "subject_variation_3": "50 % RABATT på ditt første steg mot et sunnere år",
+    "subject_variation_4": "Siste mulighet for 50 % RABATT for å begynne det nye året!",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Polish",
+    "pr_code": "pol",
+    "language": "pl",
+    "subject_variation_1": "Ciesz się 50% RABATU i rozpocznij swój rozwój wellness!",
+    "subject_variation_2": "Wejdź w Nowy Rok z 50% RABATU!",
+    "subject_variation_3": "50% RABATU na Twój pierwszy krok do zdrowszego Nowego Roku",
+    "subject_variation_4": "Ostatnia szansa na 50% RABATU dla rozpoczęcia Nowego Roku!",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Portuguese",
+    "pr_code": "por",
+    "language": "pt",
+    "subject_variation_1": "Aproveite 50% de desconto para cumprir as resoluções de bem-estar do novo ano!",
+    "subject_variation_2": "Bonança de Ano Novo com 50% de desconto!",
+    "subject_variation_3": "50% de desconto é o primeiro passo para um Ano Novo cheio de saúde",
+    "subject_variation_4": "Última chamada de 50% de desconto para estrear o Ano Novo!",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Romanian",
+    "pr_code": "ron",
+    "language": "ro",
+    "subject_variation_1": "Bucurați-vă de 50% REDUCERE pentru a vă începe rezoluțiile de wellness!",
+    "subject_variation_2": "Intră în noul an cu 50% REDUCERE!",
+    "subject_variation_3": "50% REDUCERE, primul tău pas către un an nou mai sănătos",
+    "subject_variation_4": "Ultima lovitură pentru 50% REDUCERE pentru a începe noul an!",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Russian",
+    "pr_code": "rus",
+    "language": "ru",
+    "subject_variation_1": "Получите скидку 50% и начните свое оздоровление!",
+    "subject_variation_2": "В Новый год со скидкой 50%!",
+    "subject_variation_3": "Скидка 50% на ваш первый шаг к оздоровлению в Новом году",
+    "subject_variation_4": "Последний шанс получить скидку 50% в канун Нового года!",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Slovak",
+    "pr_code": "slk",
+    "language": "sk",
+    "subject_variation_1": "Využite 50 % ZĽAVU a začnite plniť svoje wellness predsavzatia!",
+    "subject_variation_2": "Privítajte nový rok s 50 % ZĽAVOU!",
+    "subject_variation_3": "50 % ZĽAVA na váš prvý krok do zdravšieho nového roka",
+    "subject_variation_4": "Posledná možnosť vstúpiť do nového roka s 50 % ZĽAVOU!",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Slovene",
+    "pr_code": "slv",
+    "language": "sl",
+    "subject_variation_1": "Izkoristite 50 % POPUSTA in začnite sprejemati svoje odločitve o dobrem počutju!",
+    "subject_variation_2": "Vstopite v novo leto s 50 % POPUSTA!",
+    "subject_variation_3": "50% popusta na vaš prvi korak k bolj zdravemu novemu letu",
+    "subject_variation_4": "Zadnji posnetek za 50 % POPUSTA za začetek novega leta!",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Spanish",
+    "pr_code": "spa",
+    "language": "es",
+    "subject_variation_1": "¡Disfrute de un 50 % de DESCUENTO para empezar sus objetivos de salud!",
+    "subject_variation_2": "¡Reciba el Año Nuevo con un 50 % de DESCUENTO!",
+    "subject_variation_3": "50 % DE DESCUENTO en su primer paso hacia un Año Nuevo más saludable",
+    "subject_variation_4": "¡Última oportunidad para empezar el Año Nuevo con un 50 % de DESCUENTO!",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Swedish",
+    "pr_code": "swe",
+    "language": "sv",
+    "subject_variation_1": "¡Njut av 50% OFF för att börja din wellness resolutioner!",
+    "subject_variation_2": "Ring i det nya året med 50% OFF!",
+    "subject_variation_3": "50% OFF ditt första steg till ett hälsosammare nytt år",
+    "subject_variation_4": "Sista bilden för 50% RABATT för att börja det nya året!",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Thai",
+    "pr_code": "tha",
+    "language": "th",
+    "subject_variation_1": "รับส่วนลด 50% เพื่อเริ่มต้นปณิธานสุขภาพดีของคุณ!",
+    "subject_variation_2": "ต้อนรับปีใหม่ด้วยส่วนลด 50%!",
+    "subject_variation_3": "ลด 50% เพื่อก้าวแรกสู่สุขภาพดีปีใหม่",
+    "subject_variation_4": "โอกาสสุดท้ายสำหรับส่วนลด 50% เพื่อเริ่มต้นปีใหม่!",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Turkish",
+    "pr_code": "tur",
+    "language": "tr",
+    "subject_variation_1": "Sağlıklı Yaşam Kararlarınıza Başlamak için % 50 İndirimin Keyfini Çıkarın!",
+    "subject_variation_2": "Yeni Yılı % 50 İndirimle Karşılayın!",
+    "subject_variation_3": "% 50 İndirimle Daha Sağlıklı Bir Yeni Yıla İlk Adımınızı Atın",
+    "subject_variation_4": "Yeni Yıla Yaklaşırken % 50 İndirim için Son Şans!",
+    "subject_variation_5": ""
+  },
+  },
+  {
+    "language_name": "Vietnamese",
+    "pr_code": "vie",
+    "language": "vi",
+    "subject_variation_1": "Tận hưởng GIẢM GIÁ 50% để bắt đầu sử dụng các giải pháp về sức khỏe của bạn!",
+    "subject_variation_2": "Chào đón năm mới với GIẢM GIÁ 50%!",
+    "subject_variation_3": "GIẢM GIÁ 50% Bước đầu tiên để có một năm mới khỏe mạnh hơn",
+    "subject_variation_4": "Cơ hội cuối cùng nhận GIẢM GIÁ 50% để chào đón năm mới!",
+    "subject_variation_5": ""
+  {
+    "language_name": "Chinese Simplified",
+    "pr_code": "zhs",
+    "language": "zh-CHS",
+    "subject_variation_1": "開啟健康計畫，享受五折優惠！",
+    "subject_variation_2": "五折優惠迎新年！",
+    "subject_variation_3": "享五折優惠，新年更健康",
+    "subject_variation_4": "新年五折優惠最後搶購！",
+    "subject_variation_5": ""
+  },
+  {
+    "language_name": "Chinese Traditional",
+    "pr_code": "zht",
+    "language": "zh-CHT",
+    "subject_variation_1": "开启健康计划，享受五折优惠！",
+    "subject_variation_2": "五折优惠迎新年！",
+    "subject_variation_3": "享五折优惠，新年更健康",
+    "subject_variation_4": "新年五折优惠最后抢购！",
+    "subject_variation_5": ""
+  }
+]
