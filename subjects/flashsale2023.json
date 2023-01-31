@@ -5,7 +5,7 @@
     "language": "en-US",
     "subject_variation_1": "3 Day Only FLASH SALE!",
     "subject_variation_2": "HURRY! Flash Sale Ends Soon…",
-    "subject_variation_3": "Cant Miss Deals. Up to 60% OFF ",
+    "pre_header_variation_1": "Cant Miss Deals. Up to 60% OFF ",
     "subject_variation_4": ""
   },
   {
@@ -14,7 +14,7 @@
     "language": "az",
     "subject_variation_1": "Yalnız 3 gün FLASH SATIŞI!",
     "subject_variation_2": "TƏLƏSİN! Flash satışı tezliklə bitəcək…",
-    "subject_variation_3": "Təklifləri qaçırmayın. 60%-ə qədər ENDİRİM",
+    "pre_header_variation_1": "Təklifləri qaçırmayın. 60%-ə qədər ENDİRİM",
     "subject_variation_4": ""
   },
   {
@@ -23,7 +23,7 @@
     "language": "bg",
     "subject_variation_1": "БЪРЗА РАЗПРОДАЖБА! Само 3 дни!",
     "subject_variation_2": "ПОБЪРЗАЙТЕ! Бързата разпродажба почти приключва...",
-    "subject_variation_3": "Изгодни сделки не се изпускат – цели 60% НАМАЛЕНИЕ",
+    "pre_header_variation_1": "Изгодни сделки не се изпускат – цели 60% НАМАЛЕНИЕ",
     "subject_variation_4": ""
   },
   {
@@ -32,7 +32,7 @@
     "language": "da",
     "subject_variation_1": "Kun 3 Dage FLASH SALG!",
     "subject_variation_2": "SKYND DIG! Flash Salg Slutter Snart…",
-    "subject_variation_3": "Gå ikke glip af Tilbud. Op til 60% RABAT",
+    "pre_header_variation_1": "Gå ikke glip af Tilbud. Op til 60% RABAT",
     "subject_variation_4": ""
   },
   {
@@ -41,7 +41,7 @@
     "language": "de",
     "subject_variation_1": "Nur 3 Tage BLITZVERKAUF!",
     "subject_variation_2": "BEEILUNG! Der Blitzverkauf endet bald ...",
-    "subject_variation_3": "Diese Angebote sollten Sie auf keinen Fall verpassen. Bis zu 60 % RABATT",
+    "pre_header_variation_1": "Diese Angebote sollten Sie auf keinen Fall verpassen. Bis zu 60 % RABATT",
     "subject_variation_4": ""
   },
   {
@@ -50,7 +50,7 @@
     "language": "el",
     "subject_variation_1": "ΜΕΓΑ ΕΚΠΤΩΣΗ ΜΟΝΟ ΓΙΑ 3 ΗΜΕΡΕΣ!",
     "subject_variation_2": "ΒΙΑΣΤΕΙΤΕ! Η Μέγα Έκπτωση θα σταματήσει σύντομα...",
-    "subject_variation_3": "Οι Συναλλαγές που Δεν Χάνεις: ΕΚΠΤΩΣΗ ΕΩΣ ΚΑΙ 60%",
+    "pre_header_variation_1": "Οι Συναλλαγές που Δεν Χάνεις: ΕΚΠΤΩΣΗ ΕΩΣ ΚΑΙ 60%",
     "subject_variation_4": ""
   },
   {
@@ -59,7 +59,7 @@
     "language": "fi",
    "subject_variation_1": "Vain 3 päivän PIKA-ALENNUS!",
    "subject_variation_2": "KIIRUHDA! Pika-alennus päättyy pian...",
-   "subject_variation_3": "Ehdottomia tarjouksia. Jopa 60 %:n ALENNUS",
+   "pre_header_variation_1": "Ehdottomia tarjouksia. Jopa 60 %:n ALENNUS",
    "subject_variation_4": ""
   },
   {
@@ -68,7 +68,7 @@
     "language": "fr",
    "subject_variation_1": "VENTE FLASH de 3 jours seulement !",
     "subject_variation_2": "HÂTEZ-VOUS ! La vente flash se terminera bientôt…",
-    "subject_variation_3": "Ne manquez pas ces offres : jusqu'à 60 % de réduction",
+    "pre_header_variation_1": "Ne manquez pas ces offres : jusqu'à 60 % de réduction",
     "subject_variation_4": ""
   },
   {
@@ -77,7 +77,7 @@
     "language": "hr",
     "subject_variation_1": "RASPRODAJA samo 3 dana!",
     "subject_variation_2": "POŽURITE! Rasprodaja završava uskoro...",
-    "subject_variation_3": "Ne propustite super prilike. POPUST i do 60%",
+    "pre_header_variation_1": "Ne propustite super prilike. POPUST i do 60%",
     "subject_variation_4": ""
   },
   {
@@ -86,7 +86,7 @@
     "language": "hu",
     "subject_variation_1": "VILLÁMVÁSÁR csak 3 napig!",
     "subject_variation_2": "SIESSEN! A villámvásár hamarosan véget ér...",
-    "subject_variation_3": "Nem hagyhatja ki ezt az akciót. Akár 60%-os KEDVEZMÉNY",
+    "pre_header_variation_1": "Nem hagyhatja ki ezt az akciót. Akár 60%-os KEDVEZMÉNY",
     "subject_variation_4": ""
   },
   {
@@ -95,7 +95,7 @@
     "language": "id",
    "subject_variation_1": "FLASH SALE Hanya 3 Hari!",
    "subject_variation_2": "BURUAN! Flash Sale Akan Segera Berakhir…",
-   "subject_variation_3": "Jangan Sampai Kehabisan. DISKON Hingga 60%",
+   "pre_header_variation_1": "Jangan Sampai Kehabisan. DISKON Hingga 60%",
    "subject_variation_4": ""
   },
   {
@@ -104,7 +104,7 @@
     "language": "it",
    "subject_variation_1": "OFFERTA LAMPO, solo per 3 giorni!",
    "subject_variation_2": "PRESTO! L'offerta lampo finirà a breve…",
-   "subject_variation_3": "Occasioni imperdibili. Fino al 60% DI SCONTO",
+   "pre_header_variation_1": "Occasioni imperdibili. Fino al 60% DI SCONTO",
    "subject_variation_4": ""
   },
   {
@@ -113,7 +113,7 @@
     "language": "ja",
    "subject_variation_1": "3日間限定フラッシュセール！",
    "subject_variation_2": "お急ぎください！フラッシュセールは終了間近です…",
-   "subject_variation_3": "絶対に見逃せないセールは最大60%OFF",
+   "pre_header_variation_1": "絶対に見逃せないセールは最大60%OFF",
    "subject_variation_4": ""
   },
   {
@@ -122,7 +122,7 @@
     "language": "ko",
    "subject_variation_1": "단 3일간 반짝 할인!",
    "subject_variation_2": "서두르세요! 반짝 할인이 곧 종료됩니다...",
-   "subject_variation_3": "최대 60% 할인을 놓치지 마세요",
+   "pre_header_variation_1": "최대 60% 할인을 놓치지 마세요",
    "subject_variation_4": ""
   },
   {
@@ -131,7 +131,7 @@
     "language": "ms",
    "subject_variation_1": "JUALAN KILAT 3 Hari Sahaja!",
    "subject_variation_2": "CEPAT! Jualan Kilat Akan Berakhir Tidak Lama Lagi…",
-   "subject_variation_3": "Jangan Terlepas Tawaran. Potongan Sehingga 60%",
+   "pre_header_variation_1": "Jangan Terlepas Tawaran. Potongan Sehingga 60%",
    "subject_variation_4": ""
   },
   {
@@ -140,7 +140,7 @@
     "language": "nl",
    "subject_variation_1": "FLITSAANBIEDING voor slechts 3 dagen!",
    "subject_variation_2": "HAAST JE! De flitsaanbieding eindigt binnenkort...",
-   "subject_variation_3": "Niet te missen deals. Tot 60% KORTING",
+   "pre_header_variation_1": "Niet te missen deals. Tot 60% KORTING",
    "subject_variation_4": ""
   },
   {
@@ -149,7 +149,7 @@
     "language": "no",
    "subject_variation_1": "Kun tre dagers LYNSALG!",
    "subject_variation_2": "SKYND DEG! Lynsalget ender snart…",
-   "subject_variation_3": "Tilbud du ikke kan gå glipp av. Opptil 60 % RABATT",
+   "pre_header_variation_1": "Tilbud du ikke kan gå glipp av. Opptil 60 % RABATT",
    "subject_variation_4": ""
   },
   {
@@ -158,7 +158,7 @@
     "language": "pl",
    "subject_variation_1": "Tylko 3 dni BŁYSKAWICZNEJ WYPRZEDAŻY!",
    "subject_variation_2": "ŚPIESZ SIĘ! Błyskawiczna wyprzedaż kończy się niebawem...",
-   "subject_variation_3": "Nie przegap okazji. Aż do 60% TANIEJ",
+   "pre_header_variation_1": "Nie przegap okazji. Aż do 60% TANIEJ",
    "subject_variation_4": ""
   },
   {
@@ -167,7 +167,7 @@
     "language": "pt",
    "subject_variation_1": "LIQUIDAÇÃO RELÂMPAGO apenas por 3 dias!",
    "subject_variation_2": "CORRA! A liquidação relâmpago acaba logo...",
-   "subject_variation_3": "Não perca as ofertas. Até 60% de desconto",
+   "pre_header_variation_1": "Não perca as ofertas. Até 60% de desconto",
    "subject_variation_4": ""
   },
   {
@@ -176,7 +176,7 @@
     "language": "ro",
    "subject_variation_1": "Doar 3 zile REDUCERE FLASH!",
    "subject_variation_2": "GRĂBIȚI-VĂ! Reducerile Flash...",
-   "subject_variation_3": "Oferte care nu trebuie ratate. Reduceri de pana la 60%",
+   "pre_header_variation_1": "Oferte care nu trebuie ratate. Reduceri de pana la 60%",
    "subject_variation_4": ""
   },
   {
@@ -185,7 +185,7 @@
     "language": "ru",
    "subject_variation_1": "РАСПРОДАЖА! Только 3 дня!",
    "subject_variation_2": "ТОРОПИТЕСЬ! Флеш-распродажа подходит к концу…",
-   "subject_variation_3": "Такое нельзя упустить! СКИДКИ до 60%",
+   "pre_header_variation_1": "Такое нельзя упустить! СКИДКИ до 60%",
    "subject_variation_4": ""
   },
   {
@@ -194,7 +194,7 @@
     "language": "sk",
    "subject_variation_1": "Len 3 dni BLESKOVÝ VÝPREDAJ!",
    "subject_variation_2": "PONÁHĽAJTE SA! Bleskový výpredaj končí čoskoro…",
-   "subject_variation_3": "Nenechajte si ujsť ponuky. ZĽAVA až 60%.",
+   "pre_header_variation_1": "Nenechajte si ujsť ponuky. ZĽAVA až 60%.",
    "subject_variation_4": ""
   },
   {
@@ -203,7 +203,7 @@
     "language": "sl",
    "subject_variation_1": "Samo 3 dni BLISKOVITA RAZPRODAJA!",
    "subject_variation_2": "POHITITE! Bliskovita razprodaja se bo kmalu končala…",
-   "subject_variation_3": "Ne smete zamuditi ponudb. Do 60 % UGODNEJE",
+   "pre_header_variation_1": "Ne smete zamuditi ponudb. Do 60 % UGODNEJE",
    "subject_variation_4": ""
   },
   {
@@ -212,7 +212,7 @@
     "language": "es",
    "subject_variation_1": "Solo por 3 días ¡REBAJAS FLASH!",
    "subject_variation_2": "¡APRESÚRATE! Las rebajas flash terminan pronto...",
-   "subject_variation_3": "No te pierdas las ofertas. Hasta el 60 % de DESCUENTO",
+   "pre_header_variation_1": "No te pierdas las ofertas. Hasta el 60 % de DESCUENTO",
    "subject_variation_4": ""
   },
   {
@@ -221,7 +221,7 @@
     "language": "sv",
     "subject_variation_1": "Endast 3 dagars FLASH-FÖRSÄLJNING!",
    "subject_variation_2": "Skynda dig! Flash-försäljning slutar snart…",
-   "subject_variation_3": "Erbjudanden du inte kan missa. Upp till 60% RABATT ",
+   "pre_header_variation_1": "Erbjudanden du inte kan missa. Upp till 60% RABATT ",
    "subject_variation_4": ""
   },
   {
@@ -230,7 +230,7 @@
     "language": "th",
    "subject_variation_1": "ลดกระหน่ำ 3 วันเท่านั้น!",
    "subject_variation_2": "รีบหน่อย! แฟลชเซลล์จะสิ้นสุดเร็ว ๆ นี้...",
-   "subject_variation_3": "พลาดไม่ได้กับข้อเสนอสุดพิเศษ ลดสูงสุด 60%",
+   "pre_header_variation_1": "พลาดไม่ได้กับข้อเสนอสุดพิเศษ ลดสูงสุด 60%",
    "subject_variation_4": ""
   },
   {
@@ -239,7 +239,7 @@
     "language": "tr",
    "subject_variation_1": "Sadece 3 Gün FLAŞ İNDİRİM!",
    "subject_variation_2": "ACELE ET! Flaş İndirim Yakında Bitiyor…",
-   "subject_variation_3": "Kaçırılmayacak Fırsatlar. % 60'a varan İNDİRİM",
+   "pre_header_variation_1": "Kaçırılmayacak Fırsatlar. % 60'a varan İNDİRİM",
    "subject_variation_4": ""
   },
   {
@@ -248,7 +248,7 @@
     "language": "vi",
    "subject_variation_1": "Chỉ còn 3 ngày là kết thúc chương trình FLASH SALE!",
    "subject_variation_2": "NHANH TAY LÊN! Chương trình Flash Sale sẽ sớm kết thúc...",
-   "subject_variation_3": "Đừng bỏ lỡ ưu đãi. GIẢM GIÁ LÊN ĐẾN 60%",
+   "pre_header_variation_1": "Đừng bỏ lỡ ưu đãi. GIẢM GIÁ LÊN ĐẾN 60%",
    "subject_variation_4": ""
   },
   {
@@ -257,7 +257,7 @@
     "language": "zh-CHS",
    "subject_variation_1": "闪购仅限 3 天！",
    "subject_variation_2": "抓紧时间！闪购即将结束……",
-   "subject_variation_3": "优惠不容错过。抵制四折优惠",
+   "pre_header_variation_1": "优惠不容错过。抵制四折优惠",
    "subject_variation_4": ""
   },
   {
@@ -266,7 +266,7 @@
     "language": "zh-CHT",
    "subject_variation_1": "閃購僅限 3 天！",
    "subject_variation_2": "抓緊時間！閃購即將結束⋯⋯",
-   "subject_variation_3": "優惠不容錯過。低至四折優惠",
+   "pre_header_variation_1": "優惠不容錯過。低至四折優惠",
    "subject_variation_4": ""
   }
 ]
