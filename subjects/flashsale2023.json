@@ -21,27 +21,19 @@
     "language_name": "Bulgarian",
     "pr_code": "bul",
     "language": "bg",
-    "subject_variation_1": "Не забравяйте, НАМАЛЕНИЕТО с 30% свършва утре!",
-    "subject_variation_2": "Времето изтича! Намалението с 30% свършва утре!",
-    "subject_variation_3": "ПОСЛЕДЕН ШАНС! Намалението с 30% свършва скоро",
-    "subject_variation_4": "ПОСЛЕДЕН ШАНС! Намалението с 30% свършва утре!",
-    "subject_variation_5": "ОСТАВА ЕДНИ ДЕН! Намалението с 30% свършва скоро",
-    "subject_variation_6": "ПОБЪРЗАЙТЕ! Намалението с 30% свършва утре",
-    "subject_variation_7": "ПОБЪРЗАЙТЕ! Намалението с 30% свършва скоро!",
-    "subject_variation_8": ""
+    "subject_variation_1": "БЪРЗА РАЗПРОДАЖБА! Само 3 дни!",
+    "subject_variation_2": "ПОБЪРЗАЙТЕ! Бързата разпродажба почти приключва...",
+    "subject_variation_3": "Изгодни сделки не се изпускат – цели 60% НАМАЛЕНИЕ",
+    "subject_variation_4": ""
   },
   {
     "language_name": "Danish",
     "pr_code": "dan",
     "language": "da",
-    "subject_variation_1": "Glem det ikke, 30 % RABAT slutter i morgen!",
-    "subject_variation_2": "Tiden løber ud. 30 % rabat slutter snart!",
-    "subject_variation_3": "SIDSTE CHANCE! 30 % RABAT slutter snart",
-    "subject_variation_4": "SIDSTE CHANCE! 30 % RABAT slutter i morgen!",
-    "subject_variation_5": "EN DAG TILBAGE! 30 % RABAT slutter snart",
-    "subject_variation_6": "SKYND DIG! 30 % RABAT slutter i morgen",
-    "subject_variation_7": "SKYND DIG! 30 % RABAT slutter snart!",
-    "subject_variation_8": ""
+    "subject_variation_1": "БЪРЗА РАЗПРОДАЖБА! Само 3 дни!",
+    "subject_variation_2": "ПОБЪРЗАЙТЕ! Бързата разпродажба почти приключва...",
+    "subject_variation_3": "Изгодни сделки не се изпускат – цели 60% НАМАЛЕНИЕ",
+    "subject_variation_4": ""
   },
   {
     "language_name": "German",
