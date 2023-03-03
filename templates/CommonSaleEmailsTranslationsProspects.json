@@ -71,7 +71,7 @@
     "valid_1611": "This offer is only valid for item number 1611.",
     "purchase_1": "PURCHASE",
     "a": "A",
-    "20_off": ""
+    "20_off": "20 OFF"
   },
   {
     "language_name": "Azerbaijani",
@@ -145,7 +145,7 @@
     "valid_1611": "Bu təklif yalnız 1611. nömrəli maddə üçün etibarlıdır",
     "purchase_1": "ALIŞ",
     "a": "Bir",
-    "20_off": ""
+    "20_off": "20%endirim"
   },
   {
     "language_name": "Bulgarian",
@@ -219,7 +219,7 @@
     "valid_1611": "Тази оферта е валидна само за номер 1611.",
     "purchase_1": "Покупка",
     "a": "А.",
-    "20_off": ""
+    "20_off": "20%ОТСТЪПКА"
   },
   {
     "language_name": "Danish",
@@ -293,7 +293,7 @@
     "valid_1611": "Dette tilbud gælder kun for varenummer 1611.",
     "purchase_1": "KØB",
     "a": "EN",
-    "20_off": ""
+    "20_off": "20%RABAT"
   },
   {
     "language_name": "German",
@@ -367,7 +367,7 @@
     "valid_1611": "Dieses Angebot gilt nur für die Artikelnummer 1611.",
     "purchase_1": "KAUFEN",
     "a": "EIN",
-    "20_off": ""
+    "20_off": "20%RABATT"
   },
   {
     "language_name": "Greek (modern)",
@@ -441,7 +441,7 @@
     "valid_1611": "Αυτή η προσφορά ισχύει μόνο για τον αριθμό του στοιχείου 1611.",
     "purchase_1": "ΑΓΟΡΑ",
     "a": "ΕΝΑ",
-    "20_off": ""
+    "20_off": "ΕΚΠΤΩΣΗ 20%"
   },
   {
     "language_name": "Finnish",
@@ -515,7 +515,7 @@
     "valid_1611": "Tämä tarjous on voimassa vain kohteen numero 1611.",
     "purchase_1": "OSTAA",
     "a": "A",
-    "20_off": ""
+    "20_off": "20%ALENNUS"
   },
   {
     "language_name": "French",
@@ -589,7 +589,7 @@
     "valid_1611": "Cette offre n'est valable que pour le numéro d'article 1611.",
     "purchase_1": "ACHAT",
     "a": "UNE",
-    "20_off": ""
+    "20_off": "30 % de réduction"
   },
   {
     "language_name": "Croatian",
@@ -663,7 +663,7 @@
     "valid_1611": "Ova ponuda vrijedi samo za stavku broj 1611.",
     "purchase_1": "KUPITI",
     "a": "A",
-    "20_off": ""
+    "20_off": "20%POPUSTA"
   },
   {
     "language_name": "Hungarian",
@@ -737,7 +737,7 @@
     "valid_1611": "Ez az ajánlat csak az 1611.-es tételszámra érvényes",
     "purchase_1": "VÁSÁRLÁS",
     "a": "A",
-    "20_off": ""
+    "20_off": "20%ENGEDMÉNY"
   },
   {
     "language_name": "Indonesian",
@@ -811,7 +811,7 @@
     "valid_1611": "Penawaran ini hanya berlaku untuk item nomor 1611.",
     "purchase_1": "PEMBELIAN",
     "a": "SEBUAH",
-    "20_off": ""
+    "20_off": "DISKON 20%"
   },
   {
     "language_name": "Italian",
@@ -885,7 +885,7 @@
     "valid_1611": "Questa offerta è valida solo per il numero dell'articolo 1611.",
     "purchase_1": "ACQUISTA",
     "a": "UN",
-    "20_off": ""
+    "20_off": "20%DI SCONTO"
   },
   {
     "language_name": "Japanese",
@@ -959,7 +959,7 @@
     "valid_1611": "このオファーはアイテム番号1611.にのみ有効です",
     "purchase_1": "購入",
     "a": "a",
-    "20_off": ""
+    "20_off": "20%オフ"
   },
   {
     "language_name": "Korean",
@@ -1033,7 +1033,7 @@
     "valid_1611": "이 제안은 항목 번호 1611.에만 유효합니다",
     "purchase_1": "구입",
     "a": "ㅏ",
-    "20_off": ""
+    "20_off": "20%할인"
   },
   {
     "language_name": "Malay",
@@ -1107,7 +1107,7 @@
     "valid_1611": "Tawaran ini hanya sah untuk nombor item 1611.",
     "purchase_1": "Pembelian.",
     "a": "A.",
-    "20_off": ""
+    "20_off": "POTONGAN 20%"
   },
   {
     "language_name": "Dutch",
@@ -1181,7 +1181,7 @@
     "valid_1611": "Deze aanbieding is alleen geldig voor artikelnummer 1611.",
     "purchase_1": "AANKOOP",
     "a": "EEN",
-    "20_off": ""
+    "20_off": "20%KORTING"
   },
   {
     "language_name": "Norwegian",
@@ -1255,7 +1255,7 @@
     "valid_1611": "Dette tilbudet er bare gyldig for varenummer 1611.",
     "purchase_1": "KJØP",
     "a": "EN",
-    "20_off": ""
+    "20_off": "20%RABATT"
   },
   {
     "language_name": "Polish",
@@ -1329,7 +1329,7 @@
     "valid_1611": "Ta oferta jest ważna tylko dla numeru przedmiotu 1611.",
     "purchase_1": "ZAKUP",
     "a": "A",
-    "20_off": ""
+    "20_off": "20%ZNIŻKI"
   },
   {
     "language_name": "Portuguese",
@@ -1403,7 +1403,7 @@
     "valid_1611": "Esta oferta é válida apenas para o número do item 1611.",
     "purchase_1": "COMPRAR",
     "a": "UMA",
-    "20_off": ""
+    "20_off": "20%DE DESCONTO"
   },
   {
     "language_name": "Romanian",
@@ -1477,7 +1477,7 @@
     "valid_1611": "Această ofertă este valabilă numai pentru numărul 1611.",
     "purchase_1": "CUMPĂRARE",
     "a": "A",
-    "20_off": ""
+    "20_off": "20%REDUCERE"
   },
   {
     "language_name": "Russian",
@@ -1551,7 +1551,7 @@
     "valid_1611": "Это предложение действительно только для позиции № 1611.",
     "purchase_1": "ПОКУПКА",
     "a": "А.",
-    "20_off": ""
+    "20_off": "РАСПРОДАЖА 20%"
   },
   {
     "language_name": "Slovak",
@@ -1625,7 +1625,7 @@
     "valid_1611": "Táto ponuka platí len pre číslo položky 1611.",
     "purchase_1": "Nákupu",
     "a": "A",
-    "20_off": ""
+    "20_off": "20%VÝPREDAJ"
   },
   {
     "language_name": "Slovene",
@@ -1699,7 +1699,7 @@
     "valid_1611": "Ta ponudba velja le za številko 1611.",
     "purchase_1": "Nakup",
     "a": "A.",
-    "20_off": ""
+    "20_off": "20%POPUSTA "
   },
   {
     "language_name": "Spanish",
@@ -1773,7 +1773,7 @@
     "valid_1611": "Esta oferta solo es válida para el número de artículo 1611.",
     "purchase_1": "COMPRA",
     "a": "A",
-    "20_off": ""
+    "20_off": "20 % DE DESCUENTO "
   },
   {
     "language_name": "Swedish",
@@ -1847,7 +1847,7 @@
     "valid_1611": "Detta erbjudande gäller endast för artikelnummer 1611.",
     "purchase_1": "INKÖP",
     "a": "A",
-    "20_off": ""
+    "20_off": "20%rabatt "
   },
   {
     "language_name": "Thai",
@@ -1921,7 +1921,7 @@
     "valid_1611": "ข้อเสนอนี้ใช้ได้เฉพาะสำหรับหมายเลขรายการ 1611. เท่านั้น",
     "purchase_1": "ซื้อ",
     "a": "ให้",
-    "20_off": ""
+    "20_off": "ลดราคา 20%"
   },
   {
     "language_name": "Turkish",
@@ -1995,7 +1995,7 @@
     "valid_1611": "Bu teklif sadece 1611. numarası için geçerlidir.",
     "purchase_1": "SATIN ALMA",
     "a": "A",
-    "20_off": ""
+    "20_off": "%20 İNDİRİM "
   },
   {
     "language_name": "Vietnamese",
@@ -2069,7 +2069,7 @@
     "valid_1611": "Ưu đãi này chỉ có giá trị cho số số 1611.",
     "purchase_1": "MUA HÀNG",
     "a": "MỘT",
-    "20_off": ""
+    "20_off": "GIẢM 20%"
   },
   {
     "language_name": "Chinese Simplified",
@@ -2143,7 +2143,7 @@
     "valid_1611": "此优惠仅适用于项目编号1611.",
     "purchase_1": "购买",
     "a": "一个",
-    "20_off": ""
+    "20_off": "20% 折扣"
   },
   {
     "language_name": "Chinese Traditional",
@@ -2217,6 +2217,6 @@
     "valid_1611": "此優惠僅適用於項目編號1611.",
     "purchase_1": "購買",
     "a": "一個",
-    "20_off": ""
+    "20_off": "20% 折扣"
   }
 ]
