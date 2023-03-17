@@ -12,7 +12,10 @@
     "subject_variation_7": "OPEN NOW to reveal the Best Offer Ever",
     "subject_variation_8": "We Upped Your Discount, Shop Now for 40% OFF!",
     "subject_variation_9": "Big Score… You Earned 40% OFF Your Next Order!",
-    "subject_variation_10": "Last chance to get 40% off!"
+    "subject_variation_10": "Last chance to get 40% off!",
+    "subject_variation_11": "Last chance to get 20% off!"
+    
+    
   },
   {
     "language_name": "Azerbaijani",
@@ -27,7 +30,8 @@
     "subject_variation_7": "Ən yaxşI təklifi görmək üçün İNDİ AÇIN",
     "subject_variation_8": "Biz endiriminizi artırdıq, indi 40% ENDİRİM ilə alış-veriş edin!",
     "subject_variation_9": "Böyük uduş... Növbəti sifarişiniz üçün 40% ENDİRİM qazandınız!",
-    "subject_variation_10": "40% endirim əldə etmək üçün son şans!"
+    "subject_variation_10": "40% endirim əldə etmək üçün son şans!",
+    "subject_variation_11": "20% endirim əldə etmək üçün son şans!"
   },
   {
     "language_name": "Bulgarian",
@@ -42,7 +46,8 @@
     "subject_variation_7": "ОТВОРЕТЕ ОЩЕ СЕГА, за да разкриете най-добрата оферта",
     "subject_variation_8": "Вече Ви предлагаме по-висока отстъпка. Пазарувайте с цели 40% отстъпка!",
     "subject_variation_9": "Отличен резултат... Спечелихте 40% ОТСТЪПКА от следващата си поръчка!",
-    "subject_variation_10": "Последен шанс да получите 40% отстъпка!"
+    "subject_variation_10": "Последен шанс да получите 40% отстъпка!",
+    "subject_variation_11": "Последен шанс да получите 20% отстъпка!"
   },
   {
     "language_name": "Danish",
@@ -57,7 +62,8 @@
     "subject_variation_7": "ÅBN NU for at se det bedste tilbud nogensinde",
     "subject_variation_8": "Vi har gjort din rabat større, shop nu med 40 % RABAT!",
     "subject_variation_9": "Stor gevinst ... du kan få 40 % RABAT på din næste ordre!",
-    "subject_variation_10": "Sidste chance for at få 40 % rabat!"
+    "subject_variation_10": "Sidste chance for at få 40 % rabat!",
+    "subject_variation_11": "Sidste chance for at få 20 % rabat!"
   },
   {
     "language_name": "German",
@@ -72,7 +78,8 @@
     "subject_variation_7": "JETZT ÖFFNEN, das beste Angebot aller Zeiten zu finden",
     "subject_variation_8": "Unsere Rabatte sind gestiegen, kaufen Sie mit 40 % Rabatt ein!",
     "subject_variation_9": "Toller Treffer... Sie erhalten 40 % auf Ihre nächste Bestellung!",
-    "subject_variation_10": "Die letzte Chance auf 40 % Rabatt!"
+    "subject_variation_10": "Die letzte Chance auf 40 % Rabatt!",
+    "subject_variation_11": "Die letzte Chance auf 20 % Rabatt!"
   },
   {
     "language_name": "Greek (modern)",
@@ -87,7 +94,8 @@
     "subject_variation_7": "ΑΝΟΙΞΤΕ ΤΩΡΑ για να αποκαλύψετε την καλύτερη προσφορά που έγινε ποτέ",
     "subject_variation_8": "Αυξήσαμε την έκπτωση σας, ψωνίστε τώρα με ΕΚΠΤΩΣΗ 40%!",
     "subject_variation_9": "Συγχαρητήρια… Κερδίσατε ΕΚΠΤΩΣΗ 40% στην επόμενη παραγγελία σας!",
-    "subject_variation_10": "Τελευταία ευκαιρία για έκπτωση 40%!"
+    "subject_variation_10": "Τελευταία ευκαιρία για έκπτωση 40%!",
+    "subject_variation_11": "Τελευταία ευκαιρία για έκπτωση 20%!"
   },
   {
     "language_name": "Finnish",
@@ -102,7 +110,8 @@
     "subject_variation_7": "AVAA NYT ja paljasta kaikkien aikojen paras tarjous",
     "subject_variation_8": "Korotimme alennustasi, shoppaile nyt 40 % alennuksella!",
     "subject_variation_9": "Big Score… Ansaitsit 40 % alennuksen seuraavasta tilauksestasi!",
-    "subject_variation_10": "Viimeinen mahdollisuus saada 40 % alennus!"
+    "subject_variation_10": "Viimeinen mahdollisuus saada 40 % alennus!",
+    "subject_variation_11": "Viimeinen mahdollisuus saada 20 % alennus!"
   },
   {
     "language_name": "French",
@@ -117,7 +126,8 @@
     "subject_variation_7": "OUVREZ MAINTENANT pour découvrir la meilleure offre jamais vue",
     "subject_variation_8": "Nous avons augmenté votre remise, faites maintenant vos achats avec une RÉDUCTION DE 40 % !",
     "subject_variation_9": "Bravo... Vous avez gagnez 40 % DE RÉDUCTION sur votre prochaine commande !",
-    "subject_variation_10": "Dernière opportunité de bénéficier de 40 % de réduction !"
+    "subject_variation_10": "Dernière opportunité de bénéficier de 40 % de réduction !",
+    "subject_variation_11": "Dernière opportunité de bénéficier de 20 % de réduction !"
   },
   {
     "language_name": "Croatian",
@@ -132,7 +142,8 @@
     "subject_variation_7": "OTVORITE SADA kako biste otkrili najbolje ponude ikad",
     "subject_variation_8": "Ažurirali smo vaš popust, kupujte sada uz 40% POPUSTA!",
     "subject_variation_9": "Veliki zgoditak... Osvojili ste 40% POPUSTA pri svojoj sljedećoj narudžbi!",
-    "subject_variation_10": "Zadnja šansa za osvojiti 40% popusta!"
+    "subject_variation_10": "Zadnja šansa za osvojiti 40% popusta!",
+    "subject_variation_11": "Zadnja šansa za osvojiti 20% popusta!"
   },
   {
     "language_name": "Hungarian",
@@ -147,7 +158,8 @@
     "subject_variation_7": "NYISSA KI MOST a legjobb ajánlatokért",
     "subject_variation_8": "Megnöveltük engedményét, vásároljon most 40% kedvezménnyel!",
     "subject_variation_9": "Szép munka... a következő rendeléséből 40%-os KEDVEZMÉNYT kap!",
-    "subject_variation_10": "Utolsó esély a 40%-os engedményre!"
+    "subject_variation_10": "Utolsó esély a 40%-os engedményre!",
+    "subject_variation_11": "Utolsó esély a 20%-os engedményre!"
   },
   {
     "language_name": "Indonesian",
@@ -162,7 +174,8 @@
     "subject_variation_7": "BUKA SEKARANG untuk melihat Penawaran Terbaik",
     "subject_variation_8": "Kami Meningkatkan Diskon Anda, Belanja Sekarang dengan DISKON 40%!",
     "subject_variation_9": "Untung Besar… Anda Berhak atas DISKON 40% untuk Pesanan Selanjutnya!",
-    "subject_variation_10": "Kesempatan terakhir mendapatkan diskon 40%!"
+    "subject_variation_10": "Kesempatan terakhir mendapatkan diskon 40%!",
+    "subject_variation_11": "Kesempatan terakhir mendapatkan diskon 20%!"
   },
   {
     "language_name": "Italian",
@@ -177,7 +190,8 @@
     "subject_variation_7": "APRI ORA per scoprire l'offerta migliore di sempre",
     "subject_variation_8": "Abbiamo aumentato il tuo sconto, risparmia il 40% sul tuo prossimo ordine!",
     "subject_variation_9": "Fantastico! Ti sei guadagnato uno sconto del 40% sul tuo prossimo ordine!",
-    "subject_variation_10": "Ultima occasione per ottenere uno sconto del 40%!"
+    "subject_variation_10": "Ultima occasione per ottenere uno sconto del 40%!",
+    "subject_variation_11": "Ultima occasione per ottenere uno sconto del 20%!"
   },
   {
     "language_name": "Japanese",
@@ -192,7 +206,8 @@
     "subject_variation_7": "今すぐオープン、これまでにない最高のオファー！",
     "subject_variation_8": "お客様の割引を引き上げました、40％オフで今すぐご購入を！",
     "subject_variation_9": "大チャンス… 次の注文は40％オフ！",
-    "subject_variation_10": "40％オフの最後のチャンス！"
+    "subject_variation_10": "40％オフの最後のチャンス！",
+    "subject_variation_11": "20％オフの最後のチャンス！"
   },
   {
     "language_name": "Korean",
@@ -207,7 +222,8 @@
     "subject_variation_7": "지금 열어서 최고의 할인 혜택을 확인해보세요",
     "subject_variation_8": "보다 높은 할인율을 적용했습니다. 40% 할인 혜택을 누려보세요!",
     "subject_variation_9": "굉장하네요... 다음 주문 시 40% 할인이 적용됩니다!",
-    "subject_variation_10": "40% 할인을 받을 마지막 기회입니다!"
+    "subject_variation_10": "40% 할인을 받을 마지막 기회입니다!",
+    "subject_variation_11": "20% 할인을 받을 마지막 기회입니다!"
   },
   {
     "language_name": "Malay",
@@ -222,7 +238,8 @@
     "subject_variation_7": "BUKA SEKARANG untuk mendedahkan Tawaran Terbaik yang Pernah Diberikan",
     "subject_variation_8": "Kami Menaikkan Diskaun untuk Anda, Beli Sekarang untuk POTONGAN 40%!",
     "subject_variation_9": "Kejayaan Besar… Anda Memperoleh POTONGAN 40% bagi Pesanan Berikut Anda!",
-    "subject_variation_10": "Peluang terakhir untuk mendapatkan potongan 40%!"
+    "subject_variation_10": "Peluang terakhir untuk mendapatkan potongan 40%!",
+    "subject_variation_11": "Peluang terakhir untuk mendapatkan potongan 20%!"
   },
   {
     "language_name": "Dutch",
@@ -237,7 +254,8 @@
     "subject_variation_7": "OPEN NU om de beste aanbieding ooit te onthullen",
     "subject_variation_8": "We hebben uw korting verhoogd, shop nu met 40% KORTING!",
     "subject_variation_9": "U scoort flink... U krijgt 40% KORTING op uw volgende bestelling!",
-    "subject_variation_10": "Laatste kans op 40% korting!"
+    "subject_variation_10": "Laatste kans op 40% korting!",
+    "subject_variation_11": "Laatste kans op 20% korting!"
   },
   {
     "language_name": "Norwegian",
@@ -252,7 +270,8 @@
     "subject_variation_7": "ÅPNE NÅ for å avsløre det beste tilbudet noensinne",
     "subject_variation_8": "Vi økte rabatten din, kjøp nå for 40 % rabatt!",
     "subject_variation_9": "Stor poengsum ... Du fikk 40 % på din neste bestilling!",
-    "subject_variation_10": "Siste sjanse til å få 40 % rabatt!"
+    "subject_variation_10": "Siste sjanse til å få 40 % rabatt!",
+    "subject_variation_11": "Siste sjanse til å få 20 % rabatt!"
   },
   {
     "language_name": "Polish",
@@ -267,7 +286,8 @@
     "subject_variation_7": "OTWÓRZ TERAZ, aby odkryć najlepszą ofertę w historii",
     "subject_variation_8": "Podwyższyliśmy Twój rabat. Zrób zakupy teraz z 40% RABATEM!",
     "subject_variation_9": "Duża sprawa… Otrzymujesz 40% RABATU na swoje następne zamówienie!",
-    "subject_variation_10": "Ostatnia szansa na uzyskanie 40% rabatu!"
+    "subject_variation_10": "Ostatnia szansa na uzyskanie 40% rabatu!",
+    "subject_variation_11": "Ostatnia szansa na uzyskanie 20% rabatu!"
   },
   {
     "language_name": "Portuguese",
@@ -282,7 +302,8 @@
     "subject_variation_7": "ABRA AGORA e revele a melhor oferta de todos os tempos",
     "subject_variation_8": "Aumentamos o seu desconto para 40%, compre já!",
     "subject_variation_9": "Incrível! Você ganhou 40% para usar no seu próximo pedido!",
-    "subject_variation_10": "Última chance de faturar 40% de desconto!"
+    "subject_variation_10": "Última chance de faturar 40% de desconto!",
+    "subject_variation_11": "Última chance de faturar 20% de desconto!"
   },
   {
     "language_name": "Romanian",
@@ -297,7 +318,8 @@
     "subject_variation_7": "DESCHIDE ACUM pentru a descoperi cea mai bună ofertă văzută vreodată",
     "subject_variation_8": "Ți-am mărit reducerea, cumpără acum cu 40% REDUCERE!",
     "subject_variation_9": "Punctaj maxim... Ai câștigat 40% REDUCERE la următoarea ta comandă!",
-    "subject_variation_10": "Ultima șansă de a primi reducerea de 40%!"
+    "subject_variation_11": "Ultima șansă de a primi reducerea de 40%!",
+    "subject_variation_10": "Ultima șansă de a primi reducerea de 20%!"
   },
   {
     "language_name": "Russian",
@@ -312,7 +334,8 @@
     "subject_variation_7": "ОТКРОЙТЕ, чтобы получить лучшее предложение в истории",
     "subject_variation_8": "Мы увеличили вашу скидку, покупайте прямо сейчас со скидкой 40%!",
     "subject_variation_9": "Отличный результат... Вы заслужили скидку 40% на следующий заказ!",
-    "subject_variation_10": "Последний шанс получить скидку 40%!"
+    "subject_variation_10": "Последний шанс получить скидку 40%!",
+    "subject_variation_11": "Последний шанс получить скидку 20%!"
   },
   {
     "language_name": "Slovak",
@@ -327,7 +350,8 @@
     "subject_variation_7": "OTVORTE TERAZ, aby ste odhalili historicky najlepšiu ponuku",
     "subject_variation_8": "Zvýšili sme vám zľavu, nakupujte teraz so ZĽAVOU 40 %!",
     "subject_variation_9": "Vysoké skóre... Získali ste 40 % z vašej ďalšej objednávky!",
-    "subject_variation_10": "Posledná šanca získať 40 % zľavu!"
+    "subject_variation_10": "Posledná šanca získať 40 % zľavu!",
+    "subject_variation_11": "Posledná šanca získať 20 % zľavu!"
   },
   {
     "language_name": "Slovene",
@@ -342,7 +366,8 @@
     "subject_variation_7": "ODPRITE ZDAJ in razkrijte najboljšo ponudbo doslej",
     "subject_variation_8": "Povečali smo vaš popust, nakupujte zdaj s 40-odstotnim POPUSTOM!",
     "subject_variation_9": "Velik rezultat… prislužili ste si 40-odstotni POPUST pri naslednjem naročilu!",
-    "subject_variation_10": "Zadnja priložnost za 40-odstotni popust!"
+    "subject_variation_10": "Zadnja priložnost za 40-odstotni popust!",
+    "subject_variation_11": "Zadnja priložnost za 20-odstotni popust!"
   },
   {
     "language_name": "Spanish",
@@ -358,6 +383,7 @@
     "subject_variation_8": "Aumentamos su descuento, ¡compre y ahorre un 40%!",
     "subject_variation_9": "¡Felicidades! ¡Ha ganado un 40% de descuento en su próximo pedido!",
     "subject_variation_10": "¡Última oportunidad para obtener un 40% de descuento!"
+    "subject_variation_11": "¡Última oportunidad para obtener un 20% de descuento!"
   },
   {
     "language_name": "Swedish",
@@ -372,7 +398,8 @@
     "subject_variation_7": "ÖPPNA NU för att avslöja det bästa erbjudandet någonsin",
     "subject_variation_8": "Vi höjde din rabatt, handla nu för 40% RABATT!",
     "subject_variation_9": "Stora poäng... du tjänat 40% RABATT för din nästa beställning!",
-    "subject_variation_10": "Sista chansen att få 40% rabatt!"
+    "subject_variation_10": "Sista chansen att få 40% rabatt!",
+    "subject_variation_11": "Sista chansen att få 20% rabatt!"
   },
   {
     "language_name": "Thai",
@@ -387,7 +414,8 @@
     "subject_variation_7": "เปิดตอนนี้เพื่อดูข้อเสนอที่ดีที่สุดตลอดกาล",
     "subject_variation_8": "เราเพิ่มส่วนลดให้คุณแล้ว ช้อปเลยตอนนี้พร้อมส่วนลด 40%!",
     "subject_variation_9": "คะแนนสูง… คุณได้รับส่วนลด 40% ในการสั่งซื้อครั้งต่อไปของคุณ!",
-    "subject_variation_10": "โอกาสสุดท้ายที่จะได้รับส่วนลด 40%!"
+    "subject_variation_10": "โอกาสสุดท้ายที่จะได้รับส่วนลด 40%!",
+    "subject_variation_11": "โอกาสสุดท้ายที่จะได้รับส่วนลด 20%!"
   },
   {
     "language_name": "Turkish",
@@ -402,7 +430,8 @@
     "subject_variation_7": "Şimdiye Kadarki En İyi Teklifi ŞİMDİ AÇIN",
     "subject_variation_8": "İndirimlerinizi Artırdık, Şimdi %40 İNDİRİMLE Alışveriş Yapın!",
     "subject_variation_9": "Büyük Vurgun... Bir Sonraki Siparişinizde %40 İNDİRİM Kazandınız!",
-    "subject_variation_10": "%40 İndirim için son şans!"
+    "subject_variation_10": "%40 İndirim için son şans!",
+    "subject_variation_11": "%20 İndirim için son şans!"
   },
   {
     "language_name": "Vietnamese",
@@ -417,7 +446,8 @@
     "subject_variation_7": "MỞ NGAY để xem ưu đãi tốt nhất từ trước đến nay",
     "subject_variation_8": "Chúng tôi đã nâng mức chiết khấu của bạn, hãy mua sắm ngay để được GIẢM GIÁ 40%!",
     "subject_variation_9": "Giảm giá lớn… Bạn đã nhận được GIẢM GIÁ 40% cho đơn hàng tiếp theo của mình!",
-    "subject_variation_10": "Cơ hội cuối cùng để được giảm giá 40%!"
+    "subject_variation_10": "Cơ hội cuối cùng để được giảm giá 40%!",
+    "subject_variation_11": "Cơ hội cuối cùng để được giảm giá 20%!"
   },
   {
     "language_name": "Chinese Simplified",
@@ -432,7 +462,8 @@
     "subject_variation_7": "立即打开来查看有史以来最大的优惠",
     "subject_variation_8": "我们提高了您的折扣，现在购物可享受 40% 的优惠！",
     "subject_variation_9": "高分……您的下一个订单可享受 40% 的优惠！",
-    "subject_variation_10": "最后获得 40% 优惠的机会！"
+    "subject_variation_10": "最后获得 40% 优惠的机会！",
+    "subject_variation_11": "最后获得 20% 优惠的机会！"
   },
   {
     "language_name": "Chinese Traditional",
@@ -447,6 +478,7 @@
     "subject_variation_7": "立即打开来查看有史以来最大的优惠",
     "subject_variation_8": "我们提高了您的折扣，现在购物可享受 40% 的优惠！",
     "subject_variation_9": "高分……您的下一个订单可享受 40% 的优惠！",
-    "subject_variation_10": "最后获得 40% 优惠的机会！"
+    "subject_variation_10": "最后获得 40% 优惠的机会！",
+    "subject_variation_11": "最后获得 20% 优惠的机会！"
   }
 ]
