@@ -18,6 +18,7 @@
     "login": "LOGIN",
     "unsubscibe": "Unsubscribe",
     "privacy_policy": "PRIVACY POLICY"
+    "this_week_only!": "THIS WEEK ONLY!"
   },
   {
     "language_name": "Azerbaijani",
@@ -38,6 +39,7 @@
     "login": "SİSTEMƏ DAXİL OLMA",
     "unsubscibe": "Abunəlikdən imtina edin",
     "privacy_policy": "MƏXFİLİK SİYASƏTİ"
+    "this_week_only!": "YALNIZ BU HƏFTƏ!"
   },
   {
     "language_name": "Bulgarian",
@@ -58,6 +60,7 @@
     "login": "ВХОД",
     "unsubscibe": "Отписване",
     "privacy_policy": "ПОЛИТИКА ЗА ПОВЕРИТЕЛНОСТ"
+    "this_week_only!": "САМО ТАЗИ СЕДМИЦА!"
   },
   {
     "language_name": "Danish",
@@ -78,6 +81,7 @@
     "login": "LOG PÅ",
     "unsubscibe": "Afmeld",
     "privacy_policy": "FORTROLIGHEDSPOLITIK"
+    "this_week_only!": "KUN I DENNE UGE!"
   },
   {
     "language_name": "German",
@@ -98,6 +102,7 @@
     "login": "ANMELDEN",
     "unsubscibe": "Abmelden",
     "privacy_policy": "DATENSCHUTZERKLÄRUNG"
+    "this_week_only!": "NUR DIESE WOCHE!"
   },
   {
     "language_name": "Greek (modern)",
@@ -118,6 +123,7 @@
     "login": "ΣΥΝΔΕΣΗ",
     "unsubscibe": "Κατάργηση εγγραφής",
     "privacy_policy": "ΠΟΛΙΤΙΚΗ ΑΠΟΡΡΗΤΟΥ"
+    "this_week_only!": "ΜΟΝΟ ΓΙΑ ΑΥΤΗ ΤΗΝ ΕΒΔΟΜΑΔΑ!"
   },
   {
     "language_name": "Finnish",
@@ -138,6 +144,7 @@
     "login": "KIRJAUDU SISÄÄN",
     "unsubscibe": "Lopeta tilaus",
     "privacy_policy": "TIETOSUOJAKÄYTÄNTÖ"
+    "this_week_only!": "VAIN TÄMÄN VIIKON!"
   },
   {
     "language_name": "French",
@@ -158,6 +165,7 @@
     "login": "CONNEXION",
     "unsubscibe": "Se désinscrire",
     "privacy_policy": "POLITIQUE DE CONFIDENTIALITÉ"
+    "this_week_only!": "CETTE SEMAINE SEULEMENT!"
   },
   {
     "language_name": "Croatian",
@@ -178,6 +186,7 @@
     "login": "PRIJAVA",
     "unsubscibe": "Odjavi",
     "privacy_policy": "POLITIKA PRIVATNOSTI"
+    "this_week_only!": "SAMO OVAJ TJEDAN!"
   },
   {
     "language_name": "Hungarian",
@@ -198,6 +207,7 @@
     "login": "BEJELENTKEZÉS",
     "unsubscibe": "Leiratkozás",
     "privacy_policy": "ADATVÉDELMI SZABÁLYZAT"
+    "this_week_only!": "CSAK EZEN A HÉTEN!"
   },
   {
     "language_name": "Indonesian",
@@ -218,6 +228,7 @@
     "login": "MASUK",
     "unsubscibe": "Berhenti Berlangganan",
     "privacy_policy": "KEBIJAKAN PRIVASI"
+    "this_week_only!": "HANYA BERLAKU MINGGU INI"
   },
   {
     "language_name": "Italian",
@@ -238,6 +249,7 @@
     "login": "ACCEDI",
     "unsubscibe": "Annulla iscrizione",
     "privacy_policy": "INFORMATIVA SULLA PRIVACY"
+    "this_week_only!": "SOLO PER QUESTA SETTIMANA!"
   },
   {
     "language_name": "Japanese",
@@ -258,6 +270,7 @@
     "login": "ログイン",
     "unsubscibe": "配信停止",
     "privacy_policy": "プライバシーポリシー"
+    "this_week_only!": "今週限り！"
   },
   {
     "language_name": "Korean",
@@ -278,6 +291,7 @@
     "login": "로그인",
     "unsubscibe": "구독 취소",
     "privacy_policy": "개인정보취급방침"
+    "this_week_only!": "이번주 한정!"
   },
   {
     "language_name": "Malay",
@@ -298,6 +312,7 @@
     "login": "LOG MASUK",
     "unsubscibe": "Nyahlanggan",
     "privacy_policy": "DASAR PRIVASI"
+    "this_week_only!": "MINGGU INI SAHAJA!"
   },
   {
     "language_name": "Dutch",
@@ -318,6 +333,7 @@
     "login": "AANMELDEN",
     "unsubscibe": "Afmelden",
     "privacy_policy": "PRIVACYBELEID"
+    "this_week_only!": "ALLEEN DEZE WEEK!"
   },
   {
     "language_name": "Norwegian",
@@ -338,6 +354,7 @@
     "login": "LOGG PÅ",
     "unsubscibe": "Avslutt abonnement",
     "privacy_policy": "PERSONVERNREGLER"
+    "this_week_only!": "KUN DENNE UKEN!"
   },
   {
     "language_name": "Polish",
@@ -358,6 +375,7 @@
     "login": "ZALOGUJ SIĘ",
     "unsubscibe": "Zrezygnuj z subskrypcji",
     "privacy_policy": "POLITYKA PRYWATNOŚCI"
+    "this_week_only!": "TYLKO W TYM TYGODNIU!"
   },
   {
     "language_name": "Portuguese",
@@ -378,6 +396,7 @@
     "login": "INICIAR SESSÃO",
     "unsubscibe": "Cancelar subscrição",
     "privacy_policy": "POLÍTICA DE PRIVACIDADE"
+    "this_week_only!": "SOMENTE ESTA SEMANA!"
   },
   {
     "language_name": "Romanian",
@@ -398,6 +417,7 @@
     "login": "CONECTARE",
     "unsubscibe": "Dezabonare",
     "privacy_policy": "POLITICA DE CONFIDENŢIALITATE"
+    "this_week_only!": "DOAR SĂPTĂMÂNA ACEASTA!"
   },
   {
     "language_name": "Russian",
@@ -418,6 +438,7 @@
     "login": "ЛОГИН",
     "unsubscibe": "Отписаться",
     "privacy_policy": "ПОЛИТИКА КОНФИДЕЦИАЛЬНОСТИ"
+    "this_week_only!": "ТОЛЬКО НА ЭТОЙ НЕДЕЛЕ!"
   },
   {
     "language_name": "Slovak",
@@ -438,6 +459,7 @@
     "login": "PRIHLÁSIŤ",
     "unsubscibe": "Odhlásiť sa z odberu",
     "privacy_policy": "ZÁSADY OCHRANY OSOBNÝCH ÚDAJOV"
+    "this_week_only!": "IBA TENTO TÝŽDEŇ!"
   },
   {
     "language_name": "Slovene",
@@ -458,6 +480,7 @@
     "login": "VPIS",
     "unsubscibe": "Odjava",
     "privacy_policy": "POLITIKA ZASEBNOSTI"
+    "this_week_only!": "SAMO TA TEDEN!"
   },
   {
     "language_name": "Spanish",
@@ -478,6 +501,7 @@
     "login": "INICIAR SESIÓN",
     "unsubscibe": "Cancelar suscripción",
     "privacy_policy": "POLÍTICA DE PRIVACIDAD"
+    "this_week_only!": "¡SOLO ESTA SEMANA!"
   },
   {
     "language_name": "Swedish",
@@ -498,6 +522,7 @@
     "login": "LOGGA IN",
     "unsubscibe": "Avprenumerera",
     "privacy_policy": "SEKRETESSPOLICY"
+    "this_week_only!": "ENDAST DENNA VECKA!"
   },
   {
     "language_name": "Thai",
@@ -518,6 +543,7 @@
     "login": "ล็อกอิน",
     "unsubscibe": "ยกเลิกการเป็นสมาชิก",
     "privacy_policy": "นโยบายความเป็นส่วนตัว"
+    "this_week_only!": "เฉพาะสัปดาห์นี้!"
   },
   {
     "language_name": "Turkish",
@@ -538,6 +564,7 @@
     "login": "GİRİŞ",
     "unsubscibe": "Abonelikten çık",
     "privacy_policy": "GİZLİLİK POLİTİKASI"
+    "this_week_only!": "SADECE BU HAFTA!"
   },
   {
     "language_name": "Vietnamese",
@@ -558,6 +585,7 @@
     "login": "ĐĂNG NHẬP",
     "unsubscibe": "Hủy đăng ký",
     "privacy_policy": "CHÍNH SÁCH BẢO MẬT"
+    "this_week_only!": "CHỈ TRONG TUẦN NÀY!"
   },
   {
     "language_name": "Chinese Simplified",
@@ -578,6 +606,7 @@
     "login": "登录",
     "unsubscibe": "取消订阅",
     "privacy_policy": "隐私政策"
+    "this_week_only!": "仅限本周！"
   },
   {
     "language_name": "Chinese Traditional",
@@ -598,5 +627,6 @@
     "login": "登錄",
     "unsubscibe": "取消訂閱",
     "privacy_policy": "隱私政策"
+    "this_week_only!": "僅限本週！"
   }
 ]
