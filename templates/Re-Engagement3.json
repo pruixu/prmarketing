@@ -392,7 +392,7 @@
    "language_name": "Turkish",
    "pr_code": "tur",
    "language": "tr",
-   "Offer_Expiring_Soon": "Teklifin Süresi Yakında Doluyor"
+   "Offer_Expiring_Soon": "Teklifin Süresi Yakında Doluyor",
    "30_OFF": "% 30 İNDİRİM",
    "Your_Next_Purchase":"Bir Sonraki Alışverişinizde",
    "Shop_now":"ALIŞVERİŞE HEMEN BAŞLAYIN",
@@ -407,7 +407,7 @@
    "language_name": "Vietnamese",
    "pr_code": "vie",
    "language": "vi",
-   "Offer_Expiring_Soon": "Ưu đãi sắp hết hạn"
+   "Offer_Expiring_Soon": "Ưu đãi sắp hết hạn",
    "30_OFF": "GIẢM GIÁ 30%",
    "Your_Next_Purchase":"Lần mua hàng tiếp theo của bạn",
    "Shop_now":"MUA NGAY",
@@ -422,7 +422,7 @@
    "language_name": "Chinese Simplified",
    "pr_code": "zhs",
    "language": "zh-CHS",
-   "Offer_Expiring_Soon": "优惠即将到期"
+   "Offer_Expiring_Soon": "优惠即将到期",
    "30_OFF": "30% 优惠",
    "Your_Next_Purchase":"下一次购物可享",
    "Shop_now":"立即购买",
@@ -437,7 +437,7 @@
    "language_name": "Chinese Traditional",
    "pr_code": "zht",
    "language": "zh-CHT",
-   "Offer_Expiring_Soon": "優惠即將到期"
+   "Offer_Expiring_Soon": "優惠即將到期",
    "30_OFF": "30% 優惠",
    "Your_Next_Purchase":"下一次購物可享",
    "Shop_now":"立即購買",
