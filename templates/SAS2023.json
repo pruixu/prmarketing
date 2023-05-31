@@ -8,295 +8,215 @@
     "on_select_items": "on select items",
     "semi_annual_sale": "Semi Annual Sale",
     "shop_now": "Shop Now"
-  },
-  {
-    "language_name": "Azerbaijani",
-    "language": "az",
-    "pr_code": "aze",
-     "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
-  },
-  {
-    "language_name": "Bulgarian",
-    "language": "bg",
-    "pr_code": "bul",
-     "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
+    "sale": "SALE"
   },
   {
     "language_name": "Danish",
     "language": "da",
     "pr_code": "dan",
-     "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
+     "up_to": "OP TIL",
+    "60_OFF": "60% RABAT",
+    "on_select_items": "PÅ UDVALGTE VARER",
+    "semi_annual_sale": "HALVÅRLIGT SALG",
+    "shop_now": "KØB NU"
+    "sale": "UDSALG"
   },
   {
     "language_name": "German",
     "language": "de",
     "pr_code": "deu",
-     "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
-  },
-  {
-    "language_name": "Greek (modern)",
-    "language": "el",
-    "pr_code": "ell",
-    "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
+     "up_to": "BIS ZU",
+    "60_OFF": "60% RABATT",
+    "on_select_items": "AUF AUSGEWÄHLTE ARTIKEL",
+    "semi_annual_sale": "HALBJAHRESVERKAUF",
+    "shop_now": "JETZT EINKAUFEN"
+    "sale": "VERKAUF"
   },
   {
     "language_name": "Finnish",
     "language": "fi",
     "pr_code": "fin",
-    "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
+    "up_to": "JOPA",
+    "60_OFF": "60% ALENNUS",
+    "on_select_items": "KOSKEE TIETTYJÄ TUOTTEITA ",
+    "semi_annual_sale": "PUOLIVUOSITTAINEN ALENNUSMYYNTI",
+    "shop_now": "OSTA NYT"
+    "sale": "MYYNTI"
   },
   {
     "language_name": "French",
     "language": "fr",
     "pr_code": "fra",
-     "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
+     "up_to": "JUSQU'À",
+    "60_OFF": "60% DE RÉDUCTION",
+    "on_select_items": "SUR UNE SÉLECTION D'ARTICLES ",
+    "semi_annual_sale": "VENTE SEMESTRIELLE",
+    "shop_now": "ACHETER MAINTENANT"
+    "sale": "VENTE"
   },
   {
     "language_name": "Croatian",
     "language": "hr",
     "pr_code": "hrv",
-    "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
+     "up_to": "DO",
+    "60_OFF": "60% POPUSTA",
+    "on_select_items": "NA ODABRANE ARTIKLE",
+    "semi_annual_sale": "POLUGODIŠNJA RASPRODAJA",
+    "shop_now": "KUPITE SADA"
+    "sale": "PRODAJA"
   },
   {
     "language_name": "Hungarian",
     "language": "hu",
     "pr_code": "hun",
-     "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
-  },
-  {
-    "language_name": "Indonesian",
-    "language": "id",
-    "pr_code": "ind",
-    "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
+     "up_to": "AKÁR",
+    "60_OFF": "60% ENGEDMÉNY",
+    "on_select_items": "EGYES TERMÉKEKRE",
+    "semi_annual_sale": "FÉLÉVES ÉRTÉKESÍTÉS",
+    "shop_now": "VÁSÁROLJON MOST"
+    "sale": "AKCIÓ"
   },
   {
     "language_name": "Italian",
     "language": "it",
     "pr_code": "ita",
-    "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
+    "up_to": "FINO AL",
+    "60_OFF": "60% DI SCONTO",
+    "on_select_items": "SU PRODOTTI SELEZIONATI",
+    "semi_annual_sale": "OFFERTA SEMESTRALE",
+    "shop_now": "ACQUISTA ORA"
+    "sale": "SALDI"
   },
   {
     "language_name": "Japanese",
     "language": "ja",
     "pr_code": "jpn",
-     "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
+     "up_to": "最大",
+    "60_OFF": "60%割引",
+    "on_select_items": "一部アイテムにて",
+    "semi_annual_sale": "半期に一度のセール",
+    "shop_now": "今すぐお求めください"
+    "sale": "セール"
   },
   {
     "language_name": "Korean",
     "language": "ko",
     "pr_code": "kor",
-    "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
-  },
-  {
-    "language_name": "Malay",
-    "language": "ms",
-    "pr_code": "msa",
-    "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
+    "up_to": "최대",
+    "60_OFF": "60% 할인",
+    "on_select_items": "세일 상품",
+    "semi_annual_sale": "상반기 세일",
+    "shop_now": "지금 구매"
+    "sale": "할인"
   },
   {
     "language_name": "Dutch",
     "language": "nl",
     "pr_code": "nld",
-     "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
+     "up_to": "TOT",
+    "60_OFF": "60% KORTING",
+    "on_select_items": "OP BEPAALDE ARTIKELEN",
+    "semi_annual_sale": "HALFJAARLIJKSE VERKOOP",
+    "shop_now": "NU WINKELEN"
+    "sale": "VERKOOP"
   },
   {
     "language_name": "Norwegian",
     "language": "no",
     "pr_code": "nor",
-    "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
-  },
-  {
-    "language_name": "Polish",
-    "language": "pl",
-    "pr_code": "pol",
-     "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
+    "up_to": "OPP TIL",
+    "60_OFF": "60% RABATT",
+    "on_select_items": "PÅ UTVALGTE ARTIKLER",
+    "semi_annual_sale": "HALVÅRLIG SALG",
+    "shop_now": "KJØP NÅ"
+    "sale": "SALG"
   },
   {
     "language_name": "Portuguese",
     "language": "pt",
     "pr_code": "por",
-    "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
+    "up_to": "ATÉ",
+    "60_OFF": "60% DE DESCONTO",
+    "on_select_items": "PARA ARTIGOS SELECIONADOS",
+    "semi_annual_sale": "LIQUIDAÇÃO SEMESTRAL",
+    "shop_now": "COMPRE AGORA"
+    "sale": "SALDOS"
   },
   {
     "language_name": "Romanian",
     "language": "ro",
     "pr_code": "ron",
-     "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
+     "up_to": "PÂNĂ LA",
+    "60_OFF": "60% REDUCERE",
+    "on_select_items": "LA ARTICOLELE SELECTATE",
+    "semi_annual_sale": "PROMOȚIE SEMESTRIALĂ",
+    "shop_now": "CUMPĂRAŢI ACUM"
+    "sale": "VÂNZARE"
   },
   {
     "language_name": "Russian",
     "language": "ru",
     "pr_code": "rus",
-     "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
+     "up_to": "СКИДКИ",
+    "60_OFF": "ДО 60%",
+    "on_select_items": "НА ОПРЕДЕЛЕННЫЕ ТОВАРЫ",
+    "semi_annual_sale": "ПОЛУГОДОВАЯ РАСПРОДАЖА",
+    "shop_now": "ПЕРЕЙТИ В МАГАЗИН"
+    "sale": "СКИДКА"
   },
   {
     "language_name": "Slovak",
     "language": "sk",
     "pr_code": "slk",
-    "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
-  },
-  {
-    "language_name": "Slovene",
-    "language": "sl",
-    "pr_code": "slv",
-    "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
+    "up_to": "ZĽAVA",
+    "60_OFF": "AŽ 60%",
+    "on_select_items": "NA VYBRANÉ POLOŽKY",
+    "semi_annual_sale": "POLROČNÝ VÝPREDAJ",
+    "shop_now": "NAKUPUJTE TERAZ"
+    "sale": "VÝPREDAJ"
   },
   {
     "language_name": "Spanish",
     "language": "es",
     "pr_code": "spa",
-    "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
+    "up_to": "HASTA UN",
+    "60_OFF": "60% DE DESCUENTO",
+    "on_select_items": "ARTÍCULOS SELECCIONADOS",
+    "semi_annual_sale": "REBAJAS SEMESTRALES",
+    "shop_now": "COMPRAR"
+    "sale": "REBAJAS"
   },
   {
     "language_name": "Swedish",
     "language": "sv",
     "pr_code": "swe",
-    "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
+    "up_to": "UPP TILL",
+    "60_OFF": "60% RABATT",
+    "on_select_items": "PÅ UTVALDA PRODUKTER",
+    "semi_annual_sale": "HALVÅRSREA",
+    "shop_now": "KÖP NU"
+    "sale": "UTFÖRSÄLJNING"
   },
   {
     "language_name": "Thai",
     "language": "th",
     "pr_code": "tha",
-     "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
-  },
-  {
-    "language_name": "Turkish",
-    "language": "tr",
-    "pr_code": "tur",
-    "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
-  },
-  {
-    "language_name": "Vietnamese",
-    "language": "vi",
-    "pr_code": "vie",
-     "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
-  },
-  {
-    "language_name": "Chinese Simplified",
-    "language": "zh-CHS",
-    "pr_code": "zhs",
-    "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
+     "up_to": "จนถึง",
+    "60_OFF": "ลดราคา 60%",
+    "on_select_items": "ในสินค้าบางรายการ",
+    "semi_annual_sale": "การลดราคาช่วงครึ่งปี",
+    "shop_now": "ช้อปเลย"
+    "sale": "ลดราคา"
   },
   {
     "language_name": "Chinese Traditional",
     "language": "zh-CHT",
     "pr_code": "zht",
-     "up_to": "Up to",
-    "60_OFF": "60% OFF",
-    "on_select_items": "on select items",
-    "semi_annual_sale": "Semi Annual Sale",
-    "shop_now": "Shop Now"
+     "up_to": "取決於",
+    "60_OFF": "60% 優惠",
+    "on_select_items": "僅限選定商品",
+    "semi_annual_sale": "年中促銷",
+    "shop_now": "現在購買"
+    "sale": "銷售"
   }
 ]
