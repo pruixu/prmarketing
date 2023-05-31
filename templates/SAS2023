@@ -1,0 +1,302 @@
+[
+  {
+    "language_name": "English",
+    "language": "en-US",
+    "pr_code": "eng",
+    "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Azerbaijani",
+    "language": "az",
+    "pr_code": "aze",
+     "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Bulgarian",
+    "language": "bg",
+    "pr_code": "bul",
+     "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Danish",
+    "language": "da",
+    "pr_code": "dan",
+     "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "German",
+    "language": "de",
+    "pr_code": "deu",
+     "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Greek (modern)",
+    "language": "el",
+    "pr_code": "ell",
+    "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Finnish",
+    "language": "fi",
+    "pr_code": "fin",
+    "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "French",
+    "language": "fr",
+    "pr_code": "fra",
+     "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Croatian",
+    "language": "hr",
+    "pr_code": "hrv",
+    "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Hungarian",
+    "language": "hu",
+    "pr_code": "hun",
+     "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Indonesian",
+    "language": "id",
+    "pr_code": "ind",
+    "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Italian",
+    "language": "it",
+    "pr_code": "ita",
+    "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Japanese",
+    "language": "ja",
+    "pr_code": "jpn",
+     "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Korean",
+    "language": "ko",
+    "pr_code": "kor",
+    "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Malay",
+    "language": "ms",
+    "pr_code": "msa",
+    "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Dutch",
+    "language": "nl",
+    "pr_code": "nld",
+     "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Norwegian",
+    "language": "no",
+    "pr_code": "nor",
+    "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Polish",
+    "language": "pl",
+    "pr_code": "pol",
+     "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Portuguese",
+    "language": "pt",
+    "pr_code": "por",
+    "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Romanian",
+    "language": "ro",
+    "pr_code": "ron",
+     "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Russian",
+    "language": "ru",
+    "pr_code": "rus",
+     "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Slovak",
+    "language": "sk",
+    "pr_code": "slk",
+    "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Slovene",
+    "language": "sl",
+    "pr_code": "slv",
+    "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Spanish",
+    "language": "es",
+    "pr_code": "spa",
+    "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Swedish",
+    "language": "sv",
+    "pr_code": "swe",
+    "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Thai",
+    "language": "th",
+    "pr_code": "tha",
+     "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Turkish",
+    "language": "tr",
+    "pr_code": "tur",
+    "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Vietnamese",
+    "language": "vi",
+    "pr_code": "vie",
+     "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Chinese Simplified",
+    "language": "zh-CHS",
+    "pr_code": "zhs",
+    "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  },
+  {
+    "language_name": "Chinese Traditional",
+    "language": "zh-CHT",
+    "pr_code": "zht",
+     "up_to": "Up to",
+    "60_OFF": "60% OFF",
+    "on_select_items": "on select items",
+    "semi_annual_sale": "Semi Annual Sale",
+    "shop_now": "Shop Now"
+  }
+]
