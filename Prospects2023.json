@@ -3,46 +3,21 @@
    "language_name": "English",
    "pr_code": "eng",
    "language": "en-US",
-   "lets_get_back_together": "Let's get back together!",
-   "Want_to_shop": "Want to shop?",
+   "a_special_gift": "A Special Gift",
+   "just_for_you": "Just for You",
    "Shop_now":"SHOP NOW",
-   "We_want_to_reconnect_with_you_and_help_you_start_your_health_journey":"We want to reconnect with you and help you start your health journey.",
-   "Reasons_to_shop_for_the_whole_family":"REASONS TO SHOP FOR THE WHOLE FAMILY",
-   "shop_3000_plus_products":"Shop 3000+ Products",
-   "100_Satisfaction_Guaranteed":"100% Satisfaction Guaranteed",
-   "Manufactured_in_the_US.":"Manufactured in the U.S.",
-   "Free_Domestic_Shipping_on_75":"Free Domestic Shipping on $75+",
-   "50_Years_of_Trusted_Experience":"50+ Years of Trusted Experience"
- },
- {
-   "language_name": "Azerbaijani",
-   "pr_code": "aze",
-   "language": "az",
-   "lets_get_back_together": "Gəlin yenidən toplaşaq!",
-   "Want_to_shop": "Alış-veriş etmək istəyirsiniz?",
-   "Shop_now":"İNDİ ALIN",
-   "We_want_to_reconnect_with_you_and_help_you_start_your_health_journey":"Biz sizinlə əlaqələrimizi bərpa etmək və sağlamlıq səyahətinizə başlamaqda sizə kömək etmək istəyirik.",
-   "Reasons_to_shop_for_the_whole_family":"Ailəvi alış-veriş etmək üçün səbəblər",
-   "shop_3000_plus_products":"3,000+ məhsul alın",
-   "100_Satisfaction_Guaranteed":"100% məmnunluğa zəmanət",
-   "Manufactured_in_the_US.":"ABŞ-da istehsal olunub.",
-   "Free_Domestic_Shipping_on_75":"Ölkə daxilində $75 + üçün pulsuz çatdırılma",
-   "50_Years_of_Trusted_Experience":"50+ illik etibarlı təcrübə"
- },
- {
-   "language_name": "Bulgarian",
-   "pr_code": "bul",
-   "language": "bg",
-   "lets_get_back_together": "Нека пак Ви видим при нас!",
-   "Want_to_shop": "Искате да пазарувате?",
-   "Shop_now":"ПАЗАРУВАЙТЕ СЕГА",
-   "We_want_to_reconnect_with_you_and_help_you_start_your_health_journey":"Нека възобновим контакт, за да ви помогнем да откриете своя път към доброто здраве.",
-   "Reasons_to_shop_for_the_whole_family":"Причини да пазарувате за цялото семейство",
-   "shop_3000_plus_products":"Магазин с над 3 000 продукта",
-   "100_Satisfaction_Guaranteed":"100% гарантирано удовлетворение",
-   "Manufactured_in_the_US.":"Произведено в САЩ",
-   "Free_Domestic_Shipping_on_75":"Безплатна доставка на територията на САЩ при поръчки над $75",
-   "50_Years_of_Trusted_Experience":"Над 50-годишен доказан опит"
+   "we_have_something_for_you":"We Have Something for You",
+   "with_your_next_order":"With Your Next Order",
+   "this_offer_will_expire_in_10_days":"This Offer Will Expire in 10 Days",
+   "weve_missed_you":"We've Missed You",
+   "your_entire_cart":"Your Entire Cart",
+   "we_havent_heard_from_you_lately":"We Haven't Heard from You Lately",
+   "dont_worry_weve_got_you_covered":"Don't Worry We Got You Covered!",
+   "make_your_next_move":"Make Your Next Move",
+   "lets_stay_in_touch":"Let's Stay in Touch",
+   "we_are_so_happy_to_have_you":"We Are So Happy to Have You",
+   "a_20_purchase":"A $20 Purchase",
+   "use_code":"USE CODE:"
  },
  {
    "language_name": "Danish",
@@ -73,21 +48,6 @@
    "Manufactured_in_the_US.":"Hergestellt in den USA",
    "Free_Domestic_Shipping_on_75":"Kostenloser Inlandsversand für Bestellungen ab 75 $",
    "50_Years_of_Trusted_Experience":"Über 50 Jahre vertrauensvolle Erfahrung"
- },
- {
-   "language_name": "Greek (modern)",
-   "pr_code": "ell",
-   "language": "el",
-   "lets_get_back_together": "Ας επανασυνδεθούμε!",
-   "Want_to_shop": "Θέλετε να κάνετε αγορές;",
-   "Shop_now":"ΨΩΝΙΣΤΕ ΤΩΡΑ",
-   "We_want_to_reconnect_with_you_and_help_you_start_your_health_journey":"Θέλουμε να επανασυνδεθούμε μαζί σας και να σας βοηθήσουμε να ξεκινήσετε το ταξίδι σας προς μια υγιεινή ζωή.",
-   "Reasons_to_shop_for_the_whole_family":"Λόγοι για να κάνετε αγορές για όλη την οικογένεια",
-   "shop_3000_plus_products":"Αγοράστε 3,000+ προϊόντα",
-   "100_Satisfaction_Guaranteed":"100% Εγγυημένη Ικανοποίηση",
-   "Manufactured_in_the_US.":"Παρασκευάζονται στις ΗΠΑ.",
-   "Free_Domestic_Shipping_on_75":"Δωρεάν αποστολές εσωτερικού για αγορές άνω των $75",
-   "50_Years_of_Trusted_Experience":"50+ Χρόνια Εγγυημένης Εμπειρίας"
  },
  {
    "language_name": "Finnish",
@@ -150,21 +110,6 @@
    "50_Years_of_Trusted_Experience":"50+ évnyi megbízható tapasztalat"
  },
  {
-   "language_name": "Indonesian",
-   "pr_code": "ind",
-   "language": "id",
-    "lets_get_back_together": "Ayo kembali bersama!",
-   "Want_to_shop": "Ingin berbelanja?",
-   "Shop_now":"BELANJA SEKARANG",
-   "We_want_to_reconnect_with_you_and_help_you_start_your_health_journey":"Kami ingin kembali terhubung dan membantu Anda memulai perjalanan menjadi sehat.",
-   "Reasons_to_shop_for_the_whole_family":"Alasan berbelanja untuk seluruh keluarga",
-   "shop_3000_plus_products":"Belanja lebih dari 3.000 Produk",
-   "100_Satisfaction_Guaranteed":"Jaminan Kepuasan 100%",
-   "Manufactured_in_the_US.":"Diproduksi di A.S.",
-   "Free_Domestic_Shipping_on_75":"Pengiriman Domestik Gratis dengan Belanja di Atas $75",
-   "50_Years_of_Trusted_Experience":"Pengalaman Tepercaya Lebih dari 50 Tahun"
- },
- {
    "language_name": "Italian",
    "pr_code": "ita",
    "language": "it",
@@ -208,21 +153,6 @@
    "Manufactured_in_the_US.":"미국에서 제조",
    "Free_Domestic_Shipping_on_75":"$75 이상 구매시 국내 무료 배송",
    "50_Years_of_Trusted_Experience":"50여 년의 신뢰받은 경험"
- },
- {
-   "language_name": "Malay",
-   "pr_code": "msa",
-   "language": "ms",
-   "lets_get_back_together": "Mari kembali mengeratkan hubungan!",
-   "Want_to_shop": "Ingin membeli-belah?",
-   "Shop_now":"BERBELANJALAH SEKARANG",
-   "We_want_to_reconnect_with_you_and_help_you_start_your_health_journey":"Kami ingin berhubung semula dengan anda dan membantu anda memulakan perjalanan kesihatan anda.",
-   "Reasons_to_shop_for_the_whole_family":"온 가족을 위해 쇼핑해야 하는 이유",
-   "shop_3000_plus_products":"Beli 3,000+ Produk",
-   "100_Satisfaction_Guaranteed":"Kepuasan Dijamin 100%",
-   "Manufactured_in_the_US.":"Dikilangkan di AS",
-   "Free_Domestic_Shipping_on_75":"Penghantaran Domestik Percuma pada $75+",
-   "50_Years_of_Trusted_Experience":"50+ Tahun Pengalaman yang Diyakini"
  },
  {
    "language_name": "Dutch",
@@ -330,21 +260,6 @@
    "50_Years_of_Trusted_Experience":"50+ rokov dôveryhodných skúseností"
  },
  {
-   "language_name": "Slovene",
-   "pr_code": "slv",
-   "language": "sl",
-   "lets_get_back_together": "Stopimo skupaj!",
-   "Want_to_shop": "Želite nakupovati?",
-   "Shop_now":"NAKUPUJ ZDAJ",
-   "We_want_to_reconnect_with_you_and_help_you_start_your_health_journey":"Želimo se ponovno povezati z vami in vam pomagati začeti vaše zdravstveno potovanje.",
-   "Reasons_to_shop_for_the_whole_family":"Razlogi za nakupovanje za vso družino",
-   "shop_3000_plus_products":"Trgovina 3,000+ Izdelki",
-   "100_Satisfaction_Guaranteed":"100-odstotno zajamčeno zadovoljstvo",
-   "Manufactured_in_the_US.":"Proizvedeno v ZDA",
-   "Free_Domestic_Shipping_on_75":"Brezplačna dostava na 75+ USD",
-   "50_Years_of_Trusted_Experience":"50 let in več zaupanja vrednih izkušenj"
- },
- {
    "language_name": "Spanish",
    "pr_code": "spa",
    "language": "es",
@@ -390,21 +305,6 @@
    "50_Years_of_Trusted_Experience":"ประสบการณ์ที่เชื่อถือได้กว่า 50 ปี"
  },
  {
-   "language_name": "Turkish",
-   "pr_code": "tur",
-   "language": "tr",
-    "lets_get_back_together": "Tekrar bir araya gelelim!",
-   "Want_to_shop": "Alışveriş yapmak mı istiyorsunuz?",
-   "Shop_now":"ALIŞVERİŞE HEMEN BAŞLAYIN",
-   "We_want_to_reconnect_with_you_and_help_you_start_your_health_journey":"Sizinle yeniden bağlantı kurmak ve sağlık yolculuğunuza başlamanıza yardımcı olmak istiyoruz.",
-   "Reasons_to_shop_for_the_whole_family":"Tüm aile için alışveriş yapmak için nedenler",
-   "shop_3000_plus_products":"3.000'den Fazla Üründe Alışveriş Yap",
-   "100_Satisfaction_Guaranteed":"%100 Memnuniyet Garantisi",
-   "Manufactured_in_the_US.":"ABD'de üretilmiştir",
-   "Free_Domestic_Shipping_on_75":"75 $ ve üzeri alışverişlerde Ücretsiz Yurtiçi Kargo",
-   "50_Years_of_Trusted_Experience":"50 Yıllık Güvenilir Deneyim"
- },
- {
    "language_name": "Vietnamese",
    "pr_code": "vie",
    "language": "vi",
@@ -418,21 +318,6 @@
    "Manufactured_in_the_US.":"Sản xuất tại Mỹ",
    "Free_Domestic_Shipping_on_75":"Miễn phí vận chuyển trong nước cho các đơn hàng từ 75$ trở lên",
    "50_Years_of_Trusted_Experience":"Hơn 50 năm kinh nghiệm uy tín"
- },
- {
-   "language_name": "Chinese Simplified",
-   "pr_code": "zhs",
-   "language": "zh-CHS",
-   "lets_get_back_together": "我们期盼您的回归",
-   "Want_to_shop": "想要购买吗",
-   "Shop_now":"立即购买",
-   "We_want_to_reconnect_with_you_and_help_you_start_your_health_journey":"我们期待有机会再次助您开启健康之旅",
-   "Reasons_to_shop_for_the_whole_family":"为全家人购买我们产品的理由",
-   "shop_3000_plus_products":"3,000 多种产品任您选购",
-   "100_Satisfaction_Guaranteed":"100% 保证满意",
-   "Manufactured_in_the_US.":"美国制造",
-   "Free_Domestic_Shipping_on_75":"满 75 美元国内免运费",
-   "50_Years_of_Trusted_Experience":"备受信赖 50 余年"
  },
  {
    "language_name": "Chinese Traditional",
