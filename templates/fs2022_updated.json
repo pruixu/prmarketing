@@ -94,7 +94,13 @@
     "fast_dissolve_tablets": "Fast Dissolve Tablets",
     "hyaluronic_acid_serum": "Hyaluronic Acid Serum",
     "65_off": "65% OFF",
-    "1_fl_oz": "1 fl oz"
+    "1_fl_oz": "1 fl oz",
+    "high_potency_vitamin_d3": "High Potency Vitamin D3",
+    "62_off": "62% "OFF",
+    "250_quick_release_softgels": "250 Quick Release Softgels",
+    "CoQ10": "CoQ10",
+    "74_off": "74% OFF",
+    "60_quick_release_softgels": "60 Quick Release Softgels"
  },
  {
    "language_name": "Azerbaijani",
@@ -191,7 +197,13 @@
     "fast_dissolve_tablets": "180 Tez Həll Olunan Tabletlər",
     "hyaluronic_acid_serum": "Hialuron Turşusu zərdabı",
     "65_off": "65% endirim",
-    "1_fl_oz": "1 fl ünsiya"
+    "1_fl_oz": "1 fl ünsiya",
+    "high_potency_vitamin_d3": "Yüksək tərkibli D3 Vitamini",
+    "62_off": "62% endirim",
+    "250_quick_release_softgels": "250 Tez həll olunan yumşaq gellər",
+    "CoQ10": "CoQ10",
+    "74_off": "74% endirim",
+    "60_quick_release_softgels": "60 Tez həll olunan yumşaq gellər"
  },
  {
    "language_name": "Bulgarian",
@@ -288,7 +300,13 @@
     "fast_dissolve_tablets": "180 Бързоразтворими таблетки",
     "hyaluronic_acid_serum": "Серум с хиалуронова киселина",
     "65_off": "65% ОТСТЪПКА",
-    "1_fl_oz": "1 fl oz"
+    "1_fl_oz": "1 fl oz",
+    "high_potency_vitamin_d3": "Високоефективен витамин D3",
+    "62_off": "62% ОТСТЪПКА",
+    "250_quick_release_softgels": "250 Софтгелове с бързо освобождаване",
+    "CoQ10": "CoQ10",
+    "74_off": "74% ОТСТЪПКА",
+    "60_quick_release_softgels": "60 Софтгелове с бързо освобождаване"
  },
  {
    "language_name": "Danish",
@@ -385,7 +403,13 @@
     "fast_dissolve_tablets": "180 Hurtigt opløselige tabletter",
     "hyaluronic_acid_serum": "Hyaluronsyre-serum",
     "65_off": "65% RABAT",
-    "1_fl_oz": "1 fl oz"
+    "1_fl_oz": "1 fl oz",
+    "high_potency_vitamin_d3": "Højpotent Vitamin D3",
+    "62_off": "62% RABAT",
+    "250_quick_release_softgels": "250 Softgel for hurtig frigivelse",
+    "CoQ10": "CoQ10",
+    "74_off": "74% RABAT",
+    "60_quick_release_softgels": "60 Softgel for hurtig frigivelse"
  },
  {
    "language_name": "German",
@@ -481,8 +505,14 @@
     "64_off": "64% RABATT",
     "fast_dissolve_tablets": "180 Schnell lösliche Tabletten",
     "hyaluronic_acid_serum": "Hyaluronsäure-Serum",
-    "65_off": "65% RABATT",
-    "1_fl_oz": "1 fl oz"
+    "65_off": "62% RABATT",
+    "1_fl_oz": "1 fl oz",
+    "high_potency_vitamin_d3": "Hochdosiertes Vitamin D3",
+    "62_off": "62% RABAT",
+    "250_quick_release_softgels": "250 Softgele mit schneller Freisetzung",
+    "CoQ10": "CoQ10",
+    "74_off": "74% RABATT",
+    "60_quick_release_softgels": "60 Softgele mit schneller Freisetzung"
  },
  {
    "language_name": "Greek (modern)",
@@ -579,7 +609,13 @@
     "fast_dissolve_tablets": "180 Ταμπλέτες ταχείας διάλυσης",
     "hyaluronic_acid_serum": "Ορός με Υαλουρονικό οξύ",
     "65_off": "ΕΚΠΤΩΣΗ 65%",
-    "1_fl_oz": "1 ουγκιές"
+    "1_fl_oz": "1 ουγκιές",
+    "high_potency_vitamin_d3": "Βιταμίνη D3 υψηλής δραστικότητας",
+    "62_off": "ΕΚΠΤΩΣΗ 62%",
+    "250_quick_release_softgels": "250 Κάψουλες Softgels γρήγορης αποδέσμευσης",
+    "CoQ10": "CoQ10",
+    "74_off": "ΕΚΠΤΩΣΗ 74%",
+    "60_quick_release_softgels": "60 Κάψουλες Softgels γρήγορης αποδέσμευσης"
  },
  {
    "language_name": "Finnish",
@@ -676,7 +712,13 @@
     "fast_dissolve_tablets": "180 Nopeasti liukenevat tabletit",
     "hyaluronic_acid_serum": "Hyaluronihapposeerumi",
     "65_off": "65% ALENNUS",
-    "1_fl_oz": "1 fl oz"
+    "1_fl_oz": "1 fl oz",
+    "high_potency_vitamin_d3": "Voimakas D3-vitamiini",
+    "62_off": "62% ALENNUS",
+    "250_quick_release_softgels": "250 Pikaliukenevat geelit",
+    "CoQ10": "Koentsyymi Q10",
+    "74_off": "74% ALENNUS",
+    "60_quick_release_softgels": "60 Pikaliukenevat geelit"
  },
  {
    "language_name": "French",
@@ -773,7 +815,13 @@
     "fast_dissolve_tablets": "180 Comprimés à dissolution rapide",
     "hyaluronic_acid_serum": "Sérum à l'acide hyaluronique",
     "65_off": "30 % DE RÉDUCTION",
-    "1_fl_oz": "1 onces liquides"
+    "1_fl_oz": "1 onces liquides",
+    "high_potency_vitamin_d3": "Vitamine de haute puissance D3",
+    "62_off": "62% DE RÉDUCTION",
+    "250_quick_release_softgels": "250 Capsules molles à libération rapide",
+    "CoQ10": "CoQ10",
+    "74_off": "74 % DE RÉDUCTION",
+    "60_quick_release_softgels": "60 Capsules molles à libération rapide"
  },
  {
    "language_name": "Croatian",
@@ -870,7 +918,13 @@
     "fast_dissolve_tablets": "180 Brzorastvarajuće tablete",
     "hyaluronic_acid_serum": "Serum s hijaluronskom kiselinom",
     "65_off": "65% POPUSTA",
-    "1_fl_oz": "1 fl oz"
+    "1_fl_oz": "1 fl oz",
+    "high_potency_vitamin_d3": "Jaki vitamin D3",
+    "62_off": "62% POPUSTA",
+    "250_quick_release_softgels": "250 Gelovi s brzim otpuštanjem",
+    "CoQ10": "CoQ10",
+    "74_off": "74% POPUSTA",
+    "60_quick_release_softgels": "60 Gelovi s brzim otpuštanjem"
  },
  {
    "language_name": "Hungarian",
@@ -967,7 +1021,13 @@
     "fast_dissolve_tablets": "180 Gyorsan oldódó tabletta",
     "hyaluronic_acid_serum": "Hialuronsav szérum",
     "65_off": "65% ENGEDMÉNY",
-    "1_fl_oz": "1 fl oz"
+    "1_fl_oz": "1 fl oz",
+    "high_potency_vitamin_d3": "Nagy hatékonyságú D3 vitamin",
+    "62_off": "62% ENGEDMÉNY",
+    "250_quick_release_softgels": "250 Gyorsan oldódó szoftgél",
+    "CoQ10": "Q10 koenzim",
+    "74_off": "74% ENGEDMÉNY",
+    "60_quick_release_softgels": "60 Gyorsan oldódó szoftgél"
  },
  {
    "language_name": "Indonesian",
@@ -1064,7 +1124,13 @@
     "fast_dissolve_tablets": "Serum Asam Hyaluronat",
     "hyaluronic_acid_serum": "Hyaluronic Acid Serum",
     "65_off": "DISKON 65%",
-    "1_fl_oz": "1 fl oz"
+    "1_fl_oz": "1 fl oz",
+    "high_potency_vitamin_d3": "Vitamin D3 Berpotensi Tinggi",
+    "62_off": "DISKON 62%",
+    "250_quick_release_softgels": "250 Jel Lembut Mudah Larut",
+    "CoQ10": "CoQ10",
+    "74_off": "DISKON 74%",
+    "60_quick_release_softgels": "60 Jel Lembut Mudah Larut"
  },
  {
    "language_name": "Italian",
@@ -1161,7 +1227,13 @@
     "fast_dissolve_tablets": "180 Compresse a dissoluzione rapida",
     "hyaluronic_acid_serum": "Siero di acido ialuronico",
     "65_off": "65% DI SCONTO",
-    "1_fl_oz": "1 fl oz"
+    "1_fl_oz": "1 fl oz",
+    "high_potency_vitamin_d3": "Vitamina D3 ad alta potenza",
+    "62_off": "62% DI SCONTO",
+    "250_quick_release_softgels": "250 Capsule in gelatina molle a rilascio rapido",
+    "CoQ10": "CoQ10",
+    "74_off": "74% DI SCONTO",
+    "60_quick_release_softgels": "60 Capsule in gelatina molle a rilascio rapido"
  },
  {
    "language_name": "Japanese",
@@ -1258,7 +1330,13 @@
     "fast_dissolve_tablets": "180 即効溶解性錠剤",
     "hyaluronic_acid_serum": "ヒアルロン酸美容液",
     "65_off": "65%オフ ",
-    "1_fl_oz": "1 fl oz"
+    "1_fl_oz": "1 fl oz",
+    "high_potency_vitamin_d3": "高効力ビタミンD3",
+    "62_off": "62%オフ",
+    "250_quick_release_softgels": "250 速放性ソフトカプセル",
+    "CoQ10": "CoQ10",
+    "74_off": "74%オフ",
+    "60_quick_release_softgels": "60 速放性ソフトカプセル"
  },
  {
    "language_name": "Korean",
@@ -1355,7 +1433,13 @@
     "fast_dissolve_tablets": "180 빠른 용해 정제",
     "hyaluronic_acid_serum": "히알루론산 세럼",
     "65_off": "65% 할인",
-    "1_fl_oz": "1 fl oz"
+    "1_fl_oz": "1 fl oz",
+    "high_potency_vitamin_d3": "고함량 비타민 D3",
+    "62_off": "62% 할인",
+    "250_quick_release_softgels": "250 빠르게 방출되는 소프트젤",
+    "CoQ10": "CoQ10",
+    "74_off": "74% 할인",
+    "60_quick_release_softgels": "60 빠르게 방출되는 소프트젤"
  },
  {
    "language_name": "Malay",
@@ -1452,7 +1536,13 @@
     "fast_dissolve_tablets": "180 Tablet Larut Cepat",
     "hyaluronic_acid_serum": "Serum Asid Hialuronik",
     "65_off": "POTONGAN 65%",
-    "1_fl_oz": "1 fl oz"
+    "1_fl_oz": "1 fl oz",
+    "high_potency_vitamin_d3": "Vitamin D3 Potensi Tinggi",
+    "62_off": "POTONGAN 62%",
+    "250_quick_release_softgels": "250 Gel Lembut Lepas Cepat",
+    "CoQ10": "CoQ10",
+    "74_off": "POTONGAN 74%",
+    "60_quick_release_softgels": "60 Gel Lembut Lepas Cepat"
  },
  {
    "language_name": "Dutch",
@@ -1549,7 +1639,13 @@
     "fast_dissolve_tablets": "180 Snel oplossende tabletten",
     "hyaluronic_acid_serum": "Hyaluronisch zuurserum",
     "65_off": "65% KORTING",
-    "1_fl_oz": "1 fl oz"
+    "1_fl_oz": "1 fl oz",
+    "high_potency_vitamin_d3": "Geconcentreerde vitamine D3",
+    "62_off": "62% KORTING",
+    "250_quick_release_softgels": "250 Snel afgevende softgels",
+    "CoQ10": "CoQ10",
+    "74_off": "74% KORTING",
+    "60_quick_release_softgels": "60 Snel afgevende softgels"
  },
  {
    "language_name": "Norwegian",
@@ -1646,7 +1742,13 @@
     "fast_dissolve_tablets": "180 Hurtigoppløselige tabletter",
     "hyaluronic_acid_serum": "Hyaluronsyre-serum",
     "65_off": "65% RABATT",
-    "1_fl_oz": "1 ounce"
+    "1_fl_oz": "1 ounce",
+    "high_potency_vitamin_d3": "Høypotent vitamin D3",
+    "62_off": "62% RABATT",
+    "250_quick_release_softgels": "250 Hurtigvirkende myke geleer",
+    "CoQ10": "CoQ10",
+    "74_off": "74% RABATT",
+    "60_quick_release_softgels": "60 Hurtigvirkende myke geleer"
  },
  {
    "language_name": "Polish",
@@ -1743,7 +1845,13 @@
     "fast_dissolve_tablets": "180 Tabletki szybko rozpuszczające się",
     "hyaluronic_acid_serum": "Serum z kwasem hialuronowym",
     "65_off": "65% ZNIŻKI",
-    "1_fl_oz": "1 Uncje sześcienne"
+    "1_fl_oz": "1 Uncje sześcienne",
+    "high_potency_vitamin_d3": "Stężona witamina D3",
+    "62_off": "62% ZNIŻKI",
+    "250_quick_release_softgels": "250 Miękkie kapsułki żelowe o szybkim uwalnianiu",
+    "CoQ10": "CoQ10",
+    "74_off": "74% ZNIŻKI",
+    "60_quick_release_softgels": "60 Miękkie kapsułki żelowe o szybkim uwalnianiu"
  },
  {
    "language_name": "Portuguese",
@@ -1840,7 +1948,13 @@
     "fast_dissolve_tablets": "180 Comprimidos de dissolução rápida",
     "hyaluronic_acid_serum": "Soro de ácido hialurónico",
     "65_off": "65% DE DESCONTO",
-    "1_fl_oz": "1 fl oz"
+    "1_fl_oz": "1 fl oz",
+    "high_potency_vitamin_d3": "Stężona witamina D3",
+    "62_off": "62% ZNIŻKI",
+    "250_quick_release_softgels": "250 Miękkie kapsułki żelowe o szybkim uwalnianiu",
+    "CoQ10": "CoQ10",
+    "74_off": "74% ZNIŻKI",
+    "60_quick_release_softgels": "60 Miękkie kapsułki żelowe o szybkim uwalnianiu"
  },
  {
    "language_name": "Romanian",
