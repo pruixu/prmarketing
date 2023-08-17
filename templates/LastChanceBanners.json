@@ -3,210 +3,240 @@
    "language_name": "English",
    "pr_code": "eng",
    "language": "en-US",
-   "running_low_on_your_favorites?_Reorder_now": "Running low on your favorite(s)? Reorder Now",
-   "order_again": "ORDER AGAIN"
+   "ending_soon": "ENDING SOON",
+   "50_off": "50% OFF",
+   "bogo": "BOGO"
  },
  {
    "language_name": "Azerbaijani",
    "pr_code": "aze",
    "language": "az",
-   "running_low_on_your_favorites?_Reorder_now": "İstədikləriniz yoxdur? Yenidən sifariş edin",
-   "order_again": "YENİDƏN SİFARİŞ EDİN"
+   "ending_soon": "YAXIN ZAMANDA BİTƏCƏK",
+   "50_off": "50% ENDİRİM",
+   "bogo": "BOGO (Birini al, birini pulsuz əldə et)"
  },
  {
    "language_name": "Bulgarian",
    "pr_code": "bul",
    "language": "bg",
-   "running_low_on_your_favorites?_Reorder_now": "Дали някои от любимите Ви продукти не са на изчерпване? Поръчайте ги отново още сега",
-   "order_again": "ПОРЪЧАЙТЕ ОТНОВО"
+   "ending_soon": "ПРИКЛЮЧВА СКОРО",
+   "50_off": "50% ОТСТЪПКА",
+   "bogo": "ДВЕ НА ЦЕНАТА НА ЕДНО"
  },
  {
    "language_name": "Danish",
    "pr_code": "dan",
    "language": "da",
-   "running_low_on_your_favorites?_Reorder_now": "Er du løbet tør for din(e) favorit(ter)? Genbestil nu",
-   "order_again": "BESTIL IGEN"
+   "ending_soon": "SLUTTER SNART",
+   "50_off": "50% RABAT",
+   "bogo": "KØB EN, FÅ EN GRATIS MED."
  },
  {
    "language_name": "German",
    "pr_code": "deu",
    "language": "de",
-   "running_low_on_your_favorites?_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
-   "order_again": "ERNEUT BESTELLEN"
+   "ending_soon": "NUR KURZE ZEIT",
+   "50_off": "50 % RABATT",
+   "bogo": "2 FÜR 1"
  },
  {
    "language_name": "Greek (modern)",
    "pr_code": "ell",
    "language": "el",
-   "running_low_on_your_favorites?_Reorder_now": "Σας τελειώνουν τα αγαπημένα σας προϊόντα; Παραγγείλτε ξανά τώρα",
-   "order_again": "ΠΑΡΑΓΓΕΙΛΤΕ ΞΑΝΑ"
+   "ending_soon": "ΤΕΛΕΙΩΝΕΙ ΣΥΝΤΟΜΑ",
+   "50_off": "50% ΕΚΠΤΩΣΗ",
+   "bogo": "ΑΓΟΡΑΣΤΕ ΕΝΑ ΚΑΙ ΠΑΡΤΕ ΑΛΛΟ ΕΝΑ ΔΩΡΕΑΝ"
  },
  {
    "language_name": "Finnish",
    "pr_code": "fin",
    "language": "fi",
-  "running_low_on_your_favorites?_Reorder_now": "Ovatko suosikkisi loppumassa? Tilaa nyt lisää",
-   "order_again": "TILAA UUDELLEEN"
+  "ending_soon": "LOPPUU PIAN",
+   "50_off": "50 % ALENNUSTA",
+   "bogo": "OSTA KAKSI YHDEN HINNALLA"
  },
  {
    "language_name": "French",
    "pr_code": "fra",
    "language": "fr",
-  "running_low_on_your_favorites?_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
-   "order_again": "COMMANDEZ À NOUVEAU"
+  "ending_soon": "SE TERMINE BIENTÔT",
+   "50_off": "RÉDUCTION DE 50 %",
+   "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
  },
  {
    "language_name": "Croatian",
    "pr_code": "hrv",
    "language": "hr",
-   "running_low_on_your_favorites?_Reorder_now": "Ponestaje vam favorita? Ponovno naručite odmah",
-   "order_again": "NARUČITE PONOVO"
+   "ending_soon": "USKORO ZAVRŠAVA",
+   "50_off": "50% POPUSTA",
+   "bogo": "BOGO"
  },
  {
    "language_name": "Hungarian",
    "pr_code": "hun",
    "language": "hu",
-  "running_low_on_your_favorites?_Reorder_now": "Kezd kifogyni a kedvence(i)ből? Rendelje újra most!",
-   "order_again": "ÚJRARENDELÉS"
+  "ending_soon": "HAMAROSAN VÉGET ÉR",
+   "50_off": "50% KEDVEZMÉNY",
+   "bogo": "EGYET FIZET, KETTŐT KAP"
  },
  {
    "language_name": "Indonesian",
    "pr_code": "ind",
    "language": "id",
-    "running_low_on_your_favorites?_Reorder_now": "Kehabisan produk favorit Anda? Pesan Ulang Sekarang",
-   "order_again": "PESAN LAGI"
+   "ending_soon": "SEGERA BERAKHIR",
+   "50_off": "DISKON 50%",
+   "bogo": "Beli Satu Gratis Satu"
  },
  {
    "language_name": "Italian",
    "pr_code": "ita",
    "language": "it",
-  "running_low_on_your_favorites?_Reorder_now": "Si a corto dei tuoi prodotti preferiti? Riordina ora",
-   "order_again": "ORDINA DI NUOVO"
+   "ending_soon": "STA PER FINIRE",
+   "50_off": "SCONTO 50%",
+   "bogo": "PAGHI UNO E PRENDI DUE"
  },
  {
    "language_name": "Japanese",
    "pr_code": "jpn",
    "language": "ja",
-  "running_low_on_your_favorites?_Reorder_now": "お気に入り商品が残り少なくなりましたか？今すぐ注文しましょう",
-   "order_again": "再注文"
+   "ending_soon": "まもなく終了",
+   "50_off": "50％引き",
+   "bogo": "BOGO"
  },
  {
    "language_name": "Korean",
    "pr_code": "kor",
    "language": "ko",
-   "running_low_on_your_favorites?_Reorder_now": "좋아하는 제품이 더 필요하신가요? 지금 재주문하기",
-   "order_again": "재주문하기"
+   "ending_soon": "곧 종료",
+   "50_off": "50% 할인",
+   "bogo": "BOGO"
  },
  {
    "language_name": "Malay",
    "pr_code": "msa",
    "language": "ms",
-   "running_low_on_your_favorites?_Reorder_now": "Item kegemaran(-kegemaran) anda akan kehabisan? Pesan Semula Sekarang",
-   "order_again": "PESAN LAGI"
+   "ending_soon": "AKAN TAMAT TIDAK LAMA LAGI",
+   "50_off": "POTONGAN 50 %",
+   "bogo": "BOGO"
  },
  {
    "language_name": "Dutch",
    "pr_code": "nld",
    "language": "nl",
-    "running_low_on_your_favorites?_Reorder_now": "Zijn uw favoriet(en) bijna op? Bestel nu opnieuw",
-   "order_again": "OPNIEUW BESTELLEN"
+   "ending_soon": "BINNENKORT TEN EINDE",
+   "50_off": "50% UIT",
+   "bogo": "EÉN KOPEN, ÉÉN GRATIS."
  },
  {
    "language_name": "Norwegian",
    "pr_code": "nor",
    "language": "no",
-  "running_low_on_your_favorites?_Reorder_now": "Er det tomt for favoritten(e) din(e)? Bestill på nytt nå",
-   "order_again": "BESTILL PÅ NYTT"
+  "ending_soon": "SLUTTER SNART",
+   "50_off": "50 % RABATT",
+   "bogo": "BOGO"
  },
  {
    "language_name": "Polish",
    "pr_code": "pol",
    "language": "pl",
-  "running_low_on_your_favorites?_Reorder_now": "Kończy Ci się zapas ulubionych produktów? Zamów teraz",
-   "order_again": "ZAMÓW PONOWNIE"
+ "ending_soon": "WKRÓTCE ZAKOŃCZY SIĘ",
+   "50_off": "ZNIŻKA 50%",
+   "bogo": "O NAZWIE BOGO"
  },
  {
    "language_name": "Portuguese",
    "pr_code": "por",
    "language": "pt",
-  "running_low_on_your_favorites?_Reorder_now": "Está ficando sem o(s) seu(s) favorito(s)? Faça novo pedido agora",
-   "order_again": "PEDIR NOVAMENTE"
+  "ending_soon": "ACABANDO LOGO",
+   "50_off": "50% DE DESCONTO",
+   "bogo": "BOGO"
  },
  {
    "language_name": "Romanian",
    "pr_code": "ron",
    "language": "ro",
-   "running_low_on_your_favorites?_Reorder_now": "Se termină preferat (ele) dvs.? Faceți o comandă chiar acum",
-   "order_again": "COMANDAȚI DIN NOU"
+   "ending_soon": "SE ÎNCHEIE ÎN CURÂND",
+   "50_off": "50% OFF",
+   "bogo": "BOGO"
  },
  {
    "language_name": "Russian",
    "pr_code": "rus",
    "language": "ru",
-  "running_low_on_your_favorites?_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
-   "order_again": "ПОВТОРИТЬ ЗАКАЗ"
+  "ending_soon": "УСПЕЙТЕ КУПИТЬ",
+   "50_off": "СКИДКА 50%",
+   "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
  },
  {
    "language_name": "Slovak",
    "pr_code": "slk",
    "language": "sk",
-   "running_low_on_your_favorites?_Reorder_now": "Dochádzajú vám obľúbené produkty? Objednajte si ich teraz",
-   "order_again": "OBJEDNAJTE SI ZNOVA"
+  "ending_soon": "ČOSKORO SKONČÍ",
+   "50_off": "50 % ZĽAVA",
+   "bogo": "Kúpte jeden a získajte ďalší"
  },
  {
    "language_name": "Slovene",
    "pr_code": "slv",
    "language": "sl",
-  "running_low_on_your_favorites?_Reorder_now": "Vam zmanjkuje priljubljenih? Naročite zdaj.",
-   "order_again": "NAROČITE PONOVNO"
+  "ending_soon": "KMALU SE KONČA",
+   "50_off": "50 % POPUSTA",
+   "bogo": "BOGO"
  },
  {
    "language_name": "Spanish",
    "pr_code": "spa",
    "language": "es",
-  "running_low_on_your_favorites?_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
-   "order_again": "VUELVA A PEDIR"
+  "ending_soon": "FINALIZA PRONTO",
+   "50_off": "DESCUENTO DEL 50%",
+   "bogo": "BOGO"
  },
  {
    "language_name": "Swedish",
    "pr_code": "swe",
    "language": "sv",
-   "running_low_on_your_favorites?_Reorder_now": "Har du slut på din(a) favorit(er)? Beställ på nytt nu",
-   "order_again": "BESTÄLL IGEN"
+   "ending_soon": "SLUTAR SNART",
+   "50_off": "50% RABATT",
+   "bogo": "KÖP TVÅ, BETALA FÖR EN."
  },
  {
    "language_name": "Thai",
    "pr_code": "tha",
    "language": "th",
-   "running_low_on_your_favorites?_Reorder_now": "ของโปรดของคุณเหลือน้อยแล้วใช่ไหม สั่งซื้อใหม่เลยตอนนี้",
-   "order_again": "สั่งซื้อใหม่อีกครั้ง"
+   "ending_soon": "ใกล้จะหมดแล้ว",
+   "50_off": "ลดราคา 50%",
+   "bogo": "ซื้อ 1 แถม 1"
  },
  {
    "language_name": "Turkish",
    "pr_code": "tur",
    "language": "tr",
-   "running_low_on_your_favorites?_Reorder_now": "En sık sipariş ettiğiniz ürünler azalıyor mu? Şimdi Yeniden Sipariş Edin",
-   "order_again": "TEKRAR SİPARİŞ VER"
+  "ending_soon": "YAKINDA BİTİYOR",
+   "50_off": "% 50 İNDİRİM",
+   "bogo": "BOGO"
  },
  {
    "language_name": "Vietnamese",
    "pr_code": "vie",
    "language": "vi",
-   "running_low_on_your_favorites?_Reorder_now": "(Các) mặt hàng yêu thích của bạn sắp hết hàng? Đặt lại ngay",
-   "order_again": "ĐẶT HÀNG LẠI"
+  "ending_soon": "SẮP KẾT THÚC",
+   "50_off": "GIẢM GIÁ 50%",
+   "bogo": "BOGO"
  },
  {
    "language_name": "Chinese Simplified",
    "pr_code": "zhs",
    "language": "zh-CHS",
-   "running_low_on_your_favorites?_Reorder_now": "您最爱的商品快用完了？马上重新订购",
-   "order_again": "再次订购"
+   "ending_soon": "即将结束",
+   "50_off": "半价优惠",
+   "bogo": "买一送一"
  },
  {
    "language_name": "Chinese Traditional",
    "pr_code": "zht",
    "language": "zh-CHT",
-  "running_low_on_your_favorites?_Reorder_now": "您最愛的商品快用完了？現在就重新訂購",
-   "order_again": "再次訂購"
+ "ending_soon": "即將結束",
+   "50_off": "五折優惠",
+   "bogo": "買一送一"
  }
 ]
