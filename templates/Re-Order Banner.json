@@ -3,210 +3,210 @@
    "language_name": "English",
    "pr_code": "eng",
    "language": "en-US",
-   "running_low_on_your_favorites?_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+   "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
    "order_again": "ORDER AGAIN"
  },
  {
    "language_name": "Azerbaijani",
    "pr_code": "aze",
    "language": "az",
-   "running_low_on_your_favorites?_Reorder_now": "İstədikləriniz yoxdur? Yenidən sifariş edin",
+   "running_low_on_your_favorites_Reorder_now": "İstədikləriniz yoxdur? Yenidən sifariş edin",
    "order_again": "YENİDƏN SİFARİŞ EDİN"
  },
  {
    "language_name": "Bulgarian",
    "pr_code": "bul",
    "language": "bg",
-   "running_low_on_your_favorites?_Reorder_now": "Дали някои от любимите Ви продукти не са на изчерпване? Поръчайте ги отново още сега",
+   "running_low_on_your_favorites_Reorder_now": "Дали някои от любимите Ви продукти не са на изчерпване? Поръчайте ги отново още сега",
    "order_again": "ПОРЪЧАЙТЕ ОТНОВО"
  },
  {
    "language_name": "Danish",
    "pr_code": "dan",
    "language": "da",
-   "running_low_on_your_favorites?_Reorder_now": "Er du løbet tør for din(e) favorit(ter)? Genbestil nu",
+   "running_low_on_your_favorites_Reorder_now": "Er du løbet tør for din(e) favorit(ter)? Genbestil nu",
    "order_again": "BESTIL IGEN"
  },
  {
    "language_name": "German",
    "pr_code": "deu",
    "language": "de",
-   "running_low_on_your_favorites?_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+   "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
    "order_again": "ERNEUT BESTELLEN"
  },
  {
    "language_name": "Greek (modern)",
    "pr_code": "ell",
    "language": "el",
-   "running_low_on_your_favorites?_Reorder_now": "Σας τελειώνουν τα αγαπημένα σας προϊόντα; Παραγγείλτε ξανά τώρα",
+   "running_low_on_your_favorites_Reorder_now": "Σας τελειώνουν τα αγαπημένα σας προϊόντα; Παραγγείλτε ξανά τώρα",
    "order_again": "ΠΑΡΑΓΓΕΙΛΤΕ ΞΑΝΑ"
  },
  {
    "language_name": "Finnish",
    "pr_code": "fin",
    "language": "fi",
-  "running_low_on_your_favorites?_Reorder_now": "Ovatko suosikkisi loppumassa? Tilaa nyt lisää",
+  "running_low_on_your_favorites_Reorder_now": "Ovatko suosikkisi loppumassa? Tilaa nyt lisää",
    "order_again": "TILAA UUDELLEEN"
  },
  {
    "language_name": "French",
    "pr_code": "fra",
    "language": "fr",
-  "running_low_on_your_favorites?_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+  "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
    "order_again": "COMMANDEZ À NOUVEAU"
  },
  {
    "language_name": "Croatian",
    "pr_code": "hrv",
    "language": "hr",
-   "running_low_on_your_favorites?_Reorder_now": "Ponestaje vam favorita? Ponovno naručite odmah",
+   "running_low_on_your_favorites_Reorder_now": "Ponestaje vam favorita? Ponovno naručite odmah",
    "order_again": "NARUČITE PONOVO"
  },
  {
    "language_name": "Hungarian",
    "pr_code": "hun",
    "language": "hu",
-  "running_low_on_your_favorites?_Reorder_now": "Kezd kifogyni a kedvence(i)ből? Rendelje újra most!",
+  "running_low_on_your_favorites_Reorder_now": "Kezd kifogyni a kedvence(i)ből? Rendelje újra most!",
    "order_again": "ÚJRARENDELÉS"
  },
  {
    "language_name": "Indonesian",
    "pr_code": "ind",
    "language": "id",
-    "running_low_on_your_favorites?_Reorder_now": "Kehabisan produk favorit Anda? Pesan Ulang Sekarang",
+    "running_low_on_your_favorites_Reorder_now": "Kehabisan produk favorit Anda? Pesan Ulang Sekarang",
    "order_again": "PESAN LAGI"
  },
  {
    "language_name": "Italian",
    "pr_code": "ita",
    "language": "it",
-  "running_low_on_your_favorites?_Reorder_now": "Si a corto dei tuoi prodotti preferiti? Riordina ora",
+  "running_low_on_your_favorites_Reorder_now": "Si a corto dei tuoi prodotti preferiti? Riordina ora",
    "order_again": "ORDINA DI NUOVO"
  },
  {
    "language_name": "Japanese",
    "pr_code": "jpn",
    "language": "ja",
-  "running_low_on_your_favorites?_Reorder_now": "お気に入り商品が残り少なくなりましたか？今すぐ注文しましょう",
+  "running_low_on_your_favorites_Reorder_now": "お気に入り商品が残り少なくなりましたか？今すぐ注文しましょう",
    "order_again": "再注文"
  },
  {
    "language_name": "Korean",
    "pr_code": "kor",
    "language": "ko",
-   "running_low_on_your_favorites?_Reorder_now": "좋아하는 제품이 더 필요하신가요? 지금 재주문하기",
+   "running_low_on_your_favorites_Reorder_now": "좋아하는 제품이 더 필요하신가요? 지금 재주문하기",
    "order_again": "재주문하기"
  },
  {
    "language_name": "Malay",
    "pr_code": "msa",
    "language": "ms",
-   "running_low_on_your_favorites?_Reorder_now": "Item kegemaran(-kegemaran) anda akan kehabisan? Pesan Semula Sekarang",
+   "running_low_on_your_favorites_Reorder_now": "Item kegemaran(-kegemaran) anda akan kehabisan? Pesan Semula Sekarang",
    "order_again": "PESAN LAGI"
  },
  {
    "language_name": "Dutch",
    "pr_code": "nld",
    "language": "nl",
-    "running_low_on_your_favorites?_Reorder_now": "Zijn uw favoriet(en) bijna op? Bestel nu opnieuw",
+    "running_low_on_your_favorites_Reorder_now": "Zijn uw favoriet(en) bijna op? Bestel nu opnieuw",
    "order_again": "OPNIEUW BESTELLEN"
  },
  {
    "language_name": "Norwegian",
    "pr_code": "nor",
    "language": "no",
-  "running_low_on_your_favorites?_Reorder_now": "Er det tomt for favoritten(e) din(e)? Bestill på nytt nå",
+  "running_low_on_your_favorites_Reorder_now": "Er det tomt for favoritten(e) din(e)? Bestill på nytt nå",
    "order_again": "BESTILL PÅ NYTT"
  },
  {
    "language_name": "Polish",
    "pr_code": "pol",
    "language": "pl",
-  "running_low_on_your_favorites?_Reorder_now": "Kończy Ci się zapas ulubionych produktów? Zamów teraz",
+  "running_low_on_your_favorites_Reorder_now": "Kończy Ci się zapas ulubionych produktów? Zamów teraz",
    "order_again": "ZAMÓW PONOWNIE"
  },
  {
    "language_name": "Portuguese",
    "pr_code": "por",
    "language": "pt",
-  "running_low_on_your_favorites?_Reorder_now": "Está ficando sem o(s) seu(s) favorito(s)? Faça novo pedido agora",
+  "running_low_on_your_favorites_Reorder_now": "Está ficando sem o(s) seu(s) favorito(s)? Faça novo pedido agora",
    "order_again": "PEDIR NOVAMENTE"
  },
  {
    "language_name": "Romanian",
    "pr_code": "ron",
    "language": "ro",
-   "running_low_on_your_favorites?_Reorder_now": "Se termină preferat (ele) dvs.? Faceți o comandă chiar acum",
+   "running_low_on_your_favorites_Reorder_now": "Se termină preferat (ele) dvs.? Faceți o comandă chiar acum",
    "order_again": "COMANDAȚI DIN NOU"
  },
  {
    "language_name": "Russian",
    "pr_code": "rus",
    "language": "ru",
-  "running_low_on_your_favorites?_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
+  "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
    "order_again": "ПОВТОРИТЬ ЗАКАЗ"
  },
  {
    "language_name": "Slovak",
    "pr_code": "slk",
    "language": "sk",
-   "running_low_on_your_favorites?_Reorder_now": "Dochádzajú vám obľúbené produkty? Objednajte si ich teraz",
+   "running_low_on_your_favorites_Reorder_now": "Dochádzajú vám obľúbené produkty? Objednajte si ich teraz",
    "order_again": "OBJEDNAJTE SI ZNOVA"
  },
  {
    "language_name": "Slovene",
    "pr_code": "slv",
    "language": "sl",
-  "running_low_on_your_favorites?_Reorder_now": "Vam zmanjkuje priljubljenih? Naročite zdaj.",
+  "running_low_on_your_favorites_Reorder_now": "Vam zmanjkuje priljubljenih? Naročite zdaj.",
    "order_again": "NAROČITE PONOVNO"
  },
  {
    "language_name": "Spanish",
    "pr_code": "spa",
    "language": "es",
-  "running_low_on_your_favorites?_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+  "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
    "order_again": "VUELVA A PEDIR"
  },
  {
    "language_name": "Swedish",
    "pr_code": "swe",
    "language": "sv",
-   "running_low_on_your_favorites?_Reorder_now": "Har du slut på din(a) favorit(er)? Beställ på nytt nu",
+   "running_low_on_your_favorites_Reorder_now": "Har du slut på din(a) favorit(er)? Beställ på nytt nu",
    "order_again": "BESTÄLL IGEN"
  },
  {
    "language_name": "Thai",
    "pr_code": "tha",
    "language": "th",
-   "running_low_on_your_favorites?_Reorder_now": "ของโปรดของคุณเหลือน้อยแล้วใช่ไหม สั่งซื้อใหม่เลยตอนนี้",
+   "running_low_on_your_favorites_Reorder_now": "ของโปรดของคุณเหลือน้อยแล้วใช่ไหม สั่งซื้อใหม่เลยตอนนี้",
    "order_again": "สั่งซื้อใหม่อีกครั้ง"
  },
  {
    "language_name": "Turkish",
    "pr_code": "tur",
    "language": "tr",
-   "running_low_on_your_favorites?_Reorder_now": "En sık sipariş ettiğiniz ürünler azalıyor mu? Şimdi Yeniden Sipariş Edin",
+   "running_low_on_your_favorites_Reorder_now": "En sık sipariş ettiğiniz ürünler azalıyor mu? Şimdi Yeniden Sipariş Edin",
    "order_again": "TEKRAR SİPARİŞ VER"
  },
  {
    "language_name": "Vietnamese",
    "pr_code": "vie",
    "language": "vi",
-   "running_low_on_your_favorites?_Reorder_now": "(Các) mặt hàng yêu thích của bạn sắp hết hàng? Đặt lại ngay",
+   "running_low_on_your_favorites_Reorder_now": "(Các) mặt hàng yêu thích của bạn sắp hết hàng? Đặt lại ngay",
    "order_again": "ĐẶT HÀNG LẠI"
  },
  {
    "language_name": "Chinese Simplified",
    "pr_code": "zhs",
    "language": "zh-CHS",
-   "running_low_on_your_favorites?_Reorder_now": "您最爱的商品快用完了？马上重新订购",
+   "running_low_on_your_favorites_Reorder_now": "您最爱的商品快用完了？马上重新订购",
    "order_again": "再次订购"
  },
  {
    "language_name": "Chinese Traditional",
    "pr_code": "zht",
    "language": "zh-CHT",
-  "running_low_on_your_favorites?_Reorder_now": "您最愛的商品快用完了？現在就重新訂購",
+  "running_low_on_your_favorites_Reorder_now": "您最愛的商品快用完了？現在就重新訂購",
    "order_again": "再次訂購"
  }
 ]
