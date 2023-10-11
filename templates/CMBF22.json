@@ -59,7 +59,17 @@
    "guaranteed_satisfaction": "100% Guaranteed Satisfaction",
    "us_manufacturing":"U.S. Manufacturing",
    "50_years_experience":"50+ Years of Trusted Experience",
-   "empowering_your_health_journey":"Empowering Your Health Journey"
+   "empowering_your_health_journey":"Empowering Your Health Journey",
+   "limited_time_only": "Limited Time Only",
+   "black_friday_sale": "Black Friday Sale",
+   "60_off": "60% OFF",
+   "on_select_products": "ON SELECT PRODUCTS",
+   "hours": "HOURS",
+   "minutes": "MINUTES",
+   "seconds": "SECONDS",
+   "last_chance": "LAST CHANCE",
+   "up_to": "UP TO",
+   "cyber_monday_sale": "Cyber Monday Sale"
  },
  {
    "language_name": "Azerbaijani",
@@ -121,7 +131,17 @@
    "guaranteed_satisfaction": "100% zəmanət verilən məmnunluq",
    "us_manufacturing":"ABŞ i̇stehsalı",
    "50_years_experience":"50+ illik etibarlı təcrübə",
-   "empowering_your_health_journey":"Sağlamlığa yolunuzun genişləndirilməsi"
+   "empowering_your_health_journey":"Sağlamlığa yolunuzun genişləndirilməsi",
+  "limited_time_only": "YALNIZ MƏHDUD ZAMAN ÇƏRÇİVƏSİNDƏ!",
+   "black_friday_sale": "Qara Cümə endirimləri",
+   "60_off": "60% ENDIRIM",
+   "on_select_products": "Bütün seçilmiş mallar üzrə",
+   "hours": "SAATLAR",
+   "minutes": "DƏQİQƏLƏR",
+   "seconds": "SANİYƏLƏR",
+   "last_chance": "SON FÜRSƏT!",
+   "up_to": "QƏDƏR",
+   "cyber_monday_sale": "Kiber Bazar ertəsi endirimləri"
  },
  {
    "language_name": "Bulgarian",
@@ -183,7 +203,17 @@
    "guaranteed_satisfaction": "100% гарантирано удовлетворение",
    "us_manufacturing":"Произведено в САЩ",
    "50_years_experience":"Над 50-годишен доказан опит",
-   "empowering_your_health_journey":"Верен страж и съюзник по пътя към здравето"
+   "empowering_your_health_journey":"Верен страж и съюзник по пътя към здравето",
+   "limited_time_only": "ОГРАНИЧЕНА ПО ВРЕМЕ ОФЕРТА!",
+   "black_friday_sale": "Продажба в черен петък",
+   "60_off": "60% ОТСТЪПКА",
+   "on_select_products": "За избрани продукти",
+   "hours": "ЧАСОВЕ",
+   "minutes": "МИНИТОРИ",
+   "seconds": "СЕКУНДИ",
+   "last_chance": "ПОСЛЕДЕН ШАНС!",
+   "up_to": "ДО",
+   "cyber_monday_sale": "Продажба в кибер понеделник"
  },
  {
    "language_name": "Danish",
@@ -246,6 +276,16 @@
    "us_manufacturing":"Fremstillet i USA",
    "50_years_experience":"50+ års pålidelig erfaring",
    "empowering_your_health_journey":"Vi styrker din sundhedsrejse"
+   "limited_time_only": "TIDSBEGRÆNSET!",
+   "black_friday_sale": "Black Friday-udsalg",
+   "60_off": "60 % RABAT",
+   "on_select_products": "På udvalgte varer",
+   "hours": "TIMER",
+   "minutes": "MINUTTER",
+   "seconds": "SEKUNDER",
+   "last_chance": "SIDSTE CHANCE!",
+   "up_to": "OP TIL",
+   "cyber_monday_sale": "Cyber Monday-udsalg"
  },
  {
    "language_name": "German",
@@ -307,7 +347,17 @@
    "guaranteed_satisfaction": "100 % Zufriedenheitsgarantie",
    "us_manufacturing":"Herstellung in den USA",
    "50_years_experience":"Über 50 Jahre vertrauensvolle Erfahrung",
-   "empowering_your_health_journey":"Unterstützung für Ihre Gesundheit"
+   "empowering_your_health_journey":"Unterstützung für Ihre Gesundheit",
+   "limited_time_only": "NUR FÜR KURZE ZEIT!",
+   "black_friday_sale": "Black Friday Sale",
+   "60_off": "60 % RABATT",
+   "on_select_products": "Auf ausgewählte Artikel",
+   "hours": "STUNDEN",
+   "minutes": "MINUTEN",
+   "seconds": "SEKUNDEN",
+   "last_chance": "LETZTE CHANCE!",
+   "up_to": "BIS ZUM",
+   "cyber_monday_sale": "Cyber Monday Sale"
  },
  {
    "language_name": "Greek (modern)",
@@ -369,7 +419,17 @@
    "guaranteed_satisfaction": "100% Εγγυημένη Ικανοποίηση",
    "us_manufacturing":"Παραγωγή ΗΠΑ",
    "50_years_experience":"50+ Χρόνια Εγγυημένης Εμπειρίας",
-   "empowering_your_health_journey":"Ενδυναμώνοντας το Ταξίδι της Υγείας σας"
+   "empowering_your_health_journey":"Ενδυναμώνοντας το Ταξίδι της Υγείας σας",
+   "limited_time_only": "ΜΟΝΟ ΓΙΑ ΠΕΡΙΟΡΙΣΜΕΝΟ ΧΡΟΝΙΚΟ ΔΙΑΣΤΗΜΑ!",
+   "black_friday_sale": "Ξεπούλημα Μαύρης Παρασκευής",
+   "60_off": "ΕΚΠΤΩΣΗ 60%",
+   "on_select_products": "Σε επιλεγμένα προϊόντα",
+   "hours": "ΩΡΕΣ",
+   "minutes": "ΛΕΠΤΆ",
+   "seconds": "ΔΕΥΤΕΡΟΛΕΠΤΑ",
+   "last_chance": "ΤΕΛΕΥΤΑΙΑ ΕΥΚΑΙΡΙΑ!",
+   "up_to": "ΕΩΣ",
+   "cyber_monday_sale": "Ξεπούλημα  Cyber Δευτέρας"
  },
  {
    "language_name": "Finnish",
@@ -431,7 +491,17 @@
    "guaranteed_satisfaction": "100 % tyytyväisyystakuu",
    "us_manufacturing":"Valmistus Yhdysvalloissa",
    "50_years_experience":"Yli 50 vuoden luotettava kokemus",
-   "empowering_your_health_journey":"Tukee terveysmatkaasi"
+   "empowering_your_health_journey":"Tukee terveysmatkaasi",
+   "limited_time_only": "VAIN RAJOITETUN AJAN!",
+   "black_friday_sale": "Mustanperjantain alennus",
+   "60_off": "60% ALENNUS",
+   "on_select_products": "Koskee tiettyjä tuotteita",
+   "hours": "TUNTIA",
+   "minutes": "MINUUTTIA",
+   "seconds": "SEKUNTIA",
+   "last_chance": "VIIMEINEN MAHDOLLISUUS!",
+   "up_to": "JOPA",
+   "cyber_monday_sale": "Kybermaanantain alennus"
  },
  {
    "language_name": "French",
@@ -493,7 +563,17 @@
    "guaranteed_satisfaction": "Satisfaction garantie à 100 %",
    "us_manufacturing":"Fabrication américaine",
    "50_years_experience":"Plus de 50 ans d'une expérience digne de confiance",
-   "empowering_your_health_journey":"Consolidez votre parcours santé"
+   "empowering_your_health_journey":"Consolidez votre parcours santé",
+   "limited_time_only": "UNIQUEMENT POUR UNE DURÉE LIMITÉE!",
+   "black_friday_sale": "Ventes du Vendredi noir",
+   "60_off": "60 % DE RÉDUCTION",
+   "on_select_products": "Sur une sélection d'articles",
+   "hours": "HEURES",
+   "minutes": "MINUTES",
+   "seconds": "SECONDES",
+   "last_chance": "DERNIÈRE CHANCE!",
+   "up_to": "JUSQU'À",
+   "cyber_monday_sale": "Ventes du Cyber lundi"
  },
  {
    "language_name": "Croatian",
@@ -556,6 +636,16 @@
    "us_manufacturing":"Proizvedeno u SAD-u",
    "50_years_experience":"Više od 50 godina iskustva s povjerenjem",
    "empowering_your_health_journey":"Osnaživanje vašeg puta prema zdravlju"
+   "limited_time_only": "SAMO OGRANIČENO VRIJEME!",
+   "black_friday_sale": "Crni petak Rasprodaja",
+   "60_off": "60 % POPUSTA",
+   "on_select_products": "Na odabrane artikle",
+   "hours": "SATI",
+   "minutes": "MINUTE",
+   "seconds": "SEKUNDE",
+   "last_chance": "POSLJEDNJA PRILIKA!",
+   "up_to": "DO",
+   "cyber_monday_sale": "Cyber ponedjeljak rasprodaja"
  },
  {
    "language_name": "Hungarian",
@@ -617,7 +707,17 @@
    "guaranteed_satisfaction": "100% garantált elégedettség",
    "us_manufacturing":"Amerikai gyártás",
    "50_years_experience":"50+ évnyi megbízható tapasztalat",
-   "empowering_your_health_journey":"Az Ön egészségügyi útjának elősegítése"
+   "empowering_your_health_journey":"Az Ön egészségügyi útjának elősegítése",
+   "limited_time_only": "CSAK KORLÁTOZOTT IDEIG!",
+   "black_friday_sale": "Fekete pénteki akció",
+   "60_off": "60% ENGEDMÉNY",
+   "on_select_products": "Egyes termékekre",
+   "hours": "ÓRA",
+   "minutes": "PERC",
+   "seconds": "MÁSODPERC",
+   "last_chance": "UTOLSÓ ESÉLY!",
+   "up_to": "AKÁR",
+   "cyber_monday_sale": "Kiberhétfői akció"
  },
  {
    "language_name": "Indonesian",
@@ -679,7 +779,17 @@
    "guaranteed_satisfaction": "Jaminan Kepuasan 100%",
    "us_manufacturing":"Manufaktur A.S",
    "50_years_experience":"Pengalaman Tepercaya 50+ Tahun",
-   "empowering_your_health_journey":"Memberdayakan Perjalanan Kesehatan Anda"
+   "empowering_your_health_journey":"Memberdayakan Perjalanan Kesehatan Anda",
+   "limited_time_only": "WAKTU TERBATAS!",
+   "black_friday_sale": "Obral Black Friday",
+   "60_off": "DISKON 60%",
+   "on_select_products": "Pada Produk Tertentu",
+   "hours": "JAM",
+   "minutes": "MENIT",
+   "seconds": "DETIK",
+   "last_chance": "KESEMPATAN TERAKHIR!",
+   "up_to": "HINGGA",
+   "cyber_monday_sale": "Obral Cyber Monday"
  },
  {
    "language_name": "Italian",
@@ -741,7 +851,17 @@
    "guaranteed_satisfaction": "Soddisfazione garantita al 100%",
    "us_manufacturing":"Produzione negli USA",
    "50_years_experience":"50+ anni di esperienza e fiducia",
-   "empowering_your_health_journey":"Potenzia il tuo percorso di benessere"
+   "empowering_your_health_journey":"Potenzia il tuo percorso di benessere",
+   "limited_time_only": "SOLO PER UN PERIODO LIMITATO!",
+   "black_friday_sale": "Saldi del Venerdì nero",
+   "60_off": "60% DI SCONTO",
+   "on_select_products": "Su prodotti selezionati",
+   "hours": "ORE",
+   "minutes": "MINUTI",
+   "seconds": "SECONDI",
+   "last_chance": "ULTIMA POSSIBILITÀ!",
+   "up_to": "FINO A",
+   "cyber_monday_sale": "Saldi del Cyber Monday"
  },
  {
    "language_name": "Japanese",
@@ -803,7 +923,17 @@
    "guaranteed_satisfaction": "100%満足保証",
    "us_manufacturing":"米国製",
    "50_years_experience":"50年以上もの信頼できる実績",
-   "empowering_your_health_journey":"皆様の健康を支えます"
+   "empowering_your_health_journey":"皆様の健康を支えます",
+   "limited_time_only": "期間限定!",
+   "black_friday_sale": "ブラックフライデー・セール",
+   "60_off": "60%オフ",
+   "on_select_products": "一部アイテムにて",
+   "hours": "時間",
+   "minutes": "分",
+   "seconds": "秒",
+   "last_chance": "ラストチャンス！",
+   "up_to": "最大",
+   "cyber_monday_sale": "サイバーマンデーセール"
  },
  {
    "language_name": "Korean",
@@ -865,7 +995,17 @@
    "guaranteed_satisfaction": "100% 만족 보장",
    "us_manufacturing":"미국 제조",
    "50_years_experience":"50여 년의 신뢰받은 경험",
-   "empowering_your_health_journey":"건강을 향한 여정에 힘을 더함"
+   "empowering_your_health_journey":"건강을 향한 여정에 힘을 더함",
+   "limited_time_only": "제한 시간 상품!",
+   "black_friday_sale": "블랙 프라이데이 세일",
+   "60_off": "60% 할인",
+   "on_select_products": "세일 상품 ",
+   "hours": "시간",
+   "minutes": "분",
+   "seconds": "초",
+   "last_chance": "마지막 기회!",
+   "up_to": "최대",
+   "cyber_monday_sale": "사이버 먼데이 세일"
  },
  {
    "language_name": "Malay",
@@ -927,7 +1067,17 @@
    "guaranteed_satisfaction": "Kepuasan Dijamin 100%",
    "us_manufacturing":"Perkilangan A.S.",
    "50_years_experience":"50+ Tahun Pengalaman yang Dipercayai",
-   "empowering_your_health_journey":"Memperkasakan Perjalanan Kesihatan Anda"
+   "empowering_your_health_journey":"Memperkasakan Perjalanan Kesihatan Anda",
+   "limited_time_only": "UNTUK MASA TERHAD SAHAJA!",
+   "black_friday_sale": "Jualan Black Friday",
+   "60_off": "POTONGAN 60%",
+   "on_select_products": "Untuk Item Terpilih",
+   "hours": "JAM",
+   "minutes": "MINIT",
+   "seconds": "SAAT",
+   "last_chance": "PELUANG TERAKHIR!",
+   "up_to": "SEHINGGA",
+   "cyber_monday_sale": "Jualan Cyber Monday"
  },
  {
    "language_name": "Dutch",
@@ -989,7 +1139,17 @@
    "guaranteed_satisfaction": "100% gegarandeerde tevredenheid",
    "us_manufacturing":"Gefabriceerd in de VS",
    "50_years_experience":"50+ jaar vertrouwde ervaring",
-   "empowering_your_health_journey":"Wij versterken uw gezondheidsreis"
+   "empowering_your_health_journey":"Wij versterken uw gezondheidsreis",
+   "limited_time_only": "TIJDELIJKE AANBIEDING!",
+   "black_friday_sale": "Uitverkoop Zwarte Vrijdag",
+   "60_off": "60% KORTING",
+   "on_select_products": "Op bepaalde artikelen",
+   "hours": "UREN",
+   "minutes": "MINUTEN",
+   "seconds": "SECONDEN",
+   "last_chance": "LAATSTE KANS!",
+   "up_to": "TOT",
+   "cyber_monday_sale": "Uitverkoop Cyber Monday"
  },
  {
    "language_name": "Norwegian",
@@ -1051,7 +1211,17 @@
    "guaranteed_satisfaction": "100% fornøyd garanti",
    "us_manufacturing":"Laget i USA",
    "50_years_experience":"50+ års pålitelig erfaring",
-   "empowering_your_health_journey":"Vi styrker din helsereise"
+   "empowering_your_health_journey":"Vi styrker din helsereise",
+   "limited_time_only": "KUN BEGRENSET TID!",
+   "black_friday_sale": "Black Friday-salg",
+   "60_off": "60% RABATT",
+   "on_select_products": "på utvalgte artikler",
+   "hours": "TIMER",
+   "minutes": "MINUTTER",
+   "seconds": "SEKUNDER",
+   "last_chance": "SISTE SJANSE!",
+   "up_to": "OPPTIL",
+   "cyber_monday_sale": "Cyber Monday-salg"
  },
  {
    "language_name": "Polish",
@@ -1113,7 +1283,17 @@
    "guaranteed_satisfaction": "100% gwarantowanej satysfakcji",
    "us_manufacturing":"Wytwarzanie w Stanach Zjednoczonych",
    "50_years_experience":"Ponad 50 lat zaufanego doświadczenia",
-   "empowering_your_health_journey":"Zwiększenie możliwości podróżowania w zdrowiu"
+   "empowering_your_health_journey":"Zwiększenie możliwości podróżowania w zdrowiu",
+   "limited_time_only": "TYLKO PRZEZ OGRANICZONY CZAS!",
+   "black_friday_sale": "Wyprzedaż w Czarny Piątek",
+   "60_off": "60% ZNIŻKI",
+   "on_select_products": "Oferta ważna na wybrane produkty",
+   "hours": "GODZIN(Y)",
+   "minutes": "MINUT(Y)",
+   "seconds": "SEKUND(Y)",
+   "last_chance": "OSTATNIA SZANSA!",
+   "up_to": "AŻ DO",
+   "cyber_monday_sale": "Wyprzedaż w Cyberponiedziałek"
  },
  {
    "language_name": "Portuguese",
@@ -1175,7 +1355,17 @@
    "guaranteed_satisfaction": "100% de satisfação garantida",
    "us_manufacturing":"Fabricação nos Estados Unidos",
    "50_years_experience":"Mais de 50 Anos de Experiência Confiável",
-   "empowering_your_health_journey":"Capacitando Sua Viagem De Saúde"
+   "empowering_your_health_journey":"Capacitando Sua Viagem De Saúde",
+   "limited_time_only": "APENAS POR TEMPO LIMITADO!",
+   "black_friday_sale": "Liquidação na Black Friday",
+   "60_off": "60% DE DESCONTO",
+   "on_select_products": "Para artigos selecionados",
+   "hours": "HORAS",
+   "minutes": "MINUTAS",
+   "seconds": "SEGUNDOS",
+   "last_chance": "ÚLTIMA OPORTUNIDADE!",
+   "up_to": "ATÉ",
+   "cyber_monday_sale": "Liquidação na Cyber Monday"
  },
  {
    "language_name": "Romanian",
@@ -1237,7 +1427,17 @@
    "guaranteed_satisfaction": "Satisfacție garantată 100%",
    "us_manufacturing":"Fabricare Statele Unite",
    "50_years_experience":"Peste 50 de ani de experiență fiabilă",
-   "empowering_your_health_journey":"Vă împuternicim călătoria de sănătate"
+   "empowering_your_health_journey":"Vă împuternicim călătoria de sănătate",
+   "limited_time_only": "DOAR O PERIOADĂ LIMITATĂ!",
+   "black_friday_sale": "Vânzarea de Black Friday",
+   "60_off": "60% REDUCERE",
+   "on_select_products": "La articolele selectate",
+   "hours": "ORE",
+   "minutes": "MINUTE",
+   "seconds": "SECUNDE",
+   "last_chance": "ULTIMA OCAZIE!",
+   "up_to": "PÂNĂ LA",
+   "cyber_monday_sale": "Vânzările de Cyber Monday"
  },
  {
    "language_name": "Russian",
@@ -1299,7 +1499,17 @@
    "guaranteed_satisfaction": "100% гарантия удовлетворенности",
    "us_manufacturing":"Сделано в США",
    "50_years_experience":"Более 50 лет опыта и доверия",
-   "empowering_your_health_journey":"Ваш надёжный проводник на пути к здоровой жизни"
+   "empowering_your_health_journey":"Ваш надёжный проводник на пути к здоровой жизни",
+   "limited_time_only": "ОГРАНИЧЕННОЕ ВРЕМЯ!",
+   "black_friday_sale": "Распродажа «Черная пятница»",
+   "60_off": "СКИДКА 60%",
+   "on_select_products": "На определенные товары",
+   "hours": "ЧАСОВ",
+   "minutes": "МИНУТ",
+   "seconds": "СЕКУНД",
+   "last_chance": "ПОСЛЕДНИЙ ШАНС!",
+   "up_to": "ДО",
+   "cyber_monday_sale": "Распродажа «Киберпонедельник»"
  },
  {
    "language_name": "Slovak",
@@ -1361,7 +1571,17 @@
    "guaranteed_satisfaction": "100% záruka spokojnosti",
    "us_manufacturing":"Výroba v USA",
    "50_years_experience":"50+ rokov dôveryhodných skúseností",
-   "empowering_your_health_journey":"Posilnenie vašej cesty za zdravím"
+   "empowering_your_health_journey":"Posilnenie vašej cesty za zdravím",
+   "limited_time_only": "ОГРАНИЧЕННОЕ ВРЕМЯ!",
+   "black_friday_sale": "Распродажа «Черная пятница»",
+   "60_off": "СКИДКА 60%",
+   "on_select_products": "На определенные товары",
+   "hours": "ЧАСОВ",
+   "minutes": "МИНУТ",
+   "seconds": "СЕКУНД",
+   "last_chance": "ПОСЛЕДНИЙ ШАНС!",
+   "up_to": "ДО",
+   "cyber_monday_sale": "Распродажа «Киберпонедельник»"
  },
  {
    "language_name": "Slovene",
