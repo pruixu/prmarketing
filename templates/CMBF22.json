@@ -67,7 +67,6 @@
    "hours": "HOURS",
    "minutes": "MINUTES",
    "seconds": "SECONDS",
-   "last_chance": "LAST CHANCE",
    "up_to": "UP TO",
    "cyber_monday_sale": "Cyber Monday Sale"
  },
@@ -139,7 +138,6 @@
    "hours": "SAATLAR",
    "minutes": "DƏQİQƏLƏR",
    "seconds": "SANİYƏLƏR",
-   "last_chance": "SON FÜRSƏT!",
    "up_to": "QƏDƏR",
    "cyber_monday_sale": "Kiber Bazar ertəsi endirimləri"
  },
@@ -211,7 +209,6 @@
    "hours": "ЧАСОВЕ",
    "minutes": "МИНИТОРИ",
    "seconds": "СЕКУНДИ",
-   "last_chance": "ПОСЛЕДЕН ШАНС!",
    "up_to": "ДО",
    "cyber_monday_sale": "Продажба в кибер понеделник"
  },
@@ -275,7 +272,7 @@
    "guaranteed_satisfaction": "100% garanteret tilfredshed",
    "us_manufacturing":"Fremstillet i USA",
    "50_years_experience":"50+ års pålidelig erfaring",
-   "empowering_your_health_journey":"Vi styrker din sundhedsrejse"
+   "empowering_your_health_journey":"Vi styrker din sundhedsrejse",
    "limited_time_only": "TIDSBEGRÆNSET!",
    "black_friday_sale": "Black Friday-udsalg",
    "60_off": "60 % RABAT",
@@ -283,7 +280,6 @@
    "hours": "TIMER",
    "minutes": "MINUTTER",
    "seconds": "SEKUNDER",
-   "last_chance": "SIDSTE CHANCE!",
    "up_to": "OP TIL",
    "cyber_monday_sale": "Cyber Monday-udsalg"
  },
@@ -355,7 +351,6 @@
    "hours": "STUNDEN",
    "minutes": "MINUTEN",
    "seconds": "SEKUNDEN",
-   "last_chance": "LETZTE CHANCE!",
    "up_to": "BIS ZUM",
    "cyber_monday_sale": "Cyber Monday Sale"
  },
@@ -427,7 +422,6 @@
    "hours": "ΩΡΕΣ",
    "minutes": "ΛΕΠΤΆ",
    "seconds": "ΔΕΥΤΕΡΟΛΕΠΤΑ",
-   "last_chance": "ΤΕΛΕΥΤΑΙΑ ΕΥΚΑΙΡΙΑ!",
    "up_to": "ΕΩΣ",
    "cyber_monday_sale": "Ξεπούλημα  Cyber Δευτέρας"
  },
@@ -499,7 +493,6 @@
    "hours": "TUNTIA",
    "minutes": "MINUUTTIA",
    "seconds": "SEKUNTIA",
-   "last_chance": "VIIMEINEN MAHDOLLISUUS!",
    "up_to": "JOPA",
    "cyber_monday_sale": "Kybermaanantain alennus"
  },
@@ -571,7 +564,6 @@
    "hours": "HEURES",
    "minutes": "MINUTES",
    "seconds": "SECONDES",
-   "last_chance": "DERNIÈRE CHANCE!",
    "up_to": "JUSQU'À",
    "cyber_monday_sale": "Ventes du Cyber lundi"
  },
@@ -635,7 +627,7 @@
    "guaranteed_satisfaction": "100 % zajamčeno zadovoljstvo",
    "us_manufacturing":"Proizvedeno u SAD-u",
    "50_years_experience":"Više od 50 godina iskustva s povjerenjem",
-   "empowering_your_health_journey":"Osnaživanje vašeg puta prema zdravlju"
+   "empowering_your_health_journey":"Osnaživanje vašeg puta prema zdravlju",
    "limited_time_only": "SAMO OGRANIČENO VRIJEME!",
    "black_friday_sale": "Crni petak Rasprodaja",
    "60_off": "60 % POPUSTA",
@@ -643,7 +635,6 @@
    "hours": "SATI",
    "minutes": "MINUTE",
    "seconds": "SEKUNDE",
-   "last_chance": "POSLJEDNJA PRILIKA!",
    "up_to": "DO",
    "cyber_monday_sale": "Cyber ponedjeljak rasprodaja"
  },
@@ -715,7 +706,6 @@
    "hours": "ÓRA",
    "minutes": "PERC",
    "seconds": "MÁSODPERC",
-   "last_chance": "UTOLSÓ ESÉLY!",
    "up_to": "AKÁR",
    "cyber_monday_sale": "Kiberhétfői akció"
  },
@@ -787,7 +777,6 @@
    "hours": "JAM",
    "minutes": "MENIT",
    "seconds": "DETIK",
-   "last_chance": "KESEMPATAN TERAKHIR!",
    "up_to": "HINGGA",
    "cyber_monday_sale": "Obral Cyber Monday"
  },
@@ -859,7 +848,6 @@
    "hours": "ORE",
    "minutes": "MINUTI",
    "seconds": "SECONDI",
-   "last_chance": "ULTIMA POSSIBILITÀ!",
    "up_to": "FINO A",
    "cyber_monday_sale": "Saldi del Cyber Monday"
  },
@@ -931,7 +919,6 @@
    "hours": "時間",
    "minutes": "分",
    "seconds": "秒",
-   "last_chance": "ラストチャンス！",
    "up_to": "最大",
    "cyber_monday_sale": "サイバーマンデーセール"
  },
@@ -1003,7 +990,6 @@
    "hours": "시간",
    "minutes": "분",
    "seconds": "초",
-   "last_chance": "마지막 기회!",
    "up_to": "최대",
    "cyber_monday_sale": "사이버 먼데이 세일"
  },
@@ -1075,7 +1061,6 @@
    "hours": "JAM",
    "minutes": "MINIT",
    "seconds": "SAAT",
-   "last_chance": "PELUANG TERAKHIR!",
    "up_to": "SEHINGGA",
    "cyber_monday_sale": "Jualan Cyber Monday"
  },
@@ -1147,7 +1132,6 @@
    "hours": "UREN",
    "minutes": "MINUTEN",
    "seconds": "SECONDEN",
-   "last_chance": "LAATSTE KANS!",
    "up_to": "TOT",
    "cyber_monday_sale": "Uitverkoop Cyber Monday"
  },
@@ -1219,7 +1203,6 @@
    "hours": "TIMER",
    "minutes": "MINUTTER",
    "seconds": "SEKUNDER",
-   "last_chance": "SISTE SJANSE!",
    "up_to": "OPPTIL",
    "cyber_monday_sale": "Cyber Monday-salg"
  },
@@ -1291,7 +1274,6 @@
    "hours": "GODZIN(Y)",
    "minutes": "MINUT(Y)",
    "seconds": "SEKUND(Y)",
-   "last_chance": "OSTATNIA SZANSA!",
    "up_to": "AŻ DO",
    "cyber_monday_sale": "Wyprzedaż w Cyberponiedziałek"
  },
@@ -1363,7 +1345,6 @@
    "hours": "HORAS",
    "minutes": "MINUTAS",
    "seconds": "SEGUNDOS",
-   "last_chance": "ÚLTIMA OPORTUNIDADE!",
    "up_to": "ATÉ",
    "cyber_monday_sale": "Liquidação na Cyber Monday"
  },
@@ -1435,7 +1416,6 @@
    "hours": "ORE",
    "minutes": "MINUTE",
    "seconds": "SECUNDE",
-   "last_chance": "ULTIMA OCAZIE!",
    "up_to": "PÂNĂ LA",
    "cyber_monday_sale": "Vânzările de Cyber Monday"
  },
@@ -1507,7 +1487,6 @@
    "hours": "ЧАСОВ",
    "minutes": "МИНУТ",
    "seconds": "СЕКУНД",
-   "last_chance": "ПОСЛЕДНИЙ ШАНС!",
    "up_to": "ДО",
    "cyber_monday_sale": "Распродажа «Киберпонедельник»"
  },
@@ -1579,7 +1558,6 @@
    "hours": "HODINY",
    "minutes": "MINÚTY",
    "seconds": "SEKUNDY",
-   "last_chance": "POSLEDNÁ PRÍLEŽITOSŤ!",
    "up_to": "AŽ DO",
    "cyber_monday_sale": "Predaj v Cyber Monday"
  },
@@ -1643,7 +1621,7 @@
    "guaranteed_satisfaction": "100-odstotno zajamčeno zadovoljstvo",
    "us_manufacturing":"Izdelano v ZDA",
    "50_years_experience":"50+ let zaupanja vrednih izkušenj",
-   "empowering_your_health_journey":"Opolnomočenje vaše zdravstvene poti","limited_time_only": "LEN PO OBMEDZENÝ ČAS!",
+   "empowering_your_health_journey":"Opolnomočenje vaše zdravstvene poti",
   "limited_time_only": "NA VOLJO ZA OMEJEN ČAS",
    "black_friday_sale": "Razprodaja na črni petek",
    "60_off": "60 % POPUSTA",
@@ -1651,7 +1629,6 @@
    "hours": "URE",
    "minutes": "MINUTE",
    "seconds": "SEKUNDE",
-   "last_chance": "ZADNJA PRILOŽNOST!",
    "up_to": "DO",
    "cyber_monday_sale": "Razprodaja na kibernetski ponedeljek"
  },
@@ -1723,7 +1700,6 @@
    "hours": "HORAS",
    "minutes": "MINUTOS",
    "seconds": "SEGUNDOS",
-   "last_chance": "¡ÚLTIMA OPORTUNIDAD!",
    "up_to": "HASTA",
    "cyber_monday_sale": "Rebajas Cyber Monday"
  },
@@ -1795,7 +1771,6 @@
    "hours": "TIMMAR",
    "minutes": "PROTOKOLL",
    "seconds": "SEKUNDER",
-   "last_chance": "SISTA CHANSEN!",
    "up_to": "UPP TILL",
    "cyber_monday_sale": "Cyber Monday-försäljning"
  },
@@ -1867,7 +1842,6 @@
    "hours": "ชั่วโมง",
    "minutes": "นาที",
    "seconds": "วินาที",
-   "last_chance": "โอกาสสุดท้าย!",
    "up_to": "มากถึง",
    "cyber_monday_sale": "มหกรรมลดราคาวัน Cyber Monday"
  },
@@ -1939,7 +1913,6 @@
    "hours": "SAATLER",
    "minutes": "DAKİKALAR",
    "seconds": "SANİYELER",
-   "last_chance": "SON ŞANS!",
    "up_to": "KADAR",
    "cyber_monday_sale": "Siber Pazartesi İndirimi"
  },
@@ -2011,7 +1984,6 @@
    "hours": "GIỜ",
    "minutes": "PHÚT",
    "seconds": "GIÂY",
-   "last_chance": "CƠ HỘI CUỐI CÙNG!",
    "up_to": "LÊN ĐẾN",
    "cyber_monday_sale": "Ưu đãi Cyber Monday"
  },
@@ -2083,7 +2055,6 @@
    "hours": "小时",
    "minutes": "分",
    "seconds": "秒",
-   "last_chance": "最后的机会",
    "up_to": "最多",
    "cyber_monday_sale": "网络星期一促销"
  },
@@ -2155,7 +2126,6 @@
    "hours": "小時",
    "minutes": "分",
    "seconds": "秒",
-   "last_chance": "最後的機會！",
    "up_to": "最多",
    "cyber_monday_sale": "網路星期一促銷"
  }
