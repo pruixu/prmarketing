@@ -3,180 +3,210 @@
     "language_name": "English",
     "pr_code": "eng",
     "language": "en-US",
-    "pre_header_variation_1": "Great Deals on Quality Vitamins, Essential Oils, Nuts, Seeds & More!"
+    "pre_header_variation_1": "Great Deals on Quality Vitamins, Essential Oils, Nuts, Seeds & More!",
+    "pre_header_variation_2": "Great Deals on Quality Supplements, Vitamins, Essential Oils, & More!"
   },
   {
     "language_name": "Azerbaijani",
     "pr_code": "aze",
     "language": "az",
-    "pre_header_variation_1": "Keyfiyyətli Vitaminlər, Efir yağları, Çərəzlər, Toxumlar və s. üzrə Möhtəşəm Təkliflər!"
+    "pre_header_variation_1": "Keyfiyyətli Vitaminlər, Efir yağları, Çərəzlər, Toxumlar və s. üzrə Möhtəşəm Təkliflər!",
+    "pre_header_variation_2": "Keyfiyyətli əlavələrə, vitaminlərə, efir yağlarına və daha çoxuna əla təkliflər!"
   },
   {
     "language_name": "Bulgarian",
     "pr_code": "bul",
     "language": "bg",
-    "pre_header_variation_1": "Страхотни оферти за качествени витамини, етерични масла, ядки, семена и други!"
+    "pre_header_variation_1": "Страхотни оферти за качествени витамини, етерични масла, ядки, семена и други!", 
+    "pre_header_variation_2": "Изгодни оферти за качествени добавки, витамини, етерични масла и други!"
   },
   {
     "language_name": "Danish",
     "pr_code": "dan",
     "language": "da",
-    "pre_header_variation_1": "Gode tilbud på kvalitetsvitaminer, æteriske olier, nødder, frø og meget mere!"
+    "pre_header_variation_1": "Gode tilbud på kvalitetsvitaminer, æteriske olier, nødder, frø og meget mere!",
+    "pre_header_variation_2": "Gode tilbud på kvalitetstilskud, vitaminer, æteriske olier, og mere!"
   },
   {
     "language_name": "German",
     "pr_code": "deu",
     "language": "de",
-    "pre_header_variation_1": "Großartige Angebote für hochwertige Vitamine, Ätherische Öle, Nüsse, Samen und vieles mehr!"
+    "pre_header_variation_1": "Großartige Angebote für hochwertige Vitamine, Ätherische Öle, Nüsse, Samen und vieles mehr!",
+    "pre_header_variation_2": "Tolle Angebote für hochwertige Nahrungsergänzungsmittel, Vitamine, ätherische Öle und mehr!"
   },
   {
     "language_name": "Greek (modern)",
     "pr_code": "ell",
     "language": "el",
-    "pre_header_variation_1": "Μεγάλες προσφορές σε βιταμίνες, αιθέρια έλαια, ξηρούς καρπούς, σπόρους και άλλα εξαιρετικής ποιότητας!"
+    "pre_header_variation_1": "Μεγάλες προσφορές σε βιταμίνες, αιθέρια έλαια, ξηρούς καρπούς, σπόρους και άλλα εξαιρετικής ποιότητας!",
+    "pre_header_variation_2": "Μεγάλες προσφορές σε ποιοτικά συμπληρώματα, βιταμίνες, αιθέρια έλαια και άλλα!"
   },
   {
     "language_name": "Finnish",
     "pr_code": "fin",
     "language": "fi",
-    "pre_header_variation_1": "Mahtavia tarjouksia vitamiineista, eteerisistä öljyistä, pähkinöistä, siemenistä ja monista muista tuotteista!"
+    "pre_header_variation_1": "Mahtavia tarjouksia vitamiineista, eteerisistä öljyistä, pähkinöistä, siemenistä ja monista muista tuotteista!",
+    "pre_header_variation_2": "Loistavia tarjouksia laadukkaista ravintolisistä, vitamiineista, eteerisistä öljyistä ja paljosta muuta!"
   },
   {
     "language_name": "French",
     "pr_code": "fra",
     "language": "fr",
-    "pre_header_variation_1": "Des affaires incroyables sur les vitamines, les huiles essentielles, les noix, les graines et d'autres produits de qualité !"
+    "pre_header_variation_1": "Des affaires incroyables sur les vitamines, les huiles essentielles, les noix, les graines et d'autres produits de qualité !",
+    "pre_header_variation_2": "Offres exceptionnelles sur des suppléments de qualité, des vitamines, des huiles essentielles, et plus encore !"
   },
   {
     "language_name": "Croatian",
     "pr_code": "hrv",
     "language": "hr",
-    "pre_header_variation_1": "Izvrsne ponude za kvalitetne vitamine, esencijalna ulja, orašaste plodove, sjemenke i drugo!"
+    "pre_header_variation_1": "Izvrsne ponude za kvalitetne vitamine, esencijalna ulja, orašaste plodove, sjemenke i drugo!",
+    "pre_header_variation_2": "Odlične ponude kvalitetnih dodataka ishrani, vitamina, esencijalnih ulja i još mnogo toga!"
   },
   {
     "language_name": "Hungarian",
     "pr_code": "hun",
     "language": "hu",
-    "pre_header_variation_1": "Akciós minőségi vitaminok, illóolajok, csonthéjasok, magvak és még sok más!"
+    "pre_header_variation_1": "Akciós minőségi vitaminok, illóolajok, csonthéjasok, magvak és még sok más!",
+    "pre_header_variation_2": "Nagyszerű ajánlatok minőségi kiegészítőkre, vitaminokra, illóolajokra és sok másra."
   },
   {
     "language_name": "Indonesian",
     "pr_code": "ind",
     "language": "id",
-    "pre_header_variation_1": "Promo Besar Vitamin Berkualitas, Minyak Asiri, Kacang-kacangan, Biji-bijian, dan Lainnya!"
+    "pre_header_variation_1": "Promo Besar Vitamin Berkualitas, Minyak Asiri, Kacang-kacangan, Biji-bijian, dan Lainnya!",
+    "pre_header_variation_2": "Diskon Besar untuk Suplemen Berkualitas, Vitamin, Minyak Atsiri, & Lainnya!"
   },
   {
     "language_name": "Italian",
     "pr_code": "ita",
     "language": "it",
-    "pre_header_variation_1": "Grandi offerte su prodotti di qualità come vitamine, oli essenziali, frutta secca, semi e altri!"
+    "pre_header_variation_1": "Grandi offerte su prodotti di qualità come vitamine, oli essenziali, frutta secca, semi e altri!",
+    "pre_header_variation_2": "Grandi occasioni su integratori, vitamine, oli essenziali e altri prodotti di qualità!"
   },
   {
     "language_name": "Japanese",
     "pr_code": "jpn",
     "language": "ja",
-    "pre_header_variation_1": "高品質のビタミン、エッセンシャルオイル、ナッツ、シードなどをお買い得価格で！"
+    "pre_header_variation_1": "高品質のビタミン、エッセンシャルオイル、ナッツ、シードなどをお買い得価格で！",
+    "pre_header_variation_2": "良質なサプリ、ビタミン、エッセンシャルオイルなどをお買い得価格でお届け！"
   },
   {
     "language_name": "Korean",
     "pr_code": "kor",
     "language": "ko",
-    "pre_header_variation_1": "고품질 비타민과 에센셜 오일, 견과, 씨앗 등을 대상으로 한 대규모 딜!"
+    "pre_header_variation_1": "고품질 비타민과 에센셜 오일, 견과, 씨앗 등을 대상으로 한 대규모 딜!",
+    "pre_header_variation_2": "고품질의 보조제, 비타민, 에센셜 오일 등을 할인된 가격에 만나보세요!"
   },
   {
     "language_name": "Malay",
     "pr_code": "msa",
     "language": "ms",
-    "pre_header_variation_1": "Tawaran Hebat bagi Vitamin Berkualiti, Minyak Pati, Kacang, Bijian & Banyak Lagi!"
+    "pre_header_variation_1": "Tawaran Hebat bagi Vitamin Berkualiti, Minyak Pati, Kacang, Bijian & Banyak Lagi!",
+    "pre_header_variation_2": "Tawaran Hebat untuk Makanan Tambahan Berkualiti, Vitamin, Minyak Pati & Banyak Lagi!"
   },
   {
     "language_name": "Dutch",
     "pr_code": "nld",
     "language": "nl",
-    "pre_header_variation_1": "Geweldige aanbiedingen voor de beste vitaminen, etherische oliën, noten, zaden en nog veel meer!"
+    "pre_header_variation_1": "Geweldige aanbiedingen voor de beste vitaminen, etherische oliën, noten, zaden en nog veel meer!",
+    "pre_header_variation_2": "Geweldige aanbiedingen voor kwaliteitssupplementen, vitaminen, essentiële oliën en meer!"
   },
   {
     "language_name": "Norwegian",
     "pr_code": "nor",
     "language": "no",
-    "pre_header_variation_1": "Gode tilbud på kvalitetsvitaminer, essensielle oljer, nøtter, frø og annet!"
+    "pre_header_variation_1": "Gode tilbud på kvalitetsvitaminer, essensielle oljer, nøtter, frø og annet!",
+    "pre_header_variation_2": "Gode tilbud på kvalitetstilskudd, vitaminer, eteriske oljer og mer!"
   },
   {
     "language_name": "Polish",
     "pr_code": "pol",
     "language": "pl",
-    "pre_header_variation_1": "Wysokiej jakości witaminy, olejki eteryczne, orzechy, ziarna i wiele więcej produktów w doskonałych cenach!"
+    "pre_header_variation_1": "Wysokiej jakości witaminy, olejki eteryczne, orzechy, ziarna i wiele więcej produktów w doskonałych cenach!",
+    "pre_header_variation_2": "Świetne promocje na suplementy wysokiej jakości, witaminy, olejki eteryczne i nie tylko!"
   },
   {
     "language_name": "Portuguese",
     "pr_code": "por",
     "language": "pt",
-    "pre_header_variation_1": "Supee ofertas em Vitaminas de Qualidade, Óleos essenciais, Nozes, Sementes e muito mais!"
+    "pre_header_variation_1": "Supee ofertas em Vitaminas de Qualidade, Óleos essenciais, Nozes, Sementes e muito mais!",
+    "pre_header_variation_2": "Grandes ofertas em suplementos de qualidade, vitaminas, óleos essenciais e muito mais!"
   },
   {
     "language_name": "Romanian",
     "pr_code": "ron",
     "language": "ro",
-    "pre_header_variation_1": "Promoții excepționale la vitamine, uleiuri esențiale, nuci, semințe de calitate și multe altele!"
+    "pre_header_variation_1": "Promoții excepționale la vitamine, uleiuri esențiale, nuci, semințe de calitate și multe altele!",
+    "pre_header_variation_2": "Oferte excelente la suplimente, vitamine, uleiuri esențiale de calitate și multe altele!"
   },
   {
     "language_name": "Russian",
     "pr_code": "rus",
     "language": "ru",
-    "pre_header_variation_1": "Отличные предложения на качественные витамины, эфирные масла, орехи, семена и многое другое!"
+    "pre_header_variation_1": "Отличные предложения на качественные витамины, эфирные масла, орехи, семена и многое другое!",
+    "pre_header_variation_2": "Качественные пищевые добавки, витамины, эфирные масла и многое другое по самым выгодным ценам!"
   },
   {
     "language_name": "Slovak",
     "pr_code": "slk",
     "language": "sk",
-    "pre_header_variation_1": "Skvelé ponuky na kvalitné vitamíny, esenciálne oleje, orechy, semená a ďalšie produkty!"
+    "pre_header_variation_1": "Skvelé ponuky na kvalitné vitamíny, esenciálne oleje, orechy, semená a ďalšie produkty!",
+    "pre_header_variation_2": "Skvelé ponuky kvalitných doplnkov, vitamínov, esenciálnych olejov a ďalších!"
   },
   {
     "language_name": "Slovene",
     "pr_code": "slv",
     "language": "sl",
-    "pre_header_variation_1": "Odlične ponudbe za kakovostne vitamine, eterična olja, oreščke in drugo!"
+    "pre_header_variation_1": "Odlične ponudbe za kakovostne vitamine, eterična olja, oreščke in drugo!",
+    "pre_header_variation_2": "Odlične ponudbe za kakovostne dodatke, vitamine, eterična olja in še več!"
   },
   {
     "language_name": "Spanish",
     "pr_code": "spa",
     "language": "es",
-    "pre_header_variation_1": "¡Magníficas ofertas en vitaminas, aceites esenciales, frutos secos, semillas y otros productos de gran calidad!"
+    "pre_header_variation_1": "¡Magníficas ofertas en vitaminas, aceites esenciales, frutos secos, semillas y otros productos de gran calidad!",
+    "pre_header_variation_2": "¡Grandes ofertas en suplementos alimenticios de calidad, vitaminas, aceites esenciales y mucho más!"
   },
   {
     "language_name": "Swedish",
     "pr_code": "swe",
     "language": "sv",
-    "pre_header_variation_1": "Bra erbjudanden på kvalitativa vitaminer, essentiella oljor, nötter, frön och mer!"
+    "pre_header_variation_1": "Bra erbjudanden på kvalitativa vitaminer, essentiella oljor, nötter, frön och mer!",
+    "pre_header_variation_2": "Fantastiska erbjudanden på kvalitetstillskott, vitaminer, eteriska oljor och mer!"
   },
   {
     "language_name": "Thai",
     "pr_code": "tha",
     "language": "th",
-    "pre_header_variation_1": "ข้อเสนอพิเศษสำหรับวิตามินคุณภาพ, น้ำมันหอมระเหย, ถั่ว, เมล็ดธัญพืช และอื่นๆอีกมากมาย!"
+    "pre_header_variation_1": "ข้อเสนอพิเศษสำหรับวิตามินคุณภาพ, น้ำมันหอมระเหย, ถั่ว, เมล็ดธัญพืช และอื่นๆอีกมากมาย!",
+    "pre_header_variation_2": "ข้อเสนอสุดพิเศษสำหรับอาหารเสริมที่มีคุณภาพ วิตามิน น้ำมันหอมระเหยและอีกมากมาย!"
   },
   {
     "language_name": "Turkish",
     "pr_code": "tur",
     "language": "tr",
-    "pre_header_variation_1": "Kaliteli Vitaminler, Bitki Özleri, Tohumlar, Çekirdekler ve Daha Nice Ürün için Harika Kampanyalar!"
+    "pre_header_variation_1": "Kaliteli Vitaminler, Bitki Özleri, Tohumlar, Çekirdekler ve Daha Nice Ürün için Harika Kampanyalar!",
+    "pre_header_variation_2": "Kaliteli Takviyeler, Vitaminler, Uçucu Yağlar ve Çok Daha Fazlasında Harika İndirimler!"
   },
   {
     "language_name": "Vietnamese",
     "pr_code": "vie",
     "language": "vi",
-    "pre_header_variation_1": "Khuyến mại khủng với các sản phẩm Vitamin Chất lượng, Tinh dầu, Hạnh nhân, Hạt và Nhiều loại khác!"
+    "pre_header_variation_1": "Khuyến mại khủng với các sản phẩm Vitamin Chất lượng, Tinh dầu, Hạnh nhân, Hạt và Nhiều loại khác!",
+    "pre_header_variation_2": "Ưu đãi lớn về thực phẩm chức năng, vitamin, tinh dầu cùng nhiều sản phẩm khác!"
   },
   {
     "language_name": "Chinese Simplified",
     "pr_code": "zhs",
     "language": "zh-CHS",
-    "pre_header_variation_1": "超低价让你享有高质量维生素，各种油类，坚果以及更多产品！"
+    "pre_header_variation_1": "超低价让你享有高质量维生素，各种油类，坚果以及更多产品！",
+    "pre_header_variation_2": "优质保健品、维生素、精油等超值特卖！"
   },
   {
     "language_name": "Chinese Traditional",
     "pr_code": "zht",
     "language": "zh-CHT",
-    "pre_header_variation_1": "超低價讓你享有高質量維生素，各種油類，堅果以及更多産品！"
+    "pre_header_variation_1": "超低價讓你享有高質量維生素，各種油類，堅果以及更多産品！",
+    "pre_header_variation_2": "優質保健品、維他命、精油等產品大特賣！"
   }
 ]
