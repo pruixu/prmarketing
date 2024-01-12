@@ -1,0 +1,213 @@
+[
+  {
+    "language_name": "English",
+    "pr_code": "eng",
+    "language": "en-US",
+    "subject_variation_1": "Score Big: 40%-60% OFF Limited Time Deal!",
+    "subject_variation_2": "Ending Soon! 40%-60% Off"
+  },
+  {
+    "language_name": "Azerbaijani",
+    "pr_code": "aze",
+    "language": "az",
+    "subject_variation_1": "Daha böyük müfəffəqiyyətlərə nail olun: 40%-60% ENDİRİM Məhdud müddətli sövdələşmə!",
+    "subject_variation_2": "Tezliklə bitir! 40%-60% Endirim"
+  },
+  {
+    "language_name": "Bulgarian",
+    "pr_code": "bul",
+    "language": "bg",
+    "subject_variation_1": "Голeмият джакпот: цели 40%–60% намаление. Само до изчерпване на количествата!", 
+    "subject_variation_2": "Срокът за големият джакпот изтича! 40%–60% намаление"
+  },
+  {
+    "language_name": "Danish",
+    "pr_code": "dan",
+    "language": "da",
+    "subject_variation_1": "Gjor det godt: 40%-60% RABAT på tidsbegrænset tilbud!",
+    "subject_variation_2": "Ender snart! 40%-60% rabat"
+  },
+  {
+    "language_name": "German",
+    "pr_code": "deu",
+    "language": "de",
+    "subject_variation_1": "Großes Angebot: 40%-60% Rabatt für begrenzte Zeit!",
+    "subject_variation_2": "Τελειώνει σύντομα! 40%-60% έκπτωση"
+  },
+  {
+    "language_name": "Greek (modern)",
+    "pr_code": "ell",
+    "language": "el",
+    "subject_variation_1": "Μέγα Αποτέλεσμα: ΕΚΠΤΩΣΗ 40%-60% Πρόταση περιορισμένου χρόνου!",
+    "subject_variation_2": "Μεγάλες προσφορές σε ποιοτικά συμπληρώματα, βιταμίνες, αιθέρια έλαια και άλλα!"
+  },
+  {
+    "language_name": "Finnish",
+    "pr_code": "fin",
+    "language": "fi",
+    "subject_variation_1": "Runsaat säästöt: 40–60 % alennusta rajoitetun ajan!",
+    "subject_variation_2": "Päättyy pian! 40–60 % alennusta"
+  },
+  {
+    "language_name": "French",
+    "pr_code": "fra",
+    "language": "fr",
+    "subject_variation_1": "Faites de grosses économies : 40 % à 60 % DE RÉDUCTION pour une durée limitée !",
+    "subject_variation_2": "C'est bientôt la fin ! 40 % à 60 % de réduction"
+  },
+  {
+    "language_name": "Croatian",
+    "pr_code": "hrv",
+    "language": "hr",
+    "subject_variation_1": "Ostvarite veliki rezultat: 40%-60% POPUSTA Vremenski ograničena ponuda!",
+    "subject_variation_2": "Uskoro završava! 40%-60% popusta"
+  },
+  {
+    "language_name": "Hungarian",
+    "pr_code": "hun",
+    "language": "hu",
+    "subject_variation_1": "Szakíts nagyot: 40-60% KEDVEZMÉNY korlátozott ideig!",
+    "subject_variation_2": "Hamarosan véget ér! 40-60% kedvezmény"
+  },
+  {
+    "language_name": "Indonesian",
+    "pr_code": "ind",
+    "language": "id",
+    "subject_variation_1": "Dapatkan Diskon Besar: DISKON 40%-60% dengan Waktu Terbatas!",
+    "subject_variation_2": "Segera berakhir! Diskon 40%-60%"
+  },
+  {
+    "language_name": "Italian",
+    "pr_code": "ita",
+    "language": "it",
+    "subject_variation_1": "Fai un grande colpo: 40%-60% di sconto per un periodo di tempo limitato!",
+    "subject_variation_2": "In scadenza a breve! 40%-60% di sconto"
+  },
+  {
+    "language_name": "Japanese",
+    "pr_code": "jpn",
+    "language": "ja",
+    "subject_variation_1": "大勝ち：期間限定40％～60％オフ！",
+    "subject_variation_2": "まもなく終了！40%～60%オフ"
+  },
+  {
+    "language_name": "Korean",
+    "pr_code": "kor",
+    "language": "ko",
+    "subject_variation_1": "기간 한정 40%-60% 할인 행사를 놓치지 마세요!",
+    "subject_variation_2": "40%-60% 할인 행사가 곧 종료됩니다!
+"
+  },
+  {
+    "language_name": "Malay",
+    "pr_code": "msa",
+    "language": "ms",
+    "subject_variation_1": "Rebut Lekas: DISKAUN 40%-60% Tawaran Masa Terhad!",
+    "subject_variation_2": "Akan Tamat! Diskaun 40%-60%"
+  },
+  {
+    "language_name": "Dutch",
+    "pr_code": "nld",
+    "language": "nl",
+    "subject_variation_1": "Scoor groots: 40%-60% KORTING, tijdelijke aanbieding!",
+    "subject_variation_2": "Binnenkort afgelopen! 40%-60% korting"
+  },
+  {
+    "language_name": "Norwegian",
+    "pr_code": "nor",
+    "language": "no",
+    "subject_variation_1": "Scor stort: 40%–60% rabatt i en begrenset periode!",
+    "subject_variation_2": "Snart slutt! 40%–60% rabatt"
+  },
+  {
+    "language_name": "Polish",
+    "pr_code": "pol",
+    "language": "pl",
+    "subject_variation_1": "Wielki wynik: 40% -60% ZNIŻKI Oferta ograniczona czasowo!",
+    "subject_variation_2": "Kończy się niebawem! 40%-60% zniżki"
+  },
+  {
+    "language_name": "Portuguese",
+    "pr_code": "por",
+    "language": "pt",
+    "subject_variation_1": "Pontuação grande: 40% -60% OFF na Oferta por Tempo Limitado!",
+    "subject_variation_2": "Terminando em Breve! 40%-60% Off"
+  },
+  {
+    "language_name": "Romanian",
+    "pr_code": "ron",
+    "language": "ro",
+    "subject_variation_1": "Ia cel mai mare punctaj: REDUCERE DE 40%-60% ofertă pe timp limitat!",
+    "subject_variation_2": "Se termină în curând! Reducere 40%-60%"
+  },
+  {
+    "language_name": "Russian",
+    "pr_code": "rus",
+    "language": "ru",
+    "subject_variation_1": "Невероятные скидки от 40% до 60% Ограниченное по времени предложение!",
+    "subject_variation_2": "Акция скоро закончится! Скидки от 40% до 60%"
+  },
+  {
+    "language_name": "Slovak",
+    "pr_code": "slk",
+    "language": "sk",
+    "subject_variation_1": "Skvelá ponuka: 40 % - 60 % zľava - časovo obmedzená ponuka!",
+    "subject_variation_2": "Čoskoro končí! 40 % - 60 % zľava"
+  },
+  {
+    "language_name": "Slovene",
+    "pr_code": "slv",
+    "language": "sl",
+    "subject_variation_1": "Velika ocena: 40–60 % POPUST na časovno omejeno ponudbo!",
+    "subject_variation_2": "Kmalu se bo končalo! 40–60 % popust"
+  },
+  {
+    "language_name": "Spanish",
+    "pr_code": "spa",
+    "language": "es",
+    "subject_variation_1": "Gana a lo grande: ¡40-60% de descuento por tiempo limitado!",
+    "subject_variation_2": "¡Termina pronto!  40%-60% de descuento"
+  },
+  {
+    "language_name": "Swedish",
+    "pr_code": "swe",
+    "language": "sv",
+    "subject_variation_1": "Spara stort: 40%-60% RABATT på tidsbegränsat erbjudande!",
+    "subject_variation_2": "Slutar snart! 40%-60% rabatt"
+  },
+  {
+    "language_name": "Thai",
+    "pr_code": "tha",
+    "language": "th",
+    "subject_variation_1": "ได้คะแนนสูง: ส่วนลด 40%-60% ดีลในเวลาจำกัด!",
+    "subject_variation_2": "จะสิ้นสุดเร็ว ๆ นี้! ส่วนลด 40%-60%"
+  },
+  {
+    "language_name": "Turkish",
+    "pr_code": "tur",
+    "language": "tr",
+    "subject_variation_1": "Büyük Fırsat: Sınırlı bir süre için % 40 - % 60 İNDİRİM!",
+    "subject_variation_2": "Yakında Bitiyor! % 40 - % 60 İndirim"
+  },
+  {
+    "language_name": "Vietnamese",
+    "pr_code": "vie",
+    "language": "vi",
+    "subject_variation_1": "Điểm lớn: GIẢM 40%-60% giao dịch trong thời gian có hạn!",
+    "subject_variation_2": "Sắp kết thúc! Giảm 40%-60%"
+  },
+  {
+    "language_name": "Chinese Simplified",
+    "pr_code": "zhs",
+    "language": "zh-CHS",
+    "subject_variation_1": "抓住超值优惠：限时特惠，打4—6折！",
+    "subject_variation_2": "活动即将结束！4—6折"
+  },
+  {
+    "language_name": "Chinese Traditional",
+    "pr_code": "zht",
+    "language": "zh-CHT",
+    "subject_variation_1": "抓住超值優惠：限時特惠，打4—6折！",
+    "subject_variation_2": "活動即將結束！4—6折"
+  }
+]
