@@ -1,0 +1,212 @@
+[
+  {
+    "language_name": "English",
+    "pr_code": "eng",
+    "language": "en-US",
+    "subject_variation_1": "Score Big: 40%-60% OFF Limited Time Deal!",
+    "subject_variation_2": "Ending Soon! 40%-60% Off"
+  },
+  {
+    "language_name": "Azerbaijani",
+    "pr_code": "aze",
+    "language": "az",
+    "subject_variation_1": "60%-ə qədər endirim - İndi alış-veriş edin!",
+    "subject_variation_2": "Tələsin! 40% - 60% Endirim - Satış tezliklə bitir"
+  },
+  {
+    "language_name": "Bulgarian",
+    "pr_code": "bul",
+    "language": "bg",
+    "subject_variation_1": "До 60% отстъпка – пазарувайте на разпродажба сега!", 
+    "subject_variation_2": "Побързайте! 40% до 60% отстъпка – разпродажбата приключва скоро"
+  },
+  {
+    "language_name": "Danish",
+    "pr_code": "dan",
+    "language": "da",
+    "subject_variation_1": "Op til 60% rabat - Shop udsalg nu!",
+    "subject_variation_2": "Skynd dig! 40% til 60% rabat - udsalget slutter snart"
+  },
+  {
+    "language_name": "German",
+    "pr_code": "deu",
+    "language": "de",
+    "subject_variation_1": "Bis zu 60 % reduziert – Jetzt im Sale shoppen!",
+    "subject_variation_2": "Beeilen Sie sich! 40 % bis 60 % reduziert – Ausverkauf endet bald"
+  },
+  {
+    "language_name": "Greek (modern)",
+    "pr_code": "ell",
+    "language": "el",
+    "subject_variation_1": "Έως 60% έκπτωση - Αγοράστε τώρα!",
+    "subject_variation_2": "Γρήγορα! 40% έως 60% έκπτωση - Οι Προσφορές τελειώνουν σύντομα"
+  },
+  {
+    "language_name": "Finnish",
+    "pr_code": "fin",
+    "language": "fi",
+    "subject_variation_1": "Jopa 60 % alennusta – osta heti alennuksella!",
+    "subject_variation_2": "Pidä kiirettä! 40–60 % alennusta – tarjous päättyy pian"
+  },
+  {
+    "language_name": "French",
+    "pr_code": "fra",
+    "language": "fr",
+    "subject_variation_1": "Profitez de réductions allant jusqu'à 60 % — Achetez maintenant !",
+    "subject_variation_2": "Hâtez-vous ! Réductions de 40 % à 60 % — La vente se termine bientôt"
+  },
+  {
+    "language_name": "Croatian",
+    "pr_code": "hrv",
+    "language": "hr",
+    "subject_variation_1": "Do 60% popusta – kupujte odmah!",
+    "subject_variation_2": "Požurite! 40% do 60% popusta – rasprodaja uskoro završava"
+  },
+  {
+    "language_name": "Hungarian",
+    "pr_code": "hun",
+    "language": "hu",
+    "subject_variation_1": "Akár 60% kedvezmény – Vásároljon most akciósan!",
+    "subject_variation_2": "Siessen! 40-60% kedvezmény – A akció hamarosan véget ér"
+  },
+  {
+    "language_name": "Indonesian",
+    "pr_code": "ind",
+    "language": "id",
+    "subject_variation_1": "Diskon hingga 60% - Belanja Obral Sekarang!",
+    "subject_variation_2": "Cepat! Diskon 40% hingga 60% - Obral Segera Berakhir"
+  },
+  {
+    "language_name": "Italian",
+    "pr_code": "ita",
+    "language": "it",
+    "subject_variation_1": "Fino al 60% di sconto — Approfitta dei saldi ora!",
+    "subject_variation_2": "Sbrigati! Sconti dal 40% al 60% — I saldi finiscono presto"
+  },
+  {
+    "language_name": "Japanese",
+    "pr_code": "jpn",
+    "language": "ja",
+    "subject_variation_1": "最大60%オフ – 今すぐセールをチェック！",
+    "subject_variation_2": "急いで！40%～60%オフ – セールはもうすぐ終了します"
+  },
+  {
+    "language_name": "Korean",
+    "pr_code": "kor",
+    "language": "ko",
+    "subject_variation_1": "최대 60% 할인 - 지금 특가 상품을 구매하세요!",
+    "subject_variation_2": "서두르세요! 40%-60% 할인 행사가 곧 종료됩니다"
+  },
+  {
+    "language_name": "Malay",
+    "pr_code": "msa",
+    "language": "ms",
+    "subject_variation_1": "Diskaun Sehingga 60% – Beli-belah semasa Jualan Sekarang!",
+    "subject_variation_2": "Cepat! Diskaun 40% hingga 60% – Jualan Tamat Tidak Lama Lagi"
+  },
+  {
+    "language_name": "Dutch",
+    "pr_code": "nld",
+    "language": "nl",
+    "subject_variation_1": "Tot 60% korting – koop de aanbieding nu!",
+    "subject_variation_2": "Haast je! 40% tot 60% korting – de aanbieding eindigt bijna"
+  },
+  {
+    "language_name": "Norwegian",
+    "pr_code": "nor",
+    "language": "no",
+    "subject_variation_1": "Opptil 60 % rabatt – handle på salg nå!",
+    "subject_variation_2": "Skynd deg! 40 % til 60 % rabatt – salget avsluttes snart"
+  },
+  {
+    "language_name": "Polish",
+    "pr_code": "pol",
+    "language": "pl",
+    "subject_variation_1": "Aż do 60% zniżki – kupuj teraz!",
+    "subject_variation_2": "Spiesz się! Od 40% do 60% zniżki – wyprzedaż wkrótce się zakończy"
+  },
+  {
+    "language_name": "Portuguese",
+    "pr_code": "por",
+    "language": "pt",
+    "subject_variation_1": "Até 60% de desconto – Aproveite a promoção agora!",
+    "subject_variation_2": "Corra! De 40% a 60% de desconto – Promoção acaba logo"
+  },
+  {
+    "language_name": "Romanian",
+    "pr_code": "ron",
+    "language": "ro",
+    "subject_variation_1": "Reduceri de până la 60% - Cumpără acum produse reduse!",
+    "subject_variation_2": "Grăbește-te! Reduceri de 40% până la 60% - Reduceri va înceta în curând"
+  },
+  {
+    "language_name": "Russian",
+    "pr_code": "rus",
+    "language": "ru",
+    "subject_variation_1": "Скидки до 60 % — начните покупки уже сейчас!",
+    "subject_variation_2": "Поторопитесь! Скидки 40–60 % — распродажа заканчивается"
+  },
+  {
+    "language_name": "Slovak",
+    "pr_code": "slk",
+    "language": "sk",
+    "subject_variation_1": "Zľava až do 60 % – Nakupujte v akcii teraz!",
+    "subject_variation_2": "Poponáhľajte sa! 40 % až 60 % zľavy – akcia sa čoskoro skončí"
+  },
+  {
+    "language_name": "Slovene",
+    "pr_code": "slv",
+    "language": "sl",
+    "subject_variation_1": "Do 60 % popusta – nakupujte zdaj!",
+    "subject_variation_2": "Pohitite! 40 % do 60 % popusta – razprodaja se bo kmalu končala"
+  },
+  {
+    "language_name": "Spanish",
+    "pr_code": "spa",
+    "language": "es",
+    "subject_variation_1": "¡Hasta el 60% de descuento! ¡Compra en oferta ahora mismo!",
+    "subject_variation_2": "¡Apresúrate! Descuentos del 40% al 60% — La oferta termina pronto"
+  },
+  {
+    "language_name": "Swedish",
+    "pr_code": "swe",
+    "language": "sv",
+    "subject_variation_1": "Upp till 60% rabatt -Gå på Rea nu!",
+    "subject_variation_2": "Pass på! 40% till 60% Rabatt - Rea är snart slut"
+  },
+  {
+    "language_name": "Thai",
+    "pr_code": "tha",
+    "language": "th",
+    "subject_variation_1": "ส่วนลดสูงสุดถึง 60% – ซื้อของลดราคาเลยตอนนี้!",
+    "subject_variation_2": "รีบหน่อย! ส่วนลด 40% ถึง 60% – การลดราคาจะสิ้นสุดเร็ว ๆ นี้"
+  },
+  {
+    "language_name": "Turkish",
+    "pr_code": "tur",
+    "language": "tr",
+    "subject_variation_1": "% 60'a Varan İndirimler – Bu Muhteşem Fırsatı Kaçırma!",
+    "subject_variation_2": "Acele et! % 40 ila % 60 İndirim – Kısa Bir Süre için Geçerlidir"
+  },
+  {
+    "language_name": "Vietnamese",
+    "pr_code": "vie",
+    "language": "vi",
+    "subject_variation_1": "Giảm giá tới 60% – Mua ngay!",
+    "subject_variation_2": "Nhanh tay lên! Giảm giá 40% đến 60% – Ưu đãi sắp kết thúc"
+  },
+  {
+    "language_name": "Chinese Simplified",
+    "pr_code": "zhs",
+    "language": "zh-CHS",
+    "subject_variation_1": "优惠最高可达60%——立即选购特卖商品！",
+    "subject_variation_2": "马上行动！40%至60%的折扣——优惠即将结束"
+  },
+  {
+    "language_name": "Chinese Traditional",
+    "pr_code": "zht",
+    "language": "zh-CHT",
+    "subject_variation_1": "最高可享六折優惠——現在就來選購吧！",
+    "subject_variation_2": "快快行動！四至六折優惠——特賣即將結束"
+  }
+]
