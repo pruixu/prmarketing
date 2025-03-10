@@ -103,7 +103,7 @@
     "featured_products": "Feautured Products",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, 1600 mg (per serving), 120 Quick Release Capsules",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Ashwagandha Root (Withania somnifera), 920 mg (per serving), 120 Quick Release Capsules",
-    "bogo_alt": "BUY ONE <br><span>GET ONE</span> FREE",
+    "bogo_alt": "<span>BUY</span><br/> <span>ONE</span><br/> <span>GET ONE</span><br/> <span>FREE</span>",
     "bogo_one": "BUY ONE GET ONE FREE"
   },
   {
@@ -210,7 +210,7 @@
     "featured_products": "Təqdim olunan məhsullar",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tonqkat Ali Lonq Cek, mq (hər xidmətdə), 120 Tez həll olunan kapsulalar",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Aşvaqandxa Kökü (Yuxugətirici), 920 mq (hər xidmətdə) 120 Tez həll olunan kapsulalar",
-    "bogo_alt": "BİRİ AL, <br><span>BİRİ</span> PULSUZ",
+    "bogo_alt": "<span>BİRİ</span> AL<br/> <span>BİRİ</span> <br/> <span>PULSUZ</span>",
     "bogo_one": "BİRİ AL, BİRİ PULSUZ"
   },
   {
@@ -317,7 +317,7 @@
     "featured_products": "Препоръчани продукти",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Тонгат Али Лонг Джек (малайзийски женшен), mg (на порция), 120 Капсули с бързо освобождаване",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Корен от ашваганда (Индийски женшен), 920 mg (на порция) 120 Капсули с бързо освобождаване",
-    "bogo_alt": "КУПИ ЕДНО, <br><span>ВЗЕМИ ЕДНО</span> БЕЗПЛАТНО",
+    "bogo_alt": "<span>КУПИ</span> ЕДНО<br/> <span>ВЗЕМИ ЕДНО</span><br/> <span>БЕСПЛАТНО</span>",
     "bogo_one": "КУПИ ЕДНО, ВЗЕМИ ЕДНО БЕСПЛАТНО"
   },
   {
@@ -424,7 +424,7 @@
     "featured_products": "Udvalgte produkter",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (pr. dosering), 120 Kapsler for hurtig frigivelse",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Ashwagandha-rod (Withania somnifera), 920 mg (pr. dosering) 120 Kapsler for hurtig frigivelse",
-    "bogo_alt": "KØB ÉT, <br><span>FÅ ÉT</span> GRATIS",
+    "bogo_alt": "<span>KØB</span> ÉT<br/> <span>FÅ ÉT</span><br/> <span>KOSTNINGSFRIT</span>",
     "bogo_one": "KØB ÉT, FÅ ÉT KOSTNINGSFRIT"
   },
   {
@@ -531,7 +531,7 @@
     "featured_products": "Ausgewählte Produkte",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (pro Portion), 120 Kapseln mit schneller Freisetzung",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Ashwagandha-Wurzel (Withania somnifera), 920 mg (pro Portion) 120 Kapseln mit schneller Freisetzung",
-    "bogo_alt": "KAUFE EINS, <br><span>BEKOMME EINS</span> GRATIS",
+    "bogo_alt": "<span>KAUFE</span> EINS<br/> <span>BEKOMME EINS</span><br/> <span>KOSTENLOS</span>",
     "bogo_one": "KAUFE EINS, BEKOMME EINS KOSTENLOS"
   },
   {
@@ -638,7 +638,7 @@
     "featured_products": "Προτεινόμενα Προϊόντα",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (ανά μερίδα), 120 Κάψουλες γρήγορης αποδέσμευσης",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Ρίζα Ashwagandha (Withania somnifera), 920 mg (ανά μερίδα) 120 Κάψουλες γρήγορης αποδέσμευσης",
-    "bogo_alt": "ΑΓΟΡΑΣΕ ΕΝΑ, <br><span>ΠΑΡΕ ΕΝΑ</span> ΔΩΡΕΑΝ",
+    "bogo_alt": "<span>ΑΓΟΡΑΣΕ</span> ΕΝΑ<br/> <span>ΠΑΡΕ ΕΝΑ</span><br/> <span>ΔΩΡΕΑΝ</span>",
     "bogo_one": "ΑΓΟΡΑΣΕ ΕΝΑ, ΠΑΡΕ ΕΝΑ ΔΩΡΕΑΝ"
   },
   {
@@ -745,7 +745,7 @@
     "featured_products": "Esitellyt tuotteet",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat ali (Eurycoma longifolia), mg/annos, 120 Pikaliukenevat kapselit",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Rohtokoisionjuuri (Withania somnifera), 920 mg/annos 120 Pikaliukenevat kapselit",
-    "bogo_alt": "OSTA YKSI, <br><span>SAAVAT YKSI</span> ILMAISEKSI",
+    "bogo_alt": "<span>OSTA</span> YKSI<br/> <span>SAAVAT YKSI</span><br/> <span>ILMAISEKSI</span>",
     "bogo_one": "OSTA YKSI, SAAVAT YKSI ILMAISEKSI"
   },
   {
@@ -852,7 +852,7 @@
     "featured_products": "Produits populaires",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (par portion), 120 Gélules à libération rapide",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Racine d'Ashwagandha(Withania somnifera), 920 mg (par portion) 120 Gélules à libération rapide",
-    "bogo_alt": "ACHETEZ UN, <br><span>OBTENEZ UN</span> GRATUIT",
+    "bogo_alt": "<span>ACHETEZ</span> UN<br/> <span>OBTENEZ UN</span><br/> <span>GRATUIT</span>",
     "bogo_one": "ACHETEZ UN, OBTENEZ UN GRATUIT"
   },
   {
@@ -959,7 +959,7 @@
     "featured_products": "Istaknuti proizvodi",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (po obroku), 120 Kapsule s brzim otpuštanjem",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Korijen Ashwagandha (Withania somnifera), 920 mg (po obroku) 120 Kapsule s brzim otpuštanjem",
-    "bogo_alt": "KUPI JEDAN, <br><span>DOBIJEŠ JEDAN</span> BESPLATNO",
+    "bogo_alt": "<span>KUPI</span> JEDAN<br/> <span>DOBIJEŠ JEDAN</span><br/> <span>BESPLATNO</span>",
     "bogo_one": "KUPI JEDAN, DOBIJEŠ JEDAN BESPLATNO"
   },
   {
@@ -1066,7 +1066,7 @@
     "featured_products": "Kiemelt termékek",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Maláj ginzeng Long Jack, mg (adagonként), 120 Gyorsan oldódó kapszula",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Ashwagandhagyökér (Withania somnifera), 920 mg (adagonként) 120 Gyorsan oldódó kapszula",
-    "bogo_alt": "VÁSÁROLJ EGYET, <br><span>KAPSZ EGYET</span> INGYEN",
+    "bogo_alt": "<span>VÁSÁROLJ</span> EGYET<br/> <span>KAPSZ EGYET</span><br/> <span>INGYEN</span>",
     "bogo_one": "VÁSÁROLJ EGYET, KAPSZ EGYET INGYEN"
   },
   {
@@ -1173,7 +1173,7 @@
     "featured_products": "Produk Pilihan",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (per saji), 120 Kapsul Mudah Larut",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Akar Ashwagandha (Withania somnifera), 920 mg (per saji) 120 Kapsul Mudah Larut",
-    "bogo_alt": "BELI SATU, <br><span>DAPAT SATU</span> GRATIS",
+    "bogo_alt": "<span>BELI</span> SATU<br/> <span>DAPAT SATU</span><br/> <span>PERCUMA</span>",
     "bogo_one": "BELI SATU, DAPAT SATU PERCUMA"
   },
   {
@@ -1280,7 +1280,7 @@
     "featured_products": "Prodotti in vetrina",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (per dose), 120 Capsule a rilascio rapido",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Radice di Ashwagandha (Withania somnifera), 920 mg (per dose) 120 Capsule a rilascio rapido",
-    "bogo_alt": "COMPRA UNO, <br><span>PRENDI UNO</span> GRATIS",
+    "bogo_alt": "<span>COMPRA</span> UNO<br/> <span>PRENDI UNO</span><br/> <span>GRATIS</span>",
     "bogo_one": "COMPRA UNO, PRENDI UNO GRATIS"
   },
   {
@@ -1387,7 +1387,7 @@
     "featured_products": "注目の商品",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "トンカット アリ (マレーシア人参) ロング ジャック, mg (1 回分), 120 速放性カプセル",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "アシュワガンダ根 (ウィタニア ソムニフェラ/インド人参), 920 mg (1 回分) 120 速放性カプセル",
-    "bogo_alt": "1つ買うと、<br><span>1つ無料</span>",
+    "bogo_alt": "<span>1つ</span>買うと<br/> <span>1つ無料</span>",
     "bogo_one": "1つ買うと、1つ無料"
   },
   {
@@ -1494,7 +1494,7 @@
     "featured_products": "주요 제품",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "통캇 알리 롱 잭, mg (1회 복용량당), 120 빠르게 방출되는 캡슐",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "아쉬와간다 뿌리 (비타니아 솜니페라), 920 mg (1회 복용량당) 120 빠르게 방출되는 캡슐",
-    "bogo_alt": "하나 사면 <br><span>하나 무료</span>",
+    "bogo_alt": "<span>하나</span> 사면 <br/> <span>하나 무료</span>",
     "bogo_one": "하나 사면 하나 무료"
   },
   {
@@ -1601,7 +1601,7 @@
     "featured_products": "Produk Pilihan",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (setiap sajian), 120 Kapsul Lepas Cepat",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Akar Ashwagandha (Withania somnifera), 920 mg (setiap sajian) 120 Kapsul Lepas Cepat",
-    "bogo_alt": "BELI SATU, <br><span>DAPAT SATU</span> PERCUMA",
+    "bogo_alt": "<span>BELI</span> SATU<br/> <span>DAPAT SATU</span><br/> <span>PERCUMA</span>",
     "bogo_one": "BELI SATU, DAPAT SATU PERCUMA"
   },
   {
@@ -1708,7 +1708,7 @@
     "featured_products": "Aanbevolen producten",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Flindersia xanthoxyla, mg (per portie), 120 Snel afgevende capsules",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Ashwagandhawortel (ashwaganda), 920 mg (per portie) 120 Snel afgevende capsules",
-    "bogo_alt": "KOOP ER ÉÉN, <br><span>KRIJG ER ÉÉN</span> GRATIS",
+    "bogo_alt": "<span>KOOP</span> ER ÉÉN<br/> <span>KRIJG ER ÉÉN</span><br/> <span>KOSTENLOOS</span>",
     "bogo_one": "KOOP ER ÉÉN, KRIJG ER ÉÉN KOSTENLOOS"
   },
   {
@@ -1815,7 +1815,7 @@
     "featured_products": "Utvalgte produkter",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (per dose), 120 Hurtigvirkende kapsler",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Ashwagandha-rot (Withania somnifera), 920 mg (per dose) 120 Hurtigvirkende kapsler",
-    "bogo_alt": "KJØP EN, <br><span>FÅ EN</span> GRATIS",
+    "bogo_alt": "<span>KJØP</span> EN<br/> <span>FÅ EN</span><br/> <span>GRATIS</span>",
     "bogo_one": "KJØP EN, FÅ EN GRATIS"
   },
   {
@@ -1922,7 +1922,7 @@
     "featured_products": "Polecane produkty",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali (żeń-szeń malezyjski), mg (na porcję), 120 Kapsułki o szybkim uwalnianiu",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Korzeń ashwagandhy (Withania somnifera), 920 mg (na porcję) 120 Kapsułki o szybkim uwalnianiu",
-    "bogo_alt": "KUP JEDNO, <br><span>OTRZYMAJ JEDNO</span> ZA DARMO",
+    "bogo_alt": "<span>KUP</span> JEDNO<br/> <span>OTRZYMAJ JEDNO</span><br/> <span>ZA DARMO</span>",
     "bogo_one": "KUP JEDNO, OTRZYMAJ JEDNO ZA DARMO"
   },
   {
@@ -2029,7 +2029,7 @@
     "featured_products": "Produtos em destaque",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (por dose), 120 Cápsulas de Rápida Absorção",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Raiz de ashwagandha (withania somnifera), 920 mg (por dose) 120 Cápsulas de Rápida Absorção",
-    "bogo_alt": "COMPRE UM, <br><span>LEVE UM</span> GRÁTIS",
+    "bogo_alt": "<span>COMPRE</span> UM<br/> <span>LEVE UM</span><br/> <span>GRÁTIS</span>",
     "bogo_one": "COMPRE UM, LEVE UM GRÁTIS"
   },
   {
@@ -2136,7 +2136,7 @@
     "featured_products": "Produse recomandate",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (per porție), 120 Capsule cu eliberare rapidă",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Rădăcină de ashwagandha (Withania somnifera), 920 mg (per porție) 120 Capsule cu eliberare rapidă",
-    "bogo_alt": "CUMPĂRĂ UNUL, <br><span>PRIMEȘTE UNUL</span> GRATUIT",
+    "bogo_alt": "<span>CUMPĂRĂ</span> UNUL<br/> <span>PRIMEȘTE UNUL</span><br/> <span>GRATUIT</span>",
     "bogo_one": "CUMPĂRĂ UNUL, PRIMEȘTE UNUL GRATUIT"
   },
   {
@@ -2243,7 +2243,7 @@
     "featured_products": "Рекомендуемые продукты",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Тонгкат Али (Эврикома длиннолистая), мг в порции, 120 Быстрорастворимые капсулы",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Корень ашвагандхи(витания снотворная), 920 мг в порции 120 Быстрорастворимые капсулы",
-    "bogo_alt": "КУПИ ОДНО, <br><span>ПОЛУЧИ ОДНО</span> БЕСПЛАТНО",
+    "bogo_alt": "<span>КУПИ</span> ОДНО<br/> <span>ПОЛУЧИ ОДНО</span><br/> <span>БЕСПЛАТНО</span>",
     "bogo_one": "КУПИ ОДНО, ПОЛУЧИ ОДНО БЕСПЛАТНО"
   },
   {
@@ -2350,7 +2350,7 @@
     "featured_products": "Vybrané produkty",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali, mg (v jednej dávke), 120 Kapsule s rýchlym uvoľňovaním",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Koreň z indického ženšenu (vitánia spavá), 920 mg (v jednej dávke) 120 Kapsule s rýchlym uvoľňovaním",
-    "bogo_alt": "KÚPTE JEDNO, <br><span>ZÍSKAJTE JEDNO</span> ZADARMO",
+    "bogo_alt": "<span>KÚPTE</span> JEDNO<br/> <span>ZÍSKAJTE JEDNO</span><br/> <span>ZADARMO</span>",
     "bogo_one": "KÚPTE JEDNO, ZÍSKAJTE JEDNO ZADARMO"
   },
   {
@@ -2457,7 +2457,7 @@
     "featured_products": "Priporočeni izdelki",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Kapsule Tongkat Ali, mg (na porcijo), 120 Kapsule s hitrim sproščanjem",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Korenina ašvagande (withania somnifera) , 920 mg (na porcijo) 120 Kapsule s hitrim sproščanjem",
-    "bogo_alt": "KUPI ENO, <br><span>DOBIŠ ENO</span> BREZPLAČNO",
+    "bogo_alt": "<span>KUPI</span> ENO<br/> <span>DOBIŠ ENO</span><br/> <span>BREZPLAČNO</span>",
     "bogo_one": "KUPI ENO, DOBIŠ ENO BREZPLAČNO"
   },
   {
@@ -2564,7 +2564,7 @@
     "featured_products": "Productos destacados",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali - Long Jack, mg (por porción), 120 Cápsulas de liberación rápida",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Raíz de ashwagandha (bufera), 920 mg (por porción) 120 Cápsulas de liberación rápida",
-    "bogo_alt": "COMPRA UNO, <br><span>LLEVA UNO</span> GRATIS",
+    "bogo_alt": "<span>COMPRA</span> UNO<br/> <span>LLEVA UNO</span><br/> <span>GRATIS</span>",
     "bogo_one": "COMPRA UNO, LLEVA UNO GRATIS"
   },
   {
@@ -2671,7 +2671,7 @@
     "featured_products": "Utvalda produkter",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali – Longifolia Jack, mg (per portion), 120 Snabbverkande kapslar",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Ashwagandha-rot (withania somnifera), 920 mg (per portion) 120 Snabbverkande kapslar",
-    "bogo_alt": "KÖP ETT, <br><span>FÅ ETT</span> GRATIS",
+    "bogo_alt": "<span>KÖP</span> ETT<br/> <span>FÅ ETT</span><br/> <span>GRATIS</span>",
     "bogo_one": "KÖP ETT, FÅ ETT GRATIS"
   },
   {
@@ -2778,7 +2778,7 @@
     "featured_products": "สินค้าที่น่าสนใจ",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (ต่อการเสิร์ฟ), 120 แคปซูลแบบปล่อยตัวยาเร็ว",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "เหง้าโสมอินเดีย (Withania somnifera), 920 mg (ต่อการเสิร์ฟ) 120 แคปซูลแบบปล่อยตัวยาเร็ว",
-    "bogo_alt": "ซื้อมาหนึ่ง<br><span>ฟรีหนึ่ง</span>",
+    "bogo_alt": "<span>ซื้อมาหนึ่ง</span>ฟรีหนึ่ง",
     "bogo_one": "ซื้อมาหนึ่งฟรีหนึ่ง"
   },
   {
@@ -2885,7 +2885,7 @@
     "featured_products": "Öne Çıkan Ürünler",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali (Long Jack), mg (porsiyon başına), 120 Hızlı Yayılan Kapsüller",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Ashwagandha Kökü (Withania somnifera), 920 mg (porsiyon başına) 120 Hızlı Yayılan Kapsüller",
-    "bogo_alt": "BİR AL, <br><span>BİR</span> BEDAVA",
+    "bogo_alt": "<span>BİR</span> AL<br/> <span>BİR</span> BEDAVA",
     "bogo_one": "BİR AL, BİR BEDAVA"
   },
   {
@@ -2992,7 +2992,7 @@
     "featured_products": "Sản phẩm nổi bật",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Bá bệnh, mg (một liều dùng), 120 Viên nang dạng lỏng",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Rễ Ashwagandha (Sâm Ấn Độ), 920 mg (một liều dùng) 120 Viên nang dạng lỏng",
-    "bogo_alt": "MUA MỘT <br><span>TẶNG MỘT</span>",
+    "bogo_alt": "<span>MUA</span> MỘT<br/> <span>TẶNG MỘT</span>",
     "bogo_one": "MUA MỘT TẶNG MỘT"
   },
   {
@@ -3099,7 +3099,7 @@
     "featured_products": "精选产品",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "东革阿里胶囊  , 毫克（每份）, 120 快速释放胶囊",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "南非醉茄根 （南非醉茄）, 920 毫克（每份） 120 快速释放胶囊",
-    "bogo_alt": "买一<br><span>送一</span>",
+    "bogo_alt": "<span>买一</span><br/> <span>送一</span>",
     "bogo_one": "买一送一"
   },
   {
@@ -3206,7 +3206,7 @@
     "featured_products": "精選產品",
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "東革阿裡膠囊  , 毫克 (每份), 120 快速釋放膠囊",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "南非醉茄根 （南非醉茄） , 920 毫克 (每份) 120 快速釋放膠囊",
-    "bogo_alt": "買一<br><span>送一</span>",
+    "bogo_alt": "<span>買一</span><br/> <span>送一</span>",
     "bogo_one": "買一送一"
   }
 ]
