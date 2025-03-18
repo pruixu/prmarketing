@@ -12,7 +12,7 @@
     "herbs": "HERBS",
     "expires": "Expires",
     "expiration_message": "{{promoExpires}}",
-    "footer_message": "\"\"<strong><em>Please do not reply to this email.</em></strong> This offer can not be combined with any other offer. To send us your questions and comments, or to unsubscribe from future email messages and exclusive offers from Piping Rock Health Products®, please use the links below\"\"",
+    "footer_message": "<strong><em>Please do not reply to this email.</em></strong> This offer can not be combined with any other offer. To send us your questions and comments, or to unsubscribe from future email messages and exclusive offers from Piping Rock Health Products®, please use the links below",
     "footer_expiration": "^Promotion is valid on Piping Rock brand items only. All products subject to availability. Offer cannot be applied to prior purchases. Offer Expires: {{promoExpires}} @ 11:59 PM [PST].",
     "customer_service": "CUSTOMER SERVICE",
     "register": "REGISTER",
@@ -104,7 +104,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, 1600 mg (per serving), 120 Quick Release Capsules",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Ashwagandha Root (Withania somnifera), 920 mg (per serving), 120 Quick Release Capsules",
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >BUY</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >ONE</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >GET ONE</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >FREE</td></tr>",
-    "bogo_one": "BUY ONE GET ONE FREE"
+    "bogo_one": "BUY ONE GET ONE FREE",
+    "promo_code": "USE CODE"
   },
   {
     "language_name": "Azerbaijani",
@@ -119,7 +120,7 @@
     "herbs": "HERBAL ƏLAVƏLƏR",
     "expires": "Tükənir",
     "expiration_message": "{{promoExpires}}",
-    "footer_message": "\"\"<strong><em>Zəhmət olmasa bu e-poçta cavab verməyin.</em></strong> Bu təklif başqa bir təkliflə birləşdirilə bilməz. Bizə ünvanlanan sual və şərhlərinizi göndərmək və ya gələcək e-poçt məktubları və Piping Rock Sağlamlıq Məhsulları üzrə xüsusi təkliflərin göndərilməməsi üçün abunəliyinizi ləğv etmək istəyirsinizsə, aşağıdakı linklərdən istifadə etməyiniz xahiş olunur\"\"",
+    "footer_message": "<strong><em>Zəhmət olmasa bu e-poçta cavab verməyin.</em></strong> Bu təklif başqa bir təkliflə birləşdirilə bilməz. Bizə ünvanlanan sual və şərhlərinizi göndərmək və ya gələcək e-poçt məktubları və Piping Rock Sağlamlıq Məhsulları üzrə xüsusi təkliflərin göndərilməməsi üçün abunəliyinizi ləğv etmək istəyirsinizsə, aşağıdakı linklərdən istifadə etməyiniz xahiş olunur",
     "footer_expiration": "^Promo aksiya yalnız Piping Rock brendi məhsullarına aiddir. Bütün məhsullar anbarda mövcudluğundan asılıdır. Təklif öncəki alışlara şamil oluna bilməz. Tükənir {{promoExpires}}.",
     "customer_service": "MÜŞTƏRİ XİDMƏTİ",
     "register": "QEYDİYYAT",
@@ -211,7 +212,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tonqkat Ali Lonq Cek, mq (hər xidmətdə), 120 Tez həll olunan kapsulalar",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Aşvaqandxa Kökü (Yuxugətirici), 920 mq (hər xidmətdə) 120 Tez həll olunan kapsulalar",
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >AL</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >BİRİNİ</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >GƏTİR BİRİNİ</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >PULSUZ</td></tr>",
-    "bogo_one": "BİRİ AL, BİRİ PULSUZ"
+    "bogo_one": "BİRİ AL, BİRİ PULSUZ",
+    "promo_code": "KODDAN İSTİFADƏ EDİN"
   },
   {
     "language_name": "Bulgarian",
@@ -226,7 +228,7 @@
     "herbs": "БИЛКОВИ ДОБАВКИ",
     "expires": "Изтича",
     "expiration_message": "{{promoExpires}}",
-    "footer_message": "\"\"<strong><em>Моля, не отговаряйте на този имейл.</em></strong> Тази оферта не може да се комбинира с друга оферта. За да ни изпратите своите въпроси и коментари, или за да се откажете от получаване на бъдещи имейли и ексклузивни оферти от Piping Rock Health Products®, използвайте долните линкове\"\"",
+    "footer_message": "<strong><em>Моля, не отговаряйте на този имейл.</em></strong> Тази оферта не може да се комбинира с друга оферта. За да ни изпратите своите въпроси и коментари, или за да се откажете от получаване на бъдещи имейли и ексклузивни оферти от Piping Rock Health Products®, използвайте долните линкове",
     "footer_expiration": "^ Промоцията е валидна само за артикули на марката Piping Rock. Всички продукти са според наличността. Офертата не е в сила за предишни покупки. Изтича {{promoExpires}}.",
     "customer_service": "ОБСЛУЖВАНЕ НА КЛИЕНТИ",
     "register": "РЕГИСТРАЦИЯ",
@@ -318,7 +320,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Тонгат Али Лонг Джек (малайзийски женшен), mg (на порция), 120 Капсули с бързо освобождаване",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Корен от ашваганда (Индийски женшен), 920 mg (на порция) 120 Капсули с бързо освобождаване",
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >КУПИ</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >ЕДНО</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >ВЗЕМИ ЕДНО</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >БЕЗПЛАТНО</td></tr>",
-    "bogo_one": "КУПИ ЕДНО, ВЗЕМИ ЕДНО БЕСПЛАТНО"
+    "bogo_one": "КУПИ ЕДНО, ВЗЕМИ ЕДНО БЕСПЛАТНО",
+    "promo_code": "ИЗПОЛЗВАЙТЕ КОД"
   },
   {
     "language_name": "Danish",
@@ -425,7 +428,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (pr. dosering), 120 Kapsler for hurtig frigivelse",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Ashwagandha-rod (Withania somnifera), 920 mg (pr. dosering) 120 Kapsler for hurtig frigivelse",
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >KØB</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >EN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >FÅ EN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >GRATIS</td></tr>",
-    "bogo_one": "KØB ÉT, FÅ ÉT KOSTNINGSFRIT"
+    "bogo_one": "KØB ÉT, FÅ ÉT KOSTNINGSFRIT",
+    "promo_code": "BRUG KODE"
   },
   {
     "language_name": "German",
@@ -440,7 +444,7 @@
     "herbs": "KRÄUTER",
     "expires": "Läuft ab",
     "expiration_message": "{{promoExpires}}",
-    "footer_message": "\"\"<strong><em>Bitte antworten Sie nicht auf diese E-Mail.</em></strong> Dieses Angebot kann nicht mit anderen Angeboten kombiniert werden. Um uns Ihre Fragen oder Anmerkungen zu senden oder um sich von zukünftigen E-Mails und exklusiven Angeboten von Piping Rock Health Products® abzumelden, nutzen Sie bitte die folgenden Links\"\"",
+    "footer_message": "<strong><em>Bitte antworten Sie nicht auf diese E-Mail.</em></strong> Dieses Angebot kann nicht mit anderen Angeboten kombiniert werden. Um uns Ihre Fragen oder Anmerkungen zu senden oder um sich von zukünftigen E-Mails und exklusiven Angeboten von Piping Rock Health Products® abzumelden, nutzen Sie bitte die folgenden Links",
     "footer_expiration": "^ Die Werbeaktion ist nur für Artikel der Marke Piping Rock gültig. Alle Produkte nur solange der Vorrat reicht. Das Angebot kann nicht für frühere Käufe verwendet werden. Läuft ab {{promoExpires}}.",
     "customer_service": "KUNDENSERVICE",
     "register": "REGISTRIEREN",
@@ -532,7 +536,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (pro Portion), 120 Kapseln mit schneller Freisetzung",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Ashwagandha-Wurzel (Withania somnifera), 920 mg (pro Portion) 120 Kapseln mit schneller Freisetzung",
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >KAUFEN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >EIN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >HOLEN EIN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >KOSTENLOS</td></tr>",
-    "bogo_one": "KAUFE EINS, BEKOMME EINS KOSTENLOS"
+    "bogo_one": "KAUFE EINS, BEKOMME EINS KOSTENLOS",
+    "promo_code": "CODE VERWENDEN"
   },
   {
     "language_name": "Greek (modern)",
@@ -547,7 +552,7 @@
     "herbs": "BOTANA",
     "expires": "Λήγει",
     "expiration_message": "{{promoExpires}}",
-    "footer_message": "\"\"<strong><em>Μην απαντήσετε σε αυτό το email.</em></strong> Αυτή η προσφορά δεν μπορεί να συνδυαστεί με οποιαδήποτε άλλη προσφορά. Για να μας στείλετε τις ερωτήσεις και τα σχόλιά σας ή για να μην λαμβάνετε μηνύματα email και αποκλειστικές προσφορές από την Piping Rock Health Products® στο μέλλον, χρησιμοποιήστε τους παρακάτω συνδέσμους\"\"",
+    "footer_message": "<strong><em>Μην απαντήσετε σε αυτό το email.</em></strong> Αυτή η προσφορά δεν μπορεί να συνδυαστεί με οποιαδήποτε άλλη προσφορά. Για να μας στείλετε τις ερωτήσεις και τα σχόλιά σας ή για να μην λαμβάνετε μηνύματα email και αποκλειστικές προσφορές από την Piping Rock Health Products® στο μέλλον, χρησιμοποιήστε τους παρακάτω συνδέσμους",
     "footer_expiration": "^ Η προωθητική ενέργεια ισχύει μόνο για προϊόντα μάρκας Piping Rock. Για όλα τα προϊόντα ισχύει περιορισμός ανάλογα με τη διαθεσιμότητα. Η προσφορά δεν μπορεί να εφαρμοστεί σε προηγούμενες αγορές.Λήγει {{promoExpires}}.",
     "customer_service": "ΕΞΥΠΗΡΕΤΗΣΗ ΠΕΛΑΤΩΝ",
     "register": "ΕΓΓΡΑΦΗ",
@@ -639,7 +644,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (ανά μερίδα), 120 Κάψουλες γρήγορης αποδέσμευσης",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Ρίζα Ashwagandha (Withania somnifera), 920 mg (ανά μερίδα) 120 Κάψουλες γρήγορης αποδέσμευσης",
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >ΑΓΟΡΑΣΤΕ</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >ΕΝΑ</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >ΠΑΡΕΤΕ ΕΝΑ</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >ΔΩΡΕΑΝ</td></tr>",
-    "bogo_one": "ΑΓΟΡΑΣΕ ΕΝΑ, ΠΑΡΕ ΕΝΑ ΔΩΡΕΑΝ"
+    "bogo_one": "ΑΓΟΡΑΣΕ ΕΝΑ, ΠΑΡΕ ΕΝΑ ΔΩΡΕΑΝ",
+    "promo_code": "ΧΡΗΣΙΜΟΠΟΙΗΣΤΕ ΚΩΔΙΚΑ"
   },
   {
     "language_name": "Finnish",
@@ -654,7 +660,7 @@
     "herbs": "YRTTIRAVINTEET",
     "expires": "Päättyy",
     "expiration_message": "{{promoExpires}}",
-    "footer_message": "\"\"<strong><em>Älä vastaa tähän sähköpostiin.</em></strong> Tätä tarjousta ei voi yhdistää muihin tarjouksiin. Käytä alla olevia linkkejä, jos haluat lähettää meille kysymyksiä ja kommentteja tai lopettaa sähköpostiviestien ja eksklusiivisten Piping Rock Health Products® tarjousten tilaamisen\"\"",
+    "footer_message": "<strong><em>Älä vastaa tähän sähköpostiin.</em></strong> Tätä tarjousta ei voi yhdistää muihin tarjouksiin. Käytä alla olevia linkkejä, jos haluat lähettää meille kysymyksiä ja kommentteja tai lopettaa sähköpostiviestien ja eksklusiivisten Piping Rock Health Products® tarjousten tilaamisen",
     "footer_expiration": "^ Promootio on voimassa vain Piping Rock -tuotteille. Kaikkia tuotteita ei välttämättä ole saatavana Tarjousta ei voi käyttää aiempiin ostoihin. Päättyy {{promoExpires}}.",
     "customer_service": "ASIAKASPALVELU",
     "register": "REKISTERÖIDY",
@@ -746,7 +752,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat ali (Eurycoma longifolia), mg/annos, 120 Pikaliukenevat kapselit",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Rohtokoisionjuuri (Withania somnifera), 920 mg/annos 120 Pikaliukenevat kapselit",
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >OSTA</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >Yksi</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >SAADA Yksi</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >ILMAISEKSI</td></tr>",
-    "bogo_one": "OSTA YKSI, SAAVAT YKSI ILMAISEKSI"
+    "bogo_one": "OSTA YKSI, SAAVAT YKSI ILMAISEKSI",
+    "promo_code": "KÄYTÄ KOODIA"
   },
   {
     "language_name": "French",
@@ -761,7 +768,7 @@
     "herbs": "SUPPLÉMENTS AUX HERBES",
     "expires": "Expire",
     "expiration_message": "{{promoExpires}}",
-    "footer_message": "\"\"<strong><em>Merci de ne pas répondre à cet e-mail.</em></strong> Cette offre ne peut être combinée avec aucune autre offre. Pour nous envoyer vos questions et commentaires ou vous désinscrire des messages électroniques à venir ainsi que des offres exclusives de Piping Rock Health Products®, veuillez utiliser les liens ci-dessous\"\"",
+    "footer_message": "<strong><em>Merci de ne pas répondre à cet e-mail.</em></strong> Cette offre ne peut être combinée avec aucune autre offre. Pour nous envoyer vos questions et commentaires ou vous désinscrire des messages électroniques à venir ainsi que des offres exclusives de Piping Rock Health Products®, veuillez utiliser les liens ci-dessous",
     "footer_expiration": "^ La promotion est uniquement valide sur les articles de la marque Piping Rock. Tous les produits sont sous réserve de disponibilité. L'offre ne s'applique pas aux achats antérieurs. Expire {{promoExpires}}.",
     "customer_service": "SERVICE CLIENT",
     "register": "S'ENREGISTRER",
@@ -853,7 +860,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (par portion), 120 Gélules à libération rapide",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Racine d'Ashwagandha(Withania somnifera), 920 mg (par portion) 120 Gélules à libération rapide",
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >ACHETER</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >UN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >OBTENIR UN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >GRATUIT</td></tr>",
-    "bogo_one": "ACHETEZ UN, OBTENEZ UN GRATUIT"
+    "bogo_one": "ACHETEZ UN, OBTENEZ UN GRATUIT",
+    "promo_code": "UTILISER LE CODE"
   },
   {
     "language_name": "Croatian",
@@ -868,7 +876,7 @@
     "herbs": "BILJNI DODACI",
     "expires": "Ističe",
     "expiration_message": "{{promoExpires}}",
-    "footer_message": "\"\"<strong><em>Ne odgovarajte na ovu poruku e-pošte.</em></strong> Ovu ponudu nije moguće kombinirati s bilo kojom drugom ponudom. Želite li nam poslati svoja pitanja i napomene ili se odjaviti od primanja budućih poruka e-pošte i ekskluzivnih ponuda tvrtke Piping Rock Health Products®, koristite veze u nastavku\"\"",
+    "footer_message": "<strong><em>Ne odgovarajte na ovu poruku e-pošte.</em></strong> Ovu ponudu nije moguće kombinirati s bilo kojom drugom ponudom. Želite li nam poslati svoja pitanja i napomene ili se odjaviti od primanja budućih poruka e-pošte i ekskluzivnih ponuda tvrtke Piping Rock Health Products®, koristite veze u nastavku",
     "footer_expiration": "^ Promotivna ponuda odnosi se samo na artikle proizvođača Piping Rock. Dostupnost svih proizvoda je podložna promjeni. Ponuda se ne može primijeniti na prethodne kupnje.Ističe {{promoExpires}}.",
     "customer_service": "SLUŽBA ZA POTROŠAČE",
     "register": "REGISTRIRAJTE SE",
@@ -960,7 +968,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (po obroku), 120 Kapsule s brzim otpuštanjem",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Korijen Ashwagandha (Withania somnifera), 920 mg (po obroku) 120 Kapsule s brzim otpuštanjem",
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >KUPI</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >JEDAN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >DOBIJ JEDAN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >BESPLATNO</td></tr>",
-    "bogo_one": "KUPI JEDAN, DOBIJEŠ JEDAN BESPLATNO"
+    "bogo_one": "KUPI JEDAN, DOBIJEŠ JEDAN BESPLATNO",
+    "promo_code": "UPOTRIJEBITE KOD"
   },
   {
     "language_name": "Hungarian",
@@ -975,7 +984,7 @@
     "herbs": "GYÓGYNÖVÉNYES ÉTREND-KIEGÉSZÍTŐK",
     "expires": "Lejárat:",
     "expiration_message": "{{promoExpires}}",
-    "footer_message": "\"\"<strong><em>Kérjük, ne válaszoljon erre az e-mailre.</em></strong> Az ajánlat nem kombinálhat más ajánlatokkal. Tudakozódáshoz, észrevétel küldéséhez vagy a Piping Rock Health Products® e-mail üzeneteiről és exkluzív ajánlatairól való leiratkozáshoz kérjük, használja az alábbi hivatkozásokat\"\"",
+    "footer_message": "<strong><em>Kérjük, ne válaszoljon erre az e-mailre.</em></strong> Az ajánlat nem kombinálhat más ajánlatokkal. Tudakozódáshoz, észrevétel küldéséhez vagy a Piping Rock Health Products® e-mail üzeneteiről és exkluzív ajánlatairól való leiratkozáshoz kérjük, használja az alábbi hivatkozásokat",
     "footer_expiration": "^ Az akció csak Piping Rock márkájú termékekre vonatkozik. Minden termék csak a készlet erejéig kapható. Az ajánlat nem alkalmazható korábbi vásárlásokra.Lejárat: {{promoExpires}}.",
     "customer_service": "ÜGYFÉLSZOLGÁLAT",
     "register": "REGISZTRÁCIÓ",
@@ -1067,7 +1076,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Maláj ginzeng Long Jack, mg (adagonként), 120 Gyorsan oldódó kapszula",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Ashwagandhagyökér (Withania somnifera), 920 mg (adagonként) 120 Gyorsan oldódó kapszula",
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >VÁSÁROLJ</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >EGY</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >KAPJ EGY</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >INGYEN</td></tr>",
-    "bogo_one": "VÁSÁROLJ EGYET, KAPSZ EGYET INGYEN"
+    "bogo_one": "VÁSÁROLJ EGYET, KAPSZ EGYET INGYEN",
+    "promo_code": "HASZNÁLJA A KÓDOT"
   },
   {
     "language_name": "Indonesian",
@@ -1082,7 +1092,7 @@
     "herbs": "SUPLEMEN HERBAL",
     "expires": "Kedaluwarsa",
     "expiration_message": "{{promoExpires}}",
-    "footer_message": "\"\"<strong><em>Jangan membalas email ini.</em></strong> Penawaran ini tidak dapat digabungkan dengan penawaran lainnya. Untuk mengirimkan pertanyaan dan komentar, atau untuk berhenti berlangganan dari pesan email dan penawaran eksklusif mendatang dari Piping Rock Health Products®, gunakan tautan di bawah\"\"",
+    "footer_message": "<strong><em>Jangan membalas email ini.</em></strong> Penawaran ini tidak dapat digabungkan dengan penawaran lainnya. Untuk mengirimkan pertanyaan dan komentar, atau untuk berhenti berlangganan dari pesan email dan penawaran eksklusif mendatang dari Piping Rock Health Products®, gunakan tautan di bawah",
     "footer_expiration": "^ Promosi hanya berlaku untuk item Piping Rock Brand. Semua produk sesuai persediaan. Penawaran tidak dapat diterapkan pada pembelian sebelumnya. Kedaluwarsa {{promoExpires}}.",
     "customer_service": "LAYANAN PELANGGAN",
     "register": "DAFTAR",
@@ -1174,7 +1184,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (per saji), 120 Kapsul Mudah Larut",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Akar Ashwagandha (Withania somnifera), 920 mg (per saji) 120 Kapsul Mudah Larut",
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >BELI</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >SATU</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >DAPATKAN SATU</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >GRATIS</td></tr>",
-    "bogo_one": "BELI SATU, DAPAT SATU PERCUMA"
+    "bogo_one": "BELI SATU, DAPAT SATU PERCUMA",
+    "promo_code": "GUNAKAN KODE"
   },
   {
     "language_name": "Italian",
@@ -1281,7 +1292,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (per dose), 120 Capsule a rilascio rapido",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Radice di Ashwagandha (Withania somnifera), 920 mg (per dose) 120 Capsule a rilascio rapido",
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >ACQUISTA</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >UNO</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >PRENDI UNO</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >GRATIS</td></tr>",
-    "bogo_one": "COMPRA UNO, PRENDI UNO GRATIS"
+    "bogo_one": "COMPRA UNO, PRENDI UNO GRATIS",
+    "promo_code": "USA IL CODICE"
   },
   {
     "language_name": "Japanese",
@@ -1388,7 +1400,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "トンカット アリ (マレーシア人参) ロング ジャック, mg (1 回分), 120 速放性カプセル",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "アシュワガンダ根 (ウィタニア ソムニフェラ/インド人参), 920 mg (1 回分) 120 速放性カプセル",
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >購入</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >一つ</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >をゲット 一つ</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >無料</td></tr>",
-    "bogo_one": "1つ買うと、1つ無料"
+    "bogo_one": "1つ買うと、1つ無料",
+    "promo_code": "コードを使用"
   },
   {
     "language_name": "Korean",
@@ -1495,7 +1508,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "통캇 알리 롱 잭, mg (1회 복용량당), 120 빠르게 방출되는 캡슐",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "아쉬와간다 뿌리 (비타니아 솜니페라), 920 mg (1회 복용량당) 120 빠르게 방출되는 캡슐",
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >구매</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >하나</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >받기 하나</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >무료</td></tr>",
-    "bogo_one": "하나 사면 하나 무료"
+    "bogo_one": "하나 사면 하나 무료",
+    "promo_code": "코드 사용"
   },
   {
     "language_name": "Malay",
@@ -1510,7 +1524,7 @@
     "herbs": "TAMBAHAN HERBA",
     "expires": "Tamat tempoh",
     "expiration_message": "{{promoExpires}}",
-    "footer_message": "\"\"<strong><em>Sila jangan balas e-mel ini.</em></strong> Tawaran ini tidak boleh digabungkan dengan mana-mana tawaran lain. Untuk mengemukakan sebarang pertanyaan dan ulasan atau menyahlanggan mesej e-mel dan tawaran eksklusif daripada Piping Rock Health Products® pada masa hadapan, sila gunakan pautan di bawah\"\"",
+    "footer_message": "<strong><em>Sila jangan balas e-mel ini.</em></strong> Tawaran ini tidak boleh digabungkan dengan mana-mana tawaran lain. Untuk mengemukakan sebarang pertanyaan dan ulasan atau menyahlanggan mesej e-mel dan tawaran eksklusif daripada Piping Rock Health Products® pada masa hadapan, sila gunakan pautan di bawah",
     "footer_expiration": "^ Promosi sah ke atas item Jenama Piping Rock sahaja. Semua produk tertakluk kepada ketersediaan. Tawaran tidak boleh digunakan untuk pembelian terdahulu. Tamat tempoh {{promoExpires}}.",
     "customer_service": "KHIDMAT PELANGGAN",
     "register": "DAFTAR",
@@ -1602,7 +1616,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (setiap sajian), 120 Kapsul Lepas Cepat",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Akar Ashwagandha (Withania somnifera), 920 mg (setiap sajian) 120 Kapsul Lepas Cepat",
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >BELI</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >SATU</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >DAPATKAN SATU</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >PERCUMA</td></tr>",
-    "bogo_one": "BELI SATU, DAPAT SATU PERCUMA"
+    "bogo_one": "BELI SATU, DAPAT SATU PERCUMA",
+    "promo_code": "GUNAKAN KOD"
   },
   {
     "language_name": "Dutch",
@@ -1709,7 +1724,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Flindersia xanthoxyla, mg (per portie), 120 Snel afgevende capsules",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Ashwagandhawortel (ashwaganda), 920 mg (per portie) 120 Snel afgevende capsules",
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >KOOP</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >EEN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >KRIJG EEN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >GRATIS</td></tr>",
-    "bogo_one": "KOOP ER ÉÉN, KRIJG ER ÉÉN KOSTENLOOS"
+    "bogo_one": "KOOP ER ÉÉN, KRIJG ER ÉÉN KOSTENLOOS",
+    "promo_code": "GEBRUIK CODE"
   },
   {
     "language_name": "Norwegian",
@@ -1724,7 +1740,7 @@
     "herbs": "URTEKOSTTILSKUDD",
     "expires": "Utløper",
     "expiration_message": "{{promoExpires}}",
-    "footer_message": "\"\"<strong><em>Vennligst ikke svar på denne meldingen.</em></strong> Dette tilbudet kan ikke kombineres med noe annet tilbud. Hvis du vil sende oss spørsmål og kommentarer, eller ikke ønsker å motta e-post og eksklusive tilbud fra Piping Rock Health Products® i fremtiden, kan du bruke koblingene nedenfor.\"\"",
+    "footer_message": "<strong><em>Vennligst ikke svar på denne meldingen.</em></strong> Dette tilbudet kan ikke kombineres med noe annet tilbud. Hvis du vil sende oss spørsmål og kommentarer, eller ikke ønsker å motta e-post og eksklusive tilbud fra Piping Rock Health Products® i fremtiden, kan du bruke koblingene nedenfor.",
     "footer_expiration": "^ Kampanjen gjelder bare artikler under Piping Rock-merket. Produkter kan være utilgjengelige. Tilbudet kan ikke brukes på tidligere kjøp. Utløper {{promoExpires}}.",
     "customer_service": "KUNDESERVICE",
     "register": "REGISTRER DEG",
@@ -1816,7 +1832,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (per dose), 120 Hurtigvirkende kapsler",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Ashwagandha-rot (Withania somnifera), 920 mg (per dose) 120 Hurtigvirkende kapsler",
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >KJØP</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >EN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >FÅ EN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >GRATIS</td></tr>",
-    "bogo_one": "KJØP EN, FÅ EN GRATIS"
+    "bogo_one": "KJØP EN, FÅ EN GRATIS",
+    "promo_code": "BRUK KODE"
   },
   {
     "language_name": "Polish",
@@ -1831,7 +1848,7 @@
     "herbs": "SUPLEMENTY ZIOŁOWE",
     "expires": "Promocja kończy się",
     "expiration_message": "{{promoExpires}}",
-    "footer_message": "\"\"<strong><em>Prosimy nie odpowiadać na ten e-mail.</em></strong> Ta oferta nie może być łączona z żadną inną ofertą. W celu przesłania nam pytań i komentarzy lub zrezygnowania z dalszego otrzymywania wiadomości oraz ofert Piping Rock Health Products®, kliknij link poniżej.\"\"",
+    "footer_message": "<strong><em>Prosimy nie odpowiadać na ten e-mail.</em></strong> Ta oferta nie może być łączona z żadną inną ofertą. W celu przesłania nam pytań i komentarzy lub zrezygnowania z dalszego otrzymywania wiadomości oraz ofert Piping Rock Health Products®, kliknij link poniżej.",
     "footer_expiration": "^ Promocja dotyczy jedynie produktów marki Piping Rock  Produkty są dostępne do wyczerpania zapasów. Oferta nie dotyczy wcześniejszych zamówień. Promocja kończy się {{promoExpires}}.",
     "customer_service": "OBSŁUGA KLIENTA",
     "register": "ZAREJESTRUJ SIĘ",
@@ -1923,7 +1940,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali (żeń-szeń malezyjski), mg (na porcję), 120 Kapsułki o szybkim uwalnianiu",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Korzeń ashwagandhy (Withania somnifera), 920 mg (na porcję) 120 Kapsułki o szybkim uwalnianiu",
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >KUP</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >JEDEN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >DOSTAŃ JEDEN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >ZA DARMO</td></tr>",
-    "bogo_one": "KUP JEDNO, OTRZYMAJ JEDNO ZA DARMO"
+    "bogo_one": "KUP JEDNO, OTRZYMAJ JEDNO ZA DARMO",
+    "promo_code": "UŻYJ KODU"
   },
   {
     "language_name": "Portuguese",
@@ -1938,7 +1956,7 @@
     "herbs": "ERVAS",
     "expires": "Vai terminar",
     "expiration_message": "{{promoExpires}}",
-    "footer_message": "\"\"<strong><em>Não responda a este e-mail.</em></strong> Esta oferta não pode ser combinada com nenhuma outra oferta. Para enviar-nos as suas questões e comentários ou cancelar a subscrição de futuras mensagens de e-mail e ofertas exclusivas da Piping Rock Health Products®, utilize as ligações abaixo\"\"",
+    "footer_message": "<strong><em>Não responda a este e-mail.</em></strong> Esta oferta não pode ser combinada com nenhuma outra oferta. Para enviar-nos as suas questões e comentários ou cancelar a subscrição de futuras mensagens de e-mail e ofertas exclusivas da Piping Rock Health Products®, utilize as ligações abaixo",
     "footer_expiration": "^ A promoção é válida apenas em artigos da Marca Piping Rock. Todos os produtos sujeitos a disponibilidade. A oferta não pode ser aplicada a compras anteriores.Vai terminar {{promoExpires}}.",
     "customer_service": "APOIO AO CLIENTE",
     "register": "REGISTE-SE",
@@ -2030,7 +2048,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (por dose), 120 Cápsulas de Rápida Absorção",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Raiz de ashwagandha (withania somnifera), 920 mg (por dose) 120 Cápsulas de Rápida Absorção",
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >COMPRE</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >UM</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >GANHE UM</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >GRÁTIS</td></tr>",
-    "bogo_one": "COMPRE UM, LEVE UM GRÁTIS"
+    "bogo_one": "COMPRE UM, LEVE UM GRÁTIS",
+    "promo_code": "USE O CÓDIGO"
   },
   {
     "language_name": "Romanian",
@@ -2045,7 +2064,7 @@
     "herbs": "SUPLIMENTE PE BAZĂ PLANTE",
     "expires": "Expiră",
     "expiration_message": "{{promoExpires}}",
-    "footer_message": "\"\"<strong><em>Vă rugăm nu răspundeți la acest mesaj.</em></strong> Această ofertă nu poate fi combinată cu nicio altă ofertă. Pentru a ne trimite întrebările și comentariile dumneavoastră, sau pentru a vă dezabona de la mesajele și ofertele exclusive viitoare de la Piping Rock Health Products®, urmați linkul de mai jos\"\"",
+    "footer_message": "<strong><em>Vă rugăm nu răspundeți la acest mesaj.</em></strong> Această ofertă nu poate fi combinată cu nicio altă ofertă. Pentru a ne trimite întrebările și comentariile dumneavoastră, sau pentru a vă dezabona de la mesajele și ofertele exclusive viitoare de la Piping Rock Health Products®, urmați linkul de mai jos",
     "footer_expiration": "^ Promoția este valabilă doar pentru produsele marca Piping Rock. Toate produsele sunt disponibile în limita stocului. Oferta nu poate fi aplicată produselor cumpărate anterior.Expiră {{promoExpires}}.",
     "customer_service": "ASISTENŢĂ CLIENŢI",
     "register": "ÎNREGISTRARE",
@@ -2137,7 +2156,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (per porție), 120 Capsule cu eliberare rapidă",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Rădăcină de ashwagandha (Withania somnifera), 920 mg (per porție) 120 Capsule cu eliberare rapidă",
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >CUMPĂRĂ</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >UNUL</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >IA UNUL</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >GRATIS</td></tr>",
-    "bogo_one": "CUMPĂRĂ UNUL, PRIMEȘTE UNUL GRATUIT"
+    "bogo_one": "CUMPĂRĂ UNUL, PRIMEȘTE UNUL GRATUIT",
+    "promo_code": "UTILIZAȚI CODUL"
   },
   {
     "language_name": "Russian",
@@ -2152,7 +2172,7 @@
     "herbs": "ТРАВЫ",
     "expires": "Истекает",
     "expiration_message": "{{promoExpires}}",
-    "footer_message": "\"\"<strong><em>Пожалуйста, не отвечайте на данный имейл.</em></strong> Данное предложение нельзя объединять с другими. Чтобы отправить вам наши комментарии и предложения, или чтобы отписаться от экслюзивных прежложений от Piping Rock Health Products®, используйте ссылки ниже.\"\"",
+    "footer_message": "<strong><em>Пожалуйста, не отвечайте на данный имейл.</em></strong> Данное предложение нельзя объединять с другими. Чтобы отправить вам наши комментарии и предложения, или чтобы отписаться от экслюзивных прежложений от Piping Rock Health Products®, используйте ссылки ниже.",
     "footer_expiration": "^ Промоакция действует только на товары Piping Rock. Пока товар есть в наличии. Не действует на предыдущие заказазы. Истекает {{promoExpires}}.",
     "customer_service": "СЛУЖБА ПОДДЕРЖКИ",
     "register": "РЕГИСТРАЦИЯ",
@@ -2244,7 +2264,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Тонгкат Али (Эврикома длиннолистая), мг в порции, 120 Быстрорастворимые капсулы",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Корень ашвагандхи(витания снотворная), 920 мг в порции 120 Быстрорастворимые капсулы",
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >КУПИ</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >ЕДНО</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >ВЗЕМИ ЕДНО</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >БЕЗПЛАТНО</td></tr>",
-    "bogo_one": "КУПИ ОДНО, ПОЛУЧИ ОДНО БЕСПЛАТНО"
+    "bogo_one": "КУПИ ОДНО, ПОЛУЧИ ОДНО БЕСПЛАТНО",
+    "promo_code": "ИСПОЛЬЗУЙТЕ КОД"
   },
   {
     "language_name": "Slovak",
@@ -2259,7 +2280,7 @@
     "herbs": "BYLINNÉ DOPLNKY",
     "expires": "Vyprší",
     "expiration_message": "{{promoExpires}}",
-    "footer_message": "\"\"<strong><em>Neodpovedajte na tento e-mail.</em></strong> Túto ponuku nemožno kombinovať so žiadnou inou ponukou. Pomocou nižšie uvedeného odkazu nám môžete zaslať svoje otázky a komentáre, odhlásiť sa z odberu e-mailových správ a exkluzívnych ponúk spoločnosti Piping Rock Health Products®\"\"",
+    "footer_message": "<strong><em>Neodpovedajte na tento e-mail.</em></strong> Túto ponuku nemožno kombinovať so žiadnou inou ponukou. Pomocou nižšie uvedeného odkazu nám môžete zaslať svoje otázky a komentáre, odhlásiť sa z odberu e-mailových správ a exkluzívnych ponúk spoločnosti Piping Rock Health Products®",
     "footer_expiration": "^ Akcia sa vzťahuje len na produkty značky Piping Rock. Všetky produkty podliehajú dostupnosti. Ponuka sa nemôže použiť na skôr uskutočnené nákupy. Vyprší {{promoExpires}}.",
     "customer_service": "ZÁKAZNÍCKY SERVIS",
     "register": "REGISTROVAŤ",
@@ -2351,7 +2372,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali, mg (v jednej dávke), 120 Kapsule s rýchlym uvoľňovaním",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Koreň z indického ženšenu (vitánia spavá), 920 mg (v jednej dávke) 120 Kapsule s rýchlym uvoľňovaním",
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >KUPI</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >JEDAN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >DOBIJ JEDAN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >BESPLATNO</td></tr>",
-    "bogo_one": "KÚPTE JEDNO, ZÍSKAJTE JEDNO ZADARMO"
+    "bogo_one": "KÚPTE JEDNO, ZÍSKAJTE JEDNO ZADARMO",
+    "promo_code": "POUŽITE KÓD"
   },
   {
     "language_name": "Slovene",
@@ -2366,7 +2388,7 @@
     "herbs": "ZELIŠČNI DODATKI",
     "expires": "Poteče",
     "expiration_message": "{{promoExpires}}",
-    "footer_message": "\"\"<strong><em>Prosimo, ne odgovarjajte na to e-pošto.</em></strong> Te ponudbe ni mogoče združiti z drugimi ponudbami. Za pošiljanje vaših vprašanj in komentarjev ali za odjavo od prihodnjih e-poštnih sporočil in ekskluzivne ponudbe Piping Rock Health Products®, uporabite spodnje povezave\"\"",
+    "footer_message": "<strong><em>Prosimo, ne odgovarjajte na to e-pošto.</em></strong> Te ponudbe ni mogoče združiti z drugimi ponudbami. Za pošiljanje vaših vprašanj in komentarjev ali za odjavo od prihodnjih e-poštnih sporočil in ekskluzivne ponudbe Piping Rock Health Products®, uporabite spodnje povezave",
     "footer_expiration": "^ Promocija velja samo za izdelke znamke Piping Rock. Vsi izdelki glede na razpoložljivost. Ponudbe ni mogoče uveljaviti za predhodne nakupe.Poteče {{promoExpires}}.",
     "customer_service": "POMOČ STRANKAM",
     "register": "REGISTRIRAJTE SE",
@@ -2458,7 +2480,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Kapsule Tongkat Ali, mg (na porcijo), 120 Kapsule s hitrim sproščanjem",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Korenina ašvagande (withania somnifera) , 920 mg (na porcijo) 120 Kapsule s hitrim sproščanjem",
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >KUPI</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >JEDAN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >DOBIJ JEDAN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >BESPLATNO</td></tr>",
-    "bogo_one": "KUPI ENO, DOBIŠ ENO BREZPLAČNO"
+    "bogo_one": "KUPI ENO, DOBIŠ ENO BREZPLAČNO",
+    "promo_code": "UPORABITE KODO"
   },
   {
     "language_name": "Spanish",
@@ -2473,7 +2496,7 @@
     "herbs": "HIERBAS",
     "expires": "Caduca",
     "expiration_message": "{{promoExpires}}",
-    "footer_message": "\"\"<strong><em>No responda a este correo electrónico.</em></strong> Esta oferta no se puede combinar con otras ofertas. Para hacernos llegar sus preguntas o comentarios, o bien para cancelar la suscripción a mensajes de correo electrónico y ofertas exclusivas de Piping Rock Health Products®, utilice los enlaces que hay a continuación.\"\"",
+    "footer_message": "<strong><em>No responda a este correo electrónico.</em></strong> Esta oferta no se puede combinar con otras ofertas. Para hacernos llegar sus preguntas o comentarios, o bien para cancelar la suscripción a mensajes de correo electrónico y ofertas exclusivas de Piping Rock Health Products®, utilice los enlaces que hay a continuación.",
     "footer_expiration": "^ Promoción válida únicamente con artículos de la marca Piping Rock. Todos los productos están sujetos a disponibilidad. La oferta no se puede aplicar a compras anteriores. Caduca {{promoExpires}}.",
     "customer_service": "SERVICIO DE ATENCIÓN AL CLIENTE",
     "register": "REGISTRARSE",
@@ -2565,7 +2588,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali - Long Jack, mg (por porción), 120 Cápsulas de liberación rápida",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Raíz de ashwagandha (bufera), 920 mg (por porción) 120 Cápsulas de liberación rápida",
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >COMPRA</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >UNO</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >LLEVA UNO</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >GRATIS</td></tr>",
-    "bogo_one": "COMPRA UNO, LLEVA UNO GRATIS"
+    "bogo_one": "COMPRA UNO, LLEVA UNO GRATIS",
+    "promo_code": "USA EL CÓDIGO"
   },
   {
     "language_name": "Swedish",
@@ -2580,7 +2604,7 @@
     "herbs": "ÖRTER",
     "expires": "Gäller till",
     "expiration_message": "{{promoExpires}}",
-    "footer_message": "\"\"<strong><em>Svara inte på det här e-postmeddelandet.</em></strong> Detta erbjudande kan inte kombineras med andra erbjudanden. Använd länkarna nedan om du vill skicka dina frågor och kommentarer till oss, eller för att avprenumerera från framtida e-postmeddelanden och exklusiva erbjudanden från Piping Rock Health Products®\"\"",
+    "footer_message": "<strong><em>Svara inte på det här e-postmeddelandet.</em></strong> Detta erbjudande kan inte kombineras med andra erbjudanden. Använd länkarna nedan om du vill skicka dina frågor och kommentarer till oss, eller för att avprenumerera från framtida e-postmeddelanden och exklusiva erbjudanden från Piping Rock Health Products®",
     "footer_expiration": "^ Erbjudandet gäller endast på artiklar från Piping Rock-märket. Alla produkter i mån av tillgång. Erbjudandet kan inte tillämpas på tidigare köp. Går ut {{promoExpires}}.",
     "customer_service": "KUNDTJÄNST",
     "register": "REGISTRERA",
@@ -2672,7 +2696,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali – Longifolia Jack, mg (per portion), 120 Snabbverkande kapslar",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Ashwagandha-rot (withania somnifera), 920 mg (per portion) 120 Snabbverkande kapslar",
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >KÖP</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >ETT</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >FÅ ETT</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >GRATIS</td></tr>",
-    "bogo_one": "KÖP ETT, FÅ ETT GRATIS"
+    "bogo_one": "KÖP ETT, FÅ ETT GRATIS",
+    "promo_code": "ANVÄND KODEN"
   },
   {
     "language_name": "Thai",
@@ -2779,7 +2804,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali Long Jack, mg (ต่อการเสิร์ฟ), 120 แคปซูลแบบปล่อยตัวยาเร็ว",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "เหง้าโสมอินเดีย (Withania somnifera), 920 mg (ต่อการเสิร์ฟ) 120 แคปซูลแบบปล่อยตัวยาเร็ว",
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >ซื้อมาหนึ่ง</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >ฟรีหนึ่ง</td></tr>",
-    "bogo_one": "ซื้อมาหนึ่งฟรีหนึ่ง"
+    "bogo_one": "ซื้อมาหนึ่งฟรีหนึ่ง",
+    "promo_code": "ใช้รหัส"
   },
   {
     "language_name": "Turkish",
@@ -2795,7 +2821,7 @@
     "expires": "Son Tarih",
     "expiration_message": "{{promoExpires}}",
     "footer_message": "<strong><em>Lütfen bu e-postayı yanıtlamayın.</em></strong> Bu teklif başka bir teklifle birleştirilemez. Bize sorularınızı veya yorumlarınızı göndermek ya da bundan sonra gönderilecek mesajlar ve Piping Rock Health Products® özel teklifleri için aboneliğinizi kaldırmak için lütfen aşağıdaki bağlantıları kullanın",
-    "footer_expiration": "\"\"\"\"\"\"^ Promosyon sadece Piping Rock Markalı ürünlerde geçerlidir. Tüm ürünler stoklarla sınırlıdır. Teklif, daha önce yapılan alışverişlere uygulanamaz. Son Tarih {{promoExpires}}.\"\"\"\"\"\"",
+    "footer_expiration": "\"\"\"\"\"^ Promosyon sadece Piping Rock Markalı ürünlerde geçerlidir. Tüm ürünler stoklarla sınırlıdır. Teklif, daha önce yapılan alışverişlere uygulanamaz. Son Tarih {{promoExpires}}.\"\"\"\"\"",
     "customer_service": "MÜŞTERI HIZMETLERI",
     "register": "KAYIT",
     "login": "GİRİŞ",
@@ -2886,7 +2912,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Tongkat Ali (Long Jack), mg (porsiyon başına), 120 Hızlı Yayılan Kapsüller",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Ashwagandha Kökü (Withania somnifera), 920 mg (porsiyon başına) 120 Hızlı Yayılan Kapsüller",
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >BİR</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >AL</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >BİR BEDAVA</td></tr>",
-    "bogo_one": "BİR AL, BİR BEDAVA"
+    "bogo_one": "BİR AL, BİR BEDAVA",
+    "promo_code": "KODU KULLAN"
   },
   {
     "language_name": "Vietnamese",
@@ -2901,7 +2928,7 @@
     "herbs": "THUỐC BỔ THẢO DƯỢC",
     "expires": "Hết hạn",
     "expiration_message": "{{promoExpires}}",
-    "footer_message": "\"\"<strong><em>Vui lòng không trả lời email này.</em></strong> Không thể kết hợp đề nghị này với bất kỳ đề nghị nào khác. Để gửi câu hỏi và nhận xét cho chúng tôi hoặc để hủy đăng ký nhận thông báo email và ưu đãi dành riêng cho bạn trong tương lai từ Piping Rock Health Products®, vui lòng sử dụng liên kết dưới đây\"\"",
+    "footer_message": "<strong><em>Vui lòng không trả lời email này.</em></strong> Không thể kết hợp đề nghị này với bất kỳ đề nghị nào khác. Để gửi câu hỏi và nhận xét cho chúng tôi hoặc để hủy đăng ký nhận thông báo email và ưu đãi dành riêng cho bạn trong tương lai từ Piping Rock Health Products®, vui lòng sử dụng liên kết dưới đây",
     "footer_expiration": "^ Khuyến mãi chỉ có giá trị với các sản phẩm mang Nhãn hiệu Piping Rock. Mọi sản phẩm phụ thuộc vào tình trạng còn hàng. Không áp dụng ưu đãi cho đặt hàng trước. Hết hạn {{promoExpires}}.",
     "customer_service": "DỊCH VỤ KHÁCH HÀNG",
     "register": "ĐĂNG KÝ",
@@ -2993,7 +3020,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "Bá bệnh, mg (một liều dùng), 120 Viên nang dạng lỏng",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "Rễ Ashwagandha (Sâm Ấn Độ), 920 mg (một liều dùng) 120 Viên nang dạng lỏng",
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >MUA</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >MỘT</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >TẶNG MỘT</td></tr>",
-    "bogo_one": "MUA MỘT TẶNG MỘT"
+    "bogo_one": "MUA MỘT TẶNG MỘT",
+    "promo_code": "SỬ DỤNG MÃ"
   },
   {
     "language_name": "Chinese Simplified",
@@ -3100,7 +3128,8 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "东革阿里胶囊  , 毫克（每份）, 120 快速释放胶囊",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "南非醉茄根 （南非醉茄）, 920 毫克（每份） 120 快速释放胶囊",
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >买一</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >送一</td></tr>",
-    "bogo_one": "买一送一"
+    "bogo_one": "买一送一",
+    "promo_code": "使用代码"
   },
   {
     "language_name": "Chinese Traditional",
@@ -3207,6 +3236,7 @@
     "tongkat_ali_long_jack_1600_mg_per_serving_120_release_capsules": "東革阿裡膠囊  , 毫克 (每份), 120 快速釋放膠囊",
     "ashwaghandha_root_withania_somnifera_920_mg_per_serving_120_quick_release_capsules": "南非醉茄根 （南非醉茄） , 920 毫克 (每份) 120 快速釋放膠囊",
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >買一</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >送一</td></tr>",
-    "bogo_one": "買一送一"
+    "bogo_one": "買一送一",
+    "promo_code": "使用代碼"
   }
 ]
