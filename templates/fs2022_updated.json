@@ -218,10 +218,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >AL</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >BİRİNİ</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >GƏTİR BİRİNİ</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >PULSUZ</td></tr>",
     "bogo_one": "BİRİ AL, BİRİ PULSUZ",
     "promo_code": "KODDAN İSTİFADƏ EDİN",
-    "bogo_buy": "BİRİ AL",
-    "bogo_one__1": "BİRİ",
-    "bogo_get": "PULSUZ",
-    "bogo_free": "PULSUZ"
+    "bogo_buy": "Al",
+    "bogo_one__1": "Bir",
+    "bogo_get": "Birini al",
+    "bogo_free": "Pulsuz"
   },
   {
     "language_name": "Bulgarian",
@@ -330,10 +330,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >КУПИ</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >ЕДНО</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >ВЗЕМИ ЕДНО</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >БЕЗПЛАТНО</td></tr>",
     "bogo_one": "КУПИ ЕДНО, ВЗЕМИ ЕДНО БЕСПЛАТНО",
     "promo_code": "ИЗПОЛЗВАЙТЕ КОД",
-    "bogo_buy": "ΚΟΥΠΙ",
-    "bogo_one__1": "ΕΝΑ",
-    "bogo_get": "ВЗЕМИ ЕΝΑ",
-    "bogo_free": "БЕСПЛАТНО"
+    "bogo_buy": "Купи",
+    "bogo_one__1": "Едно",
+    "bogo_get": "Вземи едно",
+    "bogo_free": "Безплатно"
   },
   {
     "language_name": "Danish",
@@ -442,10 +442,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >KØB</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >EN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >FÅ EN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >GRATIS</td></tr>",
     "bogo_one": "KØB ÉT, FÅ ÉT KOSTNINGSFRIT",
     "promo_code": "BRUG KODE",
-    "bogo_buy": "KØB",
-    "bogo_one__1": "ÉT",
-    "bogo_get": "FÅ ÉT",
-    "bogo_free": "KOSTNINGSFRIT"
+    "bogo_buy": "Køb",
+    "bogo_one__1": "En",
+    "bogo_get": "Få en",
+    "bogo_free": "Gratis"
   },
   {
     "language_name": "German",
@@ -554,10 +554,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >KAUFEN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >EIN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >HOLEN EIN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >KOSTENLOS</td></tr>",
     "bogo_one": "KAUFE EINS, BEKOMME EINS KOSTENLOS",
     "promo_code": "CODE VERWENDEN",
-    "bogo_buy": "KAUFE",
-    "bogo_one__1": "EINS",
-    "bogo_get": "BEKOMME EINS",
-    "bogo_free": "KOSTENLOS"
+    "bogo_buy": "Kaufen",
+    "bogo_one__1": "Ein",
+    "bogo_get": "Bekomme eins",
+    "bogo_free": "Kostenlos"
   },
   {
     "language_name": "Greek (modern)",
@@ -666,10 +666,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >ΑΓΟΡΑΣΤΕ</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >ΕΝΑ</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >ΠΑΡΕΤΕ ΕΝΑ</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >ΔΩΡΕΑΝ</td></tr>",
     "bogo_one": "ΑΓΟΡΑΣΕ ΕΝΑ, ΠΑΡΕ ΕΝΑ ΔΩΡΕΑΝ",
     "promo_code": "ΧΡΗΣΙΜΟΠΟΙΗΣΤΕ ΚΩΔΙΚΑ",
-    "bogo_buy": "ΑΓΟΡΑΣΕ",
-    "bogo_one__1": "ΕΝΑ",
-    "bogo_get": "ΠΑΡΕ ΕΝΑ",
-    "bogo_free": "ΔΩΡΕΑΝ"
+    "bogo_buy": "Αγορά",
+    "bogo_one__1": "Ένα",
+    "bogo_get": "Πάρε ένα",
+    "bogo_free": "Δωρεάν"
   },
   {
     "language_name": "Finnish",
@@ -778,10 +778,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >OSTA</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >Yksi</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >SAADA Yksi</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >ILMAISEKSI</td></tr>",
     "bogo_one": "OSTA YKSI, SAAVAT YKSI ILMAISEKSI",
     "promo_code": "KÄYTÄ KOODIA",
-    "bogo_buy": "OSTA",
-    "bogo_one__1": "YKSI",
-    "bogo_get": "SAAVAT YKSI",
-    "bogo_free": "ILMAISEKSI"
+    "bogo_buy": "Osta",
+    "bogo_one__1": "Yksi",
+    "bogo_get": "Saat yhden",
+    "bogo_free": "Ilmainen"
   },
   {
     "language_name": "French",
@@ -890,10 +890,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >ACHETER</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >UN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >OBTENIR UN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >GRATUIT</td></tr>",
     "bogo_one": "ACHETEZ UN, OBTENEZ UN GRATUIT",
     "promo_code": "UTILISER LE CODE",
-    "bogo_buy": "ACHETEZ",
-    "bogo_one__1": "UN",
-    "bogo_get": "OBTENEZ UN",
-    "bogo_free": "GRATUIT"
+    "bogo_buy": "Achetez",
+    "bogo_one__1": "Un",
+    "bogo_get": "Obtenez-en un",
+    "bogo_free": "Gratuit"
   },
   {
     "language_name": "Croatian",
@@ -1002,10 +1002,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >KUPI</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >JEDAN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >DOBIJ JEDAN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >BESPLATNO</td></tr>",
     "bogo_one": "KUPI JEDAN, DOBIJEŠ JEDAN BESPLATNO",
     "promo_code": "UPOTRIJEBITE KOD",
-    "bogo_buy": "KUPI",
-    "bogo_one__1": "JEDAN",
-    "bogo_get": "DOBIJEŠ JEDAN",
-    "bogo_free": "BESPLATNO"
+    "bogo_buy": "Kupite",
+    "bogo_one__1": "Jedan",
+    "bogo_get": "Uzmi jedan",
+    "bogo_free": "Besplatno"
   },
   {
     "language_name": "Hungarian",
@@ -1114,10 +1114,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >VÁSÁROLJ</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >EGY</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >KAPJ EGY</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >INGYEN</td></tr>",
     "bogo_one": "VÁSÁROLJ EGYET, KAPSZ EGYET INGYEN",
     "promo_code": "HASZNÁLJA A KÓDOT",
-    "bogo_buy": "VÁSÁROLJ",
-    "bogo_one__1": "EGYET",
-    "bogo_get": "KAPSZ EGYET",
-    "bogo_free": "INGYEN"
+    "bogo_buy": "Vásárolj",
+    "bogo_one__1": "Egy",
+    "bogo_get": "Kapsz egyet",
+    "bogo_free": "Ingyenes"
   },
   {
     "language_name": "Indonesian",
@@ -1226,10 +1226,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >BELI</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >SATU</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >DAPATKAN SATU</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >GRATIS</td></tr>",
     "bogo_one": "BELI SATU, DAPAT SATU PERCUMA",
     "promo_code": "GUNAKAN KODE",
-    "bogo_buy": "BELI",
-    "bogo_one__1": "SATU",
-    "bogo_get": "DAPAT SATU",
-    "bogo_free": "PERCUMA"
+    "bogo_buy": "Beli",
+    "bogo_one__1": "Satu",
+    "bogo_get": "Dapatkan satu",
+    "bogo_free": "Gratis"
   },
   {
     "language_name": "Italian",
@@ -1338,10 +1338,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >ACQUISTA</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >UNO</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >PRENDI UNO</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >GRATIS</td></tr>",
     "bogo_one": "COMPRA UNO, PRENDI UNO GRATIS",
     "promo_code": "USA IL CODICE",
-    "bogo_buy": "COMPRA",
-    "bogo_one__1": "UNO",
-    "bogo_get": "PRENDI UNO",
-    "bogo_free": "GRATIS"
+    "bogo_buy": "Compra",
+    "bogo_one__1": "Uno",
+    "bogo_get": "Prendi uno",
+    "bogo_free": "Gratis"
   },
   {
     "language_name": "Japanese",
@@ -1450,9 +1450,9 @@
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >購入</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >一つ</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >をゲット 一つ</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >無料</td></tr>",
     "bogo_one": "1つ買うと、1つ無料",
     "promo_code": "コードを使用",
-    "bogo_buy": "1つ買うと",
+    "bogo_buy": "購入",
     "bogo_one__1": "一つ",
-    "bogo_get": "無料",
+    "bogo_get": "もう一つを手に入れる",
     "bogo_free": "無料"
   },
   {
@@ -1562,9 +1562,9 @@
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >구매</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >하나</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >받기 하나</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >무료</td></tr>",
     "bogo_one": "하나 사면 하나 무료",
     "promo_code": "코드 사용",
-    "bogo_buy": "하나 사면",
+    "bogo_buy": "구매",
     "bogo_one__1": "하나",
-    "bogo_get": "무료",
+    "bogo_get": "하나 더 받다",
     "bogo_free": "무료"
   },
   {
@@ -1674,10 +1674,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >BELI</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >SATU</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >DAPATKAN SATU</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >PERCUMA</td></tr>",
     "bogo_one": "BELI SATU, DAPAT SATU PERCUMA",
     "promo_code": "GUNAKAN KOD",
-    "bogo_buy": "BELI",
-    "bogo_one__1": "SATU",
-    "bogo_get": "DAPAT SATU",
-    "bogo_free": "PERCUMA"
+    "bogo_buy": "Beli",
+    "bogo_one__1": "Satu",
+    "bogo_get": "Dapatkan satu",
+    "bogo_free": "Percuma"
   },
   {
     "language_name": "Dutch",
@@ -1786,10 +1786,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >KOOP</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >EEN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >KRIJG EEN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >GRATIS</td></tr>",
     "bogo_one": "KOOP ER ÉÉN, KRIJG ER ÉÉN KOSTENLOOS",
     "promo_code": "GEBRUIK CODE",
-    "bogo_buy": "KOOP",
-    "bogo_one__1": "ER ÉÉN",
-    "bogo_get": "KRIJG ER ÉÉN",
-    "bogo_free": "KOSTENLOOS"
+    "bogo_buy": "Koop",
+    "bogo_one__1": "Eén",
+    "bogo_get": "Krijg er één",
+    "bogo_free": "Gratis"
   },
   {
     "language_name": "Norwegian",
@@ -1898,10 +1898,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >KJØP</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >EN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >FÅ EN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >GRATIS</td></tr>",
     "bogo_one": "KJØP EN, FÅ EN GRATIS",
     "promo_code": "BRUK KODE",
-    "bogo_buy": "KJØP",
-    "bogo_one__1": "EN",
-    "bogo_get": "FÅ EN",
-    "bogo_free": "GRATIS"
+    "bogo_buy": "Kjøp",
+    "bogo_one__1": "En",
+    "bogo_get": "Få en",
+    "bogo_free": "Gratis"
   },
   {
     "language_name": "Polish",
@@ -2010,10 +2010,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >KUP</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >JEDEN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >DOSTAŃ JEDEN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >ZA DARMO</td></tr>",
     "bogo_one": "KUP JEDNO, OTRZYMAJ JEDNO ZA DARMO",
     "promo_code": "UŻYJ KODU",
-    "bogo_buy": "KUP",
-    "bogo_one__1": "JEDNO",
-    "bogo_get": "OTRZYMAJ JEDNO",
-    "bogo_free": "ZA DARMO"
+    "bogo_buy": "Kup",
+    "bogo_one__1": "Jeden",
+    "bogo_get": "Weź jeden",
+    "bogo_free": "Za darmo"
   },
   {
     "language_name": "Portuguese",
@@ -2122,10 +2122,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >COMPRE</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >UM</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >GANHE UM</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >GRÁTIS</td></tr>",
     "bogo_one": "COMPRE UM, LEVE UM GRÁTIS",
     "promo_code": "USE O CÓDIGO",
-    "bogo_buy": "COMPRE",
-    "bogo_one__1": "LEVE",
-    "bogo_get": "LEVE UM",
-    "bogo_free": "GRÁTIS"
+    "bogo_buy": "Compre",
+    "bogo_one__1": "Um",
+    "bogo_get": "Leve um",
+    "bogo_free": "Grátis"
   },
   {
     "language_name": "Romanian",
@@ -2234,10 +2234,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >CUMPĂRĂ</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >UNUL</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >IA UNUL</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >GRATIS</td></tr>",
     "bogo_one": "CUMPĂRĂ UNUL, PRIMEȘTE UNUL GRATUIT",
     "promo_code": "UTILIZAȚI CODUL",
-    "bogo_buy": "CUMPĂRĂ",
-    "bogo_one__1": "PRIMEȘTE",
-    "bogo_get": "OBȚINE UNUL",
-    "bogo_free": "GRATUIT"
+    "bogo_buy": "Cumpără",
+    "bogo_one__1": "Un",
+    "bogo_get": "Primiți unul",
+    "bogo_free": "Gratuit"
   },
   {
     "language_name": "Russian",
@@ -2346,10 +2346,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >КУПИ</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >ЕДНО</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >ВЗЕМИ ЕДНО</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >БЕЗПЛАТНО</td></tr>",
     "bogo_one": "КУПИ ОДНО, ПОЛУЧИ ОДНО БЕСПЛАТНО",
     "promo_code": "ИСПОЛЬЗУЙТЕ КОД",
-    "bogo_buy": "КУПИ",
-    "bogo_one__1": "ОДНО",
-    "bogo_get": "ПОЛУЧИ",
-    "bogo_free": "БЕСПЛАТНО"
+    "bogo_buy": "Купите",
+    "bogo_one__1": "Один",
+    "bogo_get": "Получите один",
+    "bogo_free": "Бесплатно"
   },
   {
     "language_name": "Slovak",
@@ -2458,10 +2458,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >KUPI</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >JEDAN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >DOBIJ JEDAN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >BESPLATNO</td></tr>",
     "bogo_one": "KÚPTE JEDNO, ZÍSKAJTE JEDNO ZADARMO",
     "promo_code": "POUŽITE KÓD",
-    "bogo_buy": "KÚPTE",
-    "bogo_one__1": "JEDNO",
-    "bogo_get": "ZÍSKAJTE",
-    "bogo_free": "ZADARMO"
+    "bogo_buy": "Kúpte",
+    "bogo_one__1": "Jeden",
+    "bogo_get": "Získajte jeden",
+    "bogo_free": "Zadarmo"
   },
   {
     "language_name": "Slovene",
@@ -2570,10 +2570,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >KUPI</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >JEDAN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >DOBIJ JEDAN</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >BESPLATNO</td></tr>",
     "bogo_one": "KUPI ENO, DOBIŠ ENO BREZPLAČNO",
     "promo_code": "UPORABITE KODO",
-    "bogo_buy": "KUPI",
-    "bogo_one__1": "ENO",
-    "bogo_get": "DOBIŠ ENO",
-    "bogo_free": "BREZPLAČNO"
+    "bogo_buy": "Kupite",
+    "bogo_one__1": "Ena",
+    "bogo_get": "Dobite enega",
+    "bogo_free": "Brezplačno"
   },
   {
     "language_name": "Spanish",
@@ -2682,10 +2682,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >COMPRA</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >UNO</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >LLEVA UNO</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >GRATIS</td></tr>",
     "bogo_one": "COMPRA UNO, LLEVA UNO GRATIS",
     "promo_code": "USA EL CÓDIGO",
-    "bogo_buy": "COMPRA",
-    "bogo_one__1": "LLEVA",
-    "bogo_get": "LLEVA UNO",
-    "bogo_free": "GRATIS"
+    "bogo_buy": "Compra",
+    "bogo_one__1": "Uno",
+    "bogo_get": "Obtén uno",
+    "bogo_free": "Gratis"
   },
   {
     "language_name": "Swedish",
@@ -2794,10 +2794,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >KÖP</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >ETT</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >FÅ ETT</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span4 span4_{{language}}\" id=\"span4_{{language}}\" >GRATIS</td></tr>",
     "bogo_one": "KÖP ETT, FÅ ETT GRATIS",
     "promo_code": "ANVÄND KODEN",
-    "bogo_buy": "KÖP",
-    "bogo_one__1": "ETT",
-    "bogo_get": "FÅ EN",
-    "bogo_free": "GRATIS"
+    "bogo_buy": "Köp",
+    "bogo_one__1": "En",
+    "bogo_get": "Få en",
+    "bogo_free": "Gratis"
   },
   {
     "language_name": "Thai",
@@ -2906,9 +2906,9 @@
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >ซื้อมาหนึ่ง</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >ฟรีหนึ่ง</td></tr>",
     "bogo_one": "ซื้อมาหนึ่งฟรีหนึ่ง",
     "promo_code": "ใช้รหัส",
-    "bogo_buy": "ซื้อมาหนึ่ง",
+    "bogo_buy": "ซื้อ",
     "bogo_one__1": "หนึ่ง",
-    "bogo_get": "ฟรี",
+    "bogo_get": "รับหนึ่ง",
     "bogo_free": "ฟรี"
   },
   {
@@ -3018,10 +3018,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >BİR</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >AL</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >BİR BEDAVA</td></tr>",
     "bogo_one": "BİR AL, BİR BEDAVA",
     "promo_code": "KODU KULLAN",
-    "bogo_buy": "BİR AL",
-    "bogo_one__1": "BİR",
-    "bogo_get": "BEDAVA",
-    "bogo_free": "ÜCRETSİZ"
+    "bogo_buy": "Satın Al",
+    "bogo_one__1": "Bir",
+    "bogo_get": "Bir tane al",
+    "bogo_free": "Bedava"
   },
   {
     "language_name": "Vietnamese",
@@ -3130,10 +3130,10 @@
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >MUA</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >MỘT</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span3 span3_{{language}}\" id=\"span3_{{language}}\" >TẶNG MỘT</td></tr>",
     "bogo_one": "MUA MỘT TẶNG MỘT",
     "promo_code": "SỬ DỤNG MÃ",
-    "bogo_buy": "MUA MỘT",
-    "bogo_one__1": "MỘT",
-    "bogo_get": "TẶNG MỘT",
-    "bogo_free": "MIỄN PHÍ"
+    "bogo_buy": "Mua",
+    "bogo_one__1": "Một",
+    "bogo_get": "Nhận một",
+    "bogo_free": "Miễn phí"
   },
   {
     "language_name": "Chinese Simplified",
@@ -3242,9 +3242,9 @@
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >买一</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >送一</td></tr>",
     "bogo_one": "买一送一",
     "promo_code": "使用代码",
-    "bogo_buy": "买一",
-    "bogo_one__1": "送一",
-    "bogo_get": "送一",
+    "bogo_buy": "购买",
+    "bogo_one__1": "一",
+    "bogo_get": "获得一个",
     "bogo_free": "免费"
   },
   {
@@ -3354,9 +3354,9 @@
     "bogo_alt": "<tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span1 span1_{{language}}\" id=\"span1_{{language}}\" >買一</td></tr> <tr class=\"trHeight\"><td style=\"padding:0px\" class=\"span2 span2_{{language}}\" id=\"span2_{{language}}\" >送一</td></tr>",
     "bogo_one": "買一送一",
     "promo_code": "使用代碼",
-    "bogo_buy": "買一",
-    "bogo_one__1": "送一",
-    "bogo_get": "送一",
+    "bogo_buy": "購買",
+    "bogo_one__1": "一",
+    "bogo_get": "獲得一個",
     "bogo_free": "免費"
   }
 ]
