@@ -109,7 +109,8 @@
     "bogo_buy": "BUY",
     "bogo_one__1": "ONE",
     "bogo_get": "GET ONE",
-    "bogo_free": "FREE"
+    "bogo_free": "FREE",
+    "off": "OFF"
   },
   {
     "language_name": "Azerbaijani",
@@ -221,7 +222,8 @@
     "bogo_buy": "Al",
     "bogo_one__1": "Bir",
     "bogo_get": "Birini al",
-    "bogo_free": "Pulsuz"
+    "bogo_free": "Pulsuz",
+    "off": "ENDİRİM"
   },
   {
     "language_name": "Bulgarian",
@@ -333,7 +335,8 @@
     "bogo_buy": "Купи",
     "bogo_one__1": "Едно",
     "bogo_get": "Вземи едно",
-    "bogo_free": "Безплатно"
+    "bogo_free": "Безплатно",
+    "off": "ОТСТЪПКА"
   },
   {
     "language_name": "Danish",
@@ -445,7 +448,8 @@
     "bogo_buy": "Køb",
     "bogo_one__1": "En",
     "bogo_get": "Få en",
-    "bogo_free": "Gratis"
+    "bogo_free": "Gratis",
+    "off": "RABAT"
   },
   {
     "language_name": "German",
@@ -557,7 +561,8 @@
     "bogo_buy": "Kaufen",
     "bogo_one__1": "Ein",
     "bogo_get": "Bekomme eins",
-    "bogo_free": "Kostenlos"
+    "bogo_free": "Kostenlos",
+    "off": "RABATT"
   },
   {
     "language_name": "Greek (modern)",
@@ -669,7 +674,8 @@
     "bogo_buy": "Αγορά",
     "bogo_one__1": "Ένα",
     "bogo_get": "Πάρε ένα",
-    "bogo_free": "Δωρεάν"
+    "bogo_free": "Δωρεάν",
+    "off": "ΕΚΠΤΩΣΗ"
   },
   {
     "language_name": "Finnish",
@@ -781,7 +787,8 @@
     "bogo_buy": "Osta",
     "bogo_one__1": "Yksi",
     "bogo_get": "Saat yhden",
-    "bogo_free": "Ilmainen"
+    "bogo_free": "Ilmainen",
+    "off": "ALENNUSTA"
   },
   {
     "language_name": "French",
@@ -893,7 +900,8 @@
     "bogo_buy": "Achetez",
     "bogo_one__1": "Un",
     "bogo_get": "Obtenez-en un",
-    "bogo_free": "Gratuit"
+    "bogo_free": "Gratuit",
+    "off": "RÉDUCTION"
   },
   {
     "language_name": "Croatian",
@@ -1005,7 +1013,8 @@
     "bogo_buy": "Kupite",
     "bogo_one__1": "Jedan",
     "bogo_get": "Uzmi jedan",
-    "bogo_free": "Besplatno"
+    "bogo_free": "Besplatno",
+    "off": "POPUSTA"
   },
   {
     "language_name": "Hungarian",
@@ -1117,7 +1126,8 @@
     "bogo_buy": "Vásárolj",
     "bogo_one__1": "Egy",
     "bogo_get": "Kapsz egyet",
-    "bogo_free": "Ingyenes"
+    "bogo_free": "Ingyenes",
+    "off": "KEDVEZMÉNY"
   },
   {
     "language_name": "Indonesian",
@@ -1229,7 +1239,8 @@
     "bogo_buy": "Beli",
     "bogo_one__1": "Satu",
     "bogo_get": "Dapatkan satu",
-    "bogo_free": "Gratis"
+    "bogo_free": "Gratis",
+    "off": "DISKON"
   },
   {
     "language_name": "Italian",
@@ -1341,7 +1352,8 @@
     "bogo_buy": "Compra",
     "bogo_one__1": "Uno",
     "bogo_get": "Prendi uno",
-    "bogo_free": "Gratis"
+    "bogo_free": "Gratis",
+    "off": "DI SCONTO"
   },
   {
     "language_name": "Japanese",
@@ -1453,7 +1465,8 @@
     "bogo_buy": "購入",
     "bogo_one__1": "一つ",
     "bogo_get": "もう一つを手に入れる",
-    "bogo_free": "無料"
+    "bogo_free": "無料",
+    "off": "オフ"
   },
   {
     "language_name": "Korean",
@@ -1565,7 +1578,8 @@
     "bogo_buy": "구매",
     "bogo_one__1": "하나",
     "bogo_get": "하나 더 받다",
-    "bogo_free": "무료"
+    "bogo_free": "무료",
+    "off": "할인"
   },
   {
     "language_name": "Malay",
@@ -1677,7 +1691,8 @@
     "bogo_buy": "Beli",
     "bogo_one__1": "Satu",
     "bogo_get": "Dapatkan satu",
-    "bogo_free": "Percuma"
+    "bogo_free": "Percuma",
+    "off": "POTONGAN"
   },
   {
     "language_name": "Dutch",
@@ -1789,7 +1804,8 @@
     "bogo_buy": "Koop",
     "bogo_one__1": "Eén",
     "bogo_get": "Krijg er één",
-    "bogo_free": "Gratis"
+    "bogo_free": "Gratis",
+    "off": "KORTING"
   },
   {
     "language_name": "Norwegian",
@@ -1901,7 +1917,8 @@
     "bogo_buy": "Kjøp",
     "bogo_one__1": "En",
     "bogo_get": "Få en",
-    "bogo_free": "Gratis"
+    "bogo_free": "Gratis",
+    "off": "rabatt"
   },
   {
     "language_name": "Polish",
@@ -2013,7 +2030,8 @@
     "bogo_buy": "Kup",
     "bogo_one__1": "Jeden",
     "bogo_get": "Weź jeden",
-    "bogo_free": "Za darmo"
+    "bogo_free": "Za darmo",
+    "off": "ZNIŻKA"
   },
   {
     "language_name": "Portuguese",
@@ -2125,7 +2143,8 @@
     "bogo_buy": "Compre",
     "bogo_one__1": "Um",
     "bogo_get": "Leve um",
-    "bogo_free": "Grátis"
+    "bogo_free": "Grátis",
+    "off": "DE DESCONTO"
   },
   {
     "language_name": "Romanian",
@@ -2237,7 +2256,8 @@
     "bogo_buy": "Cumpără",
     "bogo_one__1": "Un",
     "bogo_get": "Primiți unul",
-    "bogo_free": "Gratuit"
+    "bogo_free": "Gratuit",
+    "off": "REDUCERE"
   },
   {
     "language_name": "Russian",
@@ -2349,7 +2369,8 @@
     "bogo_buy": "Купите",
     "bogo_one__1": "Один",
     "bogo_get": "Получите один",
-    "bogo_free": "Бесплатно"
+    "bogo_free": "Бесплатно",
+    "off": "СКИДКА"
   },
   {
     "language_name": "Slovak",
@@ -2461,7 +2482,8 @@
     "bogo_buy": "Kúpte",
     "bogo_one__1": "Jeden",
     "bogo_get": "Získajte jeden",
-    "bogo_free": "Zadarmo"
+    "bogo_free": "Zadarmo",
+    "off": "ZĽAVA"
   },
   {
     "language_name": "Slovene",
@@ -2573,7 +2595,8 @@
     "bogo_buy": "Kupite",
     "bogo_one__1": "Ena",
     "bogo_get": "Dobite enega",
-    "bogo_free": "Brezplačno"
+    "bogo_free": "Brezplačno",
+    "off": "POPUSTA"
   },
   {
     "language_name": "Spanish",
@@ -2685,7 +2708,8 @@
     "bogo_buy": "Compra",
     "bogo_one__1": "Uno",
     "bogo_get": "Obtén uno",
-    "bogo_free": "Gratis"
+    "bogo_free": "Gratis",
+    "off": "DE DESCUENTO"
   },
   {
     "language_name": "Swedish",
@@ -2797,7 +2821,8 @@
     "bogo_buy": "Köp",
     "bogo_one__1": "En",
     "bogo_get": "Få en",
-    "bogo_free": "Gratis"
+    "bogo_free": "Gratis",
+    "off": "RABATT"
   },
   {
     "language_name": "Thai",
@@ -2909,7 +2934,8 @@
     "bogo_buy": "ซื้อ",
     "bogo_one__1": "หนึ่ง",
     "bogo_get": "รับหนึ่ง",
-    "bogo_free": "ฟรี"
+    "bogo_free": "ฟรี",
+    "off": "รับส่วนลด"
   },
   {
     "language_name": "Turkish",
@@ -2925,7 +2951,7 @@
     "expires": "Son Tarih",
     "expiration_message": "{{promoExpires}}",
     "footer_message": "<strong><em>Lütfen bu e-postayı yanıtlamayın.</em></strong> Bu teklif başka bir teklifle birleştirilemez. Bize sorularınızı veya yorumlarınızı göndermek ya da bundan sonra gönderilecek mesajlar ve Piping Rock Health Products® özel teklifleri için aboneliğinizi kaldırmak için lütfen aşağıdaki bağlantıları kullanın",
-    "footer_expiration": "\"\"\"\"^ Promosyon sadece Piping Rock Markalı ürünlerde geçerlidir. Tüm ürünler stoklarla sınırlıdır. Teklif, daha önce yapılan alışverişlere uygulanamaz. Son Tarih {{promoExpires}}.\"\"\"\"",
+    "footer_expiration": "\"\"\"^ Promosyon sadece Piping Rock Markalı ürünlerde geçerlidir. Tüm ürünler stoklarla sınırlıdır. Teklif, daha önce yapılan alışverişlere uygulanamaz. Son Tarih {{promoExpires}}.\"\"\"",
     "customer_service": "MÜŞTERI HIZMETLERI",
     "register": "KAYIT",
     "login": "GİRİŞ",
@@ -3021,7 +3047,8 @@
     "bogo_buy": "Satın Al",
     "bogo_one__1": "Bir",
     "bogo_get": "Bir tane al",
-    "bogo_free": "Bedava"
+    "bogo_free": "Bedava",
+    "off": "İNDİRİM"
   },
   {
     "language_name": "Vietnamese",
@@ -3133,7 +3160,8 @@
     "bogo_buy": "Mua",
     "bogo_one__1": "Một",
     "bogo_get": "Nhận một",
-    "bogo_free": "Miễn phí"
+    "bogo_free": "Miễn phí",
+    "off": "GIẢM GIÁ"
   },
   {
     "language_name": "Chinese Simplified",
@@ -3245,7 +3273,8 @@
     "bogo_buy": "购买",
     "bogo_one__1": "一",
     "bogo_get": "获得一个",
-    "bogo_free": "免费"
+    "bogo_free": "免费",
+    "off": "八折优惠"
   },
   {
     "language_name": "Chinese Traditional",
@@ -3357,6 +3386,7 @@
     "bogo_buy": "購買",
     "bogo_one__1": "一",
     "bogo_get": "獲得一個",
-    "bogo_free": "免費"
+    "bogo_free": "免費",
+    "off": "八折優惠"
   }
 ]
