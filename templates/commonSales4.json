@@ -70,7 +70,8 @@
     "on_plus": "ON $39+",
     "hurry_p": "Hurry, this offer expires in 10 days.",
     "discount_percentage": "20% OFF",
-    "promo_code": "USE CODE"
+    "promo_code": "USE CODE",
+    "off": "OFF"
   },
   {
     "language_name": "Azerbaijani",
@@ -143,7 +144,8 @@
     "on_plus": "$39+ ÜZRƏ",
     "hurry_p": "Tələsin, bu təklifin müddəti 10 gündən sonra başa çatır",
     "discount_percentage": "20% ENDİRİM",
-    "promo_code": "KODDAN İSTİFADƏ EDİN"
+    "promo_code": "KODDAN İSTİFADƏ EDİN",
+    "off": "ENDİRİM"
   },
   {
     "language_name": "Bulgarian",
@@ -216,7 +218,8 @@
     "on_plus": "ЗА $39+",
     "hurry_p": "Побързайте, тази оферта изтича след 10 дни.",
     "discount_percentage": "20% ОТСТЪПКА",
-    "promo_code": "ИЗПОЛЗВАЙТЕ КОД"
+    "promo_code": "ИЗПОЛЗВАЙТЕ КОД",
+    "off": "ОТСТЪПКА"
   },
   {
     "language_name": "Danish",
@@ -289,7 +292,8 @@
     "on_plus": "FOR $39+",
     "hurry_p": "Skynd dig, dette tilbud udløber om 10 dage.",
     "discount_percentage": "20% RABAT",
-    "promo_code": "BRUG KODE"
+    "promo_code": "BRUG KODE",
+    "off": "RABAT"
   },
   {
     "language_name": "German",
@@ -362,7 +366,8 @@
     "on_plus": "FÜR $39+",
     "hurry_p": "Beeilen Sie sich, dieses Angebot läuft in 10 Tagen ab.",
     "discount_percentage": "20 % RABATT",
-    "promo_code": "CODE VERWENDEN"
+    "promo_code": "CODE VERWENDEN",
+    "off": "RABATT"
   },
   {
     "language_name": "Greek",
@@ -435,7 +440,8 @@
     "on_plus": "ΓΙΑ $39+",
     "hurry_p": "Βιαστείτε, η προσφορά ισχύει μόνο για 10 ημέρες.",
     "discount_percentage": "ΕΚΠΤΩΣΗ 20%",
-    "promo_code": "ΧΡΗΣΙΜΟΠΟΙΗΣΤΕ ΚΩΔΙΚΑ"
+    "promo_code": "ΧΡΗΣΙΜΟΠΟΙΗΣΤΕ ΚΩΔΙΚΑ",
+    "off": "ΕΚΠΤΩΣΗ"
   },
   {
     "language_name": "Finnish",
@@ -508,7 +514,8 @@
     "on_plus": "$39+ OSTAAESSA",
     "hurry_p": "Kiiruhda, tämä tarjous päättyy 10 päivän kuluttua.",
     "discount_percentage": "20 % ALENNUSTA",
-    "promo_code": "KÄYTÄ KOODIA"
+    "promo_code": "KÄYTÄ KOODIA",
+    "off": "ALENNUSTA"
   },
   {
     "language_name": "French",
@@ -581,7 +588,8 @@
     "on_plus": "SUR $39+",
     "hurry_p": "Hâtez-vous, cette offre expire dans 10 jours.",
     "discount_percentage": "RÉDUCTION DE 20 %",
-    "promo_code": "UTILISER LE CODE"
+    "promo_code": "UTILISER LE CODE",
+    "off": "RÉDUCTION"
   },
   {
     "language_name": "Croatian",
@@ -654,7 +662,8 @@
     "on_plus": "ZA $39+",
     "hurry_p": "Požurite, ova ponuda ističe za 10 dana.",
     "discount_percentage": "20% POPUSTA",
-    "promo_code": "UPOTRIJEBITE KOD"
+    "promo_code": "UPOTRIJEBITE KOD",
+    "off": "POPUSTA"
   },
   {
     "language_name": "Hungarian",
@@ -727,7 +736,8 @@
     "on_plus": "$39+ ÉRTÉKŰ VÁSÁRLÁS ESETÉN",
     "hurry_p": "Siessen, ez az ajánlat 10 nap múlva lejár!",
     "discount_percentage": "20% KEDVEZMÉNY",
-    "promo_code": "HASZNÁLJA A KÓDOT"
+    "promo_code": "HASZNÁLJA A KÓDOT",
+    "off": "KEDVEZMÉNY"
   },
   {
     "language_name": "Indonesian",
@@ -800,7 +810,8 @@
     "on_plus": "UNTUK $39+",
     "hurry_p": "Cepatlah, penawaran ini akan berakhir dalam 10 hari.",
     "discount_percentage": "DISKON 20%",
-    "promo_code": "GUNAKAN KODE"
+    "promo_code": "GUNAKAN KODE",
+    "off": "DISKON"
   },
   {
     "language_name": "Italian",
@@ -873,7 +884,8 @@
     "on_plus": "SU $39+",
     "hurry_p": "Affrettati: questa offerta scade tra 10 giorni.",
     "discount_percentage": "20% DI SCONTO",
-    "promo_code": "USA IL CODICE"
+    "promo_code": "USA IL CODICE",
+    "off": "DI SCONTO"
   },
   {
     "language_name": "Japanese",
@@ -946,7 +958,8 @@
     "on_plus": "$39+ 以上のご購入で",
     "hurry_p": "お急ぎください、このオファーの有効期限は10日間です。",
     "discount_percentage": "20%オフ",
-    "promo_code": "コードを使用"
+    "promo_code": "コードを使用",
+    "off": "オフ"
   },
   {
     "language_name": "Korean",
@@ -1019,7 +1032,8 @@
     "on_plus": "$39+ 이상 구매 시",
     "hurry_p": "이 혜택은 10일 후에 만료되므로 서두르세요.",
     "discount_percentage": "20% 할인",
-    "promo_code": "코드 사용"
+    "promo_code": "코드 사용",
+    "off": "할인"
   },
   {
     "language_name": "Malay",
@@ -1092,7 +1106,8 @@
     "on_plus": "UNTUK PEMBELIAN $39+",
     "hurry_p": "Cepat, tawaran ini tamat dalam 10 hari.",
     "discount_percentage": "POTONGAN 20 %",
-    "promo_code": "GUNAKAN KOD"
+    "promo_code": "GUNAKAN KOD",
+    "off": "POTONGAN"
   },
   {
     "language_name": "Dutch",
@@ -1165,7 +1180,8 @@
     "on_plus": "BIJ $39+",
     "hurry_p": "Schiet op, deze aanbieding vervalt over 10 dagen.",
     "discount_percentage": "20% KORTING",
-    "promo_code": "GEBRUIK CODE"
+    "promo_code": "GEBRUIK CODE",
+    "off": "KORTING"
   },
   {
     "language_name": "Norwegian",
@@ -1238,7 +1254,8 @@
     "on_plus": "FOR $39+",
     "hurry_p": "Skynd deg, dette tilbudet utløper om 10 dager.",
     "discount_percentage": "20% rabatt",
-    "promo_code": "BRUK KODE"
+    "promo_code": "BRUK KODE",
+    "off": "rabatt"
   },
   {
     "language_name": "Polish",
@@ -1311,7 +1328,8 @@
     "on_plus": "PRZY ZAKUPIE ZA $39+",
     "hurry_p": "Spiesz się, oferta wygasa za 10 dni.",
     "discount_percentage": "ZNIŻKA 20%",
-    "promo_code": "UŻYJ KODU"
+    "promo_code": "UŻYJ KODU",
+    "off": "ZNIŻKA"
   },
   {
     "language_name": "Portuguese",
@@ -1384,7 +1402,8 @@
     "on_plus": "EM COMPRAS ACIMA DE $39+",
     "hurry_p": "Corra, esta oferta expira em 10 dias.",
     "discount_percentage": "20% DE DESCONTO",
-    "promo_code": "USE O CÓDIGO"
+    "promo_code": "USE O CÓDIGO",
+    "off": "DE DESCONTO"
   },
   {
     "language_name": "Romanian",
@@ -1457,7 +1476,8 @@
     "on_plus": "PENTRU $39+",
     "hurry_p": "Grăbiți-vă, această ofertă expiră în 10 zile.",
     "discount_percentage": "20% REDUCERE",
-    "promo_code": "UTILIZAȚI CODUL"
+    "promo_code": "UTILIZAȚI CODUL",
+    "off": "REDUCERE"
   },
   {
     "language_name": "Russian",
@@ -1530,7 +1550,8 @@
     "on_plus": "ЗА $39+",
     "hurry_p": "Торопитесь, предложение действительно всего 10 дней.",
     "discount_percentage": "СКИДКА 20 %",
-    "promo_code": "ИСПОЛЬЗУЙТЕ КОД"
+    "promo_code": "ИСПОЛЬЗУЙТЕ КОД",
+    "off": "СКИДКА"
   },
   {
     "language_name": "Slovak",
@@ -1603,7 +1624,8 @@
     "on_plus": "PRI NÁKUPE NAD $39+",
     "hurry_p": "Poponáhľajte sa, ponuka platí len 10 dní.",
     "discount_percentage": "ZĽAVA 20%",
-    "promo_code": "POUŽITE KÓD"
+    "promo_code": "POUŽITE KÓD",
+    "off": "ZĽAVA"
   },
   {
     "language_name": "Slovenian",
@@ -1676,7 +1698,8 @@
     "on_plus": "PRI NAKUPU NAD $39+",
     "hurry_p": "Pohitite, ponudba poteče čez 10 dni.",
     "discount_percentage": "20 % POPUSTA",
-    "promo_code": "UPORABITE KODO"
+    "promo_code": "UPORABITE KODO",
+    "off": "POPUSTA"
   },
   {
     "language_name": "Spanish",
@@ -1749,7 +1772,8 @@
     "on_plus": "POR $39+",
     "hurry_p": "Dese prisa, esta oferta caduca en 10 días.",
     "discount_percentage": "20 % DE DESCUENTO",
-    "promo_code": "USA EL CÓDIGO"
+    "promo_code": "USA EL CÓDIGO",
+    "off": "DE DESCUENTO"
   },
   {
     "language_name": "Swedish",
@@ -1822,7 +1846,8 @@
     "on_plus": "FÖR $39+",
     "hurry_p": "Skynda dig, erbjudandet löper ut om 10 dagar.",
     "discount_percentage": "20% RABATT",
-    "promo_code": "ANVÄND KODEN"
+    "promo_code": "ANVÄND KODEN",
+    "off": "RABATT"
   },
   {
     "language_name": "Thai",
@@ -1895,7 +1920,8 @@
     "on_plus": "เมื่อซื้อครบ $39+",
     "hurry_p": "รีบหน่อย ข้อเสนอนี้จะหมดเขตในอีก 10 วัน",
     "discount_percentage": "รับส่วนลด 20%",
-    "promo_code": "ใช้รหัส"
+    "promo_code": "ใช้รหัส",
+    "off": "รับส่วนลด"
   },
   {
     "language_name": "Turkish",
@@ -1911,8 +1937,8 @@
     "expires": "Son Tarih",
     "expiration_message": "{{promoExpires}}",
     "footer_message": "<strong><em>Lütfen bu e-postayı yanıtlamayın.</em></strong> Bu teklif başka bir teklifle birleştirilemez. Bize sorularınızı veya yorumlarınızı göndermek ya da bundan sonra gönderilecek mesajlar ve Piping Rock Health Products® özel teklifleri için aboneliğinizi kaldırmak için lütfen aşağıdaki bağlantıları kullanın",
-    "footer_expiration_clean": "\"\"\"\"\"^ Promosyon sadece Piping Rock Markalı ürünlerde geçerlidir. Tüm ürünler stoklarla sınırlıdır. Teklif, daha önce yapılan alışverişlere uygulanamaz. \"\"\"\"\"",
-    "footer_expiration": "\"\"\"\"\"^ Promosyon sadece Piping Rock Markalı ürünlerde geçerlidir. Tüm ürünler stoklarla sınırlıdır. Teklif, daha önce yapılan alışverişlere uygulanamaz. Son Tarih {{promoExpires}}.\"\"\"\"\"",
+    "footer_expiration_clean": "\"\"\"\"^ Promosyon sadece Piping Rock Markalı ürünlerde geçerlidir. Tüm ürünler stoklarla sınırlıdır. Teklif, daha önce yapılan alışverişlere uygulanamaz. \"\"\"\"",
+    "footer_expiration": "\"\"\"\"^ Promosyon sadece Piping Rock Markalı ürünlerde geçerlidir. Tüm ürünler stoklarla sınırlıdır. Teklif, daha önce yapılan alışverişlere uygulanamaz. Son Tarih {{promoExpires}}.\"\"\"\"",
     "customer_service": "MÜŞTERI HIZMETLERI",
     "register": "KAYIT",
     "login": "GİRİŞ",
@@ -1968,7 +1994,8 @@
     "on_plus": "$39+ ÜZERİNDE",
     "hurry_p": "Acele edin, bu teklif 10 gün içinde sona eriyor.",
     "discount_percentage": "% 20 İNDİRİM",
-    "promo_code": "KODU KULLAN"
+    "promo_code": "KODU KULLAN",
+    "off": "İNDİRİM"
   },
   {
     "language_name": "Vietnamese",
@@ -2041,7 +2068,8 @@
     "on_plus": "CHO ĐƠN HÀNG $39+",
     "hurry_p": "Nhanh tay lên, ưu đãi này sẽ hết hạn sau 10 ngày.",
     "discount_percentage": "GIẢM GIÁ 20%",
-    "promo_code": "SỬ DỤNG MÃ"
+    "promo_code": "SỬ DỤNG MÃ",
+    "off": "GIẢM GIÁ"
   },
   {
     "language_name": "Chinese Simplified",
@@ -2114,7 +2142,8 @@
     "on_plus": "满 $39+",
     "hurry_p": "务必抓紧时间，此优惠将在 10 天后失效。",
     "discount_percentage": "八折优惠",
-    "promo_code": "使用代码"
+    "promo_code": "使用代码",
+    "off": "八折优惠"
   },
   {
     "language_name": "Chinese Traditional",
@@ -2187,6 +2216,7 @@
     "on_plus": "滿 $39+",
     "hurry_p": "快快行動，此優惠將在 10 天後失效。",
     "discount_percentage": "八折優惠",
-    "promo_code": "使用代碼"
+    "promo_code": "使用代碼",
+    "off": "八折優惠"
   }
 ]
