@@ -78,7 +78,7 @@
     "running_low": "Running Low?",
     "thank_us": "You'll thank us later.",
     "save__1": "Save",
-    "next_order": "of your next order",
+    "next_order": "off your next order",
     "time_to_restock": "it's time to restock on your favorites"
   },
   {
@@ -160,8 +160,8 @@
     "running_low": "Azalır?",
     "thank_us": "Sonra bizə təşəkkür edəcəksiniz.",
     "save__1": "Qənaət edir",
-    "next_order": "",
-    "time_to_restock": ""
+    "next_order": "növbəti sifarişinizdə endirim",
+    "time_to_restock": "Seçimlərinizi yenidən stoklamağın vaxtıdır"
   },
   {
     "language_name": "Bulgarian",
@@ -242,8 +242,8 @@
     "running_low": "Привършва ли?",
     "thank_us": "Ще ни благодарите по-късно.",
     "save__1": "Спестява",
-    "next_order": "növbəti sifarişinizin",
-    "time_to_restock": "zamanıdır ki, sevdiklərinizi yeniləyəsiniz"
+    "next_order": "отстъпка от следващата ви поръчка",
+    "time_to_restock": "Време е да попълните запасите си от любимите неща"
   },
   {
     "language_name": "Danish",
@@ -324,8 +324,8 @@
     "running_low": "Løber tør?",
     "thank_us": "Du vil takke os senere.",
     "save__1": "Sparer",
-    "next_order": "",
-    "time_to_restock": ""
+    "next_order": "rabat på din næste ordre",
+    "time_to_restock": "Det er tid til at genopfylde dine favoritter"
   },
   {
     "language_name": "German",
@@ -406,8 +406,8 @@
     "running_low": "Geht zur Neige?",
     "thank_us": "Sie werden uns später danken.",
     "save__1": "Spart",
-    "next_order": "от следващата ви поръчка",
-    "time_to_restock": "време е да заредите любимите си продукти"
+    "next_order": "Rabatt auf Ihre nächste Bestellung",
+    "time_to_restock": "Es ist Zeit, Ihre Favoriten wieder aufzufüllen"
   },
   {
     "language_name": "Greek",
@@ -488,8 +488,8 @@
     "running_low": "Τελειώνει;",
     "thank_us": "Θα μας ευχαριστήσετε αργότερα.",
     "save__1": "Εξοικονομεί",
-    "next_order": "",
-    "time_to_restock": ""
+    "next_order": "έκπτωση στην επόμενη παραγγελία σας",
+    "time_to_restock": "Ήρθε η ώρα να ανανεώσετε τα αγαπημένα σας"
   },
   {
     "language_name": "Finnish",
@@ -570,8 +570,8 @@
     "running_low": "Loppumassa?",
     "thank_us": "Tulet kiittämään meitä myöhemmin.",
     "save__1": "Säästää",
-    "next_order": "af din næste ordre",
-    "time_to_restock": "det er tid til at genbestille dine favoritter"
+    "next_order": "alennus seuraavasta tilauksestasi",
+    "time_to_restock": "On aika täydentää suosikkisi"
   },
   {
     "language_name": "French",
@@ -652,8 +652,8 @@
     "running_low": "Bientôt en rupture ?",
     "thank_us": "Vous nous remercierez plus tard.",
     "save__1": "Économise",
-    "next_order": "",
-    "time_to_restock": ""
+    "next_order": "réduction sur votre prochaine commande",
+    "time_to_restock": "Il est temps de refaire le plein de vos favoris"
   },
   {
     "language_name": "Croatian",
@@ -734,8 +734,8 @@
     "running_low": "Ponestaje?",
     "thank_us": "Zahvalit ćete nam kasnije.",
     "save__1": "Štedi",
-    "next_order": "deiner nächsten Bestellung",
-    "time_to_restock": "es ist Zeit, deine Favoriten nachzubestellen"
+    "next_order": "popust na vašu sljedeću narudžbu",
+    "time_to_restock": "Vrijeme je za obnovu zaliha omiljenih proizvoda"
   },
   {
     "language_name": "Hungarian",
@@ -816,8 +816,8 @@
     "running_low": "Fogytán van?",
     "thank_us": "Később hálás leszel nekünk.",
     "save__1": "Megspórol",
-    "next_order": "",
-    "time_to_restock": ""
+    "next_order": "kedvezmény a következő rendelésedből",
+    "time_to_restock": "Itt az ideje feltölteni a kedvenceidet"
   },
   {
     "language_name": "Indonesian",
@@ -898,8 +898,8 @@
     "running_low": "Hampir habis?",
     "thank_us": "Anda akan berterima kasih kepada kami nanti.",
     "save__1": "Menghemat",
-    "next_order": "της επόμενης παραγγελίας σας",
-    "time_to_restock": "ήρθε η ώρα να ξαναγεμίσετε τα αγαπημένα σας"
+    "next_order": "diskon untuk pesanan Anda berikutnya",
+    "time_to_restock": "Saatnya restock favorit Anda"
   },
   {
     "language_name": "Italian",
@@ -980,8 +980,8 @@
     "running_low": "Quasi finito?",
     "thank_us": "Ci ringrazierai più tardi.",
     "save__1": "Risparmia",
-    "next_order": "",
-    "time_to_restock": ""
+    "next_order": "sconto sul tuo prossimo ordine",
+    "time_to_restock": "È il momento di rifornire i tuoi preferiti"
   },
   {
     "language_name": "Japanese",
@@ -1062,8 +1062,8 @@
     "running_low": "残りわずかですか？",
     "thank_us": "後で感謝することになります。",
     "save__1": "節約します",
-    "next_order": "seuraavasta tilauksestasi",
-    "time_to_restock": "on aika täyttää suosikkisi"
+    "next_order": "次回のご注文の割引",
+    "time_to_restock": "お気に入りを補充する時間です"
   },
   {
     "language_name": "Korean",
@@ -1144,8 +1144,8 @@
     "running_low": "거의 다 떨어졌나요?",
     "thank_us": "나중에 우리에게 감사하게 될 거예요.",
     "save__1": "절약합니다",
-    "next_order": "",
-    "time_to_restock": ""
+    "next_order": "다음 주문에서 할인",
+    "time_to_restock": "즐겨찾기를 다시 채울 시간입니다"
   },
   {
     "language_name": "Malay",
@@ -1226,8 +1226,8 @@
     "running_low": "Hampir habis?",
     "thank_us": "Anda akan berterima kasih kepada kami nanti.",
     "save__1": "Menjimat",
-    "next_order": "de votre prochaine commande",
-    "time_to_restock": "il est temps de réapprovisionner vos favoris"
+    "next_order": "diskaun untuk pesanan anda yang seterusnya",
+    "time_to_restock": "Sudah tiba masanya untuk menambah stok kegemaran anda"
   },
   {
     "language_name": "Dutch",
@@ -1308,8 +1308,8 @@
     "running_low": "Bijna op?",
     "thank_us": "Je zult ons later bedanken.",
     "save__1": "Bespaar",
-    "next_order": "",
-    "time_to_restock": ""
+    "next_order": "korting op uw volgende bestelling",
+    "time_to_restock": "Het is tijd om je favorieten aan te vullen"
   },
   {
     "language_name": "Norwegian",
@@ -1390,8 +1390,8 @@
     "running_low": "Begynner å gå tomt?",
     "thank_us": "Du vil takke oss senere.",
     "save__1": "Spare",
-    "next_order": "vaše sljedeće narudžbe",
-    "time_to_restock": "vrijeme je da ponovno naručite svoje omiljene proizvode"
+    "next_order": "rabatt på din neste bestilling",
+    "time_to_restock": "Det er på tide å fylle opp favorittene dine"
   },
   {
     "language_name": "Polish",
@@ -1472,8 +1472,8 @@
     "running_low": "Kończy się?",
     "thank_us": "Podziękujesz nam później.",
     "save__1": "Oszczędza",
-    "next_order": "",
-    "time_to_restock": ""
+    "next_order": "rabat na następne zamówienie",
+    "time_to_restock": "Czas uzupełnić zapasy ulubionych produktów"
   },
   {
     "language_name": "Portuguese",
@@ -1554,8 +1554,8 @@
     "running_low": "Quase acabando?",
     "thank_us": "Você nos agradecerá depois.",
     "save__1": "Economiza",
-    "next_order": "a következő rendelésedről",
-    "time_to_restock": "itt az ideje, hogy újrarendelje a kedvenceit"
+    "next_order": "desconto no seu próximo pedido",
+    "time_to_restock": "É hora de reabastecer seus favoritos"
   },
   {
     "language_name": "Romanian",
@@ -1636,8 +1636,8 @@
     "running_low": "Se termină?",
     "thank_us": "Ne vei mulțumi mai târziu.",
     "save__1": "Economisează",
-    "next_order": "",
-    "time_to_restock": ""
+    "next_order": "reducere la următoarea comandă",
+    "time_to_restock": "Este timpul să reaprovizionezi favoritele tale"
   },
   {
     "language_name": "Russian",
@@ -1718,8 +1718,8 @@
     "running_low": "Заканчивается?",
     "thank_us": "Вы поблагодарите нас позже.",
     "save__1": "Экономит",
-    "next_order": "pesanan Anda berikutnya",
-    "time_to_restock": "saatnya untuk mengisi ulang favorit Anda"
+    "next_order": "скидка на ваш следующий заказ",
+    "time_to_restock": "Пора пополнить запасы своих любимых товаров"
   },
   {
     "language_name": "Slovak",
@@ -1800,8 +1800,8 @@
     "running_low": "Dochádza?",
     "thank_us": "Poďakujete nám neskôr.",
     "save__1": "Šetrí",
-    "next_order": "",
-    "time_to_restock": ""
+    "next_order": "zľava na vašu ďalšiu objednávku",
+    "time_to_restock": "Je čas doplniť zásoby vašich obľúbených vecí"
   },
   {
     "language_name": "Slovenian",
@@ -1882,8 +1882,8 @@
     "running_low": "Se končuje?",
     "thank_us": "Nam boste kasneje hvaležni.",
     "save__1": "Prihrani",
-    "next_order": "del tuo prossimo ordine",
-    "time_to_restock": "è tempo di rifornire i tuoi preferiti"
+    "next_order": "popust na vaše naslednje naročilo",
+    "time_to_restock": "Čas je, da obnovite zaloge svojih priljubljenih izdelkov"
   },
   {
     "language_name": "Spanish",
@@ -1964,8 +1964,8 @@
     "running_low": "¿Quedando poco?",
     "thank_us": "Nos lo agradecerás después.",
     "save__1": "Ahorra",
-    "next_order": "",
-    "time_to_restock": ""
+    "next_order": "descuento en tu próximo pedido",
+    "time_to_restock": "Es hora de reabastecer tus favoritos"
   },
   {
     "language_name": "Swedish",
@@ -2046,8 +2046,8 @@
     "running_low": "Håller på att ta slut?",
     "thank_us": "Du kommer att tacka oss senare.",
     "save__1": "Sparar",
-    "next_order": "あなたの次の注文の",
-    "time_to_restock": "あなたの好きな商品を再注文する時間です"
+    "next_order": "rabatt på din nästa beställning",
+    "time_to_restock": "Det är dags att fylla på dina favoriter"
   },
   {
     "language_name": "Thai",
@@ -2128,8 +2128,8 @@
     "running_low": "ใกล้หมดหรือยัง?",
     "thank_us": "คุณจะขอบคุณเราทีหลัง",
     "save__1": "ประหยัด",
-    "next_order": "",
-    "time_to_restock": ""
+    "next_order": "ส่วนลดสำหรับคำสั่งซื้อต่อไปของคุณ",
+    "time_to_restock": "ถึงเวลาสำรองสินค้าที่คุณชื่นชอบแล้ว"
   },
   {
     "language_name": "Turkish",
@@ -2210,8 +2210,8 @@
     "running_low": "Azalıyor mu?",
     "thank_us": "Bize sonra teşekkür edeceksiniz.",
     "save__1": "Tasarruf eder",
-    "next_order": "당신의 다음 주문의",
-    "time_to_restock": "당신의 좋아하는 제품을 재입고할 시간입니다"
+    "next_order": "bir sonraki siparişinizde indirim",
+    "time_to_restock": "Favorilerinizi yeniden stoklama zamanı"
   },
   {
     "language_name": "Vietnamese",
@@ -2292,8 +2292,8 @@
     "running_low": "Sắp hết?",
     "thank_us": "Bạn sẽ cảm ơn chúng tôi sau.",
     "save__1": "Tiết kiệm",
-    "next_order": "",
-    "time_to_restock": ""
+    "next_order": "giảm giá cho đơn hàng tiếp theo của bạn",
+    "time_to_restock": "Đã đến lúc bổ sung hàng yêu thích của bạn"
   },
   {
     "language_name": "Chinese Simplified",
@@ -2374,8 +2374,8 @@
     "running_low": "快用完了？",
     "thank_us": "以后你会感谢我们的。",
     "save__1": "节省",
-    "next_order": "pesanan anda berikutnya",
-    "time_to_restock": "sudah waktunya untuk mengisi ulang favorit Anda"
+    "next_order": "你的下一笔订单可享折扣",
+    "time_to_restock": "是时候补充您的最爱了"
   },
   {
     "language_name": "Chinese Traditional",
@@ -2456,7 +2456,7 @@
     "running_low": "快用完了嗎？",
     "thank_us": "以後你會感謝我們的。",
     "save__1": "節省",
-    "next_order": "",
-    "time_to_restock": ""
+    "next_order": "你的下一筆訂單可享折扣",
+    "time_to_restock": "是時候補充您的最愛了"
   }
 ]
