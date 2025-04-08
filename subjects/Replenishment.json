@@ -1,0 +1,233 @@
+[
+  {
+    "language_name": "English",
+    "pr_code": "eng",
+    "language": "en-US",
+    "subject_variation_1": "Running Low? Re-order Before You Run Out!",
+    "pre_header_variation_1": "Never Run Out of Your Favorites Again",
+    "subject_variation_2": "Need a Refill? We Got You!",
+    "pre_header_variation_2": "Complete your order!",
+    "subject_variation_3": "Restock Now Before It's Too Late!",
+    "pre_header_variation_3": "Get your favorites now" 
+  },
+  {
+    "language_name": "Danish",
+    "pr_code": "dan",
+    "language": "da",
+    "subject_variation_1": "Er du ved at løbe tør? Genbestil, før du løber tør!",
+    "pre_header_variation_1": "Løb aldrig tør for dine favoritter igen",
+    "subject_variation_2": "Har du brug for genopfyldning? Vi har dig!",
+    "pre_header_variation_2": "Færdiggør din bestilling!",
+    "subject_variation_3": "Genopfyld nu, før det er for sent!",
+    "pre_header_variation_3": "Få dine favoritter nu" 
+  },
+  {
+    "language_name": "German",
+    "pr_code": "deu",
+    "language": "de",
+    "subject_variation_1": "Geht zur Neige? Bestellen Sie nach, bevor es zu spät ist!",
+    "pre_header_variation_1": "Ihre Lieblingssachen gehen Ihnen nie wieder aus",
+    "subject_variation_2": "Sie brauchen Nachschub? Wir haben es!",
+    "pre_header_variation_2": "Schließen Sie Ihre Bestellung ab!",
+    "subject_variation_3": "Jetzt Vorrat auffüllen, bevor es zu spät ist!",
+    "pre_header_variation_3": "Holen Sie sich jetzt Ihre Lieblingssachen" 
+  },
+  {
+    "language_name": "Finnish",
+    "pr_code": "fin",
+    "language": "fi",
+    "subject_variation_1": "Onko jokin vähissä? Tilaa uudelleen ennen kuin se loppuu!",
+    "pre_header_variation_1": "Älä päästä suosikkejasi enää koskaan loppumaan",
+    "subject_variation_2": "Tarvitsetko täydennystä? Meiltä löytyy!",
+    "pre_header_variation_2": "Viimeistele tilauksesi!",
+    "subject_variation_3": "Täydennä varastoasi nyt, ennen kuin on liian myöhäistä!",
+    "pre_header_variation_3": "Hanki suosikkisi nyt" 
+  },
+  {
+    "language_name": "French",
+    "pr_code": "fra",
+    "language": "fr",
+    "subject_variation_1": "Il vous en reste peu ? Repassez commande avant d’être à court !",
+    "pre_header_variation_1": "Ne soyez plus jamais à court de vos produits favoris",
+    "subject_variation_2": "Besoin d’une recharge ? Nous avons ce qu’il vous faut !",
+    "pre_header_variation_2": "Complétez votre commande !",
+    "subject_variation_3": "Réapprovisionnez avant qu’il soit trop tard !",
+    "pre_header_variation_3": "Procurez-vous vos favoris maintenant" 
+  },
+  {
+    "language_name": "Hungarian",
+    "pr_code": "hun",
+    "language": "hu",
+    "subject_variation_1": "Kifogyóban? Rendeljen újra, mielőtt elfogy!",
+    "pre_header_variation_1": "Soha többé ne fogyjon ki a kedvenceiből",
+    "subject_variation_2": "Feltöltené a készleteit? Ránk számíthat!",
+    "pre_header_variation_2": "Fejezze be a rendelését!",
+    "subject_variation_3": "Tárazzon be most, mielőtt túl késő lenne!",
+    "pre_header_variation_3": "Szerezze be a kedvenceit most!" 
+  },
+  {
+    "language_name": "Italian",
+    "pr_code": "ita",
+    "language": "it",
+    "subject_variation_1": "In esaurimento? Riordina prima di esaurirlo!",
+    "pre_header_variation_1": "Non esaurire mai più i tuoi preferiti",
+    "subject_variation_2": "Hai bisogno di rifornire le scorte? Ci pensiamo noi!",
+    "pre_header_variation_2": "Completa l'ordine!",
+    "subject_variation_3": "Fai rifornimento ora, prima che sia troppo tardi!",
+    "pre_header_variation_3": "Acquista subito i tuoi preferiti" 
+  },
+  {
+    "language_name": "Japanese",
+    "pr_code": "jpn",
+    "language": "ja",
+    "subject_variation_1": "残りわずかですか？なくなる前に再注文を！",
+    "pre_header_variation_1": "お気に入りを使い切らないようにしましょう",
+    "subject_variation_2": "補充ですね？それならお任せを！",
+    "pre_header_variation_2": "ご注文を完了してください！",
+    "subject_variation_3": "手遅れになる前に再入荷を！",
+    "pre_header_variation_3": "今すぐお気に入りの商品を調達しましょう" 
+  },
+  {
+    "language_name": "Korean",
+    "pr_code": "kor",
+    "language": "ko",
+    "subject_variation_1": "다시 사야할 때인가요? 다 떨어지기 전에 재주문하세요!",
+    "pre_header_variation_1": "여러분이 좋아하시는 상품이 떨어지지 않게 하세요",
+    "subject_variation_2": "여분이 필요하신가요? 저희가 도와드리겠습니다!",
+    "pre_header_variation_2": "주문을 완료하세요!",
+    "subject_variation_3": "더 늦기 전에 지금 재구입하세요!",
+    "pre_header_variation_3": "지금 좋아하는 상품을 구입하세요" 
+  },
+  {
+    "language_name": "Dutch",
+    "pr_code": "nld",
+    "language": "nl",
+    "subject_variation_1": "Bijna op? Bestel opnieuw voordat het op is!",
+    "pre_header_variation_1": "Nooit meer zonder uw favorieten",
+    "subject_variation_2": "Bijvullen nodig? We zijn hier!",
+    "pre_header_variation_2": "Voltooi uw bestelling!",
+    "subject_variation_3": "Voorraad nu aanvullen voor het te laat is!",
+    "pre_header_variation_3": "Koop nu uw favorieten" 
+  },
+  {
+    "language_name": "Norwegian",
+    "pr_code": "nor",
+    "language": "no",
+    "subject_variation_1": "Har du lite igjen? Bestill på nytt før du går tom!",
+    "pre_header_variation_1": "Gå aldri tom for favorittene dine igjen",
+    "subject_variation_2": "Trenger du påfyll? Vi har det du trenger!",
+    "pre_header_variation_2": "Fullfør bestillingen din!",
+    "subject_variation_3": "Fyll opp før det er for sent!",
+    "pre_header_variation_3": "Skaff deg favorittene dine nå" 
+  },
+  {
+    "language_name": "Polish",
+    "pr_code": "pol",
+    "language": "pl",
+   "subject_variation_1": "Kończy Ci się? Zamów ponownie, zanim zabraknie!",
+    "pre_header_variation_1": "Nigdy więcej nie zabraknie Ci ulubionych rzeczy",
+    "subject_variation_2": "Potrzebujesz nowych zapasów? Zapraszamy!",
+    "pre_header_variation_2": "Dokończ swoje zamówienie!",
+    "subject_variation_3": "Uzupełnij zapasy zanim będzie za późno!",
+    "pre_header_variation_3": "Zdobądź ulubione towary już teraz" 
+  },
+  {
+    "language_name": "Portuguese",
+    "pr_code": "por",
+    "language": "pt",
+    "subject_variation_1": "Está ficando na reserva? Renove o pedido antes que acabe!",
+    "pre_header_variation_1": "Nunca mais fique sem seus favoritos",
+    "subject_variation_2": "Precisando de um refil? Temos para você!",
+    "pre_header_variation_2": "Conclua seu pedido!",
+    "subject_variation_3": "Reabasteça agora antes que seja tarde demais!",
+    "pre_header_variation_3": "Garanta seus favoritos agora mesmo" 
+  },
+  {
+    "language_name": "Romanian",
+    "pr_code": "ron",
+    "language": "ro",
+   "subject_variation_1": "Rămâneţi fără? Refaceți comanda înainte de a rămâne fără!",
+    "pre_header_variation_1": "Să nu mai rămâneţi niciodată fără preferatele dvs.",
+    "subject_variation_2": "Aveți nevoie de o reumplere? Vă-am prins!",
+    "pre_header_variation_2": "Finalizați comanda!",
+    "subject_variation_3": "Reaprovizionați acum până nu este prea târziu!",
+    "pre_header_variation_3": "Obțineți acum preferatele dvs." 
+  },
+  {
+    "language_name": "Russian",
+    "pr_code": "rus",
+    "language": "ru",
+   "subject_variation_1": "Заканчивается? Сделайте заказ, пока продукты не закончились!",
+    "pre_header_variation_1": "Ваши любимые продукты больше никогда не закончатся",
+    "subject_variation_2": "Нужно пополнить запасы? Мы вас понимаем!",
+    "pre_header_variation_2": "Завершите заказ!",
+    "subject_variation_3": "Пополните запасы, пока не поздно!",
+    "pre_header_variation_3": "Получите любимые продукты прямо сейчас" 
+  },
+  {
+    "language_name": "Slovak",
+    "pr_code": "slk",
+    "language": "sk",
+   "subject_variation_1": "Máte málo peňazí? Objednajte si to skôr, ako vám dôjde!",
+    "pre_header_variation_1": "Už nikdy vám nedôjdu obľúbené položky",
+    "subject_variation_2": "Potrebujete doplniť? Zabezpečíme to!",
+    "pre_header_variation_2": "Dokončite svoju objednávku!",
+    "subject_variation_3": "Doplňte zásoby teraz, kým nie je neskoro!,
+    "pre_header_variation_3": "Získajte svoje obľúbené položky hneď teraz" 
+  },
+  {
+    "language_name": "Spanish",
+    "pr_code": "spa",
+    "language": "es",
+    "subject_variation_1": "¿Se te está acabando? ¡Haz un nuevo pedido antes de que se agote!",
+    "pre_header_variation_1": "No vuelvas a quedarte sin tus favoritos",
+    "subject_variation_2": "¿Necesitas más? ¡Te ayudamos!",
+    "pre_header_variation_2": "¡Completa tu pedido!",
+    "subject_variation_3": "¡Realiza tu pedido ahora antes de que sea demasiado tarde!",
+    "pre_header_variation_3": "Consigue tus favoritos ahora" 
+  },
+  {
+    "language_name": "Swedish",
+    "pr_code": "swe",
+    "language": "sv",
+   "subject_variation_1": "Snar fri för det? Beställ igen innan det tar slut!",
+    "pre_header_variation_1": "Aldrig få slut på dina favoriter igen",
+    "subject_variation_2": "Behöver du en påfyllning? Vi hjelper dig!",
+    "pre_header_variation_2": "Slutför din beställning!",
+    "subject_variation_3": "Fyll på nu innan det är för sent!",
+    "pre_header_variation_3": "Skaffa dina favoriter nu" 
+  },
+  {
+    "language_name": "Thai",
+    "pr_code": "tha",
+    "language": "th",
+    "subject_variation_1": "สินค้าใกล้จะหมดใช่ไหม สั่งซื้อซ้ำก่อนที่จะหมด!",
+    "pre_header_variation_1": "สินค้าที่คุณชอบจะไม่มีวันหมดอีกต่อไป",
+    "subject_variation_2": "ต้องการให้เติมสินค้าใช่ไหม เราช่วยคุณได้!",
+    "pre_header_variation_2": "ทำการสั่งซื้อของคุณให้เสร็จสมบูรณ์!",
+    "subject_variation_3": "เติมสินค้าให้ใหม่เลยตอนนี้ ก่อนที่จะสายเกินไป!",
+    "pre_header_variation_3": "รับสินค้าที่คุณชอบเลยตอนนี้" 
+  },
+  {
+    "language_name": "Turkish",
+    "pr_code": "tur",
+    "language": "tr",
+   "subject_variation_1": "Stoklarınız azaldı mı? Tükenmeden yeniden sipariş verin!",
+    "pre_header_variation_1": "Sık Kullandığınız Ürünlerin Yokluğunu Çekmeyin",
+    "subject_variation_2": "Biten ürünlerin yenisi mi lazım? Hallederiz!",
+    "pre_header_variation_2": "Siparişinizi tamamlayın!",
+    "subject_variation_3": "Çok Geç Olmadan Stoklarınızı Yenileyin!",
+    "pre_header_variation_3": "Sık kullandıklarınızı şimdi alın" 
+  },
+  {
+    "language_name": "Chinese Traditional",
+    "pr_code": "zht",
+    "language": "zh-CHT",
+    "subject_variation_1": "所剩不多？在用完之前重新訂購！",
+    "pre_header_variation_1": "再也不會用完您的最愛",
+    "subject_variation_2": "需要補貨？我們幫你！",
+    "pre_header_variation_2": "完成您的訂單！",
+    "subject_variation_3": "立即補貨，以免為時已晚！",
+    "pre_header_variation_3": "立即獲得你的最愛" 
+  }
+]
