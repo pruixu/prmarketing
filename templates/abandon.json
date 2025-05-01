@@ -17,7 +17,9 @@
     "Free_Domestic_Shipping_on_75": "Free Domestic Shipping on $75+",
     "50_Years_of_Trusted_Experience": "50+ Years of Trusted Experience",
     "your_first": "YOUR FIRST ORDER*",
-    "promo_code": "USE CODE"
+    "promo_code": "USE CODE",
+    "forgot_something": "Forgot something?",
+    "we_saved": "We've saved it for you, but we can only hold it for a limited time."
   },
   {
     "language_name": "Azerbaijani",
@@ -37,7 +39,9 @@
     "Free_Domestic_Shipping_on_75": "Ölkə daxilində $75 + üçün pulsuz çatdırılma",
     "50_Years_of_Trusted_Experience": "50+ illik etibarlı təcrübə",
     "your_first": "İLK SİFARİŞİNİZ*",
-    "promo_code": "KODDAN İSTİFADƏ EDİN"
+    "promo_code": "KODDAN İSTİFADƏ EDİN",
+    "forgot_something": "Nəsə yaddan çıxıb?",
+    "we_saved": "Sizin üçün saxlamışıq, amma yalnız məhdud müddətə saxlaya bilərik."
   },
   {
     "language_name": "Bulgarian",
@@ -57,7 +61,9 @@
     "Free_Domestic_Shipping_on_75": "Безплатна доставка на територията на САЩ при поръчки над $75",
     "50_Years_of_Trusted_Experience": "Над 50-годишен доказан опит",
     "your_first": "ВАША ПЪРВА ПОРЪЧКА*",
-    "promo_code": "ИЗПОЛЗВАЙТЕ КОД"
+    "promo_code": "ИЗПОЛЗВАЙТЕ КОД",
+    "forgot_something": "Забравихте нещо?",
+    "we_saved": "Запазихме го за вас, но можем да го задържим само за ограничено време."
   },
   {
     "language_name": "Danish",
@@ -77,7 +83,9 @@
     "Free_Domestic_Shipping_on_75": "Gratis indenlandsk forsendelse på $75+",
     "50_Years_of_Trusted_Experience": "50+ års pålidelig erfaring",
     "your_first": "DIN FØRSTE ORDRE*",
-    "promo_code": "BRUG KODE"
+    "promo_code": "BRUG KODE",
+    "forgot_something": "Glemte du noget?",
+    "we_saved": "Vi har gemt det til dig, men vi kan kun holde det i en begrænset periode."
   },
   {
     "language_name": "German",
@@ -97,7 +105,9 @@
     "Free_Domestic_Shipping_on_75": "Kostenloser Inlandsversand für Bestellungen ab 75 $",
     "50_Years_of_Trusted_Experience": "Über 50 Jahre vertrauensvolle Erfahrung",
     "your_first": "IHRE ERSTE BESTELLUNG*",
-    "promo_code": "CODE VERWENDEN"
+    "promo_code": "CODE VERWENDEN",
+    "forgot_something": "Etwas vergessen?",
+    "we_saved": "Wir haben es für Sie gespeichert, aber wir können es nur für begrenzte Zeit aufbewahren."
   },
   {
     "language_name": "Greek",
@@ -117,7 +127,9 @@
     "Free_Domestic_Shipping_on_75": "Δωρεάν αποστολές εσωτερικού για αγορές άνω των $75",
     "50_Years_of_Trusted_Experience": "50+ Χρόνια Εγγυημένης Εμπειρίας",
     "your_first": "Η ΠΡΩΤΗ ΣΑΣ ΠΑΡΑΓΓΕΛΙΑ*",
-    "promo_code": "ΧΡΗΣΙΜΟΠΟΙΗΣΤΕ ΚΩΔΙΚΑ"
+    "promo_code": "ΧΡΗΣΙΜΟΠΟΙΗΣΤΕ ΚΩΔΙΚΑ",
+    "forgot_something": "Ξεχάσατε κάτι;",
+    "we_saved": "Το αποθηκεύσαμε για εσάς, αλλά μπορούμε να το κρατήσουμε μόνο για περιορισμένο χρονικό διάστημα."
   },
   {
     "language_name": "Finnish",
@@ -137,7 +149,9 @@
     "Free_Domestic_Shipping_on_75": "Ilmainen toimitus kotimaassa alkaen 75 $",
     "50_Years_of_Trusted_Experience": "Yli 50 vuoden luotettava kokemus",
     "your_first": "ENSIMMÄINEN TILAUKSESI*",
-    "promo_code": "KÄYTÄ KOODIA"
+    "promo_code": "KÄYTÄ KOODIA",
+    "forgot_something": "Unohditko jotain?",
+    "we_saved": "Olemme tallentaneet sen sinulle, mutta voimme pitää sen vain rajoitetun ajan."
   },
   {
     "language_name": "French",
@@ -157,7 +171,9 @@
     "Free_Domestic_Shipping_on_75": "Livraison nationale gratuite à partir de 75 $",
     "50_Years_of_Trusted_Experience": "Plus de 50 ans d'expérience et de confiance",
     "your_first": "VOTRE PREMIÈRE COMMANDE*",
-    "promo_code": "UTILISER LE CODE"
+    "promo_code": "UTILISER LE CODE",
+    "forgot_something": "Vous avez oublié quelque chose ?",
+    "we_saved": "Nous l'avons sauvegardé pour vous, mais nous ne pouvons le conserver que pendant une durée limitée."
   },
   {
     "language_name": "Croatian",
@@ -177,7 +193,9 @@
     "Free_Domestic_Shipping_on_75": "Besplatna dostava u tuzemstvu od $75+",
     "50_Years_of_Trusted_Experience": "Više od 50 godina iskustva s povjerenjem",
     "your_first": "VAŠA PRVA NARUDŽBA*",
-    "promo_code": "UPOTRIJEBITE KOD"
+    "promo_code": "UPOTRIJEBITE KOD",
+    "forgot_something": "Jeste li nešto zaboravili?",
+    "we_saved": "Spremili smo to za vas, ali ga možemo zadržati samo ograničeno vrijeme."
   },
   {
     "language_name": "Hungarian",
@@ -197,7 +215,9 @@
     "Free_Domestic_Shipping_on_75": "Ingyenes belföldi szállítás $75+ esetén",
     "50_Years_of_Trusted_Experience": "50+ évnyi megbízható tapasztalat",
     "your_first": "ELSŐ RENDELÉSED*",
-    "promo_code": "HASZNÁLJA A KÓDOT"
+    "promo_code": "HASZNÁLJA A KÓDOT",
+    "forgot_something": "Elfelejtettél valamit?",
+    "we_saved": "Elmentettük neked, de csak korlátozott ideig tudjuk megtartani."
   },
   {
     "language_name": "Indonesian",
@@ -217,7 +237,9 @@
     "Free_Domestic_Shipping_on_75": "Pengiriman Domestik Gratis dengan Belanja di Atas $75",
     "50_Years_of_Trusted_Experience": "Pengalaman Tepercaya Lebih dari 50 Tahun",
     "your_first": "PESANAN PERTAMA ANDA*",
-    "promo_code": "GUNAKAN KODE"
+    "promo_code": "GUNAKAN KODE",
+    "forgot_something": "Lupa sesuatu?",
+    "we_saved": "Kami telah menyimpannya untuk Anda, tetapi kami hanya dapat menahannya untuk waktu terbatas."
   },
   {
     "language_name": "Italian",
@@ -237,7 +259,9 @@
     "Free_Domestic_Shipping_on_75": "Spedizione nazionale gratuita a partire da $75+",
     "50_Years_of_Trusted_Experience": "50+ anni di esperienza e fiducia",
     "your_first": "IL TUO PRIMO ORDINE*",
-    "promo_code": "USA IL CODICE"
+    "promo_code": "USA IL CODICE",
+    "forgot_something": "Hai dimenticato qualcosa?",
+    "we_saved": "L'abbiamo salvato per te, ma possiamo conservarlo solo per un tempo limitato."
   },
   {
     "language_name": "Japanese",
@@ -257,7 +281,9 @@
     "Free_Domestic_Shipping_on_75": "75ドル以上で国内配送料無料",
     "50_Years_of_Trusted_Experience": "50年以上もの信頼できる実績",
     "your_first": "初回のご注文*",
-    "promo_code": "コードを使用"
+    "promo_code": "コードを使用",
+    "forgot_something": "何かお忘れではありませんか？",
+    "we_saved": "お客様のために保存しましたが、一定期間しか保持できません。"
   },
   {
     "language_name": "Korean",
@@ -277,7 +303,9 @@
     "Free_Domestic_Shipping_on_75": "$75 이상 구매시 국내 무료 배송",
     "50_Years_of_Trusted_Experience": "50여 년의 신뢰받은 경험",
     "your_first": "첫 번째 주문*",
-    "promo_code": "코드 사용"
+    "promo_code": "코드 사용",
+    "forgot_something": "무언가 잊으셨나요?",
+    "we_saved": "저희가 보관해 두었지만, 한정된 시간 동안만 유지할 수 있습니다."
   },
   {
     "language_name": "Malay",
@@ -297,7 +325,9 @@
     "Free_Domestic_Shipping_on_75": "Penghantaran Domestik Percuma pada $75+",
     "50_Years_of_Trusted_Experience": "50+ Tahun Pengalaman yang Diyakini",
     "your_first": "PESANAN PERTAMA ANDA*",
-    "promo_code": "GUNAKAN KOD"
+    "promo_code": "GUNAKAN KOD",
+    "forgot_something": "Terlupa sesuatu?",
+    "we_saved": "Kami telah menyimpannya untuk anda, tetapi kami hanya boleh menahannya untuk masa yang terhad."
   },
   {
     "language_name": "Dutch",
@@ -317,7 +347,9 @@
     "Free_Domestic_Shipping_on_75": "Gratis binnenlandse verzending op $75+",
     "50_Years_of_Trusted_Experience": "50+ jaar vertrouwde ervaring",
     "your_first": "JE EERSTE BESTELLING*",
-    "promo_code": "GEBRUIK CODE"
+    "promo_code": "GEBRUIK CODE",
+    "forgot_something": "Iets vergeten?",
+    "we_saved": "We hebben het voor je bewaard, maar we kunnen het maar voor een beperkte tijd vasthouden."
   },
   {
     "language_name": "Norwegian",
@@ -337,7 +369,9 @@
     "Free_Domestic_Shipping_on_75": "Gratis innenlands frakt på $75+",
     "50_Years_of_Trusted_Experience": "50+ års pålitelig erfaring",
     "your_first": "DIN FØRSTE BESTILLING*",
-    "promo_code": "BRUK KODE"
+    "promo_code": "BRUK KODE",
+    "forgot_something": "Glemte du noe?",
+    "we_saved": "Vi har lagret det for deg, men vi kan bare holde det i en begrenset periode."
   },
   {
     "language_name": "Polish",
@@ -357,7 +391,9 @@
     "Free_Domestic_Shipping_on_75": "Bezpłatna wysyłka krajowa od 75$+",
     "50_Years_of_Trusted_Experience": "Ponad 50 lat zaufanego doświadczenia",
     "your_first": "TWOJE PIERWSZE ZAMÓWIENIE*",
-    "promo_code": "UŻYJ KODU"
+    "promo_code": "UŻYJ KODU",
+    "forgot_something": "Zapomniałeś czegoś?",
+    "we_saved": "Zachowaliśmy to dla Ciebie, ale możemy je przechować tylko przez ograniczony czas."
   },
   {
     "language_name": "Portuguese",
@@ -377,7 +413,9 @@
     "Free_Domestic_Shipping_on_75": "Frete doméstico gratuito a partir de $ 75,00",
     "50_Years_of_Trusted_Experience": "Mais de 50 anos de experiência confiável",
     "your_first": "SEU PRIMEIRO PEDIDO*",
-    "promo_code": "USE O CÓDIGO"
+    "promo_code": "USE O CÓDIGO",
+    "forgot_something": "Esqueceu alguma coisa?",
+    "we_saved": "Salvamos para você, mas só podemos manter por um tempo limitado."
   },
   {
     "language_name": "Romanian",
@@ -397,7 +435,9 @@
     "Free_Domestic_Shipping_on_75": "Livrare internă gratuită de la $75+",
     "50_Years_of_Trusted_Experience": "50+ de ani de experienţă de încredere",
     "your_first": "PRIMA TA COMANDĂ*",
-    "promo_code": "UTILIZAȚI CODUL"
+    "promo_code": "UTILIZAȚI CODUL",
+    "forgot_something": "Ai uitat ceva?",
+    "we_saved": "L-am salvat pentru tine, dar îl putem păstra doar pentru o perioadă limitată."
   },
   {
     "language_name": "Russian",
@@ -417,7 +457,9 @@
     "Free_Domestic_Shipping_on_75": "Бесплатная доставка по стране при покупке от $75",
     "50_Years_of_Trusted_Experience": "Более 50 лет опыта и доверия",
     "your_first": "ВАШ ПЕРВЫЙ ЗАКАЗ*",
-    "promo_code": "ИСПОЛЬЗУЙТЕ КОД"
+    "promo_code": "ИСПОЛЬЗУЙТЕ КОД",
+    "forgot_something": "Забыли что-то?",
+    "we_saved": "Мы сохранили это для вас, но можем хранить только ограниченное время."
   },
   {
     "language_name": "Slovak",
@@ -437,7 +479,9 @@
     "Free_Domestic_Shipping_on_75": "Bezplatná vnútroštátna doprava na $75+",
     "50_Years_of_Trusted_Experience": "50+ rokov dôveryhodných skúseností",
     "your_first": "VAŠA PRVÁ OBJEDNÁVKA*",
-    "promo_code": "POUŽITE KÓD"
+    "promo_code": "POUŽITE KÓD",
+    "forgot_something": "Zabudli ste niečo?",
+    "we_saved": "Uložili sme to pre vás, ale môžeme to podržať len na obmedzený čas."
   },
   {
     "language_name": "Slovenian",
@@ -457,7 +501,9 @@
     "Free_Domestic_Shipping_on_75": "Brezplačna dostava na 75+ USD",
     "50_Years_of_Trusted_Experience": "50 let in več zaupanja vrednih izkušenj",
     "your_first": "VAŠE PRVO NAROČILO*",
-    "promo_code": "UPORABITE KODO"
+    "promo_code": "UPORABITE KODO",
+    "forgot_something": "Ste kaj pozabili?",
+    "we_saved": "Shranjeno je za vas, vendar ga lahko zadržimo le za omejen čas."
   },
   {
     "language_name": "Spanish",
@@ -477,7 +523,9 @@
     "Free_Domestic_Shipping_on_75": "Envío nacional gratuito para compras a partir de $75",
     "50_Years_of_Trusted_Experience": "Más de 50 años de experiencia demostrada",
     "your_first": "TU PRIMER PEDIDO*",
-    "promo_code": "USA EL CÓDIGO"
+    "promo_code": "USA EL CÓDIGO",
+    "forgot_something": "¿Olvidaste algo?",
+    "we_saved": "Lo hemos guardado para ti, pero solo podemos mantenerlo por un tiempo limitado."
   },
   {
     "language_name": "Swedish",
@@ -497,7 +545,9 @@
     "Free_Domestic_Shipping_on_75": "Gratis inrikes frakt på $ 75+",
     "50_Years_of_Trusted_Experience": "Mer än 50 års tillförlitlig erfarenhet",
     "your_first": "DIN FÖRSTA BESTÄLLNING*",
-    "promo_code": "ANVÄND KODEN"
+    "promo_code": "ANVÄND KODEN",
+    "forgot_something": "Glömt något?",
+    "we_saved": "Vi har sparat det åt dig, men vi kan bara hålla det under en begränsad tid."
   },
   {
     "language_name": "Thai",
@@ -517,7 +567,9 @@
     "Free_Domestic_Shipping_on_75": "จัดส่งภายในประเทศฟรีเมื่อซื้อมูลค่า $75 ขึ้นไป",
     "50_Years_of_Trusted_Experience": "ประสบการณ์ที่เชื่อถือได้กว่า 50 ปี",
     "your_first": "คำสั่งซื้อแรกของคุณ*",
-    "promo_code": "ใช้รหัส"
+    "promo_code": "ใช้รหัส",
+    "forgot_something": "ลืมอะไรหรือเปล่า?",
+    "we_saved": "เราได้เก็บไว้ให้คุณแล้ว แต่สามารถเก็บไว้ได้ในระยะเวลาจำกัดเท่านั้น"
   },
   {
     "language_name": "Turkish",
@@ -537,7 +589,9 @@
     "Free_Domestic_Shipping_on_75": "75 $ ve üzeri alışverişlerde Ücretsiz Yurtiçi Kargo",
     "50_Years_of_Trusted_Experience": "50 Yıllık Güvenilir Deneyim",
     "your_first": "İLK SİPARİŞİNİZ*",
-    "promo_code": "KODU KULLAN"
+    "promo_code": "KODU KULLAN",
+    "forgot_something": "Bir şey mi unuttun?",
+    "we_saved": "Sizin için sakladık ama sadece sınırlı bir süre tutabiliriz."
   },
   {
     "language_name": "Vietnamese",
@@ -557,7 +611,9 @@
     "Free_Domestic_Shipping_on_75": "Miễn phí vận chuyển trong nước cho các đơn hàng từ 75$ trở lên",
     "50_Years_of_Trusted_Experience": "Hơn 50 năm kinh nghiệm uy tín",
     "your_first": "ĐƠN HÀNG ĐẦU TIÊN CỦA BẠN*",
-    "promo_code": "SỬ DỤNG MÃ"
+    "promo_code": "SỬ DỤNG MÃ",
+    "forgot_something": "Bạn quên gì đó à?",
+    "we_saved": "Chúng tôi đã lưu lại cho bạn, nhưng chỉ có thể giữ trong thời gian ngắn."
   },
   {
     "language_name": "Chinese Simplified",
@@ -577,7 +633,9 @@
     "Free_Domestic_Shipping_on_75": "满 75 美元国内免运费",
     "50_Years_of_Trusted_Experience": "备受信赖 50 余年",
     "your_first": "您的首个订单*",
-    "promo_code": "使用代码"
+    "promo_code": "使用代码",
+    "forgot_something": "忘了什么？",
+    "we_saved": "我们已为您保存，但只能保留有限时间。"
   },
   {
     "language_name": "Chinese Traditional",
@@ -597,6 +655,8 @@
     "Free_Domestic_Shipping_on_75": "滿 75 美元國內免運費",
     "50_Years_of_Trusted_Experience": "備受信賴 50 餘年",
     "your_first": "您的首次訂單*",
-    "promo_code": "使用代碼"
+    "promo_code": "使用代碼",
+    "forgot_something": "忘了什麼？",
+    "we_saved": "我們已為您保存，但只能保留有限時間。"
   }
 ]
