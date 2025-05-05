@@ -19,7 +19,13 @@
     "your_first": "YOUR FIRST ORDER*",
     "promo_code": "USE CODE",
     "forgot_something": "Forgot something?",
-    "we_saved": "We've saved it for you, but we can only hold it for a limited time."
+    "we_saved": "We've saved it for you, but we can only hold it for a limited time.",
+    "cart_subject_1": "Your cart is waiting—checkout before it’s gone!",
+    "cart_subject_2": "We saved your cart for you! Ready to checkout?",
+    "cart_subject_3": "Your Cart Misses You!",
+    "browse_subject_1": "Have your eyes on these?",
+    "browse_subject_2": "Exclusive for you",
+    "browse_subject_3": "Exclusive for you"
   },
   {
     "language_name": "Azerbaijani",
@@ -41,7 +47,13 @@
     "your_first": "İLK SİFARİŞİNİZ*",
     "promo_code": "KODDAN İSTİFADƏ EDİN",
     "forgot_something": "Nəsə yaddan çıxıb?",
-    "we_saved": "Sizin üçün saxlamışıq, amma yalnız məhdud müddətə saxlaya bilərik."
+    "we_saved": "Sizin üçün saxlamışıq, amma yalnız məhdud müddətə saxlaya bilərik.",
+    "cart_subject_1": "Səbətiniz gözləyir — yoxa çıxmazdan əvvəl ödəyin!",
+    "cart_subject_2": "Səbətinizi sizin üçün saxladıq! Ödəniş etməyə hazırsınız?",
+    "cart_subject_3": "Səbətiniz sizi darıxır!",
+    "browse_subject_1": "Bunlara gözünüz düşüb?",
+    "browse_subject_2": "Sizə özəl",
+    "browse_subject_3": "Sizə özəl"
   },
   {
     "language_name": "Bulgarian",
@@ -63,7 +75,13 @@
     "your_first": "ВАША ПЪРВА ПОРЪЧКА*",
     "promo_code": "ИЗПОЛЗВАЙТЕ КОД",
     "forgot_something": "Забравихте нещо?",
-    "we_saved": "Запазихме го за вас, но можем да го задържим само за ограничено време."
+    "we_saved": "Запазихме го за вас, но можем да го задържим само за ограничено време.",
+    "cart_subject_1": "Количката ви чака — поръчайте, преди да изчезне!",
+    "cart_subject_2": "Запазихме вашата количка! Готови ли сте да завършите поръчката?",
+    "cart_subject_3": "Количката ви липсва!",
+    "browse_subject_1": "Имате ли поглед върху тези?",
+    "browse_subject_2": "Изключително за вас",
+    "browse_subject_3": "Изключително за вас"
   },
   {
     "language_name": "Danish",
@@ -85,7 +103,13 @@
     "your_first": "DIN FØRSTE ORDRE*",
     "promo_code": "BRUG KODE",
     "forgot_something": "Glemte du noget?",
-    "we_saved": "Vi har gemt det til dig, men vi kan kun holde det i en begrænset periode."
+    "we_saved": "Vi har gemt det til dig, men vi kan kun holde det i en begrænset periode.",
+    "cart_subject_1": "Din kurv venter – gennemfør købet, før det er for sent!",
+    "cart_subject_2": "Vi har gemt din kurv til dig! Klar til at gennemføre købet?",
+    "cart_subject_3": "Din kurv savner dig!",
+    "browse_subject_1": "Har du øje på disse?",
+    "browse_subject_2": "Eksklusivt for dig",
+    "browse_subject_3": "Eksklusivt for dig"
   },
   {
     "language_name": "German",
@@ -107,7 +131,13 @@
     "your_first": "IHRE ERSTE BESTELLUNG*",
     "promo_code": "CODE VERWENDEN",
     "forgot_something": "Etwas vergessen?",
-    "we_saved": "Wir haben es für Sie gespeichert, aber wir können es nur für begrenzte Zeit aufbewahren."
+    "we_saved": "Wir haben es für Sie gespeichert, aber wir können es nur für begrenzte Zeit aufbewahren.",
+    "cart_subject_1": "Dein Warenkorb wartet – jetzt bestellen, bevor er weg ist!",
+    "cart_subject_2": "Wir haben deinen Warenkorb für dich gespeichert! Bereit zur Kasse?",
+    "cart_subject_3": "Dein Warenkorb vermisst dich!",
+    "browse_subject_1": "Hast du ein Auge auf diese geworfen?",
+    "browse_subject_2": "Exklusiv für Sie",
+    "browse_subject_3": "Exklusiv für Sie"
   },
   {
     "language_name": "Greek",
@@ -129,7 +159,13 @@
     "your_first": "Η ΠΡΩΤΗ ΣΑΣ ΠΑΡΑΓΓΕΛΙΑ*",
     "promo_code": "ΧΡΗΣΙΜΟΠΟΙΗΣΤΕ ΚΩΔΙΚΑ",
     "forgot_something": "Ξεχάσατε κάτι;",
-    "we_saved": "Το αποθηκεύσαμε για εσάς, αλλά μπορούμε να το κρατήσουμε μόνο για περιορισμένο χρονικό διάστημα."
+    "we_saved": "Το αποθηκεύσαμε για εσάς, αλλά μπορούμε να το κρατήσουμε μόνο για περιορισμένο χρονικό διάστημα.",
+    "cart_subject_1": "Το καλάθι σας περιμένει – προχωρήστε στην αγορά πριν χαθεί!",
+    "cart_subject_2": "Αποθηκεύσαμε το καλάθι σας! Είστε έτοιμοι για πληρωμή;",
+    "cart_subject_3": "Το καλάθι σας σας έχει λείψει!",
+    "browse_subject_1": "Έχετε βάλει το μάτι σε αυτά;",
+    "browse_subject_2": "Αποκλειστικά για εσάς",
+    "browse_subject_3": "Αποκλειστικά για εσάς"
   },
   {
     "language_name": "Finnish",
@@ -151,7 +187,13 @@
     "your_first": "ENSIMMÄINEN TILAUKSESI*",
     "promo_code": "KÄYTÄ KOODIA",
     "forgot_something": "Unohditko jotain?",
-    "we_saved": "Olemme tallentaneet sen sinulle, mutta voimme pitää sen vain rajoitetun ajan."
+    "we_saved": "Olemme tallentaneet sen sinulle, mutta voimme pitää sen vain rajoitetun ajan.",
+    "cart_subject_1": "Ostoskorisi odottaa – tee tilaus ennen kuin se katoaa!",
+    "cart_subject_2": "Tallensimme ostoskorisi! Oletko valmis maksamaan?",
+    "cart_subject_3": "Ostoskorisi kaipaa sinua!",
+    "browse_subject_1": "Oletko katsellut näitä?",
+    "browse_subject_2": "Vain sinulle",
+    "browse_subject_3": "Vain sinulle"
   },
   {
     "language_name": "French",
@@ -173,7 +215,13 @@
     "your_first": "VOTRE PREMIÈRE COMMANDE*",
     "promo_code": "UTILISER LE CODE",
     "forgot_something": "Vous avez oublié quelque chose ?",
-    "we_saved": "Nous l'avons sauvegardé pour vous, mais nous ne pouvons le conserver que pendant une durée limitée."
+    "we_saved": "Nous l'avons sauvegardé pour vous, mais nous ne pouvons le conserver que pendant une durée limitée.",
+    "cart_subject_1": "Votre panier vous attend – validez votre commande avant qu’il ne soit trop tard !",
+    "cart_subject_2": "Nous avons sauvegardé votre panier ! Prêt à finaliser votre commande ?",
+    "cart_subject_3": "Votre panier vous manque !",
+    "browse_subject_1": "Vous avez repéré ceux-ci ?",
+    "browse_subject_2": "Exclusivement pour vous",
+    "browse_subject_3": "Exclusivement pour vous"
   },
   {
     "language_name": "Croatian",
@@ -195,7 +243,13 @@
     "your_first": "VAŠA PRVA NARUDŽBA*",
     "promo_code": "UPOTRIJEBITE KOD",
     "forgot_something": "Jeste li nešto zaboravili?",
-    "we_saved": "Spremili smo to za vas, ali ga možemo zadržati samo ograničeno vrijeme."
+    "we_saved": "Spremili smo to za vas, ali ga možemo zadržati samo ograničeno vrijeme.",
+    "cart_subject_1": "Vaša košarica vas čeka – dovršite kupnju prije nego nestane!",
+    "cart_subject_2": "Spremili smo vašu košaricu! Spremni za plaćanje?",
+    "cart_subject_3": "Vaša košarica vas propušta!",
+    "browse_subject_1": "Imate li oko na ovome?",
+    "browse_subject_2": "Isključivo za vas",
+    "browse_subject_3": "Isključivo za vas"
   },
   {
     "language_name": "Hungarian",
@@ -217,7 +271,13 @@
     "your_first": "ELSŐ RENDELÉSED*",
     "promo_code": "HASZNÁLJA A KÓDOT",
     "forgot_something": "Elfelejtettél valamit?",
-    "we_saved": "Elmentettük neked, de csak korlátozott ideig tudjuk megtartani."
+    "we_saved": "Elmentettük neked, de csak korlátozott ideig tudjuk megtartani.",
+    "cart_subject_1": "A kosarad vár – rendeld meg, mielőtt eltűnik!",
+    "cart_subject_2": "Elmentettük a kosaradat! Készen állsz a fizetésre?",
+    "cart_subject_3": "A kosarad hiányol téged!",
+    "browse_subject_1": "Szemed rajta van ezeken?",
+    "browse_subject_2": "Kizárólag neked",
+    "browse_subject_3": "Kizárólag neked"
   },
   {
     "language_name": "Indonesian",
@@ -239,7 +299,13 @@
     "your_first": "PESANAN PERTAMA ANDA*",
     "promo_code": "GUNAKAN KODE",
     "forgot_something": "Lupa sesuatu?",
-    "we_saved": "Kami telah menyimpannya untuk Anda, tetapi kami hanya dapat menahannya untuk waktu terbatas."
+    "we_saved": "Kami telah menyimpannya untuk Anda, tetapi kami hanya dapat menahannya untuk waktu terbatas.",
+    "cart_subject_1": "Keranjang Anda menunggu—selesaikan pembelian sebelum kehabisan!",
+    "cart_subject_2": "Kami menyimpan keranjang Anda! Siap untuk checkout?",
+    "cart_subject_3": "Keranjang Anda merindukan Anda!",
+    "browse_subject_1": "Apakah Anda tertarik dengan ini?",
+    "browse_subject_2": "Khusus untuk Anda",
+    "browse_subject_3": "Khusus untuk Anda"
   },
   {
     "language_name": "Italian",
@@ -261,7 +327,13 @@
     "your_first": "IL TUO PRIMO ORDINE*",
     "promo_code": "USA IL CODICE",
     "forgot_something": "Hai dimenticato qualcosa?",
-    "we_saved": "L'abbiamo salvato per te, ma possiamo conservarlo solo per un tempo limitato."
+    "we_saved": "L'abbiamo salvato per te, ma possiamo conservarlo solo per un tempo limitato.",
+    "cart_subject_1": "Il tuo carrello ti aspetta – completa l’ordine prima che sparisca!",
+    "cart_subject_2": "Abbiamo salvato il tuo carrello! Pronto per completare l’acquisto?",
+    "cart_subject_3": "Il tuo carrello sente la tua mancanza!",
+    "browse_subject_1": "Hai messo gli occhi su questi?",
+    "browse_subject_2": "Esclusivo per te",
+    "browse_subject_3": "Esclusivo per te"
   },
   {
     "language_name": "Japanese",
@@ -283,7 +355,13 @@
     "your_first": "初回のご注文*",
     "promo_code": "コードを使用",
     "forgot_something": "何かお忘れではありませんか？",
-    "we_saved": "お客様のために保存しましたが、一定期間しか保持できません。"
+    "we_saved": "お客様のために保存しましたが、一定期間しか保持できません。",
+    "cart_subject_1": "カートが待っています—なくなる前にチェックアウトしましょう！",
+    "cart_subject_2": "カートを保存しました！購入の準備はできていますか？",
+    "cart_subject_3": "あなたのカートがあなたを恋しがっています！",
+    "browse_subject_1": "これに目を付けましたか？",
+    "browse_subject_2": "あなただけの限定",
+    "browse_subject_3": "あなただけの限定"
   },
   {
     "language_name": "Korean",
@@ -305,7 +383,13 @@
     "your_first": "첫 번째 주문*",
     "promo_code": "코드 사용",
     "forgot_something": "무언가 잊으셨나요?",
-    "we_saved": "저희가 보관해 두었지만, 한정된 시간 동안만 유지할 수 있습니다."
+    "we_saved": "저희가 보관해 두었지만, 한정된 시간 동안만 유지할 수 있습니다.",
+    "cart_subject_1": "장바구니가 기다리고 있어요 – 사라지기 전에 결제하세요!",
+    "cart_subject_2": "장바구니를 저장해뒀어요! 결제할 준비 되셨나요?",
+    "cart_subject_3": "장바구니가 당신을 그리워하고 있어요!",
+    "browse_subject_1": "이것들에 관심 있으신가요?",
+    "browse_subject_2": "당신만을 위한 특별한 혜택",
+    "browse_subject_3": "당신만을 위한 특별한 혜택"
   },
   {
     "language_name": "Malay",
@@ -327,7 +411,13 @@
     "your_first": "PESANAN PERTAMA ANDA*",
     "promo_code": "GUNAKAN KOD",
     "forgot_something": "Terlupa sesuatu?",
-    "we_saved": "Kami telah menyimpannya untuk anda, tetapi kami hanya boleh menahannya untuk masa yang terhad."
+    "we_saved": "Kami telah menyimpannya untuk anda, tetapi kami hanya boleh menahannya untuk masa yang terhad.",
+    "cart_subject_1": "Troli anda sedang menunggu—selesaikan pembelian sebelum kehabisan!",
+    "cart_subject_2": "Kami simpan troli anda! Sedia untuk pembayaran?",
+    "cart_subject_3": "Troli anda merindui anda!",
+    "browse_subject_1": "Adakah anda berminat dengan ini?",
+    "browse_subject_2": "Eksklusif untuk anda",
+    "browse_subject_3": "Eksklusif untuk anda"
   },
   {
     "language_name": "Dutch",
@@ -349,7 +439,13 @@
     "your_first": "JE EERSTE BESTELLING*",
     "promo_code": "GEBRUIK CODE",
     "forgot_something": "Iets vergeten?",
-    "we_saved": "We hebben het voor je bewaard, maar we kunnen het maar voor een beperkte tijd vasthouden."
+    "we_saved": "We hebben het voor je bewaard, maar we kunnen het maar voor een beperkte tijd vasthouden.",
+    "cart_subject_1": "Je winkelwagen wacht op je – reken af voordat het te laat is!",
+    "cart_subject_2": "We hebben je winkelwagen opgeslagen! Klaar om af te rekenen?",
+    "cart_subject_3": "Je winkelwagen mist je!",
+    "browse_subject_1": "Heb je je oog laten vallen op deze?",
+    "browse_subject_2": "Exclusief voor jou",
+    "browse_subject_3": "Exclusief voor jou"
   },
   {
     "language_name": "Norwegian",
@@ -371,7 +467,13 @@
     "your_first": "DIN FØRSTE BESTILLING*",
     "promo_code": "BRUK KODE",
     "forgot_something": "Glemte du noe?",
-    "we_saved": "Vi har lagret det for deg, men vi kan bare holde det i en begrenset periode."
+    "we_saved": "Vi har lagret det for deg, men vi kan bare holde det i en begrenset periode.",
+    "cart_subject_1": "Handlekurven din venter – gjennomfør kjøpet før det er for sent!",
+    "cart_subject_2": "Vi har lagret handlekurven din! Klar for utsjekk?",
+    "cart_subject_3": "Handlekurven din savner deg!",
+    "browse_subject_1": "Har du sett på disse?",
+    "browse_subject_2": "Eksklusivt for deg",
+    "browse_subject_3": "Eksklusivt for deg"
   },
   {
     "language_name": "Polish",
@@ -393,7 +495,13 @@
     "your_first": "TWOJE PIERWSZE ZAMÓWIENIE*",
     "promo_code": "UŻYJ KODU",
     "forgot_something": "Zapomniałeś czegoś?",
-    "we_saved": "Zachowaliśmy to dla Ciebie, ale możemy je przechować tylko przez ograniczony czas."
+    "we_saved": "Zachowaliśmy to dla Ciebie, ale możemy je przechować tylko przez ograniczony czas.",
+    "cart_subject_1": "Twój koszyk czeka — zamów zanim zniknie!",
+    "cart_subject_2": "Zapisaliśmy Twój koszyk! Gotowy do finalizacji zamówienia?",
+    "cart_subject_3": "Twój koszyk za tobą tęskni!",
+    "browse_subject_1": "Masz oko na to?",
+    "browse_subject_2": "Tylko dla Ciebie",
+    "browse_subject_3": "Tylko dla Ciebie"
   },
   {
     "language_name": "Portuguese",
@@ -415,7 +523,13 @@
     "your_first": "SEU PRIMEIRO PEDIDO*",
     "promo_code": "USE O CÓDIGO",
     "forgot_something": "Esqueceu alguma coisa?",
-    "we_saved": "Salvamos para você, mas só podemos manter por um tempo limitado."
+    "we_saved": "Salvamos para você, mas só podemos manter por um tempo limitado.",
+    "cart_subject_1": "Seu carrinho está esperando – finalize a compra antes que acabe!",
+    "cart_subject_2": "Salvamos seu carrinho! Pronto para finalizar a compra?",
+    "cart_subject_3": "Seu carrinho sente sua falta!",
+    "browse_subject_1": "Você está de olho nesses?",
+    "browse_subject_2": "Exclusivo para você",
+    "browse_subject_3": "Exclusivo para você"
   },
   {
     "language_name": "Romanian",
@@ -437,7 +551,13 @@
     "your_first": "PRIMA TA COMANDĂ*",
     "promo_code": "UTILIZAȚI CODUL",
     "forgot_something": "Ai uitat ceva?",
-    "we_saved": "L-am salvat pentru tine, dar îl putem păstra doar pentru o perioadă limitată."
+    "we_saved": "L-am salvat pentru tine, dar îl putem păstra doar pentru o perioadă limitată.",
+    "cart_subject_1": "Coșul tău te așteaptă – finalizează comanda înainte să dispară!",
+    "cart_subject_2": "Ți-am salvat coșul! Ești gata să finalizezi comanda?",
+    "cart_subject_3": "Coșul tău simte lipsa ta!",
+    "browse_subject_1": "Ți-au atras atenția acestea?",
+    "browse_subject_2": "Exclusiv pentru tine",
+    "browse_subject_3": "Exclusiv pentru tine"
   },
   {
     "language_name": "Russian",
@@ -459,7 +579,13 @@
     "your_first": "ВАШ ПЕРВЫЙ ЗАКАЗ*",
     "promo_code": "ИСПОЛЬЗУЙТЕ КОД",
     "forgot_something": "Забыли что-то?",
-    "we_saved": "Мы сохранили это для вас, но можем хранить только ограниченное время."
+    "we_saved": "Мы сохранили это для вас, но можем хранить только ограниченное время.",
+    "cart_subject_1": "Ваша корзина ждет — оформите заказ, пока товар не исчез!",
+    "cart_subject_2": "Мы сохранили вашу корзину! Готовы оформить заказ?",
+    "cart_subject_3": "Ваша корзина скучает по вам!",
+    "browse_subject_1": "Присмотрели это?",
+    "browse_subject_2": "Исключительно для вас",
+    "browse_subject_3": "Исключительно для вас"
   },
   {
     "language_name": "Slovak",
@@ -481,7 +607,13 @@
     "your_first": "VAŠA PRVÁ OBJEDNÁVKA*",
     "promo_code": "POUŽITE KÓD",
     "forgot_something": "Zabudli ste niečo?",
-    "we_saved": "Uložili sme to pre vás, ale môžeme to podržať len na obmedzený čas."
+    "we_saved": "Uložili sme to pre vás, ale môžeme to podržať len na obmedzený čas.",
+    "cart_subject_1": "Váš košík čaká – dokončite objednávku skôr, než sa vyparí!",
+    "cart_subject_2": "Uložili sme váš košík! Ste pripravení dokončiť nákup?",
+    "cart_subject_3": "Váš košík vás postráda!",
+    "browse_subject_1": "Zaujali vás tieto veci?",
+    "browse_subject_2": "Exkluzívne pre vás",
+    "browse_subject_3": "Exkluzívne pre vás"
   },
   {
     "language_name": "Slovenian",
@@ -503,7 +635,13 @@
     "your_first": "VAŠE PRVO NAROČILO*",
     "promo_code": "UPORABITE KODO",
     "forgot_something": "Ste kaj pozabili?",
-    "we_saved": "Shranjeno je za vas, vendar ga lahko zadržimo le za omejen čas."
+    "we_saved": "Shranjeno je za vas, vendar ga lahko zadržimo le za omejen čas.",
+    "cart_subject_1": "Vaša košarica čaka – zaključite nakup, preden izgine!",
+    "cart_subject_2": "Shranjeni ste košarico! Ste pripravljeni na nakup?",
+    "cart_subject_3": "Vaša košarica pogreša vas!",
+    "browse_subject_1": "Ste imeli oko na teh?",
+    "browse_subject_2": "Izključno za vas",
+    "browse_subject_3": "Izključno za vas"
   },
   {
     "language_name": "Spanish",
@@ -525,7 +663,13 @@
     "your_first": "TU PRIMER PEDIDO*",
     "promo_code": "USA EL CÓDIGO",
     "forgot_something": "¿Olvidaste algo?",
-    "we_saved": "Lo hemos guardado para ti, pero solo podemos mantenerlo por un tiempo limitado."
+    "we_saved": "Lo hemos guardado para ti, pero solo podemos mantenerlo por un tiempo limitado.",
+    "cart_subject_1": "Tu carrito está esperando—¡completa tu compra antes de que desaparezca!",
+    "cart_subject_2": "¡Guardamos tu carrito para ti! ¿Listo para finalizar tu compra?",
+    "cart_subject_3": "¡Tu carrito te extraña!",
+    "browse_subject_1": "¿Le echaste el ojo a estos?",
+    "browse_subject_2": "Exclusivo para ti",
+    "browse_subject_3": "Exclusivo para ti"
   },
   {
     "language_name": "Swedish",
@@ -547,7 +691,13 @@
     "your_first": "DIN FÖRSTA BESTÄLLNING*",
     "promo_code": "ANVÄND KODEN",
     "forgot_something": "Glömt något?",
-    "we_saved": "Vi har sparat det åt dig, men vi kan bara hålla det under en begränsad tid."
+    "we_saved": "Vi har sparat det åt dig, men vi kan bara hålla det under en begränsad tid.",
+    "cart_subject_1": "Din varukorg väntar – slutför köpet innan det är för sent!",
+    "cart_subject_2": "Vi har sparat din varukorg! Redo att slutföra köpet?",
+    "cart_subject_3": "Din varukorg saknar dig!",
+    "browse_subject_1": "Har du spanat in de här?",
+    "browse_subject_2": "Exklusivt för dig",
+    "browse_subject_3": "Exklusivt för dig"
   },
   {
     "language_name": "Thai",
@@ -569,7 +719,13 @@
     "your_first": "คำสั่งซื้อแรกของคุณ*",
     "promo_code": "ใช้รหัส",
     "forgot_something": "ลืมอะไรหรือเปล่า?",
-    "we_saved": "เราได้เก็บไว้ให้คุณแล้ว แต่สามารถเก็บไว้ได้ในระยะเวลาจำกัดเท่านั้น"
+    "we_saved": "เราได้เก็บไว้ให้คุณแล้ว แต่สามารถเก็บไว้ได้ในระยะเวลาจำกัดเท่านั้น",
+    "cart_subject_1": "รถเข็นของคุณกำลังรออยู่—ชำระเงินก่อนที่จะหายไป!",
+    "cart_subject_2": "เราบันทึกรถเข็นของคุณไว้แล้ว! พร้อมชำระเงินหรือยัง?",
+    "cart_subject_3": "รถเข็นของคุณคิดถึงคุณ!",
+    "browse_subject_1": "คุณกำลังเล็งสิ่งเหล่านี้อยู่หรือเปล่า?",
+    "browse_subject_2": "สิทธิพิเศษเฉพาะคุณ",
+    "browse_subject_3": "สิทธิพิเศษเฉพาะคุณ"
   },
   {
     "language_name": "Turkish",
@@ -591,7 +747,13 @@
     "your_first": "İLK SİPARİŞİNİZ*",
     "promo_code": "KODU KULLAN",
     "forgot_something": "Bir şey mi unuttun?",
-    "we_saved": "Sizin için sakladık ama sadece sınırlı bir süre tutabiliriz."
+    "we_saved": "Sizin için sakladık ama sadece sınırlı bir süre tutabiliriz.",
+    "cart_subject_1": "Sepetiniz bekliyor – kaybolmadan önce ödeme yapın!",
+    "cart_subject_2": "Sepetinizi sizin için sakladık! Ödeme yapmaya hazır mısınız?",
+    "cart_subject_3": "Sepetiniz sizi özledi!",
+    "browse_subject_1": "Bunlara göz diktiniz mi?",
+    "browse_subject_2": "Sadece size özel",
+    "browse_subject_3": "Sadece size özel"
   },
   {
     "language_name": "Vietnamese",
@@ -613,7 +775,13 @@
     "your_first": "ĐƠN HÀNG ĐẦU TIÊN CỦA BẠN*",
     "promo_code": "SỬ DỤNG MÃ",
     "forgot_something": "Bạn quên gì đó à?",
-    "we_saved": "Chúng tôi đã lưu lại cho bạn, nhưng chỉ có thể giữ trong thời gian ngắn."
+    "we_saved": "Chúng tôi đã lưu lại cho bạn, nhưng chỉ có thể giữ trong thời gian ngắn.",
+    "cart_subject_1": "Giỏ hàng của bạn đang chờ—thanh toán trước khi hết hàng!",
+    "cart_subject_2": "Chúng tôi đã lưu giỏ hàng cho bạn! Sẵn sàng thanh toán chưa?",
+    "cart_subject_3": "Giỏ hàng của bạn nhớ bạn đấy!",
+    "browse_subject_1": "Bạn đang để mắt đến những thứ này?",
+    "browse_subject_2": "Dành riêng cho bạn",
+    "browse_subject_3": "Dành riêng cho bạn"
   },
   {
     "language_name": "Chinese Simplified",
@@ -635,7 +803,13 @@
     "your_first": "您的首个订单*",
     "promo_code": "使用代码",
     "forgot_something": "忘了什么？",
-    "we_saved": "我们已为您保存，但只能保留有限时间。"
+    "we_saved": "我们已为您保存，但只能保留有限时间。",
+    "cart_subject_1": "您的购物车正在等待——请尽快结账！",
+    "cart_subject_2": "我们已为您保存了购物车！准备结账了吗？",
+    "cart_subject_3": "您的购物车想您了！",
+    "browse_subject_1": "你盯上这些了吗？",
+    "browse_subject_2": "专属为您",
+    "browse_subject_3": "专属为您"
   },
   {
     "language_name": "Chinese Traditional",
@@ -657,6 +831,12 @@
     "your_first": "您的首次訂單*",
     "promo_code": "使用代碼",
     "forgot_something": "忘了什麼？",
-    "we_saved": "我們已為您保存，但只能保留有限時間。"
+    "we_saved": "我們已為您保存，但只能保留有限時間。",
+    "cart_subject_1": "您的購物車正在等待——請盡快結帳！",
+    "cart_subject_2": "我們已為您保存了購物車！準備結帳了嗎？",
+    "cart_subject_3": "您的購物車想您了！",
+    "browse_subject_1": "你盯上這些了嗎？",
+    "browse_subject_2": "專屬為您",
+    "browse_subject_3": "專屬為您"
   }
 ]
