@@ -12,7 +12,9 @@
     "wellness_points": "Wellness Points!",
     "subject_tier_status": "Your Rewards Status Update is Here!",
     "preheader_tier_status": "See Your Tier Level + Points Balance Inside.",
-    "rivo_points": "Rivo Points Balance"
+    "rivo_points": "Rivo Points Balance",
+    "view_perks": "VIEW PERKS",
+    "start_spending":"START SPENDING"
   },
   {
     "language_name": "Azerbaijani",
@@ -27,7 +29,9 @@
     "wellness_points": "Sağlamlıq Xalları!",
     "subject_tier_status": "Mükafat Status Yenilənməsi Buradır!",
     "preheader_tier_status": "Səviyyənizi + Xal Balansınızı İçəridə Görün.",
-    "rivo_points": "Rivo Xal Balansı"
+    "rivo_points": "Rivo Xal Balansı",
+    "view_perks": "ÜSTÜNLÜKLƏRI GÖRÜN",
+    "start_spending": "XƏRCLƏMƏYƏ BAŞLAYIN"
   },
   {
     "language_name": "Bulgarian",
@@ -42,7 +46,9 @@
     "wellness_points": "Точки за Здраве!",
     "subject_tier_status": "Актуализацията на Статуса Ви за Награди е Тук!",
     "preheader_tier_status": "Вижте Нивото Си + Баланса от Точки Вътре.",
-    "rivo_points": "Rivo Баланс от Точки"
+    "rivo_points": "Rivo Баланс от Точки",
+    "view_perks": "ПРЕГЛЕД НА ПРИВИЛЕГИИТЕ",
+    "start_spending": "ЗАПОЧНЕТЕ ДА ХАРЧИТЕ"
   },
   {
     "language_name": "Danish",
@@ -57,7 +63,9 @@
     "wellness_points": "Wellness Points!",
     "subject_tier_status": "Din Belønningsstatus Opdatering Er Her!",
     "preheader_tier_status": "Se Dit Niveau + Points Balance Indeni.",
-    "rivo_points": "Rivo Points Balance"
+    "rivo_points": "Rivo Points Balance",
+    "view_perks": "SE FORDELE",
+    "start_spending": "BEGYND AT BRUGE"
   },
   {
     "language_name": "German",
@@ -72,7 +80,9 @@
     "wellness_points": "Wellness-Punkte!",
     "subject_tier_status": "Ihr Belohnungsstatus-Update Ist Da!",
     "preheader_tier_status": "Sehen Sie Ihr Level + Punktestand Drinnen.",
-    "rivo_points": "Rivo Punktestand"
+    "rivo_points": "Rivo Punktestand",
+    "view_perks": "VORTEILE ANZEIGEN",
+    "start_spending": "AUSGEBEN BEGINNEN"
   },
   {
     "language_name": "Greek",
@@ -87,7 +97,9 @@
     "wellness_points": "Πόντους Ευεξίας!",
     "subject_tier_status": "Η Ενημέρωση Κατάστασης Ανταμοιβών Σας Είναι Εδώ!",
     "preheader_tier_status": "Δείτε το Επίπεδό Σας + Υπόλοιπο Πόντων Μέσα.",
-    "rivo_points": "Rivo Υπόλοιπο Πόντων"
+    "rivo_points": "Rivo Υπόλοιπο Πόντων",
+    "view_perks": "ΠΡΟΒΟΛΉ ΠΡΟΝΟΜΊΩΝ",
+    "start_spending": "ΞΕΚΙΝΉΣΤΕ ΤΗ ΔΑΠΆΝΗ"
   },
   {
     "language_name": "Finnish",
@@ -102,7 +114,9 @@
     "wellness_points": "Hyvinvointipisteitä!",
     "subject_tier_status": "Palkinto-statuksesi Päivitys On Täällä!",
     "preheader_tier_status": "Katso Tasosi + Pistesaldo Sisältä.",
-    "rivo_points": "Rivo Pistesaldo"
+    "rivo_points": "Rivo Pistesaldo",
+    "view_perks": "NÄYTÄ EDUT",
+    "start_spending": "ALOITA KULUTTAMINEN"
   },
   {
     "language_name": "French",
@@ -117,7 +131,9 @@
     "wellness_points": "Points Bien-être !",
     "subject_tier_status": "Votre Mise à Jour du Statut de Récompenses Est Là !",
     "preheader_tier_status": "Voir Votre Niveau + Solde de Points à l'Intérieur.",
-    "rivo_points": "Solde de Points Rivo"
+    "rivo_points": "Solde de Points Rivo",
+    "view_perks": "VOIR LES AVANTAGES",
+    "start_spending": "COMMENCER À DÉPENSER"
   },
   {
     "language_name": "Croatian",
@@ -132,7 +148,9 @@
     "wellness_points": "Bodovi za Zdravlje!",
     "subject_tier_status": "Vaša Ažurirana Nagradna Razina Je Ovdje!",
     "preheader_tier_status": "Pogledajte Svoju Razinu + Stanje Bodova Unutra.",
-    "rivo_points": "Rivo Stanje Bodova"
+    "rivo_points": "Rivo Stanje Bodova",
+    "view_perks": "PRIKAŽI POGODNOSTI",
+    "start_spending": "POČNI TROŠITI"
   },
   {
     "language_name": "Hungarian",
@@ -147,7 +165,9 @@
     "wellness_points": "Wellness Pontjai!",
     "subject_tier_status": "A Jutalom Státusz Frissítése Itt Van!",
     "preheader_tier_status": "Nézze Meg a Szintjét + Pontegyenlegét Belül.",
-    "rivo_points": "Rivo Pontegyenleg"
+    "rivo_points": "Rivo Pontegyenleg",
+    "view_perks": "ELŐNYÖK MEGTEKINTÉSE",
+    "start_spending": "KEZDJEN EL KÖLTENI"
   },
   {
     "language_name": "Indonesian",
@@ -162,7 +182,9 @@
     "wellness_points": "Poin Kesehatan!",
     "subject_tier_status": "Pembaruan Status Hadiah Anda Ada Di Sini!",
     "preheader_tier_status": "Lihat Level Anda + Saldo Poin Di Dalam.",
-    "rivo_points": "Saldo Poin Rivo"
+    "rivo_points": "Saldo Poin Rivo",
+    "view_perks": "LIHAT KEUNTUNGAN",
+    "start_spending": "MULAI BERBELANJA"
   },
   {
     "language_name": "Italian",
@@ -177,7 +199,9 @@
     "wellness_points": "Punti Benessere!",
     "subject_tier_status": "Il Tuo Aggiornamento Stato Premi È Qui!",
     "preheader_tier_status": "Vedi il Tuo Livello + Saldo Punti All'Interno.",
-    "rivo_points": "Saldo Punti Rivo"
+    "rivo_points": "Saldo Punti Rivo",
+    "view_perks": "VISUALIZZA VANTAGGI",
+    "start_spending": "INIZIA A SPENDERE"
   },
   {
     "language_name": "Japanese",
@@ -192,7 +216,9 @@
     "wellness_points": "ウェルネスポイント！",
     "subject_tier_status": "報酬ステータスの更新はこちらです！",
     "preheader_tier_status": "レベル＋ポイント残高を内部でご確認ください。",
-    "rivo_points": "Rivoポイント残高"
+    "rivo_points": "Rivoポイント残高",
+    "view_perks": "特典を見る",
+    "start_spending": "使い始める"
   },
   {
     "language_name": "Korean",
@@ -207,7 +233,9 @@
     "wellness_points": "웰니스 포인트!",
     "subject_tier_status": "보상 상태 업데이트가 여기에 있습니다!",
     "preheader_tier_status": "내부에서 레벨 + 포인트 잔액을 확인하세요.",
-    "rivo_points": "Rivo 포인트 잔액"
+    "rivo_points": "Rivo 포인트 잔액",
+    "view_perks": "혜택 보기",
+    "start_spending": "사용 시작"
   },
   {
     "language_name": "Malay",
@@ -222,7 +250,9 @@
     "wellness_points": "Mata Kesihatan!",
     "subject_tier_status": "Kemaskini Status Ganjaran Anda Ada Di Sini!",
     "preheader_tier_status": "Lihat Tahap Anda + Baki Mata Di Dalam.",
-    "rivo_points": "Baki Mata Rivo"
+    "rivo_points": "Baki Mata Rivo",
+    "view_perks": "LIHAT FAEDAH",
+    "start_spending": "MULA BERBELANJA"
   },
   {
     "language_name": "Dutch",
@@ -237,7 +267,9 @@
     "wellness_points": "Wellness Punten!",
     "subject_tier_status": "Je Beloningsstatus Update Is Hier!",
     "preheader_tier_status": "Bekijk Je Niveau + Puntensaldo Binnen.",
-    "rivo_points": "Rivo Puntensaldo"
+    "rivo_points": "Rivo Puntensaldo",
+    "view_perks": "BEKIJK VOORDELEN",
+    "start_spending": "BEGIN MET UITGEVEN"
   },
   {
     "language_name": "Norwegian",
@@ -252,7 +284,9 @@
     "wellness_points": "Wellness Poeng!",
     "subject_tier_status": "Din Belønningsstatus Oppdatering Er Her!",
     "preheader_tier_status": "Se Ditt Nivå + Poengsaldo Innvendig.",
-    "rivo_points": "Rivo Poengsaldo"
+    "rivo_points": "Rivo Poengsaldo",
+    "view_perks": "SE FORDELER",
+    "start_spending": "BEGYNN Å BRUKE"
   },
   {
     "language_name": "Polish",
@@ -267,7 +301,9 @@
     "wellness_points": "Punkty Wellness!",
     "subject_tier_status": "Aktualizacja Statusu Nagród Jest Tutaj!",
     "preheader_tier_status": "Zobacz Swój Poziom + Saldo Punktów Wewnątrz.",
-    "rivo_points": "Rivo Saldo Punktów"
+    "rivo_points": "Rivo Saldo Punktów",
+    "view_perks": "ZOBACZ KORZYŚCI",
+    "start_spending": "ZACZNIJ WYDAWAĆ"
   },
   {
     "language_name": "Portuguese",
@@ -282,7 +318,9 @@
     "wellness_points": "Pontos de Bem-estar!",
     "subject_tier_status": "Sua Atualização de Status de Recompensas Está Aqui!",
     "preheader_tier_status": "Veja Seu Nível + Saldo de Pontos Dentro.",
-    "rivo_points": "Saldo de Pontos Rivo"
+    "rivo_points": "Saldo de Pontos Rivo",
+    "view_perks": "VER BENEFÍCIOS",
+    "start_spending": "COMEÇAR A GASTAR"
   },
   {
     "language_name": "Romanian",
@@ -297,7 +335,9 @@
     "wellness_points": "Puncte de Wellness!",
     "subject_tier_status": "Actualizarea Statutului de Recompense Este Aici!",
     "preheader_tier_status": "Vedeți Nivelul Vostru + Soldul de Puncte Înăuntru.",
-    "rivo_points": "Soldul de Puncte Rivo"
+    "rivo_points": "Soldul de Puncte Rivo",
+    "view_perks": "VEZI AVANTAJELE",
+    "start_spending": "ÎNCEPE SĂ CHELTUIEȘTI"
   },
   {
     "language_name": "Russian",
@@ -312,7 +352,9 @@
     "wellness_points": "Баллы Здоровья!",
     "subject_tier_status": "Обновление Статуса Наград Здесь!",
     "preheader_tier_status": "Посмотрите Ваш Уровень + Баланс Баллов Внутри.",
-    "rivo_points": "Rivo Баланс Баллов"
+    "rivo_points": "Rivo Баланс Баллов",
+    "view_perks": "ПОСМОТРЕТЬ ЛЬГОТЫ",
+    "start_spending": "НАЧАТЬ ТРАТИТЬ"
   },
   {
     "language_name": "Slovak",
@@ -327,7 +369,9 @@
     "wellness_points": "Body Zdravia!",
     "subject_tier_status": "Aktualizácia Stavu Odmien Je Tu!",
     "preheader_tier_status": "Pozrite Si Svoju Úroveň + Zostatok Bodov Vnútri.",
-    "rivo_points": "Rivo Zostatok Bodov"
+    "rivo_points": "Rivo Zostatok Bodov",
+    "view_perks": "ZOBRAZIŤ VÝHODY",
+    "start_spending": "ZAČAŤ MÍŇAŤ"
   },
   {
     "language_name": "Slovenian",
@@ -342,7 +386,9 @@
     "wellness_points": "Točke Dobrega Počutja!",
     "subject_tier_status": "Posodobitev Stanja Nagrad Je Tukaj!",
     "preheader_tier_status": "Poglejte Svojo Raven + Stanje Točk Znotraj.",
-    "rivo_points": "Rivo Stanje Točk"
+    "rivo_points": "Rivo Stanje Točk",
+    "view_perks": "POGLEJ UGODNOSTI",
+    "start_spending": "ZAČNI TROŠITI"
   },
   {
     "language_name": "Spanish",
@@ -357,7 +403,9 @@
     "wellness_points": "¡Puntos de Bienestar!",
     "subject_tier_status": "¡Tu Actualización de Estado de Recompensas Está Aquí!",
     "preheader_tier_status": "Ve Tu Nivel + Saldo de Puntos Adentro.",
-    "rivo_points": "Saldo de Puntos Rivo"
+    "rivo_points": "Saldo de Puntos Rivo",
+    "view_perks": "VER BENEFICIOS",
+    "start_spending": "EMPEZAR A GASTAR"
   },
   {
     "language_name": "Swedish",
@@ -372,7 +420,9 @@
     "wellness_points": "Wellness Poäng!",
     "subject_tier_status": "Din Belöningsstatus Uppdatering Är Här!",
     "preheader_tier_status": "Se Din Nivå + Poängsaldo Inuti.",
-    "rivo_points": "Rivo Poängsaldo"
+    "rivo_points": "Rivo Poängsaldo",
+    "view_perks": "SE FÖRMÅNER",
+    "start_spending": "BÖRJA SPENDERA"
   },
   {
     "language_name": "Thai",
@@ -387,7 +437,9 @@
     "wellness_points": "คะแนนสุขภาพ!",
     "subject_tier_status": "การอัปเดตสถานะรางวัลของคุณมาแล้ว!",
     "preheader_tier_status": "ดูระดับของคุณ + ยอดคะแนนภายใน",
-    "rivo_points": "ยอดคะแนน Rivo"
+    "rivo_points": "ยอดคะแนน Rivo",
+    "view_perks": "ดูสิทธิพิเศษ",
+    "start_spending": "เริ่มใช้จ่าย"
   },
   {
     "language_name": "Turkish",
@@ -402,7 +454,9 @@
     "wellness_points": "Sağlık Puanları!",
     "subject_tier_status": "Ödül Durumu Güncellemesi Burada!",
     "preheader_tier_status": "Seviyenizi + Puan Bakiyenizi İçeride Görün.",
-    "rivo_points": "Rivo Puan Bakiyesi"
+    "rivo_points": "Rivo Puan Bakiyesi",
+    "view_perks": "AVANTAJLARI GÖRÜNTÜLE",
+    "start_spending": "HARCAMAYA BAŞLA"
   },
   {
     "language_name": "Vietnamese",
@@ -417,7 +471,9 @@
     "wellness_points": "Điểm Sức Khỏe!",
     "subject_tier_status": "Cập Nhật Trạng Thái Phần Thưởng Của Bạn Đã Có Mặt!",
     "preheader_tier_status": "Xem Cấp Độ + Số Dư Điểm Của Bạn Bên Trong.",
-    "rivo_points": "Số Dư Điểm Rivo"
+    "rivo_points": "Số Dư Điểm Rivo",
+    "view_perks": "XEM LỢI ÍCH",
+    "start_spending": "BẮT ĐẦU CHI TIÊU"
   },
   {
     "language_name": "Chinese Simplified",
@@ -432,7 +488,9 @@
     "wellness_points": "健康积分！",
     "subject_tier_status": "您的奖励状态更新在这里！",
     "preheader_tier_status": "查看您的等级+内部积分余额。",
-    "rivo_points": "Rivo积分余额"
+    "rivo_points": "Rivo积分余额",
+    "view_perks": "查看优惠",
+    "start_spending": "开始消费"
   },
   {
     "language_name": "Chinese Traditional",
@@ -447,6 +505,8 @@
     "wellness_points": "健康積分！",
     "subject_tier_status": "您的獎勵狀態更新在這裡！",
     "preheader_tier_status": "查看您的等級+內部積分餘額。",
-    "rivo_points": "Rivo積分餘額"
+    "rivo_points": "Rivo積分餘額",
+    "view_perks": "查看優惠",
+    "start_spending": "開始消費"
   }
 ]
