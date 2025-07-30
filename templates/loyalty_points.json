@@ -14,7 +14,11 @@
     "preheader_tier_status": "See Your Tier Level + Points Balance Inside.",
     "rivo_points": "Rivo Points Balance",
     "view_perks": "VIEW PERKS",
-    "start_spending":"START SPENDING"
+    "start_spending": "START SPENDING",
+    "bronze": "Bronze",
+    "silver": "Silver",
+    "gold": "Gold",
+    "platinum": "Platinum"
   },
   {
     "language_name": "Azerbaijani",
@@ -31,7 +35,11 @@
     "preheader_tier_status": "Səviyyənizi + Xal Balansınızı İçəridə Görün.",
     "rivo_points": "Rivo Xal Balansı",
     "view_perks": "ÜSTÜNLÜKLƏRI GÖRÜN",
-    "start_spending": "XƏRCLƏMƏYƏ BAŞLAYIN"
+    "start_spending": "XƏRCLƏMƏYƏ BAŞLAYIN",
+    "bronze": "Bürünc",
+    "silver": "Gümüş",
+    "gold": "Qızıl",
+    "platinum": "Platin"
   },
   {
     "language_name": "Bulgarian",
@@ -48,7 +56,11 @@
     "preheader_tier_status": "Вижте Нивото Си + Баланса от Точки Вътре.",
     "rivo_points": "Rivo Баланс от Точки",
     "view_perks": "ПРЕГЛЕД НА ПРИВИЛЕГИИТЕ",
-    "start_spending": "ЗАПОЧНЕТЕ ДА ХАРЧИТЕ"
+    "start_spending": "ЗАПОЧНЕТЕ ДА ХАРЧИТЕ",
+    "bronze": "Бронз",
+    "silver": "Сребро",
+    "gold": "Злато",
+    "platinum": "Платина"
   },
   {
     "language_name": "Danish",
@@ -65,7 +77,11 @@
     "preheader_tier_status": "Se Dit Niveau + Points Balance Indeni.",
     "rivo_points": "Rivo Points Balance",
     "view_perks": "SE FORDELE",
-    "start_spending": "BEGYND AT BRUGE"
+    "start_spending": "BEGYND AT BRUGE",
+    "bronze": "Bronze",
+    "silver": "Sølv",
+    "gold": "Guld",
+    "platinum": "Platinum"
   },
   {
     "language_name": "German",
@@ -82,7 +98,11 @@
     "preheader_tier_status": "Sehen Sie Ihr Level + Punktestand Drinnen.",
     "rivo_points": "Rivo Punktestand",
     "view_perks": "VORTEILE ANZEIGEN",
-    "start_spending": "AUSGEBEN BEGINNEN"
+    "start_spending": "AUSGEBEN BEGINNEN",
+    "bronze": "Bronze",
+    "silver": "Silber",
+    "gold": "Gold",
+    "platinum": "Platin"
   },
   {
     "language_name": "Greek",
@@ -99,7 +119,11 @@
     "preheader_tier_status": "Δείτε το Επίπεδό Σας + Υπόλοιπο Πόντων Μέσα.",
     "rivo_points": "Rivo Υπόλοιπο Πόντων",
     "view_perks": "ΠΡΟΒΟΛΉ ΠΡΟΝΟΜΊΩΝ",
-    "start_spending": "ΞΕΚΙΝΉΣΤΕ ΤΗ ΔΑΠΆΝΗ"
+    "start_spending": "ΞΕΚΙΝΉΣΤΕ ΤΗ ΔΑΠΆΝΗ",
+    "bronze": "Χάλκινο",
+    "silver": "Ασημένιο",
+    "gold": "Χρυσό",
+    "platinum": "Λευκόχρυσο"
   },
   {
     "language_name": "Finnish",
@@ -116,7 +140,11 @@
     "preheader_tier_status": "Katso Tasosi + Pistesaldo Sisältä.",
     "rivo_points": "Rivo Pistesaldo",
     "view_perks": "NÄYTÄ EDUT",
-    "start_spending": "ALOITA KULUTTAMINEN"
+    "start_spending": "ALOITA KULUTTAMINEN",
+    "bronze": "Pronssi",
+    "silver": "Hopea",
+    "gold": "Kulta",
+    "platinum": "Platina"
   },
   {
     "language_name": "French",
@@ -133,7 +161,11 @@
     "preheader_tier_status": "Voir Votre Niveau + Solde de Points à l'Intérieur.",
     "rivo_points": "Solde de Points Rivo",
     "view_perks": "VOIR LES AVANTAGES",
-    "start_spending": "COMMENCER À DÉPENSER"
+    "start_spending": "COMMENCER À DÉPENSER",
+    "bronze": "Bronze",
+    "silver": "Argent",
+    "gold": "Or",
+    "platinum": "Platine"
   },
   {
     "language_name": "Croatian",
@@ -143,14 +175,18 @@
     "say_hello": "Pozdravite svoj novi status:",
     "subject_points_balance": "Zaradili Ste Bodove!",
     "preheader_points_balance": "Ne Propustite Svoje Nagrade.",
-    "wellness_header": "VAŠE PUTOVANJE K ZDRAVLJU SE ISPLAČUJE",
+    "wellness_header": "VAŠE PUTOVANJE K ZDRAVLJU SE ISPLAĆUJE",
     "have": "imate",
     "wellness_points": "Bodovi za Zdravlje!",
     "subject_tier_status": "Vaša Ažurirana Nagradna Razina Je Ovdje!",
     "preheader_tier_status": "Pogledajte Svoju Razinu + Stanje Bodova Unutra.",
     "rivo_points": "Rivo Stanje Bodova",
     "view_perks": "PRIKAŽI POGODNOSTI",
-    "start_spending": "POČNI TROŠITI"
+    "start_spending": "POČNI TROŠITI",
+    "bronze": "Bronca",
+    "silver": "Srebro",
+    "gold": "Zlato",
+    "platinum": "Platina"
   },
   {
     "language_name": "Hungarian",
@@ -167,7 +203,11 @@
     "preheader_tier_status": "Nézze Meg a Szintjét + Pontegyenlegét Belül.",
     "rivo_points": "Rivo Pontegyenleg",
     "view_perks": "ELŐNYÖK MEGTEKINTÉSE",
-    "start_spending": "KEZDJEN EL KÖLTENI"
+    "start_spending": "KEZDJEN EL KÖLTENI",
+    "bronze": "Bronz",
+    "silver": "Ezüst",
+    "gold": "Arany",
+    "platinum": "Platina"
   },
   {
     "language_name": "Indonesian",
@@ -184,7 +224,11 @@
     "preheader_tier_status": "Lihat Level Anda + Saldo Poin Di Dalam.",
     "rivo_points": "Saldo Poin Rivo",
     "view_perks": "LIHAT KEUNTUNGAN",
-    "start_spending": "MULAI BERBELANJA"
+    "start_spending": "MULAI BERBELANJA",
+    "bronze": "Perunggu",
+    "silver": "Perak",
+    "gold": "Emas",
+    "platinum": "Platinum"
   },
   {
     "language_name": "Italian",
@@ -201,7 +245,11 @@
     "preheader_tier_status": "Vedi il Tuo Livello + Saldo Punti All'Interno.",
     "rivo_points": "Saldo Punti Rivo",
     "view_perks": "VISUALIZZA VANTAGGI",
-    "start_spending": "INIZIA A SPENDERE"
+    "start_spending": "INIZIA A SPENDERE",
+    "bronze": "Bronzo",
+    "silver": "Argento",
+    "gold": "Oro",
+    "platinum": "Platino"
   },
   {
     "language_name": "Japanese",
@@ -218,7 +266,11 @@
     "preheader_tier_status": "レベル＋ポイント残高を内部でご確認ください。",
     "rivo_points": "Rivoポイント残高",
     "view_perks": "特典を見る",
-    "start_spending": "使い始める"
+    "start_spending": "使い始める",
+    "bronze": "ブロンズ",
+    "silver": "シルバー",
+    "gold": "ゴールド",
+    "platinum": "プラチナ"
   },
   {
     "language_name": "Korean",
@@ -235,7 +287,11 @@
     "preheader_tier_status": "내부에서 레벨 + 포인트 잔액을 확인하세요.",
     "rivo_points": "Rivo 포인트 잔액",
     "view_perks": "혜택 보기",
-    "start_spending": "사용 시작"
+    "start_spending": "사용 시작",
+    "bronze": "브론즈",
+    "silver": "실버",
+    "gold": "골드",
+    "platinum": "플래티넘"
   },
   {
     "language_name": "Malay",
@@ -252,7 +308,11 @@
     "preheader_tier_status": "Lihat Tahap Anda + Baki Mata Di Dalam.",
     "rivo_points": "Baki Mata Rivo",
     "view_perks": "LIHAT FAEDAH",
-    "start_spending": "MULA BERBELANJA"
+    "start_spending": "MULA BERBELANJA",
+    "bronze": "Gangsa",
+    "silver": "Perak",
+    "gold": "Emas",
+    "platinum": "Platinum"
   },
   {
     "language_name": "Dutch",
@@ -269,7 +329,11 @@
     "preheader_tier_status": "Bekijk Je Niveau + Puntensaldo Binnen.",
     "rivo_points": "Rivo Puntensaldo",
     "view_perks": "BEKIJK VOORDELEN",
-    "start_spending": "BEGIN MET UITGEVEN"
+    "start_spending": "BEGIN MET UITGEVEN",
+    "bronze": "Brons",
+    "silver": "Zilver",
+    "gold": "Goud",
+    "platinum": "Platina"
   },
   {
     "language_name": "Norwegian",
@@ -286,7 +350,11 @@
     "preheader_tier_status": "Se Ditt Nivå + Poengsaldo Innvendig.",
     "rivo_points": "Rivo Poengsaldo",
     "view_perks": "SE FORDELER",
-    "start_spending": "BEGYNN Å BRUKE"
+    "start_spending": "BEGYNN Å BRUKE",
+    "bronze": "Bronse",
+    "silver": "Sølv",
+    "gold": "Gull",
+    "platinum": "Platina"
   },
   {
     "language_name": "Polish",
@@ -303,7 +371,11 @@
     "preheader_tier_status": "Zobacz Swój Poziom + Saldo Punktów Wewnątrz.",
     "rivo_points": "Rivo Saldo Punktów",
     "view_perks": "ZOBACZ KORZYŚCI",
-    "start_spending": "ZACZNIJ WYDAWAĆ"
+    "start_spending": "ZACZNIJ WYDAWAĆ",
+    "bronze": "Brąz",
+    "silver": "Srebro",
+    "gold": "Złoto",
+    "platinum": "Platyna"
   },
   {
     "language_name": "Portuguese",
@@ -320,7 +392,11 @@
     "preheader_tier_status": "Veja Seu Nível + Saldo de Pontos Dentro.",
     "rivo_points": "Saldo de Pontos Rivo",
     "view_perks": "VER BENEFÍCIOS",
-    "start_spending": "COMEÇAR A GASTAR"
+    "start_spending": "COMEÇAR A GASTAR",
+    "bronze": "Bronze",
+    "silver": "Prata",
+    "gold": "Ouro",
+    "platinum": "Platina"
   },
   {
     "language_name": "Romanian",
@@ -337,7 +413,11 @@
     "preheader_tier_status": "Vedeți Nivelul Vostru + Soldul de Puncte Înăuntru.",
     "rivo_points": "Soldul de Puncte Rivo",
     "view_perks": "VEZI AVANTAJELE",
-    "start_spending": "ÎNCEPE SĂ CHELTUIEȘTI"
+    "start_spending": "ÎNCEPE SĂ CHELTUIEȘTI",
+    "bronze": "Bronz",
+    "silver": "Argint",
+    "gold": "Aur",
+    "platinum": "Platină"
   },
   {
     "language_name": "Russian",
@@ -354,7 +434,11 @@
     "preheader_tier_status": "Посмотрите Ваш Уровень + Баланс Баллов Внутри.",
     "rivo_points": "Rivo Баланс Баллов",
     "view_perks": "ПОСМОТРЕТЬ ЛЬГОТЫ",
-    "start_spending": "НАЧАТЬ ТРАТИТЬ"
+    "start_spending": "НАЧАТЬ ТРАТИТЬ",
+    "bronze": "Бронза",
+    "silver": "Серебро",
+    "gold": "Золото",
+    "platinum": "Платина"
   },
   {
     "language_name": "Slovak",
@@ -371,7 +455,11 @@
     "preheader_tier_status": "Pozrite Si Svoju Úroveň + Zostatok Bodov Vnútri.",
     "rivo_points": "Rivo Zostatok Bodov",
     "view_perks": "ZOBRAZIŤ VÝHODY",
-    "start_spending": "ZAČAŤ MÍŇAŤ"
+    "start_spending": "ZAČAŤ MÍŇAŤ",
+    "bronze": "Bronz",
+    "silver": "Striebro",
+    "gold": "Zlato",
+    "platinum": "Platina"
   },
   {
     "language_name": "Slovenian",
@@ -388,7 +476,11 @@
     "preheader_tier_status": "Poglejte Svojo Raven + Stanje Točk Znotraj.",
     "rivo_points": "Rivo Stanje Točk",
     "view_perks": "POGLEJ UGODNOSTI",
-    "start_spending": "ZAČNI TROŠITI"
+    "start_spending": "ZAČNI TROŠITI",
+    "bronze": "Bron",
+    "silver": "Srebro",
+    "gold": "Zlato",
+    "platinum": "Platina"
   },
   {
     "language_name": "Spanish",
@@ -405,7 +497,11 @@
     "preheader_tier_status": "Ve Tu Nivel + Saldo de Puntos Adentro.",
     "rivo_points": "Saldo de Puntos Rivo",
     "view_perks": "VER BENEFICIOS",
-    "start_spending": "EMPEZAR A GASTAR"
+    "start_spending": "EMPEZAR A GASTAR",
+    "bronze": "Bronce",
+    "silver": "Plata",
+    "gold": "Oro",
+    "platinum": "Platino"
   },
   {
     "language_name": "Swedish",
@@ -422,7 +518,11 @@
     "preheader_tier_status": "Se Din Nivå + Poängsaldo Inuti.",
     "rivo_points": "Rivo Poängsaldo",
     "view_perks": "SE FÖRMÅNER",
-    "start_spending": "BÖRJA SPENDERA"
+    "start_spending": "BÖRJA SPENDERA",
+    "bronze": "Brons",
+    "silver": "Silver",
+    "gold": "Guld",
+    "platinum": "Platina"
   },
   {
     "language_name": "Thai",
@@ -439,7 +539,11 @@
     "preheader_tier_status": "ดูระดับของคุณ + ยอดคะแนนภายใน",
     "rivo_points": "ยอดคะแนน Rivo",
     "view_perks": "ดูสิทธิพิเศษ",
-    "start_spending": "เริ่มใช้จ่าย"
+    "start_spending": "เริ่มใช้จ่าย",
+    "bronze": "ทองแดง",
+    "silver": "เงิน",
+    "gold": "ทอง",
+    "platinum": "แพลทินัม"
   },
   {
     "language_name": "Turkish",
@@ -456,7 +560,11 @@
     "preheader_tier_status": "Seviyenizi + Puan Bakiyenizi İçeride Görün.",
     "rivo_points": "Rivo Puan Bakiyesi",
     "view_perks": "AVANTAJLARI GÖRÜNTÜLE",
-    "start_spending": "HARCAMAYA BAŞLA"
+    "start_spending": "HARCAMAYA BAŞLA",
+    "bronze": "Bronz",
+    "silver": "Gümüş",
+    "gold": "Altın",
+    "platinum": "Platin"
   },
   {
     "language_name": "Vietnamese",
@@ -473,7 +581,11 @@
     "preheader_tier_status": "Xem Cấp Độ + Số Dư Điểm Của Bạn Bên Trong.",
     "rivo_points": "Số Dư Điểm Rivo",
     "view_perks": "XEM LỢI ÍCH",
-    "start_spending": "BẮT ĐẦU CHI TIÊU"
+    "start_spending": "BẮT ĐẦU CHI TIÊU",
+    "bronze": "Đồng",
+    "silver": "Bạc",
+    "gold": "Vàng",
+    "platinum": "Bạch kim"
   },
   {
     "language_name": "Chinese Simplified",
@@ -490,7 +602,11 @@
     "preheader_tier_status": "查看您的等级+内部积分余额。",
     "rivo_points": "Rivo积分余额",
     "view_perks": "查看优惠",
-    "start_spending": "开始消费"
+    "start_spending": "开始消费",
+    "bronze": "青铜",
+    "silver": "白银",
+    "gold": "黄金",
+    "platinum": "铂金"
   },
   {
     "language_name": "Chinese Traditional",
@@ -507,6 +623,10 @@
     "preheader_tier_status": "查看您的等級+內部積分餘額。",
     "rivo_points": "Rivo積分餘額",
     "view_perks": "查看優惠",
-    "start_spending": "開始消費"
+    "start_spending": "開始消費",
+    "bronze": "青銅",
+    "silver": "白銀",
+    "gold": "黃金",
+    "platinum": "鉑金"
   }
 ]
