@@ -925,7 +925,7 @@
     "at_least": "Pelo menos",
     "sign_up": "Inscreva-se hoje",
     "is_here": "As Recompensas Piping Rock® estão <span class=\"underline\">AQUI</span> e",
-    "and_benefits": "e os benefícios são MUITO BONS para perder!",
+    "and_benefits": "os benefícios são <span class=\"underline\">MUITO BONS</span> para perder!",
     "unlock": "Desbloqueie presentes exclusivos e ofertas apenas para membros",
     "cash_savings": "Resgate pontos por economias em dinheiro",
     "score_bonus": "Ganhe pontos bônus no seu aniversário"
@@ -1170,7 +1170,7 @@
     "at_least": "Al menos",
     "sign_up": "Regístrate hoy",
     "is_here": "Las Recompensas Piping Rock® están <span class=\"underline\">AQUÍ</span> y",
-    "and_benefits": "¡y los beneficios son DEMASIADO BUENOS para perdérselos!",
+    "and_benefits": "¡y los beneficios son <span class=\"underline\">DEMASIADO BUENOS</span> para perdérselos!",
     "unlock": "Desbloquea regalos exclusivos y ofertas solo para miembros",
     "cash_savings": "Canjea puntos por ahorros en efectivo",
     "score_bonus": "Obtén puntos bonus en tu cumpleaños"
@@ -1317,7 +1317,7 @@
     "at_least": "En az",
     "sign_up": "Bugün kaydolun",
     "is_here": "Piping Rock® Ödülleri <span class=\"underline\">BURADA</span> ve",
-    "and_benefits": "ve faydalar kaçırmak için ÇOK İYİ!",
+    "and_benefits": "ve faydalar kaçırmak için <span class=\"underline\">ÇOK İYİ</span>!",
     "unlock": "Özel hediyeler ve sadece üyelere özel fırsatları kilitleyin",
     "cash_savings": "Nakit tasarrufları için puanları kullanın",
     "score_bonus": "Doğum gününüzde bonus puan kazanın"
@@ -1366,7 +1366,7 @@
     "at_least": "Ít nhất",
     "sign_up": "Đăng ký hôm nay",
     "is_here": "Phần thưởng Piping Rock® có <span class=\"underline\">Ở ĐÂY</span> và",
-    "and_benefits": "và lợi ích QUÁ TỐT để bỏ lỡ!",
+    "and_benefits": "lợi ích <span class=\"underline\">QUÁ TỐT</span> để bỏ lỡ!",
     "unlock": "Mở khóa quà tặng độc quyền và ưu đãi chỉ dành cho thành viên",
     "cash_savings": "Đổi điểm để tiết kiệm tiền mặt",
     "score_bonus": "Nhận điểm thưởng vào ngày sinh nhật của bạn"
@@ -1415,7 +1415,7 @@
     "at_least": "至少",
     "sign_up": "今天注册",
     "is_here": "Piping Rock®奖励<span class=\"underline\">在这里</span>，",
-    "and_benefits": "好处太好了，不容错过！",
+    "and_benefits": "好处<span class=\"underline\">太好了</span>，不容错过！",
     "unlock": "解锁专属礼品和会员专享优惠",
     "cash_savings": "兑换积分获得现金节省",
     "score_bonus": "在您的生日获得奖励积分"
