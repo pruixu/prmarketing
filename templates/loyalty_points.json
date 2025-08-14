@@ -46,7 +46,8 @@
     "and_benefits":"the benefits are <span class=\"underline\">TOO GOOD</span> to miss!",
     "unlock":"Unlock Exclusive Gifts and Member-only Deals",
     "cash_savings":"Redeem Points for Cash Savings",
-    "score_bonus":"Score Bonus Points on Your Birthday"   
+    "score_bonus":"Score Bonus Points on Your Birthday",
+    "points": "points"   
   },
   {
     "language_name": "Azerbaijani",
@@ -95,7 +96,8 @@
     "and_benefits": "faydalar <span class=\"underline\">ÇOX YAXŞI</span>dır ki, qaçırılmasın!",
     "unlock": "Eksklüziv Hədiyyələr və Yalnız Üzvlərə Məxsus Təklifləri Açın",
     "cash_savings": "Nağd Qənaət üçün Xalları Dəyişdirin",
-    "score_bonus": "Ad Gününüzdə Bonus Xallar Qazanın"
+    "score_bonus": "Ad Gününüzdə Bonus Xallar Qazanın",
+    "points": "xallar"
   },
   {
     "language_name": "Bulgarian",
@@ -144,7 +146,8 @@
     "and_benefits": "и ползите са ТВЪРДЕ ДОБРИ, за да ги пропуснете!",
     "unlock": "Отключете ексклузивни подаръци и оферти само за членове",
     "cash_savings": "Използвайте точки за парични спестявания",
-    "score_bonus": "Получете бонус точки в рождения си ден"
+    "score_bonus": "Получете бонус точки в рождения си ден",
+    "points": "точки"
   },
   {
     "language_name": "Danish",
@@ -193,7 +196,8 @@
     "and_benefits": "og fordelene er FOR GODE til at gå glip af!",
     "unlock": "Lås op for eksklusive gaver og kun-medlemmer tilbud",
     "cash_savings": "Indløs point til kontantbesparelser",
-    "score_bonus": "Få bonuspoint på din fødselsdag"
+    "score_bonus": "Få bonuspoint på din fødselsdag",
+    "points": "point"
   },
   {
     "language_name": "German",
@@ -242,7 +246,8 @@
     "and_benefits": "и ползите са ТВЪРДЕ ДОБРИ, за да ги пропуснете!",
     "unlock": "Schalten Sie exklusive Geschenke und Nur-Mitglieder Angebote frei",
     "cash_savings": "Punkte für Bargeldersparnisse einlösen",
-    "score_bonus": "Sammeln Sie Bonuspunkte an Ihrem Geburtstag"
+    "score_bonus": "Sammeln Sie Bonuspunkte an Ihrem Geburtstag",
+    "points": "Punkte"
   },
   {
     "language_name": "Greek",
@@ -291,7 +296,8 @@
     "and_benefits": "και τα οφέλη είναι ΠΟΛΥ ΚΑΛΑ για να τα χάσετε!",
     "unlock": "Ξεκλειδώστε αποκλειστικά δώρα και προσφορές μόνο για μέλη",
     "cash_savings": "Εξαργυρώστε πόντους για εξοικονόμηση μετρητών",
-    "score_bonus": "Κερδίστε μπόνους πόντους στα γενέθλια σας"
+    "score_bonus": "Κερδίστε μπόνους πόντους στα γενέθλια σας",
+    "points": "πόντοι"
   },
   {
     "language_name": "Finnish",
@@ -340,7 +346,8 @@
     "and_benefits": "ja edut ovat LIIAN HYVIÄ ohitettavaksi!",
     "unlock": "Avaa eksklusiivisia lahjoja ja vain jäsenille tarkoitettuja tarjouksia",
     "cash_savings": "Lunasta pisteitä käteissäästöiksi",
-    "score_bonus": "Hanki bonuspisteitä syntymäpäivänäsi"
+    "score_bonus": "Hanki bonuspisteitä syntymäpäivänäsi",
+    "points": "pisteitä"
   },
   {
     "language_name": "French",
@@ -389,7 +396,8 @@
     "and_benefits": "et les avantages sont TROP BONS pour les manquer!",
     "unlock": "Débloquez des cadeaux exclusifs et des offres réservées aux membres",
     "cash_savings": "Échangez des points contre des économies en espèces",
-    "score_bonus": "Marquez des points bonus le jour de votre anniversaire"
+    "score_bonus": "Marquez des points bonus le jour de votre anniversaire",
+    "points": "points"
   },
   {
     "language_name": "Croatian",
@@ -438,7 +446,8 @@
     "and_benefits": "a prednosti su PREDOBRE da ih propustite!",
     "unlock": "Otključajte ekskluzivne darove i ponude samo za članove",
     "cash_savings": "Iskoristite bodove za novčane uštede",
-    "score_bonus": "Osvojite bonus bodove na svoj rođendan"
+    "score_bonus": "Osvojite bonus bodove na svoj rođendan",
+    "points": "bodovi"
   },
   {
     "language_name": "Hungarian",
@@ -487,7 +496,8 @@
     "and_benefits": "és az előnyök TÚL JÓK ahhoz, hogy kihagyja!",
     "unlock": "Nyisson ki exkluzív ajándékokat és csak tagoknak szóló ajánlatokat",
     "cash_savings": "Váltsa be pontjait készpénz megtakarításra",
-    "score_bonus": "Szerezzen bónusz pontokat a születésnapján"
+    "score_bonus": "Szerezzen bónusz pontokat a születésnapján",
+    "points": "pontok"
   },
   {
     "language_name": "Indonesian",
@@ -536,7 +546,8 @@
     "and_benefits": "dan manfaatnya TERLALU BAGUS untuk dilewatkan!",
     "unlock": "Buka hadiah eksklusif dan penawaran khusus anggota",
     "cash_savings": "Tukarkan poin untuk penghematan tunai",
-    "score_bonus": "Dapatkan poin bonus di hari ulang tahun Anda"
+    "score_bonus": "Dapatkan poin bonus di hari ulang tahun Anda",
+    "points": "poin"
   },
   {
     "language_name": "Italian",
@@ -585,7 +596,8 @@
     "and_benefits": "e i vantaggi sono TROPPO BUONI per perderli!",
     "unlock": "Sblocca regali esclusivi e offerte riservate ai membri",
     "cash_savings": "Riscatta punti per risparmi in contanti",
-    "score_bonus": "Ottieni punti bonus nel tuo compleanno"
+    "score_bonus": "Ottieni punti bonus nel tuo compleanno",
+    "points": "punti"
   },
   {
     "language_name": "Japanese",
@@ -634,7 +646,8 @@
     "and_benefits": "そして特典は見逃すには良すぎます！",
     "unlock": "限定ギフトとメンバー限定取引をアンロック",
     "cash_savings": "現金節約のためにポイントを交換",
-    "score_bonus": "誕生日にボーナスポイントを獲得"
+    "score_bonus": "誕生日にボーナスポイントを獲得",
+    "points": "ポイント"
   },
   {
     "language_name": "Korean",
@@ -683,7 +696,8 @@
     "and_benefits": "그리고 혜택들은 놓치기엔 너무 좋습니다!",
     "unlock": "독점 선물과 멤버 전용 딜을 잠금 해제하세요",
     "cash_savings": "현금 절약을 위해 포인트를 교환하세요",
-    "score_bonus": "생일에 보너스 포인트를 획득하세요"
+    "score_bonus": "생일에 보너스 포인트를 획득하세요",
+    "points": "포인트"
   },
   {
     "language_name": "Malay",
@@ -732,7 +746,8 @@
     "and_benefits": "dan faedah terlalu BAGUS untuk dilepaskan!",
     "unlock": "Buka hadiah eksklusif dan tawaran ahli sahaja",
     "cash_savings": "Tebus mata untuk penjimatan tunai",
-    "score_bonus": "Dapatkan mata bonus pada hari lahir anda"
+    "score_bonus": "Dapatkan mata bonus pada hari lahir anda",
+    "points": "mata"
   },
   {
     "language_name": "Dutch",
@@ -781,7 +796,8 @@
     "and_benefits": "en de voordelen zijn TE GOED om te missen!",
     "unlock": "Ontgrendel exclusieve geschenken en alleen-leden deals",
     "cash_savings": "Wissel punten in voor contante besparingen",
-    "score_bonus": "Verdien bonuspunten op je verjaardag"
+    "score_bonus": "Verdien bonuspunten op je verjaardag",
+    "points": "punten"
   },
   {
     "language_name": "Norwegian",
@@ -830,7 +846,8 @@
     "and_benefits": "og fordelene er FOR GODE til å gå glipp av!",
     "unlock": "Lås opp eksklusive gaver og kun-medlemmer tilbud",
     "cash_savings": "Løs inn poeng for kontantbesparelser",
-    "score_bonus": "Få bonuspoeng på bursdagen din"
+    "score_bonus": "Få bonuspoeng på bursdagen din",
+    "points": "poeng"
   },
   {
     "language_name": "Polish",
@@ -879,7 +896,8 @@
     "and_benefits": "a korzyści są ZA DOBRE, żeby je przegapić!",
     "unlock": "Odblokuj ekskluzywne prezenty i oferty tylko dla członków",
     "cash_savings": "Wymień punkty na oszczędności gotówkowe",
-    "score_bonus": "Zdobądź punkty bonusowe w swoje urodziny"
+    "score_bonus": "Zdobądź punkty bonusowe w swoje urodziny",
+    "points": "punkty"
   },
   {
     "language_name": "Portuguese",
@@ -928,7 +946,8 @@
     "and_benefits": "os benefícios são <span class=\"underline\">MUITO BONS</span> para perder!",
     "unlock": "Desbloqueie presentes exclusivos e ofertas apenas para membros",
     "cash_savings": "Resgate pontos por economias em dinheiro",
-    "score_bonus": "Ganhe pontos bônus no seu aniversário"
+    "score_bonus": "Ganhe pontos bônus no seu aniversário",
+    "points": "pontos"
   },
   {
     "language_name": "Romanian",
@@ -977,7 +996,8 @@
     "and_benefits": "și beneficiile sunt PREA BUNE pentru a le rata!",
     "unlock": "Deblocați cadouri exclusive și oferte doar pentru membri",
     "cash_savings": "Răscumpărați puncte pentru economii de numerar",
-    "score_bonus": "Câștigați puncte bonus în ziua de naștere"
+    "score_bonus": "Câștigați puncte bonus în ziua de naștere",
+    "points": "puncte"
   },
   {
     "language_name": "Russian",
@@ -1026,7 +1046,8 @@
     "and_benefits": "преимущества <span class=\"underline\">СЛИШКОМ ХОРОШИ</span>, чтобы их пропустить!",
     "unlock": "Разблокируйте эксклюзивные подарки и предложения только для участников",
     "cash_savings": "Обменивайте баллы на денежные сбережения",
-    "score_bonus": "Получайте бонусные баллы в день рождения"
+    "score_bonus": "Получайте бонусные баллы в день рождения",
+    "points": "баллы"
   },
   {
     "language_name": "Slovak",
@@ -1075,7 +1096,8 @@
     "and_benefits": "a výhody sú PRÍLIŠ DOBRÉ na to, aby ste ich zmeškal!",
     "unlock": "Odomknite exkluzívne darčeky a ponuky len pre členov",
     "cash_savings": "Vymeňte body za hotovostné úspory",
-    "score_bonus": "Získajte bonusové body vo svoje narodeniny"
+    "score_bonus": "Získajte bonusové body vo svoje narodeniny",
+    "points": "body"
   },
   {
     "language_name": "Slovenian",
@@ -1124,7 +1146,8 @@
     "and_benefits": "in prednosti so PREVEČ DOBRE, da bi jih zamudili!",
     "unlock": "Odklenite ekskluzivna darila in ponudbe samo za člane",
     "cash_savings": "Unovčite točke za denarne prihranke",
-    "score_bonus": "Prislužite si bonus točke na svoj rojstni dan"
+    "score_bonus": "Prislužite si bonus točke na svoj rojstni dan",
+    "points": "točke"
   },
   {
     "language_name": "Spanish",
@@ -1173,7 +1196,8 @@
     "and_benefits": "¡y los beneficios son <span class=\"underline\">DEMASIADO BUENOS</span> para perdérselos!",
     "unlock": "Desbloquea regalos exclusivos y ofertas solo para miembros",
     "cash_savings": "Canjea puntos por ahorros en efectivo",
-    "score_bonus": "Obtén puntos bonus en tu cumpleaños"
+    "score_bonus": "Obtén puntos bonus en tu cumpleaños",
+    "points": "puntos"
   },
   {
     "language_name": "Swedish",
@@ -1222,7 +1246,8 @@
     "and_benefits": "och fördelarna är FÖR BRA för att missa!",
     "unlock": "Lås upp exklusiva presenter och endast-medlemmar erbjudanden",
     "cash_savings": "Lösa in poäng för kontantbesparingar",
-    "score_bonus": "Få bonuspoäng på din födelsedag"
+    "score_bonus": "Få bonuspoäng på din födelsedag",
+    "points": "poäng"
   },
   {
     "language_name": "Thai",
@@ -1271,7 +1296,8 @@
     "and_benefits": "ผลประโยชน์ดีเกินไปที่จะพลาด!",
     "unlock": "ปลดล็อกของขวัญพิเศษและดีลเฉพาะสมาชิก",
     "cash_savings": "แลกคะแนนเพื่อประหยัดเงินสด",
-    "score_bonus": "รับคะแนนโบนัสในวันเกิดของคุณ"
+    "score_bonus": "รับคะแนนโบนัสในวันเกิดของคุณ",
+    "points": "คะแนน"
   },
   {
     "language_name": "Turkish",
@@ -1320,7 +1346,8 @@
     "and_benefits": "ve faydalar kaçırmak için <span class=\"underline\">ÇOK İYİ</span>!",
     "unlock": "Özel hediyeler ve sadece üyelere özel fırsatları kilitleyin",
     "cash_savings": "Nakit tasarrufları için puanları kullanın",
-    "score_bonus": "Doğum gününüzde bonus puan kazanın"
+    "score_bonus": "Doğum gününüzde bonus puan kazanın",
+    "points": "puan"
   },
   {
     "language_name": "Vietnamese",
@@ -1369,7 +1396,8 @@
     "and_benefits": "lợi ích <span class=\"underline\">QUÁ TỐT</span> để bỏ lỡ!",
     "unlock": "Mở khóa quà tặng độc quyền và ưu đãi chỉ dành cho thành viên",
     "cash_savings": "Đổi điểm để tiết kiệm tiền mặt",
-    "score_bonus": "Nhận điểm thưởng vào ngày sinh nhật của bạn"
+    "score_bonus": "Nhận điểm thưởng vào ngày sinh nhật của bạn",
+    "points": "điểm"
   },
   {
     "language_name": "Chinese Simplified",
@@ -1418,7 +1446,8 @@
     "and_benefits": "好处太好了，不容错过！",
     "unlock": "解锁专属礼品和会员专享优惠",
     "cash_savings": "兑换积分获得现金节省",
-    "score_bonus": "在您的生日获得奖励积分"
+    "score_bonus": "在您的生日获得奖励积分",
+    "points": "积分"
   },
   {
     "language_name": "Chinese Traditional",
@@ -1467,6 +1496,7 @@
     "and_benefits": "好處太好了，不容錯過！",
     "unlock": "解鎖專屬禮品和會員專享優惠",
     "cash_savings": "兌換積分獲得現金節省",
-    "score_bonus": "在您的生日獲得獎勵積分"
+    "score_bonus": "在您的生日獲得獎勵積分",
+    "points": "積分"
   }
 ]
