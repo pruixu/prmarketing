@@ -47,7 +47,10 @@
     "unlock":"Unlock Exclusive Gifts and Member-only Deals",
     "cash_savings":"Redeem Points for Cash Savings",
     "score_bonus":"Score Bonus Points on Your Birthday",
-    "points": "points"   
+    "points": "points",
+    "just_sign_up": "Just sign up and earn points every time you shop. It’s that easy!",
+    "wellness_journey":"Your Wellness Journey Just Got Better with",
+    "sign_up_now":"Sign Up Now"
   },
   {
     "language_name": "Azerbaijani",
@@ -97,7 +100,10 @@
     "unlock": "Eksklüziv Hədiyyələr və Yalnız Üzvlərə Məxsus Təklifləri Açın",
     "cash_savings": "Nağd Qənaət üçün Xalları Dəyişdirin",
     "score_bonus": "Ad Gününüzdə Bonus Xallar Qazanın",
-    "points": "xallar"
+    "points": "xallar",
+    "just_sign_up": "Sadəcə qeydiyyatdan keçin və hər alış-verişdə xal qazanın. Bu qədər asandır!",
+    "wellness_journey": "Sağlamlıq Səyahətiniz daha da yaxşılaşdı",
+    "sign_up_now": "İndi Qeydiyyatdan Keçin"
   },
   {
     "language_name": "Bulgarian",
@@ -147,7 +153,10 @@
     "unlock": "Отключете ексклузивни подаръци и оферти само за членове",
     "cash_savings": "Използвайте точки за парични спестявания",
     "score_bonus": "Получете бонус точки в рождения си ден",
-    "points": "точки"
+    "points": "точки",
+    "just_sign_up": "Просто се регистрирайте и печелете точки всеки път, когато пазарувате. Толкова е лесно!",
+    "wellness_journey": "Вашето пътуване към здравето току-що стана по-добро с",
+    "sign_up_now": "Регистрирайте се сега"
   },
   {
     "language_name": "Danish",
@@ -197,7 +206,10 @@
     "unlock": "Lås op for eksklusive gaver og kun-medlemmer tilbud",
     "cash_savings": "Indløs point til kontantbesparelser",
     "score_bonus": "Få bonuspoint på din fødselsdag",
-    "points": "point"
+    "points": "point",
+    "just_sign_up": "Bare tilmeld dig og optjen point hver gang du handler. Det er så nemt!",
+    "wellness_journey": "Din wellness-rejse blev lige bedre med",
+    "sign_up_now": "Tilmeld dig nu"
   },
   {
     "language_name": "German",
@@ -247,7 +259,10 @@
     "unlock": "Schalten Sie exklusive Geschenke und Nur-Mitglieder Angebote frei",
     "cash_savings": "Punkte für Bargeldersparnisse einlösen",
     "score_bonus": "Sammeln Sie Bonuspunkte an Ihrem Geburtstag",
-    "points": "Punkte"
+    "points": "Punkte",
+    "just_sign_up": "Melden Sie sich einfach an und sammeln Sie bei jedem Einkauf Punkte. So einfach ist das!",
+    "wellness_journey": "Ihre Wellness-Reise wurde gerade besser mit",
+    "sign_up_now": "Jetzt anmelden"
   },
   {
     "language_name": "Greek",
@@ -297,7 +312,10 @@
     "unlock": "Ξεκλειδώστε αποκλειστικά δώρα και προσφορές μόνο για μέλη",
     "cash_savings": "Εξαργυρώστε πόντους για εξοικονόμηση μετρητών",
     "score_bonus": "Κερδίστε μπόνους πόντους στα γενέθλια σας",
-    "points": "πόντοι"
+    "points": "πόντοι",
+    "just_sign_up": "Απλώς εγγραφείτε και κερδίστε πόντους κάθε φορά που ψωνίζετε. Είναι τόσο εύκολο!",
+    "wellness_journey": "Το ταξίδι ευεξίας σας μόλις έγινε καλύτερο με",
+    "sign_up_now": "Εγγραφείτε τώρα"
   },
   {
     "language_name": "Finnish",
@@ -347,7 +365,10 @@
     "unlock": "Avaa eksklusiivisia lahjoja ja vain jäsenille tarkoitettuja tarjouksia",
     "cash_savings": "Lunasta pisteitä käteissäästöiksi",
     "score_bonus": "Hanki bonuspisteitä syntymäpäivänäsi",
-    "points": "pisteitä"
+    "points": "pisteitä",
+    "just_sign_up": "Rekisteröidy vain ja ansaitse pisteitä joka ostoksella. Se on niin helppoa!",
+    "wellness_journey": "Hyvinvointimatkasi juuri parani",
+    "sign_up_now": "Rekisteröidy nyt"
   },
   {
     "language_name": "French",
@@ -397,7 +418,10 @@
     "unlock": "Débloquez des cadeaux exclusifs et des offres réservées aux membres",
     "cash_savings": "Échangez des points contre des économies en espèces",
     "score_bonus": "Marquez des points bonus le jour de votre anniversaire",
-    "points": "points"
+    "points": "points",
+    "just_sign_up": "Inscrivez-vous simplement et gagnez des points à chaque achat. C'est si facile !",
+    "wellness_journey": "Votre parcours bien-être vient de s'améliorer avec",
+    "sign_up_now": "Inscrivez-vous maintenant"
   },
   {
     "language_name": "Croatian",
@@ -447,7 +471,10 @@
     "unlock": "Otključajte ekskluzivne darove i ponude samo za članove",
     "cash_savings": "Iskoristite bodove za novčane uštede",
     "score_bonus": "Osvojite bonus bodove na svoj rođendan",
-    "points": "bodovi"
+    "points": "bodovi",
+    "just_sign_up": "Jednostavno se prijavite i zaradite bodove svaki put kad kupujete. Tako je jednostavno!",
+    "wellness_journey": "Vaše putovanje k zdravlju upravo je postalo bolje s",
+    "sign_up_now": "Prijavite se sada"
   },
   {
     "language_name": "Hungarian",
@@ -497,7 +524,10 @@
     "unlock": "Nyisson ki exkluzív ajándékokat és csak tagoknak szóló ajánlatokat",
     "cash_savings": "Váltsa be pontjait készpénz megtakarításra",
     "score_bonus": "Szerezzen bónusz pontokat a születésnapján",
-    "points": "pontok"
+    "points": "pontok",
+    "just_sign_up": "Egyszerűen regisztráljon és szerezzen pontokat minden vásárlásnál. Ilyen egyszerű!",
+    "wellness_journey": "Az Ön wellness útja most még jobb lett",
+    "sign_up_now": "Regisztráljon most"
   },
   {
     "language_name": "Indonesian",
@@ -547,7 +577,10 @@
     "unlock": "Buka hadiah eksklusif dan penawaran khusus anggota",
     "cash_savings": "Tukarkan poin untuk penghematan tunai",
     "score_bonus": "Dapatkan poin bonus di hari ulang tahun Anda",
-    "points": "poin"
+    "points": "poin",
+    "just_sign_up": "Cukup daftar dan dapatkan poin setiap kali Anda berbelanja. Sesederhana itu!",
+    "wellness_journey": "Perjalanan kesehatan Anda baru saja menjadi lebih baik dengan",
+    "sign_up_now": "Daftar Sekarang"
   },
   {
     "language_name": "Italian",
@@ -597,7 +630,10 @@
     "unlock": "Sblocca regali esclusivi e offerte riservate ai membri",
     "cash_savings": "Riscatta punti per risparmi in contanti",
     "score_bonus": "Ottieni punti bonus nel tuo compleanno",
-    "points": "punti"
+    "points": "punti",
+    "just_sign_up": "Basta iscriversi e guadagnare punti ogni volta che fai acquisti. È così facile!",
+    "wellness_journey": "Il tuo viaggio verso il benessere è appena migliorato con",
+    "sign_up_now": "Iscriviti ora"
   },
   {
     "language_name": "Japanese",
@@ -647,7 +683,10 @@
     "unlock": "限定ギフトとメンバー限定取引をアンロック",
     "cash_savings": "現金節約のためにポイントを交換",
     "score_bonus": "誕生日にボーナスポイントを獲得",
-    "points": "ポイント"
+    "points": "ポイント",
+    "just_sign_up": "サインアップしてお買い物のたびにポイントを獲得するだけです。とても簡単です！",
+    "wellness_journey": "あなたのウェルネスジャーニーがより良くなりました",
+    "sign_up_now": "今すぐサインアップ"
   },
   {
     "language_name": "Korean",
@@ -697,7 +736,10 @@
     "unlock": "독점 선물과 멤버 전용 딜을 잠금 해제하세요",
     "cash_savings": "현금 절약을 위해 포인트를 교환하세요",
     "score_bonus": "생일에 보너스 포인트를 획득하세요",
-    "points": "포인트"
+    "points": "포인트",
+    "just_sign_up": "가입하고 쇼핑할 때마다 포인트를 획득하세요. 정말 쉽습니다!",
+    "wellness_journey": "당신의 웰니스 여정이 더욱 좋아졌습니다",
+    "sign_up_now": "지금 가입하세요"
   },
   {
     "language_name": "Malay",
@@ -747,7 +789,10 @@
     "unlock": "Buka hadiah eksklusif dan tawaran ahli sahaja",
     "cash_savings": "Tebus mata untuk penjimatan tunai",
     "score_bonus": "Dapatkan mata bonus pada hari lahir anda",
-    "points": "mata"
+    "points": "mata",
+    "just_sign_up": "Hanya daftar dan perolehi mata setiap kali anda membeli-belah. Semudah itu!",
+    "wellness_journey": "Perjalanan kesihatan anda baru sahaja menjadi lebih baik dengan",
+    "sign_up_now": "Daftar Sekarang"
   },
   {
     "language_name": "Dutch",
@@ -797,7 +842,10 @@
     "unlock": "Ontgrendel exclusieve geschenken en alleen-leden deals",
     "cash_savings": "Wissel punten in voor contante besparingen",
     "score_bonus": "Verdien bonuspunten op je verjaardag",
-    "points": "punten"
+    "points": "punten",
+    "just_sign_up": "Meld je gewoon aan en verdien punten bij elke aankoop. Zo makkelijk is het!",
+    "wellness_journey": "Je wellness-reis werd net beter met",
+    "sign_up_now": "Meld je nu aan"
   },
   {
     "language_name": "Norwegian",
@@ -847,7 +895,10 @@
     "unlock": "Lås opp eksklusive gaver og kun-medlemmer tilbud",
     "cash_savings": "Løs inn poeng for kontantbesparelser",
     "score_bonus": "Få bonuspoeng på bursdagen din",
-    "points": "poeng"
+    "points": "poeng",
+    "just_sign_up": "Bare meld deg på og tjen poeng hver gang du handler. Det er så enkelt!",
+    "wellness_journey": "Din wellness-reise ble akkurat bedre med",
+    "sign_up_now": "Meld deg på nå"
   },
   {
     "language_name": "Polish",
@@ -897,7 +948,10 @@
     "unlock": "Odblokuj ekskluzywne prezenty i oferty tylko dla członków",
     "cash_savings": "Wymień punkty na oszczędności gotówkowe",
     "score_bonus": "Zdobądź punkty bonusowe w swoje urodziny",
-    "points": "punkty"
+    "points": "punkty",
+    "just_sign_up": "Po prostu zarejestruj się i zdobywaj punkty przy każdym zakupie. To takie proste!",
+    "wellness_journey": "Twoja podróż wellness właśnie stała się lepsza z",
+    "sign_up_now": "Zarejestruj się teraz"
   },
   {
     "language_name": "Portuguese",
@@ -947,7 +1001,10 @@
     "unlock": "Desbloqueie presentes exclusivos e ofertas apenas para membros",
     "cash_savings": "Resgate pontos por economias em dinheiro",
     "score_bonus": "Ganhe pontos bônus no seu aniversário",
-    "points": "pontos"
+    "points": "pontos",
+    "just_sign_up": "Apenas inscreva-se e ganhe pontos a cada compra. É tão fácil!",
+    "wellness_journey": "Sua jornada de bem-estar acabou de ficar melhor com",
+    "sign_up_now": "Inscreva-se agora"
   },
   {
     "language_name": "Romanian",
@@ -997,7 +1054,10 @@
     "unlock": "Deblocați cadouri exclusive și oferte doar pentru membri",
     "cash_savings": "Răscumpărați puncte pentru economii de numerar",
     "score_bonus": "Câștigați puncte bonus în ziua de naștere",
-    "points": "puncte"
+    "points": "puncte",
+    "just_sign_up": "Doar înregistrați-vă și câștigați puncte de fiecare dată când cumpărați. Este atât de simplu!",
+    "wellness_journey": "Călătoria voastră de wellness a devenit mai bună cu",
+    "sign_up_now": "Înregistrați-vă acum"
   },
   {
     "language_name": "Russian",
@@ -1034,6 +1094,7 @@
     "tiers": "Уровни",
     "start_here": "Начните здесь",
     "spend": "Тратьте",
+   
     "points_per": "Баллы за $1",
     "earning_points": "Зарабатывание баллов",
     "getting_rewards": "Получение наград никогда не было таким простым",
@@ -1047,7 +1108,10 @@
     "unlock": "Разблокируйте эксклюзивные подарки и предложения только для участников",
     "cash_savings": "Обменивайте баллы на денежные сбережения",
     "score_bonus": "Получайте бонусные баллы в день рождения",
-    "points": "баллы"
+    "points": "баллы",
+    "just_sign_up": "Просто зарегистрируйтесь и зарабатывайте баллы при каждой покупке. Это так просто!",
+    "wellness_journey": "Ваше путешествие к здоровью только что стало лучше с",
+    "sign_up_now": "Зарегистрироваться сейчас"
   },
   {
     "language_name": "Slovak",
@@ -1097,7 +1161,10 @@
     "unlock": "Odomknite exkluzívne darčeky a ponuky len pre členov",
     "cash_savings": "Vymeňte body za hotovostné úspory",
     "score_bonus": "Získajte bonusové body vo svoje narodeniny",
-    "points": "body"
+    "points": "body",
+    "just_sign_up": "Jednoducho sa zaregistrujte a získavajte body pri každom nákupe. Je to také jednoduché!",
+    "wellness_journey": "Vaša cesta k zdraviu sa práve zlepšila s",
+    "sign_up_now": "Zaregistrujte sa teraz"
   },
   {
     "language_name": "Slovenian",
@@ -1147,7 +1214,10 @@
     "unlock": "Odklenite ekskluzivna darila in ponudbe samo za člane",
     "cash_savings": "Unovčite točke za denarne prihranke",
     "score_bonus": "Prislužite si bonus točke na svoj rojstni dan",
-    "points": "točke"
+    "points": "točke",
+    "just_sign_up": "Preprosto se registrirajte in pridobivajte točke ob vsakem nakupu. Tako preprosto je!",
+    "wellness_journey": "Vaše potovanje dobrega počutja se je pravkar izboljšalo z",
+    "sign_up_now": "Registrirajte se zdaj"
   },
   {
     "language_name": "Spanish",
@@ -1197,7 +1267,10 @@
     "unlock": "Desbloquea regalos exclusivos y ofertas solo para miembros",
     "cash_savings": "Canjea puntos por ahorros en efectivo",
     "score_bonus": "Obtén puntos bonus en tu cumpleaños",
-    "points": "puntos"
+    "points": "puntos",
+    "just_sign_up": "Simplemente regístrate y gana puntos cada vez que compres. ¡Es así de fácil!",
+    "wellness_journey": "Tu viaje de bienestar acaba de mejorar con",
+    "sign_up_now": "Regístrate ahora"
   },
   {
     "language_name": "Swedish",
@@ -1247,7 +1320,10 @@
     "unlock": "Lås upp exklusiva presenter och endast-medlemmar erbjudanden",
     "cash_savings": "Lösa in poäng för kontantbesparingar",
     "score_bonus": "Få bonuspoäng på din födelsedag",
-    "points": "poäng"
+    "points": "poäng",
+    "just_sign_up": "Bara registrera dig och tjäna poäng varje gång du handlar. Så enkelt är det!",
+    "wellness_journey": "Din wellness-resa blev precis bättre med",
+    "sign_up_now": "Registrera dig nu"
   },
   {
     "language_name": "Thai",
@@ -1297,7 +1373,10 @@
     "unlock": "ปลดล็อกของขวัญพิเศษและดีลเฉพาะสมาชิก",
     "cash_savings": "แลกคะแนนเพื่อประหยัดเงินสด",
     "score_bonus": "รับคะแนนโบนัสในวันเกิดของคุณ",
-    "points": "คะแนน"
+    "points": "คะแนน",
+    "just_sign_up": "เพียงสมัครสมาชิกและรับคะแนนทุกครั้งที่ช้อปปิ้ง ง่ายขนาดนั้น!",
+    "wellness_journey": "การเดินทางสู่สุขภาพดีของคุณเพิ่งดีขึ้นด้วย",
+    "sign_up_now": "สมัครตอนนี้"
   },
   {
     "language_name": "Turkish",
@@ -1347,7 +1426,10 @@
     "unlock": "Özel hediyeler ve sadece üyelere özel fırsatları kilitleyin",
     "cash_savings": "Nakit tasarrufları için puanları kullanın",
     "score_bonus": "Doğum gününüzde bonus puan kazanın",
-    "points": "puan"
+    "points": "puan",
+    "just_sign_up": "Sadece kaydolun ve her alışverişte puan kazanın. Bu kadar basit!",
+    "wellness_journey": "Sağlık yolculuğunuz daha da iyi hale geldi",
+    "sign_up_now": "Şimdi Kaydol"
   },
   {
     "language_name": "Vietnamese",
@@ -1397,7 +1479,10 @@
     "unlock": "Mở khóa quà tặng độc quyền và ưu đãi chỉ dành cho thành viên",
     "cash_savings": "Đổi điểm để tiết kiệm tiền mặt",
     "score_bonus": "Nhận điểm thưởng vào ngày sinh nhật của bạn",
-    "points": "điểm"
+    "points": "điểm",
+    "just_sign_up": "Chỉ cần đăng ký và kiếm điểm mỗi khi bạn mua sắm. Đơn giản như vậy thôi!",
+    "wellness_journey": "Hành trình sức khỏe của bạn vừa trở nên tốt hơn với",
+    "sign_up_now": "Đăng ký ngay"
   },
   {
     "language_name": "Chinese Simplified",
@@ -1447,7 +1532,10 @@
     "unlock": "解锁专属礼品和会员专享优惠",
     "cash_savings": "兑换积分获得现金节省",
     "score_bonus": "在您的生日获得奖励积分",
-    "points": "积分"
+    "points": "积分",
+    "just_sign_up": "只需注册并在每次购物时赚取积分。就是这么简单！",
+    "wellness_journey": "您的健康之旅刚刚变得更好",
+    "sign_up_now": "立即注册"
   },
   {
     "language_name": "Chinese Traditional",
@@ -1497,6 +1585,9 @@
     "unlock": "解鎖專屬禮品和會員專享優惠",
     "cash_savings": "兌換積分獲得現金節省",
     "score_bonus": "在您的生日獲得獎勵積分",
-    "points": "積分"
+    "points": "積分",
+    "just_sign_up": "只需註冊並在每次購物時賺取積分。就是這麼簡單！",
+    "wellness_journey": "您的健康之旅剛剛變得更好",
+    "sign_up_now": "立即註冊"
   }
 ]
