@@ -11,7 +11,7 @@
   {
     "language_name": "Spanish",
     "pr_code": "spa",
-    "language": "es-ES",
+    "language": "es",
     "subject_variation_1": "¡Bienvenido a Piping Rock Rewards!",
     "preaheader_variation_1": "50 puntos ya te están esperando.",
     "subject_variation_2": "¡El programa de recompensas de Piping Rock está aquí!",
@@ -20,7 +20,7 @@
   {
     "language_name": "French",
     "pr_code": "fra",
-    "language": "fr-FR",
+    "language": "fr",
     "subject_variation_1": "Bienvenue dans Piping Rock Rewards !",
     "preaheader_variation_1": "50 points vous attendent déjà.",
     "subject_variation_2": "Le programme de récompenses Piping Rock est là !",
@@ -29,7 +29,7 @@
   {
     "language_name": "German",
     "pr_code": "deu",
-    "language": "de-DE",
+    "language": "de",
     "subject_variation_1": "Willkommen bei Piping Rock Rewards!",
     "preaheader_variation_1": "50 Punkte warten bereits auf Sie.",
     "subject_variation_2": "Das Piping Rock Rewards-Programm ist da!",
@@ -38,7 +38,7 @@
   {
     "language_name": "Italian",
     "pr_code": "ita",
-    "language": "it-IT",
+    "language": "it",
     "subject_variation_1": "Benvenuto in Piping Rock Rewards!",
     "preaheader_variation_1": "50 punti ti stanno già aspettando.",
     "subject_variation_2": "Il programma Rewards di Piping Rock è qui!",
@@ -47,7 +47,7 @@
   {
     "language_name": "Portuguese",
     "pr_code": "por",
-    "language": "pt-PT",
+    "language": "pt",
     "subject_variation_1": "Bem-vindo ao Piping Rock Rewards!",
     "preaheader_variation_1": "50 pontos já estão à sua espera.",
     "subject_variation_2": "O programa de recompensas Piping Rock chegou!",
@@ -56,7 +56,7 @@
   {
     "language_name": "Dutch",
     "pr_code": "nld",
-    "language": "nl-NL",
+    "language": "nl",
     "subject_variation_1": "Welkom bij Piping Rock Rewards!",
     "preaheader_variation_1": "50 punten wachten al op je.",
     "subject_variation_2": "Het Piping Rock Rewards-programma is hier!",
@@ -65,7 +65,7 @@
   {
     "language_name": "Danish",
     "pr_code": "dan",
-    "language": "da-DK",
+    "language": "da",
     "subject_variation_1": "Velkommen til Piping Rock Rewards!",
     "preaheader_variation_1": "50 point venter allerede på dig.",
     "subject_variation_2": "Piping Rock belønningsprogram er her!",
@@ -74,7 +74,7 @@
   {
     "language_name": "Swedish",
     "pr_code": "swe",
-    "language": "sv-SE",
+    "language": "sv",
     "subject_variation_1": "Välkommen till Piping Rock Rewards!",
     "preaheader_variation_1": "50 poäng väntar redan på dig.",
     "subject_variation_2": "Piping Rock belöningsprogram finns här!",
@@ -83,7 +83,7 @@
   {
     "language_name": "Norwegian",
     "pr_code": "nor",
-    "language": "no-NO",
+    "language": "no",
     "subject_variation_1": "Velkommen til Piping Rock Rewards!",
     "preaheader_variation_1": "50 poeng venter allerede på deg.",
     "subject_variation_2": "Piping Rock belønningsprogram er her!",
@@ -92,7 +92,7 @@
   {
     "language_name": "Finnish",
     "pr_code": "fin",
-    "language": "fi-FI",
+    "language": "fi",
     "subject_variation_1": "Tervetuloa Piping Rock Rewards -ohjelmaan!",
     "preaheader_variation_1": "50 pistettä odottaa jo sinua.",
     "subject_variation_2": "Piping Rock -etuprogramma on täällä!",
@@ -101,7 +101,7 @@
   {
     "language_name": "Polish",
     "pr_code": "pol",
-    "language": "pl-PL",
+    "language": "pl",
     "subject_variation_1": "Witamy w Piping Rock Rewards!",
     "preaheader_variation_1": "50 punktów już na Ciebie czeka.",
     "subject_variation_2": "Program nagród Piping Rock już dostępny!",
@@ -110,7 +110,7 @@
   {
     "language_name": "Russian",
     "pr_code": "rus",
-    "language": "ru-RU",
+    "language": "ru",
     "subject_variation_1": "Добро пожаловать в Piping Rock Rewards!",
     "preaheader_variation_1": "50 баллов уже ждут вас.",
     "subject_variation_2": "Программа Piping Rock Rewards уже здесь!",
@@ -119,7 +119,7 @@
   {
     "language_name": "Romanian",
     "pr_code": "ron",
-    "language": "ro-RO",
+    "language": "ro",
     "subject_variation_1": "Bine ai venit la Piping Rock Rewards!",
     "preaheader_variation_1": "50 de puncte te așteaptă deja.",
     "subject_variation_2": "Programul de recompense Piping Rock este aici!",
@@ -128,7 +128,7 @@
   {
     "language_name": "Hungarian",
     "pr_code": "hun",
-    "language": "hu-HU",
+    "language": "hu",
     "subject_variation_1": "Üdvözlünk a Piping Rock Rewards-nél!",
     "preaheader_variation_1": "50 pont már rád vár.",
     "subject_variation_2": "A Piping Rock reward program itt van!",
@@ -137,7 +137,7 @@
   {
     "language_name": "Slovak",
     "pr_code": "slk",
-    "language": "sk-SK",
+    "language": "sk",
     "subject_variation_1": "Vitajte v Piping Rock Rewards!",
     "preaheader_variation_1": "50 bodov už na vás čaká.",
     "subject_variation_2": "Program odmien Piping Rock je tu!",
@@ -146,7 +146,7 @@
   {
     "language_name": "Croatian",
     "pr_code": "hrv",
-    "language": "hr-HR",
+    "language": "hr",
     "subject_variation_1": "Dobrodošli u Piping Rock Rewards!",
     "preaheader_variation_1": "50 bodova već čeka na vas.",
     "subject_variation_2": "Piping Rock program nagrađivanja je ovdje!",
@@ -155,7 +155,7 @@
   {
     "language_name": "Japanese",
     "pr_code": "jpn",
-    "language": "ja-JP",
+    "language": "ja",
     "subject_variation_1": "Piping Rock Rewardsへようこそ！",
     "preaheader_variation_1": "すでに50ポイントがあなたを待っています。",
     "subject_variation_2": "Piping Rockリワードプログラムが登場！",
@@ -164,16 +164,16 @@
   {
     "language_name": "Korean",
     "pr_code": "kor",
-    "language": "ko-KR",
+    "language": "ko",
     "subject_variation_1": "파이핑록 리워즈에 오신 것을 환영합니다!",
     "preaheader_variation_1": "50포인트가 이미 당신을 기다리고 있습니다.",
     "subject_variation_2": "Piping Rock 리워드 프로그램이 시작되었습니다!",
     "preaheader_variation_2": "보상 여정이 지금 시작됩니다."
   },
   {
-    "language_name": "Chinese (Traditional)",
+    "language_name": "Chinese Traditional",
     "pr_code": "zht",
-    "language": "zh-Hant",
+    "language": "zh-CHT",
     "subject_variation_1": "歡迎加入 Piping Rock Rewards！",
     "preaheader_variation_1": "50 點數已經在等您。",
     "subject_variation_2": "Piping Rock 獎勵計劃現已推出！",
