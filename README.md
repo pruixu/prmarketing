@@ -113,6 +113,45 @@ To use your JSON translations in Klaviyo, you need to create a **Web Feed**. Her
 
 ---
 
+## 3.3 How to Generate New Translations
+
+When you need to add a new set of translations for an email:
+
+1. **Start with English JSON:**  
+   Create a JSON object with all the keys and values in English. For example:
+   ```json
+   [
+     {
+       "language_name": "English",
+       "pr_code": "eng",
+       "language": "en-US",
+       "congrats_header": "CONGRATS, YOU'VE REACHED A NEW LOYALTY TIER!",
+       "say_hello": "Say Hello to your new status:"
+     }
+   ]
+   ```
+
+2. **List the target languages:**  
+   Prepare a list of all languages you need, for example:  
+   Azerbaijani, Bulgarian, Danish, German, Greek, Finnish, French, Croatian, Hungarian, Indonesian, Italian, Japanese, Korean, Malay, Dutch, Norwegian, Polish, Portuguese, Romanian, Russian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, Vietnamese, Chinese Simplified, Chinese Traditional.
+
+3. **Use AI or a translation service:**  
+   Ask an AI (like ChatGPT) or a professional translation service to translate the English values for each key into all target languages, keeping the same JSON structure.  
+   Example prompt for AI:  
+   > Please translate the following JSON keys and values into [target language], keeping the same structure.
+   > Target Languages "Azerbaijani, Bulgarian, Danish, German, Greek, Finnish, French, Croatian, Hungarian, Indonesian, Italian, Japanese, Korean, Malay, Dutch, Norwegian, Polish, Portuguese, Romanian, Russian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, Vietnamese, Chinese Simplified, Chinese Traditional."
+
+4. **Combine all translations:**  
+   Add each translated object to your JSON array, updating `"language_name"`, `"pr_code"`, and `"language"` as needed for each language.
+
+5. **Validate your JSON:**  
+   Use a tool like [JSONLint](https://jsonlint.com/) to ensure your file is valid before uploading.
+
+6. **Push to Git:**  
+   Commit and push your updated JSON file(s) to the [prmarketing GitHub repository](https://github.com/pruixu/prmarketing) so they are available for use in Klaviyo and by your team.
+
+---
+
 ## 4. Example Block (Title + Image + Button)
 ```html
 <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
@@ -293,3 +332,22 @@ Gmail sometimes clips emails if:
     <!--<![endif]-->
     ```
   - This keeps your code maintainable and ensures both desktop and mobile render correctly.
+
+---
+
+## 11. User Acceptance Criteria
+
+- [ ] Subject and preheader correct
+- [ ] All links tested
+- [ ] Images display correctly
+- [ ] Responsive on desktop and mobile
+- [ ] No typos or grammar errors
+- [ ] All translations correct
+- [ ] Every element (img, p, h1) must be linkable if required
+- [ ] Make sure old Outlook versions render correctly
+
+
+
+*This process ensures all your emails are ready for multi-language support and easy integration with Klaviyo web feeds.*
+
+
