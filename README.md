@@ -99,19 +99,6 @@ To use your JSON translations in Klaviyo, you need to create a **Web Feed**. Her
 
 10. **Reference in your template**  
     Use Klaviyo’s template syntax to access translations, for example:
-    ```django
-   {% with feed=feeds.LoyaltyWelcomeLaunch %}
-    {% with language=person|lookup:"Last Purchase Language" %}
-      {% for item in feed %}
-        {% if item.language == language|default_if_none:"en-US" %}
-          {{ item.preaheader_variation_1 }}
-        {% endif %}
-      {% endfor %}
-    {% endwith %}
-  {% endwith %}
-    ```
-
----
 
 ## 3.3 How to Generate New Translations
 
