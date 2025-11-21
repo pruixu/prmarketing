@@ -19,40 +19,42 @@
     "silver": "Silver",
     "gold": "Gold",
     "platinum": "Platinum",
-    "as_our":"As our way of saying thank you",
-    "we_added":"we've added <span class=\"underline\">50 points</span> to your account!",
-    "redeem":"Redeem",
-    "how_to":"Here's How It Works",
-    "Earn":"Earn",
-    "enjoy":"Enjoy",
-    "earn_points":"Earn Points Every Time You Shop",
-    "redeem_points":"Redeem Points for Discounts & Special Offers",
-    "get_access":"Get Access to Member-Only Perks",
-    "introduction":"INTRODUCING OUR REWARDS PROGRAM",
-    "shop_now":"SHOP NOW",
-    "where":"Where Healthy Habits Turn into Rewards",
+    "as_our": "As our way of saying thank you",
+    "we_added": "we've added <span class=\"underline\">50 points</span> to your account!",
+    "redeem": "Redeem",
+    "how_to": "Here's How It Works",
+    "Earn": "Earn",
+    "enjoy": "Enjoy",
+    "earn_points": "Earn Points Every Time You Shop",
+    "redeem_points": "Redeem Points for Discounts & Special Offers",
+    "get_access": "Get Access to Member-Only Perks",
+    "introduction": "INTRODUCING OUR REWARDS PROGRAM",
+    "shop_now": "SHOP NOW",
+    "where": "Where Healthy Habits Turn into Rewards",
     "tiers": "Tiers",
-    "start_here":"Start Here",
+    "start_here": "Start Here",
     "spend": "Spend",
     "points_per": "Points Per $1",
     "earning_points": "Earning Points",
-    "getting_rewards":"Getting Rewarded Has Never Been Easier",
-    "join_program":"Join Our Program",
-    "make_purchase":"Make a Purchase",
-    "birthday":"Celebrate a Birthday",
+    "getting_rewards": "Getting Rewarded Has Never Been Easier",
+    "join_program": "Join Our Program",
+    "make_purchase": "Make a Purchase",
+    "birthday": "Celebrate a Birthday",
     "at_least": "At Least",
-    "sign_up":"Sign Up Today",
-    "is_here":"Piping Rock® Rewards is <span class=\"underline\">HERE</span> and",
-    "and_benefits":"the benefits are <span class=\"underline\">TOO GOOD</span> to miss!",
-    "unlock":"Unlock Exclusive Gifts and Member-only Deals",
-    "cash_savings":"Redeem Points for Cash Savings",
-    "score_bonus":"Score Bonus Points on Your Birthday",
+    "sign_up": "Sign Up Today",
+    "is_here": "Piping Rock® Rewards is <span class=\"underline\">HERE</span> and",
+    "and_benefits": "the benefits are <span class=\"underline\">TOO GOOD</span> to miss!",
+    "unlock": "Unlock Exclusive Gifts and Member-only Deals",
+    "cash_savings": "Redeem Points for Cash Savings",
+    "score_bonus": "Score Bonus Points on Your Birthday",
     "points": "points",
     "just_sign_up": "Just sign up and earn points every time you shop. It’s that easy!",
-    "wellness_journey":"Your Wellness Journey Just Got Better with",
-    "sign_up_now":"Sign Up Now",
-    "at_least_per_spent":"At Least 1 Point Per $1 Spent",
-    "welcome_to":"Welcome to"
+    "wellness_journey": "Your Wellness Journey Just Got Better with",
+    "sign_up_now": "Sign Up Now",
+    "at_least_per_spent": "At Least 1 Point Per $1 Spent",
+    "welcome_to": "Welcome to",
+    "you_have": "you have",
+    "points_waiting": "points waiting!"
   },
   {
     "language_name": "Azerbaijani",
@@ -107,7 +109,9 @@
     "wellness_journey": "Sağlamlıq Səyahətiniz daha da yaxşılaşdı",
     "sign_up_now": "İndi Qeydiyyatdan Keçin",
     "at_least_per_spent": "Ən Azı Hər $1 Xərclənən üçün 1 Xal",
-    "welcome_to": "Xoş gəlmisiniz"
+    "welcome_to": "Xoş gəlmisiniz",
+    "you_have": "sizdə var",
+    "points_waiting": "xallar gözləyir!"
   },
   {
     "language_name": "Bulgarian",
@@ -162,7 +166,9 @@
     "wellness_journey": "Вашето пътуване към здравето току-що стана по-добро с",
     "sign_up_now": "Регистрирайте се сега",
     "at_least_per_spent": "Поне 1 Точка На Харчен $1",
-    "welcome_to": "Добре дошли в"
+    "welcome_to": "Добре дошли в",
+    "you_have": "имате",
+    "points_waiting": "точки чакат!"
   },
   {
     "language_name": "Danish",
@@ -217,7 +223,9 @@
     "wellness_journey": "Din wellness-rejse blev lige bedre med",
     "sign_up_now": "Tilmeld dig nu",
     "at_least_per_spent": "Mindst 1 Point Per Brugt $1",
-    "welcome_to": "Velkommen til"
+    "welcome_to": "Velkommen til",
+    "you_have": "du har",
+    "points_waiting": "point venter!"
   },
   {
     "language_name": "German",
@@ -272,7 +280,9 @@
     "wellness_journey": "Ihre Wellness-Reise wurde gerade besser mit",
     "sign_up_now": "Jetzt anmelden",
     "at_least_per_spent": "Mindestens 1 Punkt Pro Ausgegebenem $1",
-    "welcome_to": "Willkommen bei"
+    "welcome_to": "Willkommen bei",
+    "you_have": "Sie haben",
+    "points_waiting": "Punkte warten!"
   },
   {
     "language_name": "Greek",
@@ -327,7 +337,9 @@
     "wellness_journey": "Το ταξίδι ευεξίας σας μόλις έγινε καλύτερο με",
     "sign_up_now": "Εγγραφείτε τώρα",
     "at_least_per_spent": "Τουλάχιστον 1 Πόντος Ανά $1 που Ξοδεύτηκε",
-    "welcome_to": "Καλώς ήρθατε στο"
+    "welcome_to": "Καλώς ήρθατε στο",
+    "you_have": "έχετε",
+    "points_waiting": "πόντοι περιμένουν!"
   },
   {
     "language_name": "Finnish",
@@ -382,7 +394,9 @@
     "wellness_journey": "Hyvinvointimatkasi juuri parani",
     "sign_up_now": "Rekisteröidy nyt",
     "at_least_per_spent": "Vähintään 1 Piste Per Käytetty $1",
-    "welcome_to": "Tervetuloa"
+    "welcome_to": "Tervetuloa",
+    "you_have": "sinulla on",
+    "points_waiting": "pisteitä odottaa!"
   },
   {
     "language_name": "French",
@@ -437,7 +451,9 @@
     "wellness_journey": "Votre parcours bien-être vient de s'améliorer avec",
     "sign_up_now": "Inscrivez-vous maintenant",
     "at_least_per_spent": "Au Moins 1 Point Par $1 Dépensé",
-    "welcome_to": "Bienvenue à"
+    "welcome_to": "Bienvenue à",
+    "you_have": "vous avez",
+    "points_waiting": "points vous attendent!"
   },
   {
     "language_name": "Croatian",
@@ -492,7 +508,9 @@
     "wellness_journey": "Vaše putovanje k zdravlju upravo je postalo bolje s",
     "sign_up_now": "Prijavite se sada",
     "at_least_per_spent": "Najmanje 1 Bod Po Potrošenom $1",
-    "welcome_to": "Dobrodošli u"
+    "welcome_to": "Dobrodošli u",
+    "you_have": "imate",
+    "points_waiting": "bodovi čekaju!"
   },
   {
     "language_name": "Hungarian",
@@ -547,7 +565,9 @@
     "wellness_journey": "Az Ön wellness útja most még jobb lett",
     "sign_up_now": "Regisztráljon most",
     "at_least_per_spent": "Legalább 1 Pont Elköltött $1-ért",
-    "welcome_to": "Üdvözöljük a"
+    "welcome_to": "Üdvözöljük a",
+    "you_have": "önnek van",
+    "points_waiting": "pontok várnak!"
   },
   {
     "language_name": "Indonesian",
@@ -602,7 +622,9 @@
     "wellness_journey": "Perjalanan kesehatan Anda baru saja menjadi lebih baik dengan",
     "sign_up_now": "Daftar Sekarang",
     "at_least_per_spent": "Setidaknya 1 Poin Per $1 yang Dibelanjakan",
-    "welcome_to": "Selamat datang di"
+    "welcome_to": "Selamat datang di",
+    "you_have": "Anda memiliki",
+    "points_waiting": "poin menunggu!"
   },
   {
     "language_name": "Italian",
@@ -657,7 +679,9 @@
     "wellness_journey": "Il tuo viaggio verso il benessere è appena migliorato con",
     "sign_up_now": "Iscriviti ora",
     "at_least_per_spent": "Almeno 1 Punto Per $1 Speso",
-    "welcome_to": "Benvenuto a"
+    "welcome_to": "Benvenuto a",
+    "you_have": "hai",
+    "points_waiting": "punti in attesa!"
   },
   {
     "language_name": "Japanese",
@@ -712,7 +736,9 @@
     "wellness_journey": "あなたのウェルネスジャーニーがより良くなりました",
     "sign_up_now": "今すぐサインアップ",
     "at_least_per_spent": "使った$1につき最低1ポイント",
-    "welcome_to": "ようこそ"
+    "welcome_to": "ようこそ",
+    "you_have": "あなたは持っています",
+    "points_waiting": "ポイントが待っています！"
   },
   {
     "language_name": "Korean",
@@ -767,7 +793,9 @@
     "wellness_journey": "당신의 웰니스 여정이 더욱 좋아졌습니다",
     "sign_up_now": "지금 가입하세요",
     "at_least_per_spent": "사용한 $1당 최소 1포인트",
-    "welcome_to": "환영합니다"
+    "welcome_to": "환영합니다",
+    "you_have": "당신은 가지고 있습니다",
+    "points_waiting": "포인트가 기다리고 있습니다!"
   },
   {
     "language_name": "Malay",
@@ -822,7 +850,9 @@
     "wellness_journey": "Perjalanan kesihatan anda baru sahaja menjadi lebih baik dengan",
     "sign_up_now": "Daftar Sekarang",
     "at_least_per_spent": "Sekurang-kurangnya 1 Mata Setiap $1 Dibelanjakan",
-    "welcome_to": "Selamat datang ke"
+    "welcome_to": "Selamat datang ke",
+    "you_have": "anda mempunyai",
+    "points_waiting": "mata menunggu!"
   },
   {
     "language_name": "Dutch",
@@ -877,7 +907,9 @@
     "wellness_journey": "Je wellness-reis werd net beter met",
     "sign_up_now": "Meld je nu aan",
     "at_least_per_spent": "Tenminste 1 Punt Per Uitgegeven $1",
-    "welcome_to": "Welkom bij"
+    "welcome_to": "Welkom bij",
+    "you_have": "je hebt",
+    "points_waiting": "punten wachten!"
   },
   {
     "language_name": "Norwegian",
@@ -932,7 +964,9 @@
     "wellness_journey": "Din wellness-reise ble akkurat bedre med",
     "sign_up_now": "Meld deg på nå",
     "at_least_per_spent": "Minst 1 Poeng Per Brukt $1",
-    "welcome_to": "Velkommen til"
+    "welcome_to": "Velkommen til",
+    "you_have": "du har",
+    "points_waiting": "poeng venter!"
   },
   {
     "language_name": "Polish",
@@ -987,7 +1021,9 @@
     "wellness_journey": "Twoja podróż wellness właśnie stała się lepsza z",
     "sign_up_now": "Zarejestruj się teraz",
     "at_least_per_spent": "Przynajmniej 1 Punkt Na Wydany $1",
-    "welcome_to": "Witamy w"
+    "welcome_to": "Witamy w",
+    "you_have": "masz",
+    "points_waiting": "punkty czekają!"
   },
   {
     "language_name": "Portuguese",
@@ -1042,7 +1078,9 @@
     "wellness_journey": "Sua jornada de bem-estar acabou de ficar melhor com",
     "sign_up_now": "Inscreva-se agora",
     "at_least_per_spent": "Pelo Menos 1 Ponto Por $1 Gasto",
-    "welcome_to": "Bem-vindo ao"
+    "welcome_to": "Bem-vindo ao",
+    "you_have": "você tem",
+    "points_waiting": "pontos esperando!"
   },
   {
     "language_name": "Romanian",
@@ -1097,7 +1135,9 @@
     "wellness_journey": "Călătoria voastră de wellness a devenit mai bună cu",
     "sign_up_now": "Înregistrați-vă acum",
     "at_least_per_spent": "Cel Puțin 1 Punct Pe $1 Cheltuit",
-    "welcome_to": "Bun venit la"
+    "welcome_to": "Bun venit la",
+    "you_have": "aveți",
+    "points_waiting": "puncte așteaptă!"
   },
   {
     "language_name": "Russian",
@@ -1152,7 +1192,9 @@
     "wellness_journey": "Ваше путешествие к здоровью только что стало лучше с",
     "sign_up_now": "Зарегистрироваться сейчас",
     "at_least_per_spent": "Как Минимум 1 Балл За Потраченный $1",
-    "welcome_to": "Добро пожаловать в"
+    "welcome_to": "Добро пожаловать в",
+    "you_have": "у вас есть",
+    "points_waiting": "баллы ждут!"
   },
   {
     "language_name": "Slovak",
@@ -1207,7 +1249,9 @@
     "wellness_journey": "Vaša cesta k zdraviu sa práve zlepšila s",
     "sign_up_now": "Zaregistrujte sa teraz",
     "at_least_per_spent": "Aspoň 1 Bod Za Minutý $1",
-    "welcome_to": "Vitajte v"
+    "welcome_to": "Vitajte v",
+    "you_have": "máte",
+    "points_waiting": "body čakajú!"
   },
   {
     "language_name": "Slovenian",
@@ -1262,7 +1306,9 @@
     "wellness_journey": "Vaše potovanje dobrega počutja se je pravkar izboljšalo z",
     "sign_up_now": "Registrirajte se zdaj",
     "at_least_per_spent": "Vsaj 1 Točka Na Porabljen $1",
-    "welcome_to": "Dobrodošli v"
+    "welcome_to": "Dobrodošli v",
+    "you_have": "imate",
+    "points_waiting": "točke čakajo!"
   },
   {
     "language_name": "Spanish",
@@ -1317,7 +1363,9 @@
     "wellness_journey": "Tu viaje de bienestar acaba de mejorar con",
     "sign_up_now": "Regístrate ahora",
     "at_least_per_spent": "Al Menos 1 Punto Por $1 Gastado",
-    "welcome_to": "Bienvenido a"
+    "welcome_to": "Bienvenido a",
+    "you_have": "tienes",
+    "points_waiting": "puntos esperando!"
   },
   {
     "language_name": "Swedish",
@@ -1372,7 +1420,9 @@
     "wellness_journey": "Din wellness-resa blev precis bättre med",
     "sign_up_now": "Registrera dig nu",
     "at_least_per_spent": "Minst 1 Poäng Per Spenderad $1",
-    "welcome_to": "Välkommen till"
+    "welcome_to": "Välkommen till",
+    "you_have": "du har",
+    "points_waiting": "poäng väntar!"
   },
   {
     "language_name": "Thai",
@@ -1427,7 +1477,9 @@
     "wellness_journey": "การเดินทางสู่สุขภาพดีของคุณเพิ่งดีขึ้นด้วย",
     "sign_up_now": "สมัครตอนนี้",
     "at_least_per_spent": "อย่างน้อย 1 คะแนนต่อการใช้จ่าย $1",
-    "welcome_to": "ยินดีต้อนรับสู่"
+    "welcome_to": "ยินดีต้อนรับสู่",
+    "you_have": "คุณมี",
+    "points_waiting": "คะแนนรออยู่!"
   },
   {
     "language_name": "Turkish",
@@ -1482,7 +1534,9 @@
     "wellness_journey": "Sağlık yolculuğunuz daha da iyi hale geldi",
     "sign_up_now": "Şimdi Kaydol",
     "at_least_per_spent": "Harcanan Her $1 İçin En Az 1 Puan",
-    "welcome_to": "Hoş geldiniz"
+    "welcome_to": "Hoş geldiniz",
+    "you_have": "sahipsiniz",
+    "points_waiting": "puan bekliyor!"
   },
   {
     "language_name": "Vietnamese",
@@ -1537,7 +1591,9 @@
     "wellness_journey": "Hành trình sức khỏe của bạn vừa trở nên tốt hơn với",
     "sign_up_now": "Đăng ký ngay",
     "at_least_per_spent": "Ít Nhất 1 Điểm Mỗi $1 Chi Tiêu",
-    "welcome_to": "Chào mừng đến với"
+    "welcome_to": "Chào mừng đến với",
+    "you_have": "bạn có",
+    "points_waiting": "điểm đang chờ!"
   },
   {
     "language_name": "Chinese Simplified",
@@ -1592,7 +1648,9 @@
     "wellness_journey": "您的健康之旅刚刚变得更好",
     "sign_up_now": "立即注册",
     "at_least_per_spent": "每消费$1至少1积分",
-    "welcome_to": "欢迎来到"
+    "welcome_to": "欢迎来到",
+    "you_have": "您有",
+    "points_waiting": "积分等待中！"
   },
   {
     "language_name": "Chinese Traditional",
@@ -1647,6 +1705,8 @@
     "wellness_journey": "您的健康之旅剛剛變得更好",
     "sign_up_now": "立即註冊",
     "at_least_per_spent": "每消費$1至少1積分",
-    "welcome_to": "歡迎來到"
+    "welcome_to": "歡迎來到",
+    "you_have": "您有",
+    "points_waiting": "積分等待中！"
   }
 ]
