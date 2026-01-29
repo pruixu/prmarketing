@@ -12,6 +12,18 @@
     "subject_variation_7": "Hurry! Buy 1 Get 1 Free on 100 Items"
   },
   {
+    "language_name": "English",
+    "pr_code": "eng",
+    "language": "en",
+    "subject_variation_1": "Buy 1 Get 1 Free Ends Tomorrow!",
+    "subject_variation_2": "Shop Now! Buy 1 Get 1 Free Ends Soon..",
+    "subject_variation_3": "Shop Now! Buy 1 Get 1 Free Ends Tomorrow..",
+    "subject_variation_4": "Last Chance! Buy 1 Get 1 Free Ends Tomorrow",
+    "subject_variation_5": "Last Chance! Buy 1 Get 1 Free..",
+    "subject_variation_6": "HURRY! Buy 1 Get 1 Free Ends Soon",
+    "subject_variation_7": "Hurry! Buy 1 Get 1 Free on 100 Items"
+  },
+  {
     "language_name": "Azerbaijani",
     "pr_code": "aze",
     "language": "az",
@@ -336,21 +348,9 @@
     "subject_variation_7": "Nhanh lên! Mua 1 Tặng 1 Miễn Phí 100 Mặt Hàng"
   },
   {
-    "language_name": "Chinese Simplified",
-    "pr_code": "zhs",
-    "language": "zh-CHS",
-    "subject_variation_1": "买一送一，明日结束！",
-    "subject_variation_2": "即刻购买！买一送一活动快结束啦！",
-    "subject_variation_3": "即刻购买！买一送一活动明日即将结束！",
-    "subject_variation_4": "最后的机会！买一送一活动明日即将结束！",
-    "subject_variation_5": "别错过买一送一，最后的机会！",
-    "subject_variation_6": "别错过！买一送一的活动即将结束了！",
-    "subject_variation_7": "赶快行动，100多件商品已经加入买一送一的活动！"
-  },
-  {
     "language_name": "Chinese Traditional",
     "pr_code": "zht",
-    "language": "zh-CHT",
+    "language": "zh",
     "subject_variation_1": "買一送一，明日結束！",
     "subject_variation_2": "立即購買！買一送一活動快結束啦！",
     "subject_variation_3": "即刻購買！買一送一活動明日即將結束！",
