@@ -2,6 +2,7 @@
   {
     "language_name": "English",
     "pr_code": "eng",
+    "flex_language_code": "en-US",
     "language": "en-US",
     "subject_variation_1": "Cash in on Jaw Dropping New Deals🔥",
     "subject_variation_2": "Just For You… A VIP Discount!",
@@ -14,13 +15,12 @@
     "subject_variation_9": "Big Score… You Earned 20% OFF Your Next Order!",
     "subject_variation_10": "Last chance to get 20% off!",
     "subject_variation_11": "Last chance to get 20% off!"
-    
-    
   },
   {
     "language_name": "Azerbaijani",
     "pr_code": "aze",
-    "language": "az",
+    "flex_language_code": "az",
+    "language": "az-AZ",
     "subject_variation_1": "Yeni sövdələşmələrdən qazanc əldə edin🔥",
     "subject_variation_2": "Yalnız Sizin üçün... VIP Endirim!",
     "subject_variation_3": "Görməyə dəyər yeni inanılmaz təkliflər👀",
@@ -36,7 +36,8 @@
   {
     "language_name": "Bulgarian",
     "pr_code": "bul",
-    "language": "bg",
+    "flex_language_code": "bg",
+    "language": "bg-BG",
     "subject_variation_1": "Възползвайте се от зашеметяващо изгодни нови оферти🔥",
     "subject_variation_2": "Специално за Вас…VIP отстъпка!",
     "subject_variation_3": "Невероятни, страхотни нови оферти, които не са за изпускане👀",
@@ -52,7 +53,8 @@
   {
     "language_name": "Danish",
     "pr_code": "dan",
-    "language": "da",
+    "flex_language_code": "da",
+    "language": "da-DK",
     "subject_variation_1": "Få glæde af nye vanvittige tilbud🔥",
     "subject_variation_2": "Bare for dig... en VIP-rabat!",
     "subject_variation_3": "Vilde nye vanvittige tilbud, du skal se👀",
@@ -68,7 +70,8 @@
   {
     "language_name": "German",
     "pr_code": "deu",
-    "language": "de",
+    "flex_language_code": "de",
+    "language": "de-DE",
     "subject_variation_1": "Machen Sie Plus bei den unglaublichen neuen Angeboten🔥",
     "subject_variation_2": "Nur für Sie... ein VIP-Rabatt!",
     "subject_variation_3": "Wilde neue verrückte Angebote, die Sie sich ansehen sollten👀",
@@ -84,7 +87,8 @@
   {
     "language_name": "Greek (modern)",
     "pr_code": "ell",
-    "language": "el",
+    "flex_language_code": "el",
+    "language": "el-GR",
     "subject_variation_1": "Εκμεταλλευτείτε απίστευτες νέες προσφορές🔥",
     "subject_variation_2": "Μόνο για εσάς… μια έκπτωση VIP!",
     "subject_variation_3": "Φοβερές νέες τρελές προσφορές που πρέπει να δείτε👀",
@@ -100,7 +104,8 @@
   {
     "language_name": "Finnish",
     "pr_code": "fin",
-    "language": "fi",
+    "flex_language_code": "fi",
+    "language": "fi-FI",
     "subject_variation_1": "Ota hyöty leuan loksauttavista uusista tarjouksista 🔥",
     "subject_variation_2": "Vain sinulle... VIP-alennus!",
     "subject_variation_3": "Villejä uusia hulluja tarjouksia, jotka sinun täytyy nähdä👀",
@@ -116,7 +121,8 @@
   {
     "language_name": "French",
     "pr_code": "fra",
-    "language": "fr",
+    "flex_language_code": "fr",
+    "language": "fr-FR",
     "subject_variation_1": "Tirez profit des nouvelles bonnes affaires renversantes🔥",
     "subject_variation_2": "Juste pour vous… Une remise VIP!",
     "subject_variation_3": "De nouvelles bonnes affaires démentielles que vous devez absolument voir👀",
@@ -132,7 +138,8 @@
   {
     "language_name": "Croatian",
     "pr_code": "hrv",
-    "language": "hr",
+    "flex_language_code": "hr",
+    "language": "hr-HR",
     "subject_variation_1": "Iskoristite zapanjujuće nove popuste🔥",
     "subject_variation_2": "Samo za vas... VIP popust!",
     "subject_variation_3": "Novi ludi popusti koje morate vidjeti👀",
@@ -148,7 +155,8 @@
   {
     "language_name": "Hungarian",
     "pr_code": "hun",
-    "language": "hu",
+    "flex_language_code": "hu",
+    "language": "hu-HU",
     "subject_variation_1": "Váltsa be fantasztikus új ajánlatinkat🔥",
     "subject_variation_2": "Csak Önnek… egy VIP kedvezmény!",
     "subject_variation_3": "Őrült ajánlatok, amit látnia kell👀",
@@ -164,7 +172,8 @@
   {
     "language_name": "Indonesian",
     "pr_code": "ind",
-    "language": "id",
+    "flex_language_code": "id",
+    "language": "id-ID",
     "subject_variation_1": "Nikmati Penawaran Baru yang Mengejutkan🔥",
     "subject_variation_2": "Hanya untuk Anda… Diskon VIP!",
     "subject_variation_3": "Penawaran Gila-Gilaan yang Tak Boleh Dilewatkan👀",
@@ -180,7 +189,8 @@
   {
     "language_name": "Italian",
     "pr_code": "ita",
-    "language": "it",
+    "flex_language_code": "it",
+    "language": "it-IT",
     "subject_variation_1": "Incredibili offerte che ti lasceranno a bocca aperta🔥",
     "subject_variation_2": "Solo per te, uno sconto da VIP!",
     "subject_variation_3": "Nuove offerte che non puoi lasciarti scappare👀",
@@ -196,7 +206,8 @@
   {
     "language_name": "Japanese",
     "pr_code": "jpn",
-    "language": "ja",
+    "flex_language_code": "ja",
+    "language": "ja-JP",
     "subject_variation_1": "あっと驚くほどのお得な取引！🔥",
     "subject_variation_2": "あなただけに…VIP割引！",
     "subject_variation_3": "決して見逃せない、驚くほどのお得な取引！👀",
@@ -212,7 +223,8 @@
   {
     "language_name": "Korean",
     "pr_code": "kor",
-    "language": "ko",
+    "flex_language_code": "ko",
+    "language": "ko-KR",
     "subject_variation_1": "입이 떡하니 벌어질만 한 새로운 행사 상품을 확인해보세요🔥",
     "subject_variation_2": "당신만을 위한… VIP 할인!",
     "subject_variation_3": "꼭 확인하셔야 할 어마어마한 행사👀",
@@ -228,7 +240,8 @@
   {
     "language_name": "Malay",
     "pr_code": "msa",
-    "language": "ms",
+    "flex_language_code": "ms",
+    "language": "ms-MY",
     "subject_variation_1": "Beli Tunai Ke atas Tawaran Baharu Yang Sungguh Menakjubkan🔥",
     "subject_variation_2": "Istimewa untuk Anda... Diskaun VIP!",
     "subject_variation_3": "Tawaran Baharu yang Sungguh Hebat yang Anda Perlu Lihat👀",
@@ -244,7 +257,8 @@
   {
     "language_name": "Dutch",
     "pr_code": "nld",
-    "language": "nl",
+    "flex_language_code": "nl",
+    "language": "nl-NL",
     "subject_variation_1": "Profiteer van adembenemende nieuwe deals🔥",
     "subject_variation_2": "Speciaal voor u: een vip-korting!",
     "subject_variation_3": "Woeste waanzinnige deals die u echt moet zien👀",
@@ -260,7 +274,8 @@
   {
     "language_name": "Norwegian",
     "pr_code": "nor",
-    "language": "no",
+    "flex_language_code": "no",
+    "language": "no-NO",
     "subject_variation_1": "Tjen på utrolige tilbud🔥",
     "subject_variation_2": "Bare for deg... En VIP-rabatt!",
     "subject_variation_3": "Ville nye tilbud du må se👀",
@@ -276,7 +291,8 @@
   {
     "language_name": "Polish",
     "pr_code": "pol",
-    "language": "pl",
+    "flex_language_code": "pl",
+    "language": "pl-PL",
     "subject_variation_1": "Skorzystaj z nowych okazji, przy których opada szczęka🔥",
     "subject_variation_2": "Tylko dla Ciebie… Rabat VIP!",
     "subject_variation_3": "Nowe szalone okazje, które musisz zobaczyć👀",
@@ -292,7 +308,8 @@
   {
     "language_name": "Portuguese",
     "pr_code": "por",
-    "language": "pt",
+    "flex_language_code": "pt",
+    "language": "pt-PT",
     "subject_variation_1": "Dinheiro nas Ofertas De Cair o Queixo🔥",
     "subject_variation_2": "Exclusivo para você... um desconto VIP!",
     "subject_variation_3": "Ofertas Malucas que você não pode perder👀",
@@ -308,7 +325,8 @@
   {
     "language_name": "Romanian",
     "pr_code": "ron",
-    "language": "ro",
+    "flex_language_code": "ro",
+    "language": "ro-RO",
     "subject_variation_1": "Câștigă cu noi oferte de-ți cade maxilarul🔥",
     "subject_variation_2": "Doar pentru dvs... un discount VIP!",
     "subject_variation_3": "Oferte noi sălbatice pe care trebuie să le vezi👀",
@@ -324,7 +342,8 @@
   {
     "language_name": "Russian",
     "pr_code": "rus",
-    "language": "ru",
+    "flex_language_code": "ru",
+    "language": "ru-RU",
     "subject_variation_1": "Извлеките максимальную выгоду из потрясающих новых предложений🔥",
     "subject_variation_2": "Только для Вас... VIP-скидка!",
     "subject_variation_3": "Новые потрясающие предложения, которые вам нужно увидеть👀",
@@ -340,7 +359,8 @@
   {
     "language_name": "Slovak",
     "pr_code": "slk",
-    "language": "sk",
+    "flex_language_code": "sk",
+    "language": "sk-SK",
     "subject_variation_1": "Profitujte z nových ponúk, z ktorých vám padne sánka🔥",
     "subject_variation_2": "Len pre vás... VIP zľava!",
     "subject_variation_3": "Divoké nové šialené ponuky, ktoré musíte vidieť👀",
@@ -356,7 +376,8 @@
   {
     "language_name": "Slovene",
     "pr_code": "slv",
-    "language": "sl",
+    "flex_language_code": "sl",
+    "language": "sl-SI",
     "subject_variation_1": "Zaslužite za neverjetne nove ponudbe🔥",
     "subject_variation_2": "Samo za vas…VIP popust!",
     "subject_variation_3": "Divje nove nore ponudbe, ki jih morate videti👀",
@@ -372,7 +393,8 @@
   {
     "language_name": "Spanish",
     "pr_code": "spa",
-    "language": "es",
+    "flex_language_code": "es",
+    "language": "es-ES",
     "subject_variation_1": "Aproveche estas increíbles ofertas🔥",
     "subject_variation_2": "Solo para usted... ¡Un descuento VIP!",
     "subject_variation_3": "Nuevas y increíbles ofertas que no se puede perder👀",
@@ -388,7 +410,8 @@
   {
     "language_name": "Swedish",
     "pr_code": "swe",
-    "language": "sv",
+    "flex_language_code": "sv",
+    "language": "sv-SE",
     "subject_variation_1": "Tjäna pengar på häpnadsväckande nya erbjudanden🔥",
     "subject_variation_2": "Bara för dig... En VIP-rabatt!",
     "subject_variation_3": "Vilda nya galna erbjudanden du måste se👀",
@@ -404,7 +427,8 @@
   {
     "language_name": "Thai",
     "pr_code": "tha",
-    "language": "th",
+    "flex_language_code": "th",
+    "language": "th-TH",
     "subject_variation_1": "เงินสดในข้อเสนอใหม่ที่คุณจะต้องตกใจ🔥",
     "subject_variation_2": "สำหรับคุณเท่านั้น… ส่วนลดระดับวีไอพี!",
     "subject_variation_3": "ข้อเสนอใหม่สุดระห่ำที่คุณต้องดู👀",
@@ -420,7 +444,8 @@
   {
     "language_name": "Turkish",
     "pr_code": "tur",
-    "language": "tr",
+    "flex_language_code": "tr",
+    "language": "tr-TR",
     "subject_variation_1": "Dudak Uçuklatan Yeni İndirimlerden Yararlanın🔥",
     "subject_variation_2": "Sadece Sizin için… bir VIP İndirimi!",
     "subject_variation_3": "Görmeniz Gereken Yeni Çılgın İndirimler Var👀",
@@ -436,7 +461,8 @@
   {
     "language_name": "Vietnamese",
     "pr_code": "vie",
-    "language": "vi",
+    "flex_language_code": "vi",
+    "language": "vi-VN",
     "subject_variation_1": "Nhận tiền mặt trong ưu đãi bất ngờ mới🔥",
     "subject_variation_2": "Dành riêng cho bạn… Giảm giá VIP!",
     "subject_variation_3": "Ưu đãi khủng mới mà bạn cần xem👀",
@@ -452,7 +478,8 @@
   {
     "language_name": "Chinese Simplified",
     "pr_code": "zhs",
-    "language": "zh-CHS",
+    "flex_language_code": "zh-CHS",
+    "language": "zh-CN",
     "subject_variation_1": "在令人惊叹的新优惠上获得收益",
     "subject_variation_2": "只为您... VIP 折扣！",
     "subject_variation_3": "您需要看到新的疯狂特卖",
@@ -468,7 +495,8 @@
   {
     "language_name": "Chinese Traditional",
     "pr_code": "zht",
-    "language": "zh-CHT",
+    "flex_language_code": "zh-CHT",
+    "language": "zh-TW",
     "subject_variation_1": "在令人惊叹的新优惠上获得收益",
     "subject_variation_2": "只爲您……VIP折扣！",
     "subject_variation_3": "您需要看到新的疯狂特卖",
