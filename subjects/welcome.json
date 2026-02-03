@@ -1,7 +1,7 @@
 [
   {
     "language_name": "English",
-    "language": "en-US",
+    "language": "en",
     "pr_code": "eng",
     "subject_variation_1": "WELCOME TO PIPING ROCK!"
   },
@@ -168,14 +168,8 @@
     "subject_variation_1": "CHÀO MỪNG BẠN ĐẾN VỚI PIPING ROCK!"
   },
   {
-    "language_name": "Chinese Simplified",
-    "language": "zh-CHS",
-    "pr_code": "zhs",
-    "subject_variation_1": "欢迎光临PIPING ROCK!"
-  },
-  {
     "language_name": "Chinese Traditional",
-    "language": "zh-CHT",
+    "language": "zh",
     "pr_code": "zht",
     "subject_variation_1": "歡迎光臨PIPING ROCK!"
   }

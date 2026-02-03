@@ -2,7 +2,7 @@
   {
     "language_name": "English",
     "pr_code": "eng",
-    "language": "en-US",
+    "language": "en",
     "subject_variation_1": "Running Low? Re-order Before You Run Out!",
     "pre_header_variation_1": "Never Run Out of Your Favorites Again",
     "subject_variation_2": "Need a Refill? We Got You!",
@@ -222,7 +222,7 @@
   {
     "language_name": "Chinese Traditional",
     "pr_code": "zht",
-    "language": "zh-CHT",
+    "language": "zh",
     "subject_variation_1": "所剩不多？在用完之前重新訂購！",
     "pre_header_variation_1": "再也不會用完您的最愛",
     "subject_variation_2": "需要補貨？我們幫你！",

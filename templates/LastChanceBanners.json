@@ -2,7 +2,7 @@
  {
    "language_name": "English",
    "pr_code": "eng",
-   "language": "en-US",
+   "language": "en",
    "ending_soon": "ENDING SOON",
    "50_off": "50% OFF",
    "bogo": "BOGO"
@@ -224,17 +224,9 @@
    "bogo": "BOGO"
  },
  {
-   "language_name": "Chinese Simplified",
-   "pr_code": "zhs",
-   "language": "zh-CHS",
-   "ending_soon": "即将结束",
-   "50_off": "半价优惠",
-   "bogo": "买一送一"
- },
- {
    "language_name": "Chinese Traditional",
    "pr_code": "zht",
-   "language": "zh-CHT",
+   "language": "zh",
  "ending_soon": "即將結束",
    "50_off": "五折優惠",
    "bogo": "買一送一"

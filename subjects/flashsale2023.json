@@ -2,7 +2,7 @@
   {
     "language_name": "English",
     "pr_code": "eng",
-    "language": "en-US",
+    "language": "en",
     "subject_variation_1": "Flash Sale! Up to 60% OFF",
     "subject_variation_2": "HURRY! Flash Sale Ends Soon…",
     "pre_header_variation_1": "Cant Miss Deals. Up to 60% OFF ",
@@ -252,18 +252,9 @@
    "subject_variation_4": ""
   },
   {
-    "language_name": "Chinese Simplified",
-    "pr_code": "zhs",
-    "language": "zh-CHS",
-   "subject_variation_1": "闪购！低至四折！",
-   "subject_variation_2": "抓紧时间！闪购即将结束……",
-   "pre_header_variation_1": "优惠不容错过。抵制四折优惠",
-   "subject_variation_4": ""
-  },
-  {
     "language_name": "Chinese Traditional",
     "pr_code": "zht",
-    "language": "zh-CHT",
+    "language": "zh",
    "subject_variation_1": "閃購！低至四折！",
    "subject_variation_2": "抓緊時間！閃購即將結束⋯⋯",
    "pre_header_variation_1": "優惠不容錯過。低至四折優惠",

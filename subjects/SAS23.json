@@ -2,7 +2,7 @@
   {
     "language_name": "English",
     "pr_code": "eng",
-    "language": "en-US",
+    "language": "en",
     "subject_variation_1": "Up to 60% OFF: Our Semi-Annual Sale is Here!",
     "subject_variation_2": "Semi-Annual Sale Ends Soon! Up to 60% OFF.",
     "pre_header_variation_1": "Big savings you won’t want to miss",
@@ -252,18 +252,9 @@
    "pre_header_variation_2": "Thời gian không còn nhiều – Nhanh tay để được nhận ưu đãi lớn"
   },
   {
-    "language_name": "Chinese Simplified",
-    "pr_code": "zhs",
-    "language": "zh-CHS",
-   "subject_variation_1": "低至四折优惠：年中特卖火热来袭！",
-   "subject_variation_2": "年中特卖即将结束！低至四折优惠。",
-   "pre_header_variation_1": "不容错过的超值优惠",
-   "pre_header_variation_2": "时间不多了 – 立即选购，节省资金"
-  },
-  {
     "language_name": "Chinese Traditional",
     "pr_code": "zht",
-    "language": "zh-CHT",
+    "language": "zh",
    "subject_variation_1": "低至四折優惠：年中特賣火熱來襲！",
    "subject_variation_2": "年中特賣即將結束！低至四折優惠。",
    "pre_header_variation_1": "不容錯過的超值優惠",

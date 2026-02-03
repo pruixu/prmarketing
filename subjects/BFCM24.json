@@ -2,7 +2,7 @@
   {
     "language_name": "English",
     "pr_code": "eng",
-    "language": "en-US",
+    "language": "en",
     "bf_subject_variation_1": "Up to 60% Off: Black Friday Starts Now!",
     "bf_pre_header_variation_1": "Shop now and save.",
     "bf_subject_variation_2": "Up To 60% Off! Black Friday Steals: Save Big",
@@ -420,24 +420,9 @@
     "cm_pre_header_variation_2": "Đừng bỏ lỡ những khoản tiết kiệm này"
   },
   {
-    "language_name": "Chinese Simplified",
-    "pr_code": "zhs",
-    "language": "zh-CHS",
-   "bf_subject_variation_1": "低至六折：黑色星期五现已开启！",
-    "bf_pre_header_variation_1": "立即购物，省钱省心。",
-    "bf_subject_variation_2": "低至六折！黑色星期五抢购：省大钱",
-    "bf_pre_header_variation_2": "赶快行动，优惠转瞬即逝。",
-    "bf_subject_variation_3": "优惠低至六折，错过不再！",
-    "bf_pre_header_variation_3": "最后几小时，抓住机会大赚一笔！",
-    "cm_subject_variation_1": "网络星期一闪购，低至六折！",
-    "cm_pre_header_variation_1": "您省大钱的机会来了",
-    "cm_subject_variation_2": "最后倒计时：网络星期一六折优惠！",
-    "cm_pre_header_variation_2": "就是现在——千万别错过这些优惠"
-  },
-  {
     "language_name": "Chinese Traditional",
     "pr_code": "zht",
-    "language": "zh-CHT",
+    "language": "zh",
    "bf_subject_variation_1": "折扣高達 60%：黑色星期五開跑！",
     "bf_pre_header_variation_1": "現在購買，立即省錢。",
     "bf_subject_variation_2": "折扣高達 60%！黑色星期五大優惠：大筆省錢",

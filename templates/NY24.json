@@ -2,7 +2,7 @@
  {
    "language_name": "English",
    "pr_code": "eng",
-   "language": "en-US",
+   "language": "en",
    "deals_that_really_sparkle": "DEALS THAT REALLY SPARKLE",
    "limited_time_only": "Limited Time Only",
    "Shop_now":"SHOP NOW",
@@ -335,22 +335,11 @@
    "select_items":"Đối với các mặt hàng được chọn",
    "last_chance":"Cơ hội Cuối cùng"
  },
- {
-   "language_name": "Chinese Simplified",
-   "pr_code": "zhs",
-   "language": "zh-CHS",
-    "deals_that_really_sparkle": "真正精彩优惠",
-   "limited_time_only": "时间有限",
-   "Shop_now":"现在购买",
-   "new_year_sale":"新年促销",
-   "50_off":"5折",
-   "select_items":"精选物品",
-   "last_chance":"最后的机会！"
- },
+
  {
    "language_name": "Chinese Traditional",
    "pr_code": "zht",
-   "language": "zh-CHT",
+   "language": "zh",
     "deals_that_really_sparkle": "真正精彩优惠",
    "limited_time_only": "時間有限",
    "Shop_now":"現在購買",

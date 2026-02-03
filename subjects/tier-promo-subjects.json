@@ -2,7 +2,7 @@
   {
     "language_name": "English",
     "pr_code": "eng",
-    "language": "en-US",
+    "language": "en",
     "subject_variation_1": "Score Big: 40%-60% OFF Limited Time Deal!",
     "subject_variation_2": "Ending Soon! 40%-60% Off"
   },
@@ -196,16 +196,9 @@
     "subject_variation_2": "Sắp kết thúc! Giảm 40%-60%"
   },
   {
-    "language_name": "Chinese Simplified",
-    "pr_code": "zhs",
-    "language": "zh-CHS",
-    "subject_variation_1": "抓住超值优惠：限时特惠，打4—6折！",
-    "subject_variation_2": "活动即将结束！4—6折"
-  },
-  {
     "language_name": "Chinese Traditional",
     "pr_code": "zht",
-    "language": "zh-CHT",
+    "language": "zh",
     "subject_variation_1": "抓住超值優惠：限時特惠，打4—6折！",
     "subject_variation_2": "活動即將結束！4—6折"
   }

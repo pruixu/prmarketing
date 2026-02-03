@@ -2,7 +2,7 @@
   {
     "language_name": "English",
     "pr_code": "eng",
-    "language": "en-US",
+    "language": "en",
     "subject_variation_1": "Welcome to Piping Rock Rewards!",
     "preaheader_variation_1": "50 points are already waiting for you.",
     "subject_variation_2": "Piping Rock Reward program is here!",
@@ -173,7 +173,7 @@
   {
     "language_name": "Chinese Traditional",
     "pr_code": "zht",
-    "language": "zh-CHT",
+    "language": "zh",
     "subject_variation_1": "歡迎加入 Piping Rock Rewards！",
     "preaheader_variation_1": "50 點數已經在等您。",
     "subject_variation_2": "Piping Rock 獎勵計劃現已推出！",

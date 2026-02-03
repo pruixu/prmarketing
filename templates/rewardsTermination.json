@@ -2,7 +2,7 @@
  {
    "language_name": "English",
    "pr_code": "eng",
-   "language": "en-US",
+   "language": "en",
    "rewards_termination_subject": "Important Termination Notice to Our Rewards Program Participants",
    "terminating_rewards":"PIPINGROCK IS TERMINATING THE REWARDS PROGRAM",
    "important_note":"That is why it is important for you to take note of what you must do to use your Reward Points in the given time frames.",
@@ -393,23 +393,9 @@
    "thank_you_for_participation":"CẢM ƠN BẠN ĐÃ THAM GIA CHƯƠNG TRÌNH CỦA CHÚNG TÔI"
  },
  {
-   "language_name": "Chinese Simplified",
-   "pr_code": "zhs",
-   "language": "zh-CHS",
-   "rewards_termination_subject": "给我们的奖励计划参与者的重要终止通知",
-   "terminating_rewards":"PIPINGROCK 正在终止奖励计划",
-   "important_note":"这就是为什么重要的是要注意在给定的时间范围内必须做什么才能使用您的奖励积分。",
-   "termination_list":"<li>我们的奖励计划将于美国东部时间 2023 年 1 月 18 日晚上 11:59 终止。</li><li>本终止通知发布在我们的 PipingRock 网站上，并于 2022 年 11 月 18 日通过电子邮件发送给每位参与者。</li><li>从 2022 年 12 月 5 日开始，您将不再在奖励计划中赚取积分或奖励金。</li><li>从 2022 年 12 月 5 日开始到 2023 年 1 月 18 日晚上 11:59 结束。 EST，您所有的奖励积分将仅可用于您在 pipingrock.com 上的购买。</li><li>从现在到 2022 年 12 月 5 日，您可以通过发送电子邮件至 rewards@pipingrock.com 请求我们以支票形式向您分发您的奖励金。</li><li>请注意，如果您想这样做，您的电子邮件必须。</li><li>我们将在 2022 年 12 月 5 日美国东部标准时间晚上 11:59 或之前收到。</li><li>提供应发送此类付款的地址。</li><li>晚上 11:59 之后美国东部时间 2023 年 1 月 18 日，您的奖励资金和奖励积分将不再可用。</li><li>我们对您的奖励金和奖励积分的义务限于最多六个月的奖励，根据您从 2022 年 12 月 19 日到 2023 年 1 月 18 日期间的奖励计算</li>",
-   "termination_alert":"晚上 11:59 之后美国东部时间 2023 年 1 月 18 日，您的奖励资金和奖励积分将不再可用。",
-   "other_information":"其他信息：",
-   "when_you_joined":"当您第一次加入我们的奖励计划时，您是根据我们网站上管理我们计划的使用条款进行的。",
-   "terms_of_use_indicate":"如使用条款所示，我们有权通过在我们的网站上发布终止通知来终止我们的奖励计划。以上所有大写术语与使用条款中的含义相同。",
-   "thank_you_for_participation":"感谢您参与我们的计划"
- },
- {
    "language_name": "Chinese Traditional",
    "pr_code": "zht",
-   "language": "zh-CHT",
+   "language": "zh",
    "rewards_termination_subject": "給我們的獎勵計劃參與者的重要終止通知",
    "terminating_rewards":"PIPINGROCK 正在終止獎勵計劃",
    "important_note":"這就是為什麼重要的是要注意在給定的時間範圍內必須做什麼才能使用您的獎勵積分。",

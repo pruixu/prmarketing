@@ -2,7 +2,7 @@
   {
     "language_name": "English",
     "pr_code": "eng",
-    "language": "en-US",
+    "language": "en",
     "subject_variation_1": "Look what you’re missing. NEW Special Offer Inside!",
     "subject_variation_2": "We’ve missed you! Here’s 40% OFF EVERYTHING!",
     "subject_variation_3": "It’s been a while! Here’s 40% OFF of our new products since you been gone",
@@ -252,18 +252,9 @@
     "subject_variation_4": "Cơ hội cuối cùng… Đừng bỏ lỡ GIẢM GIÁ 40%!"
   },
   {
-    "language_name": "Chinese Simplified",
-    "pr_code": "zhs",
-    "language": "zh-CHS",
-    "subject_variation_1": "查看您错过了什么。内有新的优惠。",
-    "subject_variation_2": "想念您！这里尽享6折优惠！",
-    "subject_variation_3": "有一段时间没来了！我们的新品有6折优惠。",
-    "subject_variation_4": "最后机会…不要错过40%优惠折扣！"
-  },
-  {
     "language_name": "Chinese Traditional",
     "pr_code": "zht",
-    "language": "zh-CHT",
+    "language": "zh",
     "subject_variation_1": "查看您錯過了什麽。内有新的優惠。",
     "subject_variation_2": "想念您！這裏盡享6折優惠！",
     "subject_variation_3": "有一段時間沒來了，我們的新品有6折優惠。",
