@@ -105,7 +105,7 @@ Store text in JSON per language, for example:
 
 For **subject lines and preheaders**, use the `in` operator to check if the base language code is contained in the full locale:
 
-```django
+```plaintext
 {% with feed=feeds.YourSubjectFeed %}
   {% for item in feed %}
     {% if item.language in person|lookup:"Last Purchase Language"|default_if_none:"en-US" %}
@@ -121,7 +121,7 @@ For **subject lines and preheaders**, use the `in` operator to check if the base
 - Check: `"en" in "en-US"` → `true` ✅
 
 **Example:**
-```django
+```plaintext
 {% with feed=feeds.BOGOLastChanceSubjects %}
   {% for item in feed %}
     {% if item.language in person|lookup:"Last Purchase Language"|default_if_none:"en-US" %}
@@ -135,7 +135,7 @@ For **subject lines and preheaders**, use the `in` operator to check if the base
 
 For **email body content**, extract the base language code using `slice:":2"` and compare:
 
-```django
+```plaintext
 {% with feed=feeds.YourContentFeed %}
   {% with language=person|lookup:"Last Purchase Language"|default:"en-US" %}
     {% with langBase=language|slice:":2" %}
@@ -155,7 +155,7 @@ For **email body content**, extract the base language code using `slice:":2"` an
 3. Compare: `"en" == "en"` → `true` ✅
 
 **Complete Example (Preheader):**
-```django
+```plaintext
 {% with feed=feeds.PreHeaders %}
   {% with language=person|lookup:"Last Purchase Language"|default:"en-US" %}
     {% with langBase=language|slice:":2" %}
@@ -170,7 +170,7 @@ For **email body content**, extract the base language code using `slice:":2"` an
 ```
 
 **Complete Example (Loyalty Points Content):**
-```django
+```plaintext
 {% with langFeed=feeds.loyaltyPoints %}
   {% with language=person|lookup:"Last Purchase Language"|default:"en-US" %}
     {% with langBase=language|slice:":2" %}
