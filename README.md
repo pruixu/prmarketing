@@ -105,8 +105,8 @@ Store text in JSON per language, for example:
 
 For **subject lines and preheaders**, use the `in` operator to check if the base language code is contained in the full locale:
 
+<!-- {% raw %} -->
 ```plaintext
-{% raw %}
 {% with feed=feeds.YourSubjectFeed %}
   {% for item in feed %}
     {% if item.language in person|lookup:"Last Purchase Language"|default_if_none:"en-US" %}
@@ -114,8 +114,8 @@ For **subject lines and preheaders**, use the `in` operator to check if the base
     {% endif %}
   {% endfor %}
 {% endwith %}
-{% endraw %}
 ```
+<!-- {% endraw %} -->
 
 **How it works:**
 - Customer has `Last Purchase Language: "en-US"`
@@ -123,8 +123,8 @@ For **subject lines and preheaders**, use the `in` operator to check if the base
 - Check: `"en" in "en-US"` → `true` ✅
 
 **Example:**
+<!-- {% raw %} -->
 ```plaintext
-{% raw %}
 {% with feed=feeds.BOGOLastChanceSubjects %}
   {% for item in feed %}
     {% if item.language in person|lookup:"Last Purchase Language"|default_if_none:"en-US" %}
@@ -132,15 +132,15 @@ For **subject lines and preheaders**, use the `in` operator to check if the base
     {% endif %}
   {% endfor %}
 {% endwith %}
-{% endraw %}
 ```
+<!-- {% endraw %} -->
 
 ### 3.3 Using Translations in HTML Templates
 
 For **email body content**, extract the base language code using `slice:":2"` and compare:
 
+<!-- {% raw %} -->
 ```plaintext
-{% raw %}
 {% with feed=feeds.YourContentFeed %}
   {% with language=person|lookup:"Last Purchase Language"|default:"en-US" %}
     {% with langBase=language|slice:":2" %}
@@ -152,8 +152,8 @@ For **email body content**, extract the base language code using `slice:":2"` an
     {% endwith %}
   {% endwith %}
 {% endwith %}
-{% endraw %}
 ```
+<!-- {% endraw %} -->
 
 **How it works:**
 1. Get `Last Purchase Language: "en-US"` from customer profile
@@ -161,8 +161,8 @@ For **email body content**, extract the base language code using `slice:":2"` an
 3. Compare: `"en" == "en"` → `true` ✅
 
 **Complete Example (Preheader):**
+<!-- {% raw %} -->
 ```plaintext
-{% raw %}
 {% with feed=feeds.PreHeaders %}
   {% with language=person|lookup:"Last Purchase Language"|default:"en-US" %}
     {% with langBase=language|slice:":2" %}
@@ -174,12 +174,12 @@ For **email body content**, extract the base language code using `slice:":2"` an
     {% endwith %}
   {% endwith %}
 {% endwith %}
-{% endraw %}
 ```
+<!-- {% endraw %} -->
 
 **Complete Example (Loyalty Points Content):**
+<!-- {% raw %} -->
 ```plaintext
-{% raw %}
 {% with langFeed=feeds.loyaltyPoints %}
   {% with language=person|lookup:"Last Purchase Language"|default:"en-US" %}
     {% with langBase=language|slice:":2" %}
@@ -192,8 +192,8 @@ For **email body content**, extract the base language code using `slice:":2"` an
     {% endwith %}
   {% endwith %}
 {% endwith %}
-{% endraw %}
 ```
+<!-- {% endraw %} -->
 
 ### 3.4 Why This Approach?
 
