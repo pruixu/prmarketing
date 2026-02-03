@@ -106,6 +106,7 @@ Store text in JSON per language, for example:
 For **subject lines and preheaders**, use the `in` operator to check if the base language code is contained in the full locale:
 
 ```plaintext
+{% raw %}
 {% with feed=feeds.YourSubjectFeed %}
   {% for item in feed %}
     {% if item.language in person|lookup:"Last Purchase Language"|default_if_none:"en-US" %}
@@ -113,6 +114,7 @@ For **subject lines and preheaders**, use the `in` operator to check if the base
     {% endif %}
   {% endfor %}
 {% endwith %}
+{% endraw %}
 ```
 
 **How it works:**
@@ -122,6 +124,7 @@ For **subject lines and preheaders**, use the `in` operator to check if the base
 
 **Example:**
 ```plaintext
+{% raw %}
 {% with feed=feeds.BOGOLastChanceSubjects %}
   {% for item in feed %}
     {% if item.language in person|lookup:"Last Purchase Language"|default_if_none:"en-US" %}
@@ -129,6 +132,7 @@ For **subject lines and preheaders**, use the `in` operator to check if the base
     {% endif %}
   {% endfor %}
 {% endwith %}
+{% endraw %}
 ```
 
 ### 3.3 Using Translations in HTML Templates
@@ -136,6 +140,7 @@ For **subject lines and preheaders**, use the `in` operator to check if the base
 For **email body content**, extract the base language code using `slice:":2"` and compare:
 
 ```plaintext
+{% raw %}
 {% with feed=feeds.YourContentFeed %}
   {% with language=person|lookup:"Last Purchase Language"|default:"en-US" %}
     {% with langBase=language|slice:":2" %}
@@ -147,6 +152,7 @@ For **email body content**, extract the base language code using `slice:":2"` an
     {% endwith %}
   {% endwith %}
 {% endwith %}
+{% endraw %}
 ```
 
 **How it works:**
@@ -156,6 +162,7 @@ For **email body content**, extract the base language code using `slice:":2"` an
 
 **Complete Example (Preheader):**
 ```plaintext
+{% raw %}
 {% with feed=feeds.PreHeaders %}
   {% with language=person|lookup:"Last Purchase Language"|default:"en-US" %}
     {% with langBase=language|slice:":2" %}
@@ -167,10 +174,12 @@ For **email body content**, extract the base language code using `slice:":2"` an
     {% endwith %}
   {% endwith %}
 {% endwith %}
+{% endraw %}
 ```
 
 **Complete Example (Loyalty Points Content):**
 ```plaintext
+{% raw %}
 {% with langFeed=feeds.loyaltyPoints %}
   {% with language=person|lookup:"Last Purchase Language"|default:"en-US" %}
     {% with langBase=language|slice:":2" %}
@@ -183,6 +192,7 @@ For **email body content**, extract the base language code using `slice:":2"` an
     {% endwith %}
   {% endwith %}
 {% endwith %}
+{% endraw %}
 ```
 
 ### 3.4 Why This Approach?
