@@ -2,7 +2,7 @@
   {
     "language_name": "English",
     "pr_code": "eng",
-    "language": "en-US",
+    "language": "en",
     "subject_variation_1":"New (Year) Deal Just Dropped: 50% OFF",
     "subject_variation_2":"50% OFF: New Year's Savings Await!",
     "subject_variation_3":"Unlock 50% OFF: New Year's Sale!",
@@ -420,24 +420,9 @@
     "pre_header_variation_5":"Chào đón năm mới với ưu đãi tiết kiệm đặc biệt"
   },
   {
-    "language_name": "Chinese Simplified",
-    "pr_code": "zhs",
-    "language": "zh-CHS",
-    "subject_variation_1":"新（年）优惠刚刚发布：半价优惠",
-    "subject_variation_2":"半价优惠：新年优惠等着您！",
-    "subject_variation_3":"解锁半价优惠：新年促销！",
-    "subject_variation_4":"新年大减价！五折优惠",
-    "subject_variation_5":"最后机会！以五折优惠开启 2025 年",
-    "pre_header_variation_1":"以独家优惠庆祝新年",
-    "pre_header_variation_2":"以独家优惠庆祝新年",
-    "pre_header_variation_3":"以独家优惠庆祝新年",
-    "pre_header_variation_4":"以独家优惠庆祝新年",
-    "pre_header_variation_5":"以独家优惠庆祝新年"
-  },
-  {
     "language_name": "Chinese Traditional",
     "pr_code": "zht",
-    "language": "zh-CHT",
+    "language": "zh",
     "subject_variation_1":"新（年）優惠剛剛發布：五折優惠",
     "subject_variation_2":"五折優惠：新年優惠等你來！",
     "subject_variation_3":"解鎖五折優惠：新年促銷！",

@@ -2,7 +2,7 @@
   {
     "language_name": "English",
     "pr_code": "eng",
-    "language": "en-US",
+    "language": "en",
     "pre_header_variation_1": "Trust 40+ Years of Experience! (25% Offer Inside)",
     "pre_header_variation_2": "Supplements You’ll Love, Lab-Tested Formulas you Deserve!",
     "pre_header_variation_3": "Join Over 3 Million Happy Customers"
@@ -224,17 +224,9 @@
     "pre_header_variation_3": "Tham gia cùng hơn 3 triệu khách hàng hài lòng"
   },
   {
-    "language_name": "Chinese Simplified",
-    "pr_code": "zhs",
-    "language": "zh-CHS",
-    "pre_header_variation_1": "相信40多年的经验！ （25％内部优惠）",
-    "pre_header_variation_2": "您喜欢的补充剂拥有经过实验室检测的配方，值得您拥有！",
-    "pre_header_variation_3": "加入超过200万的快乐用户"
-  },
-  {
     "language_name": "Chinese Traditional",
     "pr_code": "zht",
-    "language": "zh-CHT",
+    "language": "zh",
     "pre_header_variation_1": "相信40多年的經驗！（25%內部優惠）",
     "pre_header_variation_2": "您喜歡的補充劑擁有經過實驗室檢測的配方，值得您擁有！",
     "pre_header_variation_3": "加入超過200萬的快樂用戶"

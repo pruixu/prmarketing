@@ -2,7 +2,7 @@
   {
     "language_name": "English",
     "pr_code": "eng",
-    "language": "en-US",
+    "language": "en",
     "subject_variation_1": "Your Welcome Coupon Has Arrived!",
     "subject_variation_2": "Take 10% OFF, with Over 3,000 Products to Choose From!",
     "subject_variation_3": "Enjoy 10% OFF on High-Quality Vitamins at an Exceptional Value"
@@ -224,17 +224,9 @@
     "subject_variation_3": "Tận hưởng GIẢM GIÁ 10% đối với các vitamin chất lượng cao với giá trị vượt trội"
   },
   {
-    "language_name": "Chinese Simplified",
-    "pr_code": "zhs",
-    "language": "zh-CHS",
-    "subject_variation_1": "您的欢迎券到了！",
-    "subject_variation_2": "享受10折，有3,000多种产品可供选择！",
-    "subject_variation_3": "优质维生素超值享受75折优惠"
-  },
-  {
     "language_name": "Chinese Traditional",
     "pr_code": "zht",
-    "language": "zh-CHT",
+    "language": "zh",
     "subject_variation_1": "您的歡迎券到了！",
     "subject_variation_2": "享受10折，有3,000多種產品可供選擇！",
     "subject_variation_3": "優質維生素超值享受75折優惠"

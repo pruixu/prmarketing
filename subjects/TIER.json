@@ -2,7 +2,7 @@
   {
     "language_name": "English",
     "pr_code": "eng",
-    "language": "en-US",
+    "language": "en",
     "subject_variation_1": "Up to 60% Off – Shop the Sale Now!",
     "subject_variation_2": "Hurry! 40% to 60% Off – Sale Ends Soon"
   },
@@ -196,16 +196,9 @@
     "subject_variation_2": "Nhanh tay lên! Giảm giá 40% đến 60% – Ưu đãi sắp kết thúc"
   },
   {
-    "language_name": "Chinese Simplified",
-    "pr_code": "zhs",
-    "language": "zh-CHS",
-    "subject_variation_1": "优惠最高可达60%——立即选购特卖商品！",
-    "subject_variation_2": "马上行动！40%至60%的折扣——优惠即将结束"
-  },
-  {
     "language_name": "Chinese Traditional",
     "pr_code": "zht",
-    "language": "zh-CHT",
+    "language": "zh",
     "subject_variation_1": "最高可享六折優惠——現在就來選購吧！",
     "subject_variation_2": "快快行動！四至六折優惠——特賣即將結束"
   }

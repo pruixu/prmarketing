@@ -2,7 +2,7 @@
   {
     "language_name": "English",
     "pr_code": "eng",
-    "language": "en-US",
+    "language": "en",
     "subject_variation_1": "Enjoy 50% OFF to Begin your Wellness Resolutions!",
     "subject_variation_2": "Ring in the New Year with 50% OFF!",
     "subject_variation_3": "50% OFF your First Step to a Healthier New Year",
@@ -33,7 +33,7 @@
     "language_name": "Danish",
     "pr_code": "dan",
     "language": "da",
-     "subject_variation_1": "Nyd 50% RABAT for at begynde dine wellness-forsætter!",
+    "subject_variation_1": "Nyd 50% RABAT for at begynde dine wellness-forsætter!",
     "subject_variation_2": "Ringe det nye år ind med 50% RABAT!",
     "subject_variation_3": "50% RABAT på dit første skridt mod et sundere nyt år",
     "subject_variation_4": "Sidste chance for 50% RABAT for at begynde det nye år!",
@@ -138,7 +138,6 @@
     "subject_variation_3": "건강한 새해를 맞이하기 위한 50% 할인",
     "subject_variation_4": "새해를 시작하는 50% 할인의 마지막 기회!",
     "subject_variation_5": ""
-  },
   },
   {
     "language_name": "Malay",
@@ -270,7 +269,6 @@
     "subject_variation_4": "Yeni Yıla Yaklaşırken % 50 İndirim için Son Şans!",
     "subject_variation_5": ""
   },
-  },
   {
     "language_name": "Vietnamese",
     "pr_code": "vie",
@@ -280,20 +278,11 @@
     "subject_variation_3": "GIẢM GIÁ 50% Bước đầu tiên để có một năm mới khỏe mạnh hơn",
     "subject_variation_4": "Cơ hội cuối cùng nhận GIẢM GIÁ 50% để chào đón năm mới!",
     "subject_variation_5": ""
-  {
-    "language_name": "Chinese Simplified",
-    "pr_code": "zhs",
-    "language": "zh-CHS",
-    "subject_variation_1": "開啟健康計畫，享受五折優惠！",
-    "subject_variation_2": "五折優惠迎新年！",
-    "subject_variation_3": "享五折優惠，新年更健康",
-    "subject_variation_4": "新年五折優惠最後搶購！",
-    "subject_variation_5": ""
   },
   {
     "language_name": "Chinese Traditional",
     "pr_code": "zht",
-    "language": "zh-CHT",
+    "language": "zh",
     "subject_variation_1": "开启健康计划，享受五折优惠！",
     "subject_variation_2": "五折优惠迎新年！",
     "subject_variation_3": "享五折优惠，新年更健康",

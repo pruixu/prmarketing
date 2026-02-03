@@ -2,7 +2,7 @@
   {
     "language_name": "English",
     "pr_code": "eng",
-    "language": "en-US",
+    "language": "en",
     "email_as_web_page": "To view this email as a web page, click here.",
     "crazy_deals": "CRAZY DEALS",
     "rewards": "REWARDS PROGRAM",
@@ -588,30 +588,9 @@
     "this_week_only!": "CHỈ TRONG TUẦN NÀY!"
   },
   {
-    "language_name": "Chinese Simplified",
-    "pr_code": "zhs",
-    "language": "zh-CHS",
-    "email_as_web_page": "在您的浏览器中查看这封邮件",
-    "crazy_deals": "热门促销",
-    "rewards": "奖励计划",
-    "shop_products": "店铺商品",
-    "essential_oils": "精油",
-    "supplements": "膳食补充品",
-    "nuts_and_seeds": "坚果&干货",
-    "expiration_message": "有效期 {{expiration_year}}-{{expiration_month}}-{{expiration_day}}",
-    "Footer_Message": "请不要回复本邮件：请使用下面链接发送您的建议及意见、接受独家折扣或者取消未来Piping Rock电子邮件订阅。",
-    "Footer_expiration": "折扣码只能用于购买Piping Rock 的所有自营产品，优惠不能用于之前购买的订单。Tükənir {{expiration_year}}-{{expiration_month}}-{{expiration_day}} @ 23:59 EST.",
-    "customer_service": "客服热线",
-    "register": "注册",
-    "login": "登录",
-    "unsubscibe": "取消订阅",
-    "privacy_policy": "隐私政策"
-    "this_week_only!": "仅限本周！"
-  },
-  {
     "language_name": "Chinese Traditional",
     "pr_code": "zht",
-    "language": "zh-CHT",
+    "language": "zh",
     "email_as_web_page": "在您的流覽器中查看這封郵件",
     "crazy_deals": "瘋狂直銷",
     "rewards": "獎勵計畫",

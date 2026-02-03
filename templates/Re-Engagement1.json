@@ -2,7 +2,7 @@
  {
    "language_name": "English",
    "pr_code": "eng",
-   "language": "en-US",
+   "language": "en",
    "lets_get_back_together": "Let's get back together!",
    "Want_to_shop": "Want to shop?",
    "Shop_now":"SHOP NOW",
@@ -419,25 +419,11 @@
    "Free_Domestic_Shipping_on_75":"Miễn phí vận chuyển trong nước cho các đơn hàng từ 75$ trở lên",
    "50_Years_of_Trusted_Experience":"Hơn 50 năm kinh nghiệm uy tín"
  },
- {
-   "language_name": "Chinese Simplified",
-   "pr_code": "zhs",
-   "language": "zh-CHS",
-   "lets_get_back_together": "我们期盼您的回归",
-   "Want_to_shop": "想要购买吗",
-   "Shop_now":"立即购买",
-   "We_want_to_reconnect_with_you_and_help_you_start_your_health_journey":"我们期待有机会再次助您开启健康之旅",
-   "Reasons_to_shop_for_the_whole_family":"为全家人购买我们产品的理由",
-   "shop_3000_plus_products":"3,000 多种产品任您选购",
-   "100_Satisfaction_Guaranteed":"100% 保证满意",
-   "Manufactured_in_the_US.":"美国制造",
-   "Free_Domestic_Shipping_on_75":"满 75 美元国内免运费",
-   "50_Years_of_Trusted_Experience":"备受信赖 50 余年"
- },
+
  {
    "language_name": "Chinese Traditional",
    "pr_code": "zht",
-   "language": "zh-CHT",
+   "language": "zh",
    "lets_get_back_together": "我們期盼您的回歸",
    "Want_to_shop": "想要購買嗎？",
    "Shop_now":"立即購買",

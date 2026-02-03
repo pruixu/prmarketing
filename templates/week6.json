@@ -363,23 +363,11 @@
       "shop_now": "MUA NGAY",
       "promo_code": "SỬ DỤNG MÃ"
     },
-    {
-      "language_name": "Chinese Simplified",
-      "pr_code": "zhs",
-      "language": "zh-CHS",
-      "make_move": "做出下一步行动",
-      "stay_touch": "与我们保持联系",
-      "percentage_save": "节省 20%",
-      "on_plus": "满 $39+",
-      "hurry_p": "务必抓紧时间，此优惠将在 10 天后失效。",
-      "discount_percentage": "八折优惠",
-      "shop_now": "立即选购吧",
-      "promo_code": "使用代码"
-    },
+
     {
       "language_name": "Chinese Traditional",
       "pr_code": "zht",
-      "language": "zh-CHT",
+      "language": "zh",
       "make_move": "做出下一步行動",
       "stay_touch": "與我們保持聯繫",
       "percentage_save": "節省 20%",

@@ -2,7 +2,7 @@
   {
     "language_name": "English",
     "pr_code": "eng",
-    "language": "en-US",
+    "language": "en",
     "subject_variation_1": "Cash in on Jaw Dropping New Deals🔥",
     "subject_variation_2": "Just For You… A VIP Discount!",
     "subject_variation_3": "Wild New Crazy Deals You Need to See👀",
@@ -450,25 +450,9 @@
     "subject_variation_11": "Cơ hội cuối cùng để được giảm giá 20%!"
   },
   {
-    "language_name": "Chinese Simplified",
-    "pr_code": "zhs",
-    "language": "zh-CHS",
-    "subject_variation_1": "在令人惊叹的新优惠上获得收益",
-    "subject_variation_2": "只为您... VIP 折扣！",
-    "subject_variation_3": "您需要看到新的疯狂特卖",
-    "subject_variation_4": "快乐是我们的......享有一瓶免费的维生素 D3！☀️",
-    "subject_variation_5": "您应得的，专为您而设的特别折扣！",
-    "subject_variation_6": "使用专属您特别折扣的最后机会！",
-    "subject_variation_7": "立即打开来查看有史以来最大的优惠",
-    "subject_variation_8": "我们提高了您的折扣，现在购物可享受 40% 的优惠！",
-    "subject_variation_9": "高分……您的下一个订单可享受 40% 的优惠！",
-    "subject_variation_10": "最后获得 40% 优惠的机会！",
-    "subject_variation_11": "最后获得 20% 优惠的机会！"
-  },
-  {
     "language_name": "Chinese Traditional",
     "pr_code": "zht",
-    "language": "zh-CHT",
+    "language": "zh",
     "subject_variation_1": "在令人惊叹的新优惠上获得收益",
     "subject_variation_2": "只爲您……VIP折扣！",
     "subject_variation_3": "您需要看到新的疯狂特卖",

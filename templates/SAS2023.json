@@ -1,7 +1,7 @@
 [
   {
     "language_name": "English",
-    "language": "en-US",
+    "language": "en",
     "pr_code": "eng",
     "up_to": "Up to",
     "60_OFF": "60% OFF",
@@ -210,7 +210,7 @@
   },
   {
     "language_name": "Chinese Traditional",
-    "language": "zh-CHT",
+    "language": "zh",
     "pr_code": "zht",
      "up_to": "取決於",
     "60_OFF": "60% 優惠",

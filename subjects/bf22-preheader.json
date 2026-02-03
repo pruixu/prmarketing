@@ -2,7 +2,7 @@
   {
     "language_name": "English",
     "pr_code": "eng",
-    "language": "en-US",
+    "language": "en",
     "pre_header_variation_1": "THE SALE EVENT OF THE YEAR IS HERE"
   },
   {
@@ -168,15 +168,9 @@
     "pre_header_variation_1": "SỰ KIỆN BÁN HÀNG CỦA NĂM TẠI ĐÂY"
   },
   {
-    "language_name": "Chinese Simplified",
-    "pr_code": "zhs",
-    "language": "zh-CHS",
-    "pre_header_variation_1": "今年的销售活动在这"
-  },
-  {
     "language_name": "Chinese Traditional",
     "pr_code": "zht",
-    "language": "zh-CHT",
+    "language": "zh",
     "pre_header_variation_1": "今年的銷售活動在這"
   }
 ]

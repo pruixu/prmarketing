@@ -1,14 +1,35 @@
 # prmarketing
-Store marketing email JSON files
-## Live URL
-The below url is the web accessible link that can be used to link to various json files in Klaviyo or other platforms.
+Store marketing email JSON files for Klaviyo multi-language emails.
 
- https://pruixu.github.io/prmarketing/
+## Table of Contents
+- [Live URL](#live-url)
+- [Validate JSON](#validate-json)
+- [📘 Klaviyo Email Development 101 (with JSON translations)](#-klaviyo-email-development-101-with-json-translations)
+  - [1. Why This Guide?](#1-why-this-guide)
+  - [2. HTML Email Basics](#2-html-email-basics)
+  - [3. Using Translations in JSON](#3-using-translations-in-json)
+    - [3.1 Important: Language Code Normalization](#31-important-language-code-normalization)
+    - [3.2 Using Translations in Subject Lines](#32-using-translations-in-subject-lines)
+    - [3.3 Using Translations in HTML Templates](#33-using-translations-in-html-templates)
+    - [3.4 Why This Approach?](#34-why-this-approach)
+    - [3.5 How to Create a Web Feed in Klaviyo](#35-how-to-create-a-web-feed-in-klaviyo)
+    - [3.6 How to Generate New Translations](#36-how-to-generate-new-translations)
+  - [4. Example Block (Title + Image + Button)](#4-example-block-title--image--button)
+    - [4.1 Example JSON for That Block](#41-example-json-for-that-block)
+  - [5. Tips for Better Email Development](#5-tips-for-better-email-development)
+  - [6. Special Considerations for Outlook](#6-special-considerations-for-outlook)
+  - [7. Gmail Line Length & Clipping](#7-gmail-line-length--clipping)
+  - [8. Best Practice Summary](#8-best-practice-summary)
+  - [9. Responsive Design with a Single Table](#9-responsive-design-with-a-single-table)
+  - [10. User Acceptance Criteria (UAC) Checklist](#10-user-acceptance-criteria-uac-checklist)
+
+---
+
+## Live URL
+The below url is the web accessible link that can be used to link to various json files in Klaviyo or other platforms. https://pruixu.github.io/prmarketing/
 
 ### Validate JSON
-If you are trouble loading the json file, you are receiving errors, etc., please make sure that json file doesn't contain any formatting or structure errors. You can use the below link to validate the JSON file.
-
-https://jsonlint.com/
+If you are trouble loading the json file, you are receiving errors, etc., please make sure that json file doesn't contain any formatting or structure errors. You can use the below link to validate the JSON file. https://jsonlint.com/
 
 
 # 📘 Klaviyo Email Development 101 (with JSON translations)
@@ -38,35 +59,146 @@ All translations are managed in the [prmarketing GitHub repository](https://gith
 Store text in JSON per language, for example:
 
 ```json
-{
 [
   {
     "language_name": "English",
     "pr_code": "eng",
-    "language": "en-US",
-    "congrats_header": " CONGRATS, YOU'VE REACHED A NEW LOYALTY TIER!"
+    "language": "en",
+    "congrats_header": "CONGRATS, YOU'VE REACHED A NEW LOYALTY TIER!"
   },
   {
-    "language_name": "Azerbaijani",
-    "pr_code": "aze",
-    "language": "az",
-    "congrats_header": "TƏBRİKLƏR, SİZ YENİ LOJALLIK SƏVİYYƏSİNƏ ÇATDINIZ!"
+    "language_name": "Spanish",
+    "pr_code": "spa",
+    "language": "es",
+    "congrats_header": "¡FELICIDADES, HAS ALCANZADO UN NUEVO NIVEL DE LEALTAD!"
   }
 ]
+```
+
+### 3.1 Important: Language Code Normalization
+
+**⚠️ Critical:** The `language` property must contain **only the base language code** (2 characters), NOT the full locale code.
+
+✅ **Correct:**
+```json
+{
+  "language": "en",
+  "language": "es",
+  "language": "fr",
+  "language": "zh"
 }
 ```
 
-In Klaviyo, you can select the proper key with Liquid/Django syntax:
-
-```django
-{% if person.language == "es" %}
-  {{ translations.es.title }}
-{% else %}
-  {{ translations.en.title }}
-{% endif %}
+❌ **Incorrect:**
+```json
+{
+  "language": "en-US",
+  "language": "es-ES",
+  "language": "fr-FR",
+  "language": "zh-CHS"
+}
 ```
 
-### 3.2 How to Create a Web Feed in Klaviyo
+**Why?** In Klaviyo, customer profiles store `Last Purchase Language` with full locale codes like `"en-US"`, `"es-MX"`, `"fr-CA"`, etc. To match correctly, we normalize JSON to use only base codes and handle the comparison in Klaviyo templates.
+
+### 3.2 Using Translations in Subject Lines
+
+For **subject lines and preheaders**, use the `in` operator to check if the base language code is contained in the full locale:
+
+```django
+{% with feed=feeds.YourSubjectFeed %}
+  {% for item in feed %}
+    {% if item.language in person|lookup:"Last Purchase Language"|default_if_none:"en-US" %}
+      {{ item.subject_variation_1 }}
+    {% endif %}
+  {% endfor %}
+{% endwith %}
+```
+
+**How it works:**
+- Customer has `Last Purchase Language: "en-US"`
+- JSON has `language: "en"`
+- Check: `"en" in "en-US"` → `true` ✅
+
+**Example:**
+```django
+{% with feed=feeds.BOGOLastChanceSubjects %}
+  {% for item in feed %}
+    {% if item.language in person|lookup:"Last Purchase Language"|default_if_none:"en-US" %}
+      {{ item.subject_variation_3 }}
+    {% endif %}
+  {% endfor %}
+{% endwith %}
+```
+
+### 3.3 Using Translations in HTML Templates
+
+For **email body content**, extract the base language code using `slice:":2"` and compare:
+
+```django
+{% with feed=feeds.YourContentFeed %}
+  {% with language=person|lookup:"Last Purchase Language"|default:"en-US" %}
+    {% with langBase=language|slice:":2" %}
+      {% for item in feed %}
+        {% if item.language == langBase %}
+          {{ item.your_content_key }}
+        {% endif %}
+      {% endfor %}
+    {% endwith %}
+  {% endwith %}
+{% endwith %}
+```
+
+**How it works:**
+1. Get `Last Purchase Language: "en-US"` from customer profile
+2. Extract first 2 characters: `"en-US"|slice:":2"` → `"en"`
+3. Compare: `"en" == "en"` → `true` ✅
+
+**Complete Example (Preheader):**
+```django
+{% with feed=feeds.PreHeaders %}
+  {% with language=person|lookup:"Last Purchase Language"|default:"en-US" %}
+    {% with langBase=language|slice:":2" %}
+      {% for item in feed %}
+        {% if item.language == langBase %}
+          {{ item.pre_header_variation_3 }}
+        {% endif %}
+      {% endfor %}
+    {% endwith %}
+  {% endwith %}
+{% endwith %}
+```
+
+**Complete Example (Loyalty Points Content):**
+```django
+{% with langFeed=feeds.loyaltyPoints %}
+  {% with language=person|lookup:"Last Purchase Language"|default:"en-US" %}
+    {% with langBase=language|slice:":2" %}
+      {% for langItem in langFeed %}
+        {% if langItem.language == langBase %}
+          <h1>{{ langItem.congrats_header }}</h1>
+          <p>{{ langItem.say_hello }}</p>
+        {% endif %}
+      {% endfor %}
+    {% endwith %}
+  {% endwith %}
+{% endwith %}
+```
+
+### 3.4 Why This Approach?
+
+**Problem we solved:**
+- Previously, JSON files had inconsistent `language` values (some with regions like `"zh-CHS"`, others without)
+- Customer profiles have full locales like `"en-US"`, `"es-MX"`, `"zh-CN"`
+- This caused **mismatching** → emails with **empty subject lines** for international users
+
+**Solution:**
+- ✅ Normalize all JSON to use **base language codes only** (`"en"`, `"es"`, `"zh"`)
+- ✅ Use `in` operator for subject lines (simple check)
+- ✅ Use `slice:":2"` for templates (extract base code from locale)
+- ✅ Result: **100% match rate** for all languages
+
+### 3.5 How to Create a Web Feed in Klaviyo
 
 To use your JSON translations in Klaviyo, you need to create a **Web Feed**. Here’s how:
 
@@ -100,7 +232,7 @@ To use your JSON translations in Klaviyo, you need to create a **Web Feed**. Her
 10. **Reference in your template**  
     Use Klaviyo’s template syntax to access translations, for example:
 
-## 3.3 How to Generate New Translations
+### 3.6 How to Generate New Translations
 
 When you need to add a new set of translations for an email:
 
@@ -111,7 +243,7 @@ When you need to add a new set of translations for an email:
      {
        "language_name": "English",
        "pr_code": "eng",
-       "language": "en-US",
+       "language": "en",
        "congrats_header": "CONGRATS, YOU'VE REACHED A NEW LOYALTY TIER!",
        "say_hello": "Say Hello to your new status:"
      }
@@ -179,25 +311,21 @@ When you need to add a new set of translations for an email:
 </table>
 ```
 
----
-
-## 5. Example JSON for That Block
+### 4.1 Example JSON for That Block
 ```json
-{
 [
   {
     "language_name": "English",
     "pr_code": "eng",
-    "language": "en-US",
+    "language": "en",
     "congrats_header": " CONGRATS, YOU'VE REACHED A NEW LOYALTY TIER!"
   }
 ]
-}
 ```
 
 ---
 
-## 6. Tips for Better Email Development
+## 5. Tips for Better Email Development
 - **Always add links** → every section should be clickable (title, image, button).  
 - **Use titles** → start blocks with headlines for clarity.  
 - **Images should be linked** → never leave them as decoration only.  
@@ -207,7 +335,7 @@ When you need to add a new set of translations for an email:
 
 ---
 
-## 7. Special Considerations for Outlook
+## 6. Special Considerations for Outlook
 Outlook (especially 2016 and below) uses Word to render emails → limited CSS.
 
 ### Key Tips
@@ -249,7 +377,7 @@ Outlook (especially 2016 and below) uses Word to render emails → limited CSS.
 
 ---
 
-## 8. Gmail Line Length & Clipping
+## 7. Gmail Line Length & Clipping
 Gmail sometimes clips emails if:
 - Email is larger than **~102KB**.  
 - Or if a single line of code is **too long**.
@@ -268,7 +396,7 @@ Gmail sometimes clips emails if:
 
 ---
 
-## 9. Best Practice Summary
+## 8. Best Practice Summary
 - Use **tables**, not divs.  
 - Inline all CSS.  
 - Use MSO conditionals for Outlook.  
@@ -278,7 +406,7 @@ Gmail sometimes clips emails if:
 
 ---
 
-## 10. Responsive Design with a Single Table
+## 9. Responsive Design with a Single Table
 - **Plan for desktop & mobile in one table:**  
   If your design needs to look different on desktop (e.g., 1 row with 4 columns) and mobile (e.g., 2 rows with 2 columns), try to use a single table structure.  
   - Use classes like `.m-hide` (display:none on mobile) and `.d-hide` (display:none on desktop) to show/hide table rows or cells as needed.
@@ -322,8 +450,8 @@ Gmail sometimes clips emails if:
 
 ---
 
-## 11. User Acceptance Criteria
-
+## 10. User Acceptance Criteria (UAC) Checklist
+Before finalizing your email, ensure the following checklist is complete:
 - [ ] Subject and preheader correct
 - [ ] All links tested
 - [ ] Images display correctly
@@ -332,8 +460,6 @@ Gmail sometimes clips emails if:
 - [ ] All translations correct
 - [ ] Every element (img, p, h1) must be linkable if required
 - [ ] Make sure old Outlook versions render correctly
-
-
 
 *This process ensures all your emails are ready for multi-language support and easy integration with Klaviyo web feeds.*
 

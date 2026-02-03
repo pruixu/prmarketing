@@ -2,7 +2,7 @@
  {
    "language_name": "English",
    "pr_code": "eng",
-   "language": "en-US",
+   "language": "en",
    "Offer_Expiring_Soon": "Offer Expiring Soon!",
    "30_OFF": "30% OFF",
    "SHOP_NOW": "SHOP NOW",
@@ -418,25 +418,11 @@
    "Free_Domestic_Shipping_on_75":"Miễn phí vận chuyển trong nước cho các đơn hàng từ 75$ trở lên",
    "50_Years_of_Trusted_Experience":"Hơn 50 năm kinh nghiệm uy tín"
  },
- {
-   "language_name": "Chinese Simplified",
-   "pr_code": "zhs",
-   "language": "zh-CHS",
-   "Offer_Expiring_Soon": "优惠即将到期",
-   "30_OFF": "30% 优惠",
-   "Your_Next_Purchase":"下一次购物可享",
-   "Shop_now":"立即购买",
-   "Reasons_to_shop_for_the_whole_family":"为全家人购买我们产品的理由",
-   "Shop_3000_Products":"3,000 多种产品任您选购",
-   "100_Satisfaction_Guaranteed":"100% 保证满意",
-   "Manufactured_in_the_US":"美国制造",
-   "Free_Domestic_Shipping_on_75":"满 75 美元国内免运费",
-   "50_Years_of_Trusted_Experience":"备受信赖 50 余年"
- },
+
  {
    "language_name": "Chinese Traditional",
    "pr_code": "zht",
-   "language": "zh-CHT",
+   "language": "zh",
    "Offer_Expiring_Soon": "優惠即將到期",
    "30_OFF": "30% 優惠",
    "Your_Next_Purchase":"下一次購物可享",

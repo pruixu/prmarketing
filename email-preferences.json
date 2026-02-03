@@ -1,7 +1,7 @@
 [
   {
     "language_name": "English",
-    "language": "en-US",
+    "language": "en",
     "pr_code": "eng",
     "email_label": "Email Address",
     "email_preferences": "Email Preferences",
@@ -364,21 +364,8 @@
     "update": "Cập nhật"
   },
   {
-    "language_name": "Chinese Simplified",
-    "language": "zh-CHS",
-    "pr_code": "zhs",
-    "email_label": "Email Address",
-    "email_preferences": "电子邮件首选项",
-    "rewards_label": "促销电子邮件-随时了解所有折扣和特价信息",
-    "select_subscriptions": "检查所有申请",
-    "select_your_choice": "选中以下框，以便知道您想要接收哪些电子邮件：",
-    "subscribe_all_label": "我想收到所有PipingRock电子邮件",
-    "weekly_label": "奖金电子邮件-获取如何通过推荐朋友赚取佣金的最新信息",
-    "update": "更新"
-  },
-  {
     "language_name": "Chinese Traditional",
-    "language": "zh-CHT",
+    "language": "zh",
     "pr_code": "zht",
     "email_label": "Email Address",
     "email_preferences": "電子郵件首選項",
