@@ -195,6 +195,43 @@ For **email body content**, extract the base language code using `slice:":2"` an
 ```
 <!-- {% endraw %} -->
 
+---
+
+#### 🚀 Automation: Expanding and Validating Translations
+
+This project includes automation scripts to help you expand translation variations and validate all JSON files for Klaviyo email campaigns.
+
+##### Available Commands
+
+You can run these commands from the `prmarketing` directory:
+
+| Command                | Description                                                      |
+|------------------------|------------------------------------------------------------------|
+| `npm run expand`       | Expands translation variations in all JSON files                  |
+| `npm run validate`     | Validates all JSON files in `subjects` and `templates` folders    |
+| `npm run expand-and-validate` | Expands translations and then validates all JSON files         |
+
+**How to Use**
+
+1. **Install Node.js** (v16+ recommended)
+2. Open a terminal in the `prmarketing` directory
+3. Run any of the commands above, for example:
+
+```sh
+npm run expand
+npm run validate
+npm run expand-and-validate
+```
+
+**What do these scripts do?**
+- `expand` will process all JSON translation files, generating all BCP-47 language variations as needed.
+- `validate` will check every JSON file for syntax errors and report any issues.
+- `expand-and-validate` will run both steps in sequence, ensuring your files are always up to date and valid.
+
+You can find and modify these scripts in the `package.json` file.
+
+---
+
 ### 3.4 Why This Approach?
 
 **Problem we solved:**
@@ -242,42 +279,62 @@ To use your JSON translations in Klaviyo, you need to create a **Web Feed**. Her
 10. **Reference in your template**  
     Use Klaviyo’s template syntax to access translations, for example:
 
+
 ### 3.6 How to Generate New Translations
 
 When you need to add a new set of translations for an email:
 
 1. **Start with English JSON:**  
-   Create a JSON object with all the keys and values in English. For example:
-   ```json
-   [
-     {
-       "language_name": "English",
-       "pr_code": "eng",
-       "language": "en",
-       "congrats_header": "CONGRATS, YOU'VE REACHED A NEW LOYALTY TIER!",
-       "say_hello": "Say Hello to your new status:"
-     }
-   ]
-   ```
+  Create a JSON object with all the keys and values in English. For example:
+  ```json
+  [
+    {
+     "language_name": "English",
+     "pr_code": "eng",
+     "language": "en",
+     "congrats_header": "CONGRATS, YOU'VE REACHED A NEW LOYALTY TIER!",
+     "say_hello": "Say Hello to your new status:"
+    }
+  ]
+  ```
 
 2. **List the target languages:**  
-   Prepare a list of all languages you need, for example:  
-   Azerbaijani, Bulgarian, Danish, German, Greek, Finnish, French, Croatian, Hungarian, Indonesian, Italian, Japanese, Korean, Malay, Dutch, Norwegian, Polish, Portuguese, Romanian, Russian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, Vietnamese, Chinese Simplified, Chinese Traditional.
+  Prepare a list of all languages you need, for example:  
+  Azerbaijani, Bulgarian, Danish, German, Greek, Finnish, French, Croatian, Hungarian, Indonesian, Italian, Japanese, Korean, Malay, Dutch, Norwegian, Polish, Portuguese, Romanian, Russian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, Vietnamese, Chinese Simplified, Chinese Traditional.
 
 3. **Use AI or a translation service:**  
-   Ask an AI (like ChatGPT) or a professional translation service to translate the English values for each key into all target languages, keeping the same JSON structure.  
-   Example prompt for AI:  
-   > Please translate the following JSON keys and values into [target language], keeping the same structure.
-   > Target Languages "Azerbaijani, Bulgarian, Danish, German, Greek, Finnish, French, Croatian, Hungarian, Indonesian, Italian, Japanese, Korean, Malay, Dutch, Norwegian, Polish, Portuguese, Romanian, Russian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, Vietnamese, Chinese Simplified, Chinese Traditional."
+  Ask an AI (like ChatGPT) or a professional translation service to translate the English values for each key into all target languages, keeping the same JSON structure.  
+  Example prompt for AI:  
+  > Please translate the following JSON keys and values into [target language], keeping the same structure.
+  > Target Languages "Azerbaijani, Bulgarian, Danish, German, Greek, Finnish, French, Croatian, Hungarian, Indonesian, Italian, Japanese, Korean, Malay, Dutch, Norwegian, Polish, Portuguese, Romanian, Russian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, Vietnamese, Chinese Simplified, Chinese Traditional."
 
 4. **Combine all translations:**  
-   Add each translated object to your JSON array, updating `"language_name"`, `"pr_code"`, and `"language"` as needed for each language.
+  Add each translated object to your JSON array, updating `"language_name"`, `"pr_code"`, and `"language"` as needed for each language.
 
-5. **Validate your JSON:**  
-   Use a tool like [JSONLint](https://jsonlint.com/) to ensure your file is valid before uploading.
+5. **Generate all language variants automatically:**
+  Use the automation script to expand all BCP-47 language variants for your new translation set:
 
-6. **Push to Git:**  
-   Commit and push your updated JSON file(s) to the [prmarketing GitHub repository](https://github.com/pruixu/prmarketing) so they are available for use in Klaviyo and by your team.
+  ```sh
+  npm run expand
+  ```
+
+  This will process all JSON files and generate the necessary language code variations automatically.
+
+6. **Validate your JSON:**  
+  Use the validation script to ensure your file is valid before uploading:
+
+  ```sh
+  npm run validate
+  ```
+
+  Or run both steps in sequence:
+
+  ```sh
+  npm run expand-and-validate
+  ```
+
+7. **Push to Git:**  
+  Commit and push your updated JSON file(s) to the [prmarketing GitHub repository](https://github.com/pruixu/prmarketing) so they are available for use in Klaviyo and by your team.
 
 ---
 

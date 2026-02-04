@@ -2,211 +2,2931 @@
   {
     "language": "en",
     "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
-    "subject_variation_2":"Black Friday Sale Starts… NOW!",
-    "subject_variation_3":"EXTENDED! Black Friday still going on",
-    "subject_variation_4":"This Black Friday, Get 40% off"
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off"
   },
   {
     "language": "az",
     "subject_variation_1": "Heç Zaman Olmayan Ən Böyük Qara Cümə Endiriminə Çixiş",
-    "subject_variation_2":"Qara Cümə Endirimi Başlayir....Indi!",
-    "subject_variation_3":"Genişləndirilib! Qara Cümə Hələ Də Davam Edir",
-    "subject_variation_4":"Bu Qara Cümə ertəsi 40% Endirim qazanın"
+    "subject_variation_2": "Qara Cümə Endirimi Başlayir....Indi!",
+    "subject_variation_3": "Genişləndirilib! Qara Cümə Hələ Də Davam Edir",
+    "subject_variation_4": "Bu Qara Cümə ertəsi 40% Endirim qazanın"
   },
   {
     "language": "bg",
     "subject_variation_1": "Ранен Достъп До Нашата Най-Голяма Разпродажба Черен Петък",
-    "subject_variation_2":"Разпродажбата Черен Петък Започва... Сега!",
-    "subject_variation_3":"Удължено! Черният Петък Все Още Продължава",
-    "subject_variation_4":"Този черен петък вземете отстъпка от 40%"
+    "subject_variation_2": "Разпродажбата Черен Петък Започва... Сега!",
+    "subject_variation_3": "Удължено! Черният Петък Все Още Продължава",
+    "subject_variation_4": "Този черен петък вземете отстъпка от 40%"
   },
   {
     "language": "da",
     "subject_variation_1": "Tidlig Adgang Til Vores Største Black Friday Udsalg Nogensinde",
-    "subject_variation_2":"Black Friday Udsalg Starter... Nu!",
-    "subject_variation_3":"Udvidet! Black Friday Kører Stadig",
-    "subject_variation_4":"Få 40 % rabat denne Black Friday"
+    "subject_variation_2": "Black Friday Udsalg Starter... Nu!",
+    "subject_variation_3": "Udvidet! Black Friday Kører Stadig",
+    "subject_variation_4": "Få 40 % rabat denne Black Friday"
   },
   {
     "language": "de",
     "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
-    "subject_variation_2":"Der Black-Friday-Verkauf Beginnt... Jetzt!",
-    "subject_variation_3":"Verlängert! Der Black Friday Geht Noch Weiter",
-    "subject_variation_4":"Diesen Black Friday 40%  Rabatt"
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt"
   },
   {
     "language": "el",
     "subject_variation_1": "Εκμεταλλευτειτε Απο Πιο Νωρις Το Μεγαλυτερο Εκπτωτικο Γεγονος Black Friday Που Εγινε Ποτε",
-    "subject_variation_2":"Οι Εκπτωσεις Της Black Friday Ξεκινουν... Τωρα!",
-    "subject_variation_3":"Με Παραταση! Η Black Friday Συνεχιζεται",
-    "subject_variation_4":"Αυτή τη Black Friday, Έκπτωση 40%"
+    "subject_variation_2": "Οι Εκπτωσεις Της Black Friday Ξεκινουν... Τωρα!",
+    "subject_variation_3": "Με Παραταση! Η Black Friday Συνεχιζεται",
+    "subject_variation_4": "Αυτή τη Black Friday, Έκπτωση 40%"
   },
   {
     "language": "fi",
     "subject_variation_1": "Varhainen Pääsy Kaikkien Aikojen Suurimpaan Black Friday -Alennusmyyntiimme",
-    "subject_variation_2":"Black Friday -Alennusmyynti Alkaa… Nyt!",
-    "subject_variation_3":"Jatkettu! Black Friday Jatkuu Edelleen",
-    "subject_variation_4":"Tänä mustana perjantaina, 40%  halvemmalla"
+    "subject_variation_2": "Black Friday -Alennusmyynti Alkaa… Nyt!",
+    "subject_variation_3": "Jatkettu! Black Friday Jatkuu Edelleen",
+    "subject_variation_4": "Tänä mustana perjantaina, 40%  halvemmalla"
   },
   {
     "language": "fr",
     "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
-    "subject_variation_2":"Les Soldes Du Black Friday Commencent... Maintenant !",
-    "subject_variation_3":"Prolongation ! Le Black Friday Continue",
-    "subject_variation_4":"Pendant ce Black Friday, profitez de 40%  de réduction"
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction"
   },
   {
     "language": "hr",
     "subject_variation_1": "Rani Pristup Našoj Najvećoj Akciji Crnog Petka Ikad",
-    "subject_variation_2":"Akcija Crnog Petka Započinje... Sada!",
-    "subject_variation_3":"Produženo! Crni Petak I Dalje Traje",
-    "subject_variation_4":"Za ovaj Crni petak iskoristite 40%  popusta"
+    "subject_variation_2": "Akcija Crnog Petka Započinje... Sada!",
+    "subject_variation_3": "Produženo! Crni Petak I Dalje Traje",
+    "subject_variation_4": "Za ovaj Crni petak iskoristite 40%  popusta"
   },
   {
     "language": "hu",
     "subject_variation_1": "Korai Hozzáférés A Valaha Volt Legnagyobb Fekete Pénteki Akciónkhoz",
-    "subject_variation_2":"A Fekete Pénteki Kiárusítás Most Kezdődik!",
-    "subject_variation_3":"Meghosszabbítva! A Fekete Péntek Tovább Folytatódik",
-    "subject_variation_4":"Black Friday akciók, 40% kedvezménnyel"
+    "subject_variation_2": "A Fekete Pénteki Kiárusítás Most Kezdődik!",
+    "subject_variation_3": "Meghosszabbítva! A Fekete Péntek Tovább Folytatódik",
+    "subject_variation_4": "Black Friday akciók, 40% kedvezménnyel"
   },
   {
     "language": "id",
     "subject_variation_1": "Akses Awal Ke Obral Black Friday Terbesar Kami",
-    "subject_variation_2":"Obral Black Friday Dimulai… Sekarang!",
-    "subject_variation_3":"Diperpanjang! Black Friday Masih Terus Berlangsung",
-    "subject_variation_4":"Black Friday ini, Dapatkan diskon 40%"
+    "subject_variation_2": "Obral Black Friday Dimulai… Sekarang!",
+    "subject_variation_3": "Diperpanjang! Black Friday Masih Terus Berlangsung",
+    "subject_variation_4": "Black Friday ini, Dapatkan diskon 40%"
   },
   {
     "language": "it",
     "subject_variation_1": "Accesso Anticipato Alla Nostra Più Grande Offerta Del Black Friday Di Sempre",
-    "subject_variation_2":"L'Offerta Del Black Friday Inizia… Ora!",
-    "subject_variation_3":"Prolungata! Il Black Friday Continua",
-    "subject_variation_4":"Per il Black Friday, approfitta del 40%  di sconto"
+    "subject_variation_2": "L'Offerta Del Black Friday Inizia… Ora!",
+    "subject_variation_3": "Prolungata! Il Black Friday Continua",
+    "subject_variation_4": "Per il Black Friday, approfitta del 40%  di sconto"
   },
   {
     "language": "ja",
     "subject_variation_1": "最大級のブラックフライデーセールへの早期アクセス",
-    "subject_variation_2":"ブラックフライデーセールの開始は...今です！",
-    "subject_variation_3":"延長されました！ブラックフライデーが開催中",
-    "subject_variation_4":"今回のブラックフライデー、40% オフ！"
+    "subject_variation_2": "ブラックフライデーセールの開始は...今です！",
+    "subject_variation_3": "延長されました！ブラックフライデーが開催中",
+    "subject_variation_4": "今回のブラックフライデー、40% オフ！"
   },
   {
     "language": "ko",
     "subject_variation_1": "역대 최대 규모의 블랙 프라이데이 세일을 일찍 만나볼 수 있는 기회",
-    "subject_variation_2":"블랙 프라이데이 세일이 지금 시작됩니다!",
-    "subject_variation_3":"연장! 블랙 프라이데이는 계속됩니다",
-    "subject_variation_4":"이번 블랙 프라이데이, 40%  할인 혜택"
+    "subject_variation_2": "블랙 프라이데이 세일이 지금 시작됩니다!",
+    "subject_variation_3": "연장! 블랙 프라이데이는 계속됩니다",
+    "subject_variation_4": "이번 블랙 프라이데이, 40%  할인 혜택"
   },
   {
     "language": "ms",
     "subject_variation_1": "Akses Awal Kepada Jualan Black Friday Terbesar Kami Setakat Ini",
-    "subject_variation_2":"Jualan Black Friday Bermula… Sekarang!",
-    "subject_variation_3":"Dilanjutkan! Black Friday Masih Berlangsung",
-    "subject_variation_4":"Pada Black Friday ini, Dapatkan POTONGAN 40%"
+    "subject_variation_2": "Jualan Black Friday Bermula… Sekarang!",
+    "subject_variation_3": "Dilanjutkan! Black Friday Masih Berlangsung",
+    "subject_variation_4": "Pada Black Friday ini, Dapatkan POTONGAN 40%"
   },
   {
     "language": "nl",
     "subject_variation_1": "Vroege Toegang Tot Onze Grootste Black Friday-Uitverkoop Ooit",
-    "subject_variation_2":"De Black Friday-Uitverkoop Begint... Nu!",
-    "subject_variation_3":"Verlengd! Black Friday Gaat Nog Steeds Door",
-    "subject_variation_4":"Ontvang deze Black Friday 40%  KORTING"
+    "subject_variation_2": "De Black Friday-Uitverkoop Begint... Nu!",
+    "subject_variation_3": "Verlengd! Black Friday Gaat Nog Steeds Door",
+    "subject_variation_4": "Ontvang deze Black Friday 40%  KORTING"
   },
   {
     "language": "no",
     "subject_variation_1": "Tidlig Tilgang Til Vårt Største Black Friday-Salg Noensinne",
-    "subject_variation_2":"Black Friday-Salget Starter ... Nå!",
-    "subject_variation_3":"Forlenget! Black Friday Pågår Fortsatt",
-    "subject_variation_4":"Få 40% rabatt på Black Friday"
+    "subject_variation_2": "Black Friday-Salget Starter ... Nå!",
+    "subject_variation_3": "Forlenget! Black Friday Pågår Fortsatt",
+    "subject_variation_4": "Få 40% rabatt på Black Friday"
   },
   {
     "language": "pl",
     "subject_variation_1": "Wcześniejszy Dostęp Do Naszej Największej Wyprzedaży W Czarny Piątek",
-    "subject_variation_2":"Wyprzedaż W Czarny Piątek Zaczyna Się... Teraz!",
-    "subject_variation_3":"Przedłużona! Czarny Piątek Nadal Trwa",
-    "subject_variation_4":"W ten Czarny Piątek odbierz 40%  RABATU"
+    "subject_variation_2": "Wyprzedaż W Czarny Piątek Zaczyna Się... Teraz!",
+    "subject_variation_3": "Przedłużona! Czarny Piątek Nadal Trwa",
+    "subject_variation_4": "W ten Czarny Piątek odbierz 40%  RABATU"
   },
   {
     "language": "pt",
     "subject_variation_1": "Acesso Antecipado À Maior Black Friday De Todos Os Tempos",
-    "subject_variation_2":"A Promoção De Black Friday Começa... Agora!",
-    "subject_variation_3":"Prorrogada! A Black Friday Ainda Está Rolando",
-    "subject_variation_4":"Garanta 40%  de desconto nesta Black Friday"
+    "subject_variation_2": "A Promoção De Black Friday Começa... Agora!",
+    "subject_variation_3": "Prorrogada! A Black Friday Ainda Está Rolando",
+    "subject_variation_4": "Garanta 40%  de desconto nesta Black Friday"
   },
   {
     "language": "ro",
     "subject_variation_1": "Acces Timpuriu La Cea Mai Mare Promoție De Black Friday",
-    "subject_variation_2":"Black Friday Începe… Acum!",
-    "subject_variation_3":"Prelungită! Black Friday Continuă",
-    "subject_variation_4":"De Black Friday, Get 40%  discount"
+    "subject_variation_2": "Black Friday Începe… Acum!",
+    "subject_variation_3": "Prelungită! Black Friday Continuă",
+    "subject_variation_4": "De Black Friday, Get 40%  discount"
   },
   {
     "language": "ru",
     "subject_variation_1": "Предварительный Доступ К Нашей Самой Грандиозной Распродаже «Черная Пятница» В Истории",
-    "subject_variation_2":"Распродажа «Черная Пятница» Начинается ... Сейчас!",
-    "subject_variation_3":"Продлена! «Черная Пятница» Все Еще Продолжается",
-    "subject_variation_4":"В Черную пятницу получите скидку 40%"
+    "subject_variation_2": "Распродажа «Черная Пятница» Начинается ... Сейчас!",
+    "subject_variation_3": "Продлена! «Черная Пятница» Все Еще Продолжается",
+    "subject_variation_4": "В Черную пятницу получите скидку 40%"
   },
   {
     "language": "sk",
     "subject_variation_1": "Skorý Prístup K Nášmu Doposiaľ Najväčšiemu Výpredaju Na Čierny Piatok",
-    "subject_variation_2":"Výpredaj Na Čierny Piatok Začína… Teraz!",
-    "subject_variation_3":"Predĺžené! Akcia Čierny Piatok Stále Trvá",
-    "subject_variation_4":"Tento čierny piatok získajte zľavu 40 %"
+    "subject_variation_2": "Výpredaj Na Čierny Piatok Začína… Teraz!",
+    "subject_variation_3": "Predĺžené! Akcia Čierny Piatok Stále Trvá",
+    "subject_variation_4": "Tento čierny piatok získajte zľavu 40 %"
   },
   {
     "language": "sl",
     "subject_variation_1": "Zgodnji Dostop Do Naše Največje Razprodaje Črni Petek",
-    "subject_variation_2":"Popusti Črnega Petka Se Začnejo ... Zdaj!",
-    "subject_variation_3":"Podaljšan! Črni Petek Še Vedno Traja",
-    "subject_variation_4":"Ta črni petek izkoristite 40%  popusta"
+    "subject_variation_2": "Popusti Črnega Petka Se Začnejo ... Zdaj!",
+    "subject_variation_3": "Podaljšan! Črni Petek Še Vedno Traja",
+    "subject_variation_4": "Ta črni petek izkoristite 40%  popusta"
   },
   {
     "language": "es",
     "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
-    "subject_variation_2":"¡Las Rebajas De Viernes Negro Empiezan… Ya!",
-    "subject_variation_3":"¡Ampliado! Ampliamos El Viernes Negro",
-    "subject_variation_4":"Este Viernes Negro, obtenga un 40% de descuento"
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento"
   },
   {
     "language": "sv",
     "subject_variation_1": "Kom Tidigt Åt Vår Största Black Friday-Rea Någonsin",
-    "subject_variation_2":"Black Friday-Rean Startar... Nu!",
-    "subject_variation_3":"Förlängd! Black Friday Pågår Fortfarande",
-    "subject_variation_4":"Få 40%  RABATT denna Black Friday"
+    "subject_variation_2": "Black Friday-Rean Startar... Nu!",
+    "subject_variation_3": "Förlängd! Black Friday Pågår Fortfarande",
+    "subject_variation_4": "Få 40%  RABATT denna Black Friday"
   },
   {
     "language": "th",
     "subject_variation_1": "เข้าถึงการลดราคา Black Friday ครั้งใหญ่ที่สุดของเราได้ก่อนใคร",
-    "subject_variation_2":"การลดราคา Black Friday เริ่มต้น... วันนี้!",
-    "subject_variation_3":"ขยายเวลา! Black Friday ยังคงดำเนินอยู่",
-    "subject_variation_4":"Black Friday นี้ลด 40%"
+    "subject_variation_2": "การลดราคา Black Friday เริ่มต้น... วันนี้!",
+    "subject_variation_3": "ขยายเวลา! Black Friday ยังคงดำเนินอยู่",
+    "subject_variation_4": "Black Friday นี้ลด 40%"
   },
   {
     "language": "tr",
     "subject_variation_1": "Şimdiye Kadarki En Büyük Kara Cuma Indirimine Erken Erişim Imkani",
-    "subject_variation_2":"Kara Cuma Indirimi Başliyor... Şimdi!",
-    "subject_variation_3":"Uzatildi! Kara Cuma Devam Ediyor",
-    "subject_variation_4":"Bu Kara Cuma, % 40 indirim"
+    "subject_variation_2": "Kara Cuma Indirimi Başliyor... Şimdi!",
+    "subject_variation_3": "Uzatildi! Kara Cuma Devam Ediyor",
+    "subject_variation_4": "Bu Kara Cuma, % 40 indirim"
   },
   {
     "language": "vi",
     "subject_variation_1": "Nhanh Tay Tiếp Cận Sự Kiện Khuyến Mãi Thứ Sáu Đen Tối Lớn Nhất Của Chúng Tôi!",
-    "subject_variation_2":"Khuyến Mãi Thứ Sáu Đen Tối Bắt Đầu...Ngay Bây Giờ!",
-    "subject_variation_3":"Mở Rộng! Thứ Sáu Đen Tối Vẫn Tiếp Diễn",
-    "subject_variation_4":"Ngày Thứ Sáu Đen Này Bạn Sẽ Nhận Ưu Đãi Giảm 40%"
+    "subject_variation_2": "Khuyến Mãi Thứ Sáu Đen Tối Bắt Đầu...Ngay Bây Giờ!",
+    "subject_variation_3": "Mở Rộng! Thứ Sáu Đen Tối Vẫn Tiếp Diễn",
+    "subject_variation_4": "Ngày Thứ Sáu Đen Này Bạn Sẽ Nhận Ưu Đãi Giảm 40%"
   },
   {
     "language": "zhs",
     "subject_variation_1": "尽早进入我们最大的黑色星期五促销活动",
-    "subject_variation_2":"黑色星期五促销开始......现在！",
-    "subject_variation_3":"延长！黑色星期五仍在继续",
-    "subject_variation_4":"黑色星期五，享受40%折扣"
+    "subject_variation_2": "黑色星期五促销开始......现在！",
+    "subject_variation_3": "延长！黑色星期五仍在继续",
+    "subject_variation_4": "黑色星期五，享受40%折扣"
   },
   {
     "language": "zht",
     "subject_variation_1": "儘早進入我們最大的黑色星期五促銷活動",
-    "subject_variation_2":"黑色星期五促銷開始......現在！",
-    "subject_variation_3":"延長！黑色星期五仍在繼續",
-    "subject_variation_4":"黑色星期五，享受40%折扣"
+    "subject_variation_2": "黑色星期五促銷開始......現在！",
+    "subject_variation_3": "延長！黑色星期五仍在繼續",
+    "subject_variation_4": "黑色星期五，享受40%折扣"
+  },
+  {
+    "language": "en-AZ",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-AZ)"
+  },
+  {
+    "language": "en-TN",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-TN)"
+  },
+  {
+    "language": "en-CL",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-CL)"
+  },
+  {
+    "language": "en-MY",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-MY)"
+  },
+  {
+    "language": "en-FO",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-FO)"
+  },
+  {
+    "language": "en-BN",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-BN)"
+  },
+  {
+    "language": "en-NG",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-NG)"
+  },
+  {
+    "language": "en-LB",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-LB)"
+  },
+  {
+    "language": "en-BW",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-BW)"
+  },
+  {
+    "language": "en-TW",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-TW)"
+  },
+  {
+    "language": "en-BD",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-BD)"
+  },
+  {
+    "language": "en-KW",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-KW)"
+  },
+  {
+    "language": "en-GG",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-GG)"
+  },
+  {
+    "language": "en-RS",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-RS)"
+  },
+  {
+    "language": "en-GT",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-GT)"
+  },
+  {
+    "language": "en-SE",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-SE)"
+  },
+  {
+    "language": "en-LV",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-LV)"
+  },
+  {
+    "language": "en-SV",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-SV)"
+  },
+  {
+    "language": "en-EE",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-EE)"
+  },
+  {
+    "language": "en-AW",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-AW)"
+  },
+  {
+    "language": "en-MT",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-MT)"
+  },
+  {
+    "language": "en-CR",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-CR)"
+  },
+  {
+    "language": "en-PH",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-PH)"
+  },
+  {
+    "language": "en-KZ",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-KZ)"
+  },
+  {
+    "language": "en-TZ",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-TZ)"
+  },
+  {
+    "language": "en-IL",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-IL)"
+  },
+  {
+    "language": "en-HN",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-HN)"
+  },
+  {
+    "language": "en-LK",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-LK)"
+  },
+  {
+    "language": "en-SK",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-SK)"
+  },
+  {
+    "language": "en-JO",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-JO)"
+  },
+  {
+    "language": "en-DZ",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-DZ)"
+  },
+  {
+    "language": "en-CO",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-CO)"
+  },
+  {
+    "language": "en-PL",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-PL)"
+  },
+  {
+    "language": "en-MC",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-MC)"
+  },
+  {
+    "language": "en-PF",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-PF)"
+  },
+  {
+    "language": "en-TT",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-TT)"
+  },
+  {
+    "language": "en-KG",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-KG)"
+  },
+  {
+    "language": "en-BG",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-BG)"
+  },
+  {
+    "language": "en-SA",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-SA)"
+  },
+  {
+    "language": "en-JE",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-JE)"
+  },
+  {
+    "language": "en-VE",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-VE)"
+  },
+  {
+    "language": "en-MD",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-MD)"
+  },
+  {
+    "language": "en-GP",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-GP)"
+  },
+  {
+    "language": "en-AT",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-AT)"
+  },
+  {
+    "language": "en-FR",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-FR)"
+  },
+  {
+    "language": "en-LU",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-LU)"
+  },
+  {
+    "language": "en-NI",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-NI)"
+  },
+  {
+    "language": "en-CH",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-CH)"
+  },
+  {
+    "language": "en-GI",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-GI)"
+  },
+  {
+    "language": "en-KY",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-KY)"
+  },
+  {
+    "language": "en-AM",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-AM)"
+  },
+  {
+    "language": "en-PK",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-PK)"
+  },
+  {
+    "language": "en-IT",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-IT)"
+  },
+  {
+    "language": "en-GR",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-GR)"
+  },
+  {
+    "language": "en-MU",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-MU)"
+  },
+  {
+    "language": "en-AE",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-AE)"
+  },
+  {
+    "language": "en-INT",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-INT)"
+  },
+  {
+    "language": "en-QA",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-QA)"
+  },
+  {
+    "language": "en-NA",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-NA)"
+  },
+  {
+    "language": "en-US",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-US)"
+  },
+  {
+    "language": "en-FI",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-FI)"
+  },
+  {
+    "language": "en-BH",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-BH)"
+  },
+  {
+    "language": "en-CY",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-CY)"
+  },
+  {
+    "language": "en-IM",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-IM)"
+  },
+  {
+    "language": "en-TH",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-TH)"
+  },
+  {
+    "language": "en-AO",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-AO)"
+  },
+  {
+    "language": "en-KH",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-KH)"
+  },
+  {
+    "language": "en-BO",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-BO)"
+  },
+  {
+    "language": "en-LI",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-LI)"
+  },
+  {
+    "language": "en-SI",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-SI)"
+  },
+  {
+    "language": "en-JM",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-JM)"
+  },
+  {
+    "language": "en-NL",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-NL)"
+  },
+  {
+    "language": "en-DK",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-DK)"
+  },
+  {
+    "language": "en-MX",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-MX)"
+  },
+  {
+    "language": "en-GL",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-GL)"
+  },
+  {
+    "language": "en-MK",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-MK)"
+  },
+  {
+    "language": "en-MA",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-MA)"
+  },
+  {
+    "language": "en-CG",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-CG)"
+  },
+  {
+    "language": "en-IS",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-IS)"
+  },
+  {
+    "language": "en-EC",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-EC)"
+  },
+  {
+    "language": "en-KE",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-KE)"
+  },
+  {
+    "language": "en-BE",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-BE)"
+  },
+  {
+    "language": "en-UG",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-UG)"
+  },
+  {
+    "language": "en-JP",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-JP)"
+  },
+  {
+    "language": "en-DE",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-DE)"
+  },
+  {
+    "language": "en-BR",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-BR)"
+  },
+  {
+    "language": "en-HU",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-HU)"
+  },
+  {
+    "language": "en-BA",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-BA)"
+  },
+  {
+    "language": "en-SG",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-SG)"
+  },
+  {
+    "language": "en-LT",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-LT)"
+  },
+  {
+    "language": "en-EG",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-EG)"
+  },
+  {
+    "language": "en-TR",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-TR)"
+  },
+  {
+    "language": "en-KR",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-KR)"
+  },
+  {
+    "language": "en-ME",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-ME)"
+  },
+  {
+    "language": "en-MV",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-MV)"
+  },
+  {
+    "language": "en-ID",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-ID)"
+  },
+  {
+    "language": "en-PY",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-PY)"
+  },
+  {
+    "language": "en-AL",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-AL)"
+  },
+  {
+    "language": "en-RO",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-RO)"
+  },
+  {
+    "language": "en-GH",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-GH)"
+  },
+  {
+    "language": "en-CZ",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-CZ)"
+  },
+  {
+    "language": "en-VN",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-VN)"
+  },
+  {
+    "language": "en-DO",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-DO)"
+  },
+  {
+    "language": "en-FJ",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-FJ)"
+  },
+  {
+    "language": "en-OM",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-OM)"
+  },
+  {
+    "language": "en-CN",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-CN)"
+  },
+  {
+    "language": "en-NO",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-NO)"
+  },
+  {
+    "language": "en-HK",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-HK)"
+  },
+  {
+    "language": "en-HR",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-HR)"
+  },
+  {
+    "language": "en-AR",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-AR)"
+  },
+  {
+    "language": "en-PT",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-PT)"
+  },
+  {
+    "language": "en-ES",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-ES)"
+  },
+  {
+    "language": "en-GE",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-GE)"
+  },
+  {
+    "language": "en-MQ",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-MQ)"
+  },
+  {
+    "language": "en-GB",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-GB)"
+  },
+  {
+    "language": "en-AU",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-AU)"
+  },
+  {
+    "language": "en-CA",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-CA)"
+  },
+  {
+    "language": "en-IE",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-IE)"
+  },
+  {
+    "language": "en-NZ",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-NZ)"
+  },
+  {
+    "language": "en-ZA",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-ZA)"
+  },
+  {
+    "language": "en-IN",
+    "subject_variation_1": "Early Access To Our Biggest Black Friday Sale Ever!",
+    "subject_variation_2": "Black Friday Sale Starts… NOW!",
+    "subject_variation_3": "EXTENDED! Black Friday still going on",
+    "subject_variation_4": "This Black Friday, Get 40% off",
+    "language_name": "undefined (en-IN)"
+  },
+  {
+    "language": "de-CO",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-CO)"
+  },
+  {
+    "language": "de-PL",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-PL)"
+  },
+  {
+    "language": "de-SK",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-SK)"
+  },
+  {
+    "language": "de-FR",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-FR)"
+  },
+  {
+    "language": "de-LU",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-LU)"
+  },
+  {
+    "language": "de-NZ",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-NZ)"
+  },
+  {
+    "language": "de-AD",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-AD)"
+  },
+  {
+    "language": "de-SE",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-SE)"
+  },
+  {
+    "language": "de-PH",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-PH)"
+  },
+  {
+    "language": "de-GB",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-GB)"
+  },
+  {
+    "language": "de-DE",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-DE)"
+  },
+  {
+    "language": "de-BA",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-BA)"
+  },
+  {
+    "language": "de-HU",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-HU)"
+  },
+  {
+    "language": "de-DO",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-DO)"
+  },
+  {
+    "language": "de-PY",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-PY)"
+  },
+  {
+    "language": "de-CZ",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-CZ)"
+  },
+  {
+    "language": "de-RO",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-RO)"
+  },
+  {
+    "language": "de-ES",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-ES)"
+  },
+  {
+    "language": "de-PT",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-PT)"
+  },
+  {
+    "language": "de-HR",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-HR)"
+  },
+  {
+    "language": "de-US",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-US)"
+  },
+  {
+    "language": "de-GR",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-GR)"
+  },
+  {
+    "language": "de-IT",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-IT)"
+  },
+  {
+    "language": "de-TH",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-TH)"
+  },
+  {
+    "language": "de-FI",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-FI)"
+  },
+  {
+    "language": "de-SI",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-SI)"
+  },
+  {
+    "language": "de-LI",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-LI)"
+  },
+  {
+    "language": "de-NL",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-NL)"
+  },
+  {
+    "language": "de-BE",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-BE)"
+  },
+  {
+    "language": "de-CH",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-CH)"
+  },
+  {
+    "language": "de-AT",
+    "subject_variation_1": "Früher Zugang Zu Unserem Größten Black Friday-Verkauf Aller Zeiten",
+    "subject_variation_2": "Der Black-Friday-Verkauf Beginnt... Jetzt!",
+    "subject_variation_3": "Verlängert! Der Black Friday Geht Noch Weiter",
+    "subject_variation_4": "Diesen Black Friday 40%  Rabatt",
+    "language_name": "undefined (de-AT)"
+  },
+  {
+    "language": "es-BE",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-BE)"
+  },
+  {
+    "language": "es-MA",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-MA)"
+  },
+  {
+    "language": "es-NL",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-NL)"
+  },
+  {
+    "language": "es-DK",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-DK)"
+  },
+  {
+    "language": "es-US",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-US)"
+  },
+  {
+    "language": "es-IT",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-IT)"
+  },
+  {
+    "language": "es-ES",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-ES)"
+  },
+  {
+    "language": "es-PT",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-PT)"
+  },
+  {
+    "language": "es-DO",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-DO)"
+  },
+  {
+    "language": "es-RO",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-RO)"
+  },
+  {
+    "language": "es-GB",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-GB)"
+  },
+  {
+    "language": "es-DE",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-DE)"
+  },
+  {
+    "language": "es-BR",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-BR)"
+  },
+  {
+    "language": "es-HU",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-HU)"
+  },
+  {
+    "language": "es-HN",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-HN)"
+  },
+  {
+    "language": "es-IL",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-IL)"
+  },
+  {
+    "language": "es-CR",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-CR)"
+  },
+  {
+    "language": "es-CA",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-CA)"
+  },
+  {
+    "language": "es-SV",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-SV)"
+  },
+  {
+    "language": "es-GT",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-GT)"
+  },
+  {
+    "language": "es-CH",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-CH)"
+  },
+  {
+    "language": "es-FR",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-FR)"
+  },
+  {
+    "language": "es-IE",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-IE)"
+  },
+  {
+    "language": "es-AT",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-AT)"
+  },
+  {
+    "language": "es-PL",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-PL)"
+  },
+  {
+    "language": "es-CO",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-CO)"
+  },
+  {
+    "language": "es-MX",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-MX)"
+  },
+  {
+    "language": "es-AR",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-AR)"
+  },
+  {
+    "language": "es-CL",
+    "subject_variation_1": "Acceda Antes Que Nadie A Nuestras Mayores Rebajas De Viernes Negro",
+    "subject_variation_2": "¡Las Rebajas De Viernes Negro Empiezan… Ya!",
+    "subject_variation_3": "¡Ampliado! Ampliamos El Viernes Negro",
+    "subject_variation_4": "Este Viernes Negro, obtenga un 40% de descuento",
+    "language_name": "undefined (es-CL)"
+  },
+  {
+    "language": "it-CA",
+    "subject_variation_1": "Accesso Anticipato Alla Nostra Più Grande Offerta Del Black Friday Di Sempre",
+    "subject_variation_2": "L'Offerta Del Black Friday Inizia… Ora!",
+    "subject_variation_3": "Prolungata! Il Black Friday Continua",
+    "subject_variation_4": "Per il Black Friday, approfitta del 40%  di sconto",
+    "language_name": "undefined (it-CA)"
+  },
+  {
+    "language": "it-IE",
+    "subject_variation_1": "Accesso Anticipato Alla Nostra Più Grande Offerta Del Black Friday Di Sempre",
+    "subject_variation_2": "L'Offerta Del Black Friday Inizia… Ora!",
+    "subject_variation_3": "Prolungata! Il Black Friday Continua",
+    "subject_variation_4": "Per il Black Friday, approfitta del 40%  di sconto",
+    "language_name": "undefined (it-IE)"
+  },
+  {
+    "language": "it-FR",
+    "subject_variation_1": "Accesso Anticipato Alla Nostra Più Grande Offerta Del Black Friday Di Sempre",
+    "subject_variation_2": "L'Offerta Del Black Friday Inizia… Ora!",
+    "subject_variation_3": "Prolungata! Il Black Friday Continua",
+    "subject_variation_4": "Per il Black Friday, approfitta del 40%  di sconto",
+    "language_name": "undefined (it-FR)"
+  },
+  {
+    "language": "it-BG",
+    "subject_variation_1": "Accesso Anticipato Alla Nostra Più Grande Offerta Del Black Friday Di Sempre",
+    "subject_variation_2": "L'Offerta Del Black Friday Inizia… Ora!",
+    "subject_variation_3": "Prolungata! Il Black Friday Continua",
+    "subject_variation_4": "Per il Black Friday, approfitta del 40%  di sconto",
+    "language_name": "undefined (it-BG)"
+  },
+  {
+    "language": "it-CO",
+    "subject_variation_1": "Accesso Anticipato Alla Nostra Più Grande Offerta Del Black Friday Di Sempre",
+    "subject_variation_2": "L'Offerta Del Black Friday Inizia… Ora!",
+    "subject_variation_3": "Prolungata! Il Black Friday Continua",
+    "subject_variation_4": "Per il Black Friday, approfitta del 40%  di sconto",
+    "language_name": "undefined (it-CO)"
+  },
+  {
+    "language": "it-NL",
+    "subject_variation_1": "Accesso Anticipato Alla Nostra Più Grande Offerta Del Black Friday Di Sempre",
+    "subject_variation_2": "L'Offerta Del Black Friday Inizia… Ora!",
+    "subject_variation_3": "Prolungata! Il Black Friday Continua",
+    "subject_variation_4": "Per il Black Friday, approfitta del 40%  di sconto",
+    "language_name": "undefined (it-NL)"
+  },
+  {
+    "language": "it-SI",
+    "subject_variation_1": "Accesso Anticipato Alla Nostra Più Grande Offerta Del Black Friday Di Sempre",
+    "subject_variation_2": "L'Offerta Del Black Friday Inizia… Ora!",
+    "subject_variation_3": "Prolungata! Il Black Friday Continua",
+    "subject_variation_4": "Per il Black Friday, approfitta del 40%  di sconto",
+    "language_name": "undefined (it-SI)"
+  },
+  {
+    "language": "it-TH",
+    "subject_variation_1": "Accesso Anticipato Alla Nostra Più Grande Offerta Del Black Friday Di Sempre",
+    "subject_variation_2": "L'Offerta Del Black Friday Inizia… Ora!",
+    "subject_variation_3": "Prolungata! Il Black Friday Continua",
+    "subject_variation_4": "Per il Black Friday, approfitta del 40%  di sconto",
+    "language_name": "undefined (it-TH)"
+  },
+  {
+    "language": "it-AE",
+    "subject_variation_1": "Accesso Anticipato Alla Nostra Più Grande Offerta Del Black Friday Di Sempre",
+    "subject_variation_2": "L'Offerta Del Black Friday Inizia… Ora!",
+    "subject_variation_3": "Prolungata! Il Black Friday Continua",
+    "subject_variation_4": "Per il Black Friday, approfitta del 40%  di sconto",
+    "language_name": "undefined (it-AE)"
+  },
+  {
+    "language": "it-IT",
+    "subject_variation_1": "Accesso Anticipato Alla Nostra Più Grande Offerta Del Black Friday Di Sempre",
+    "subject_variation_2": "L'Offerta Del Black Friday Inizia… Ora!",
+    "subject_variation_3": "Prolungata! Il Black Friday Continua",
+    "subject_variation_4": "Per il Black Friday, approfitta del 40%  di sconto",
+    "language_name": "undefined (it-IT)"
+  },
+  {
+    "language": "it-GR",
+    "subject_variation_1": "Accesso Anticipato Alla Nostra Più Grande Offerta Del Black Friday Di Sempre",
+    "subject_variation_2": "L'Offerta Del Black Friday Inizia… Ora!",
+    "subject_variation_3": "Prolungata! Il Black Friday Continua",
+    "subject_variation_4": "Per il Black Friday, approfitta del 40%  di sconto",
+    "language_name": "undefined (it-GR)"
+  },
+  {
+    "language": "it-US",
+    "subject_variation_1": "Accesso Anticipato Alla Nostra Più Grande Offerta Del Black Friday Di Sempre",
+    "subject_variation_2": "L'Offerta Del Black Friday Inizia… Ora!",
+    "subject_variation_3": "Prolungata! Il Black Friday Continua",
+    "subject_variation_4": "Per il Black Friday, approfitta del 40%  di sconto",
+    "language_name": "undefined (it-US)"
+  },
+  {
+    "language": "it-HR",
+    "subject_variation_1": "Accesso Anticipato Alla Nostra Più Grande Offerta Del Black Friday Di Sempre",
+    "subject_variation_2": "L'Offerta Del Black Friday Inizia… Ora!",
+    "subject_variation_3": "Prolungata! Il Black Friday Continua",
+    "subject_variation_4": "Per il Black Friday, approfitta del 40%  di sconto",
+    "language_name": "undefined (it-HR)"
+  },
+  {
+    "language": "it-RO",
+    "subject_variation_1": "Accesso Anticipato Alla Nostra Più Grande Offerta Del Black Friday Di Sempre",
+    "subject_variation_2": "L'Offerta Del Black Friday Inizia… Ora!",
+    "subject_variation_3": "Prolungata! Il Black Friday Continua",
+    "subject_variation_4": "Per il Black Friday, approfitta del 40%  di sconto",
+    "language_name": "undefined (it-RO)"
+  },
+  {
+    "language": "it-HU",
+    "subject_variation_1": "Accesso Anticipato Alla Nostra Più Grande Offerta Del Black Friday Di Sempre",
+    "subject_variation_2": "L'Offerta Del Black Friday Inizia… Ora!",
+    "subject_variation_3": "Prolungata! Il Black Friday Continua",
+    "subject_variation_4": "Per il Black Friday, approfitta del 40%  di sconto",
+    "language_name": "undefined (it-HU)"
+  },
+  {
+    "language": "it-BR",
+    "subject_variation_1": "Accesso Anticipato Alla Nostra Più Grande Offerta Del Black Friday Di Sempre",
+    "subject_variation_2": "L'Offerta Del Black Friday Inizia… Ora!",
+    "subject_variation_3": "Prolungata! Il Black Friday Continua",
+    "subject_variation_4": "Per il Black Friday, approfitta del 40%  di sconto",
+    "language_name": "undefined (it-BR)"
+  },
+  {
+    "language": "it-GB",
+    "subject_variation_1": "Accesso Anticipato Alla Nostra Più Grande Offerta Del Black Friday Di Sempre",
+    "subject_variation_2": "L'Offerta Del Black Friday Inizia… Ora!",
+    "subject_variation_3": "Prolungata! Il Black Friday Continua",
+    "subject_variation_4": "Per il Black Friday, approfitta del 40%  di sconto",
+    "language_name": "undefined (it-GB)"
+  },
+  {
+    "language": "it-CH",
+    "subject_variation_1": "Accesso Anticipato Alla Nostra Più Grande Offerta Del Black Friday Di Sempre",
+    "subject_variation_2": "L'Offerta Del Black Friday Inizia… Ora!",
+    "subject_variation_3": "Prolungata! Il Black Friday Continua",
+    "subject_variation_4": "Per il Black Friday, approfitta del 40%  di sconto",
+    "language_name": "undefined (it-CH)"
+  },
+  {
+    "language": "nl-IT",
+    "subject_variation_1": "Vroege Toegang Tot Onze Grootste Black Friday-Uitverkoop Ooit",
+    "subject_variation_2": "De Black Friday-Uitverkoop Begint... Nu!",
+    "subject_variation_3": "Verlengd! Black Friday Gaat Nog Steeds Door",
+    "subject_variation_4": "Ontvang deze Black Friday 40%  KORTING",
+    "language_name": "undefined (nl-IT)"
+  },
+  {
+    "language": "nl-TH",
+    "subject_variation_1": "Vroege Toegang Tot Onze Grootste Black Friday-Uitverkoop Ooit",
+    "subject_variation_2": "De Black Friday-Uitverkoop Begint... Nu!",
+    "subject_variation_3": "Verlengd! Black Friday Gaat Nog Steeds Door",
+    "subject_variation_4": "Ontvang deze Black Friday 40%  KORTING",
+    "language_name": "undefined (nl-TH)"
+  },
+  {
+    "language": "nl-DK",
+    "subject_variation_1": "Vroege Toegang Tot Onze Grootste Black Friday-Uitverkoop Ooit",
+    "subject_variation_2": "De Black Friday-Uitverkoop Begint... Nu!",
+    "subject_variation_3": "Verlengd! Black Friday Gaat Nog Steeds Door",
+    "subject_variation_4": "Ontvang deze Black Friday 40%  KORTING",
+    "language_name": "undefined (nl-DK)"
+  },
+  {
+    "language": "nl-NL",
+    "subject_variation_1": "Vroege Toegang Tot Onze Grootste Black Friday-Uitverkoop Ooit",
+    "subject_variation_2": "De Black Friday-Uitverkoop Begint... Nu!",
+    "subject_variation_3": "Verlengd! Black Friday Gaat Nog Steeds Door",
+    "subject_variation_4": "Ontvang deze Black Friday 40%  KORTING",
+    "language_name": "undefined (nl-NL)"
+  },
+  {
+    "language": "nl-GB",
+    "subject_variation_1": "Vroege Toegang Tot Onze Grootste Black Friday-Uitverkoop Ooit",
+    "subject_variation_2": "De Black Friday-Uitverkoop Begint... Nu!",
+    "subject_variation_3": "Verlengd! Black Friday Gaat Nog Steeds Door",
+    "subject_variation_4": "Ontvang deze Black Friday 40%  KORTING",
+    "language_name": "undefined (nl-GB)"
+  },
+  {
+    "language": "nl-PT",
+    "subject_variation_1": "Vroege Toegang Tot Onze Grootste Black Friday-Uitverkoop Ooit",
+    "subject_variation_2": "De Black Friday-Uitverkoop Begint... Nu!",
+    "subject_variation_3": "Verlengd! Black Friday Gaat Nog Steeds Door",
+    "subject_variation_4": "Ontvang deze Black Friday 40%  KORTING",
+    "language_name": "undefined (nl-PT)"
+  },
+  {
+    "language": "nl-ES",
+    "subject_variation_1": "Vroege Toegang Tot Onze Grootste Black Friday-Uitverkoop Ooit",
+    "subject_variation_2": "De Black Friday-Uitverkoop Begint... Nu!",
+    "subject_variation_3": "Verlengd! Black Friday Gaat Nog Steeds Door",
+    "subject_variation_4": "Ontvang deze Black Friday 40%  KORTING",
+    "language_name": "undefined (nl-ES)"
+  },
+  {
+    "language": "nl-PL",
+    "subject_variation_1": "Vroege Toegang Tot Onze Grootste Black Friday-Uitverkoop Ooit",
+    "subject_variation_2": "De Black Friday-Uitverkoop Begint... Nu!",
+    "subject_variation_3": "Verlengd! Black Friday Gaat Nog Steeds Door",
+    "subject_variation_4": "Ontvang deze Black Friday 40%  KORTING",
+    "language_name": "undefined (nl-PL)"
+  },
+  {
+    "language": "nl-FR",
+    "subject_variation_1": "Vroege Toegang Tot Onze Grootste Black Friday-Uitverkoop Ooit",
+    "subject_variation_2": "De Black Friday-Uitverkoop Begint... Nu!",
+    "subject_variation_3": "Verlengd! Black Friday Gaat Nog Steeds Door",
+    "subject_variation_4": "Ontvang deze Black Friday 40%  KORTING",
+    "language_name": "undefined (nl-FR)"
+  },
+  {
+    "language": "nl-BE",
+    "subject_variation_1": "Vroege Toegang Tot Onze Grootste Black Friday-Uitverkoop Ooit",
+    "subject_variation_2": "De Black Friday-Uitverkoop Begint... Nu!",
+    "subject_variation_3": "Verlengd! Black Friday Gaat Nog Steeds Door",
+    "subject_variation_4": "Ontvang deze Black Friday 40%  KORTING",
+    "language_name": "undefined (nl-BE)"
+  },
+  {
+    "language": "fr-MC",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-MC)"
+  },
+  {
+    "language": "fr-PF",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-PF)"
+  },
+  {
+    "language": "fr-BG",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-BG)"
+  },
+  {
+    "language": "fr-SK",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-SK)"
+  },
+  {
+    "language": "fr-GP",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-GP)"
+  },
+  {
+    "language": "fr-FR",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-FR)"
+  },
+  {
+    "language": "fr-LU",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-LU)"
+  },
+  {
+    "language": "fr-NC",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-NC)"
+  },
+  {
+    "language": "fr-IL",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-IL)"
+  },
+  {
+    "language": "fr-MG",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-MG)"
+  },
+  {
+    "language": "fr-DE",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-DE)"
+  },
+  {
+    "language": "fr-GB",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-GB)"
+  },
+  {
+    "language": "fr-ES",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-ES)"
+  },
+  {
+    "language": "fr-PT",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-PT)"
+  },
+  {
+    "language": "fr-MQ",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-MQ)"
+  },
+  {
+    "language": "fr-NO",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-NO)"
+  },
+  {
+    "language": "fr-TH",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-TH)"
+  },
+  {
+    "language": "fr-IT",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-IT)"
+  },
+  {
+    "language": "fr-US",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-US)"
+  },
+  {
+    "language": "fr-MA",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-MA)"
+  },
+  {
+    "language": "fr-NL",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-NL)"
+  },
+  {
+    "language": "fr-BE",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-BE)"
+  },
+  {
+    "language": "fr-CA",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-CA)"
+  },
+  {
+    "language": "fr-CH",
+    "subject_variation_1": "Prélude À Nos Soldes Du Black Friday Plus Intéressantes Que Jamais",
+    "subject_variation_2": "Les Soldes Du Black Friday Commencent... Maintenant !",
+    "subject_variation_3": "Prolongation ! Le Black Friday Continue",
+    "subject_variation_4": "Pendant ce Black Friday, profitez de 40%  de réduction",
+    "language_name": "undefined (fr-CH)"
+  },
+  {
+    "language": "hu-SK",
+    "subject_variation_1": "Korai Hozzáférés A Valaha Volt Legnagyobb Fekete Pénteki Akciónkhoz",
+    "subject_variation_2": "A Fekete Pénteki Kiárusítás Most Kezdődik!",
+    "subject_variation_3": "Meghosszabbítva! A Fekete Péntek Tovább Folytatódik",
+    "subject_variation_4": "Black Friday akciók, 40% kedvezménnyel",
+    "language_name": "undefined (hu-SK)"
+  },
+  {
+    "language": "hu-LK",
+    "subject_variation_1": "Korai Hozzáférés A Valaha Volt Legnagyobb Fekete Pénteki Akciónkhoz",
+    "subject_variation_2": "A Fekete Pénteki Kiárusítás Most Kezdődik!",
+    "subject_variation_3": "Meghosszabbítva! A Fekete Péntek Tovább Folytatódik",
+    "subject_variation_4": "Black Friday akciók, 40% kedvezménnyel",
+    "language_name": "undefined (hu-LK)"
+  },
+  {
+    "language": "hu-AT",
+    "subject_variation_1": "Korai Hozzáférés A Valaha Volt Legnagyobb Fekete Pénteki Akciónkhoz",
+    "subject_variation_2": "A Fekete Pénteki Kiárusítás Most Kezdődik!",
+    "subject_variation_3": "Meghosszabbítva! A Fekete Péntek Tovább Folytatódik",
+    "subject_variation_4": "Black Friday akciók, 40% kedvezménnyel",
+    "language_name": "undefined (hu-AT)"
+  },
+  {
+    "language": "hu-CH",
+    "subject_variation_1": "Korai Hozzáférés A Valaha Volt Legnagyobb Fekete Pénteki Akciónkhoz",
+    "subject_variation_2": "A Fekete Pénteki Kiárusítás Most Kezdődik!",
+    "subject_variation_3": "Meghosszabbítva! A Fekete Péntek Tovább Folytatódik",
+    "subject_variation_4": "Black Friday akciók, 40% kedvezménnyel",
+    "language_name": "undefined (hu-CH)"
+  },
+  {
+    "language": "hu-HU",
+    "subject_variation_1": "Korai Hozzáférés A Valaha Volt Legnagyobb Fekete Pénteki Akciónkhoz",
+    "subject_variation_2": "A Fekete Pénteki Kiárusítás Most Kezdődik!",
+    "subject_variation_3": "Meghosszabbítva! A Fekete Péntek Tovább Folytatódik",
+    "subject_variation_4": "Black Friday akciók, 40% kedvezménnyel",
+    "language_name": "undefined (hu-HU)"
+  },
+  {
+    "language": "hu-DE",
+    "subject_variation_1": "Korai Hozzáférés A Valaha Volt Legnagyobb Fekete Pénteki Akciónkhoz",
+    "subject_variation_2": "A Fekete Pénteki Kiárusítás Most Kezdődik!",
+    "subject_variation_3": "Meghosszabbítva! A Fekete Péntek Tovább Folytatódik",
+    "subject_variation_4": "Black Friday akciók, 40% kedvezménnyel",
+    "language_name": "undefined (hu-DE)"
+  },
+  {
+    "language": "hu-RO",
+    "subject_variation_1": "Korai Hozzáférés A Valaha Volt Legnagyobb Fekete Pénteki Akciónkhoz",
+    "subject_variation_2": "A Fekete Pénteki Kiárusítás Most Kezdődik!",
+    "subject_variation_3": "Meghosszabbítva! A Fekete Péntek Tovább Folytatódik",
+    "subject_variation_4": "Black Friday akciók, 40% kedvezménnyel",
+    "language_name": "undefined (hu-RO)"
+  },
+  {
+    "language": "hu-NO",
+    "subject_variation_1": "Korai Hozzáférés A Valaha Volt Legnagyobb Fekete Pénteki Akciónkhoz",
+    "subject_variation_2": "A Fekete Pénteki Kiárusítás Most Kezdődik!",
+    "subject_variation_3": "Meghosszabbítva! A Fekete Péntek Tovább Folytatódik",
+    "subject_variation_4": "Black Friday akciók, 40% kedvezménnyel",
+    "language_name": "undefined (hu-NO)"
+  },
+  {
+    "language": "hu-ES",
+    "subject_variation_1": "Korai Hozzáférés A Valaha Volt Legnagyobb Fekete Pénteki Akciónkhoz",
+    "subject_variation_2": "A Fekete Pénteki Kiárusítás Most Kezdődik!",
+    "subject_variation_3": "Meghosszabbítva! A Fekete Péntek Tovább Folytatódik",
+    "subject_variation_4": "Black Friday akciók, 40% kedvezménnyel",
+    "language_name": "undefined (hu-ES)"
+  },
+  {
+    "language": "hu-IT",
+    "subject_variation_1": "Korai Hozzáférés A Valaha Volt Legnagyobb Fekete Pénteki Akciónkhoz",
+    "subject_variation_2": "A Fekete Pénteki Kiárusítás Most Kezdődik!",
+    "subject_variation_3": "Meghosszabbítva! A Fekete Péntek Tovább Folytatódik",
+    "subject_variation_4": "Black Friday akciók, 40% kedvezménnyel",
+    "language_name": "undefined (hu-IT)"
+  },
+  {
+    "language": "sv-FI",
+    "subject_variation_1": "Kom Tidigt Åt Vår Största Black Friday-Rea Någonsin",
+    "subject_variation_2": "Black Friday-Rean Startar... Nu!",
+    "subject_variation_3": "Förlängd! Black Friday Pågår Fortfarande",
+    "subject_variation_4": "Få 40%  RABATT denna Black Friday",
+    "language_name": "undefined (sv-FI)"
+  },
+  {
+    "language": "sv-IT",
+    "subject_variation_1": "Kom Tidigt Åt Vår Största Black Friday-Rea Någonsin",
+    "subject_variation_2": "Black Friday-Rean Startar... Nu!",
+    "subject_variation_3": "Förlängd! Black Friday Pågår Fortfarande",
+    "subject_variation_4": "Få 40%  RABATT denna Black Friday",
+    "language_name": "undefined (sv-IT)"
+  },
+  {
+    "language": "sv-DE",
+    "subject_variation_1": "Kom Tidigt Åt Vår Största Black Friday-Rea Någonsin",
+    "subject_variation_2": "Black Friday-Rean Startar... Nu!",
+    "subject_variation_3": "Förlängd! Black Friday Pågår Fortfarande",
+    "subject_variation_4": "Få 40%  RABATT denna Black Friday",
+    "language_name": "undefined (sv-DE)"
+  },
+  {
+    "language": "sv-ES",
+    "subject_variation_1": "Kom Tidigt Åt Vår Största Black Friday-Rea Någonsin",
+    "subject_variation_2": "Black Friday-Rean Startar... Nu!",
+    "subject_variation_3": "Förlängd! Black Friday Pågår Fortfarande",
+    "subject_variation_4": "Få 40%  RABATT denna Black Friday",
+    "language_name": "undefined (sv-ES)"
+  },
+  {
+    "language": "sv-NO",
+    "subject_variation_1": "Kom Tidigt Åt Vår Största Black Friday-Rea Någonsin",
+    "subject_variation_2": "Black Friday-Rean Startar... Nu!",
+    "subject_variation_3": "Förlängd! Black Friday Pågår Fortfarande",
+    "subject_variation_4": "Få 40%  RABATT denna Black Friday",
+    "language_name": "undefined (sv-NO)"
+  },
+  {
+    "language": "sv-LV",
+    "subject_variation_1": "Kom Tidigt Åt Vår Största Black Friday-Rea Någonsin",
+    "subject_variation_2": "Black Friday-Rean Startar... Nu!",
+    "subject_variation_3": "Förlängd! Black Friday Pågår Fortfarande",
+    "subject_variation_4": "Få 40%  RABATT denna Black Friday",
+    "language_name": "undefined (sv-LV)"
+  },
+  {
+    "language": "sv-SE",
+    "subject_variation_1": "Kom Tidigt Åt Vår Största Black Friday-Rea Någonsin",
+    "subject_variation_2": "Black Friday-Rean Startar... Nu!",
+    "subject_variation_3": "Förlängd! Black Friday Pågår Fortfarande",
+    "subject_variation_4": "Få 40%  RABATT denna Black Friday",
+    "language_name": "undefined (sv-SE)"
+  },
+  {
+    "language": "sv-FR",
+    "subject_variation_1": "Kom Tidigt Åt Vår Största Black Friday-Rea Någonsin",
+    "subject_variation_2": "Black Friday-Rean Startar... Nu!",
+    "subject_variation_3": "Förlängd! Black Friday Pågår Fortfarande",
+    "subject_variation_4": "Få 40%  RABATT denna Black Friday",
+    "language_name": "undefined (sv-FR)"
+  },
+  {
+    "language": "pt-CA",
+    "subject_variation_1": "Acesso Antecipado À Maior Black Friday De Todos Os Tempos",
+    "subject_variation_2": "A Promoção De Black Friday Começa... Agora!",
+    "subject_variation_3": "Prorrogada! A Black Friday Ainda Está Rolando",
+    "subject_variation_4": "Garanta 40%  de desconto nesta Black Friday",
+    "language_name": "undefined (pt-CA)"
+  },
+  {
+    "language": "pt-IE",
+    "subject_variation_1": "Acesso Antecipado À Maior Black Friday De Todos Os Tempos",
+    "subject_variation_2": "A Promoção De Black Friday Começa... Agora!",
+    "subject_variation_3": "Prorrogada! A Black Friday Ainda Está Rolando",
+    "subject_variation_4": "Garanta 40%  de desconto nesta Black Friday",
+    "language_name": "undefined (pt-IE)"
+  },
+  {
+    "language": "pt-FR",
+    "subject_variation_1": "Acesso Antecipado À Maior Black Friday De Todos Os Tempos",
+    "subject_variation_2": "A Promoção De Black Friday Começa... Agora!",
+    "subject_variation_3": "Prorrogada! A Black Friday Ainda Está Rolando",
+    "subject_variation_4": "Garanta 40%  de desconto nesta Black Friday",
+    "language_name": "undefined (pt-FR)"
+  },
+  {
+    "language": "pt-NZ",
+    "subject_variation_1": "Acesso Antecipado À Maior Black Friday De Todos Os Tempos",
+    "subject_variation_2": "A Promoção De Black Friday Começa... Agora!",
+    "subject_variation_3": "Prorrogada! A Black Friday Ainda Está Rolando",
+    "subject_variation_4": "Garanta 40%  de desconto nesta Black Friday",
+    "language_name": "undefined (pt-NZ)"
+  },
+  {
+    "language": "pt-CH",
+    "subject_variation_1": "Acesso Antecipado À Maior Black Friday De Todos Os Tempos",
+    "subject_variation_2": "A Promoção De Black Friday Começa... Agora!",
+    "subject_variation_3": "Prorrogada! A Black Friday Ainda Está Rolando",
+    "subject_variation_4": "Garanta 40%  de desconto nesta Black Friday",
+    "language_name": "undefined (pt-CH)"
+  },
+  {
+    "language": "pt-CO",
+    "subject_variation_1": "Acesso Antecipado À Maior Black Friday De Todos Os Tempos",
+    "subject_variation_2": "A Promoção De Black Friday Começa... Agora!",
+    "subject_variation_3": "Prorrogada! A Black Friday Ainda Está Rolando",
+    "subject_variation_4": "Garanta 40%  de desconto nesta Black Friday",
+    "language_name": "undefined (pt-CO)"
+  },
+  {
+    "language": "pt-DK",
+    "subject_variation_1": "Acesso Antecipado À Maior Black Friday De Todos Os Tempos",
+    "subject_variation_2": "A Promoção De Black Friday Começa... Agora!",
+    "subject_variation_3": "Prorrogada! A Black Friday Ainda Está Rolando",
+    "subject_variation_4": "Garanta 40%  de desconto nesta Black Friday",
+    "language_name": "undefined (pt-DK)"
+  },
+  {
+    "language": "pt-NL",
+    "subject_variation_1": "Acesso Antecipado À Maior Black Friday De Todos Os Tempos",
+    "subject_variation_2": "A Promoção De Black Friday Começa... Agora!",
+    "subject_variation_3": "Prorrogada! A Black Friday Ainda Está Rolando",
+    "subject_variation_4": "Garanta 40%  de desconto nesta Black Friday",
+    "language_name": "undefined (pt-NL)"
+  },
+  {
+    "language": "pt-IT",
+    "subject_variation_1": "Acesso Antecipado À Maior Black Friday De Todos Os Tempos",
+    "subject_variation_2": "A Promoção De Black Friday Começa... Agora!",
+    "subject_variation_3": "Prorrogada! A Black Friday Ainda Está Rolando",
+    "subject_variation_4": "Garanta 40%  de desconto nesta Black Friday",
+    "language_name": "undefined (pt-IT)"
+  },
+  {
+    "language": "pt-US",
+    "subject_variation_1": "Acesso Antecipado À Maior Black Friday De Todos Os Tempos",
+    "subject_variation_2": "A Promoção De Black Friday Começa... Agora!",
+    "subject_variation_3": "Prorrogada! A Black Friday Ainda Está Rolando",
+    "subject_variation_4": "Garanta 40%  de desconto nesta Black Friday",
+    "language_name": "undefined (pt-US)"
+  },
+  {
+    "language": "pt-ES",
+    "subject_variation_1": "Acesso Antecipado À Maior Black Friday De Todos Os Tempos",
+    "subject_variation_2": "A Promoção De Black Friday Começa... Agora!",
+    "subject_variation_3": "Prorrogada! A Black Friday Ainda Está Rolando",
+    "subject_variation_4": "Garanta 40%  de desconto nesta Black Friday",
+    "language_name": "undefined (pt-ES)"
+  },
+  {
+    "language": "pt-BR",
+    "subject_variation_1": "Acesso Antecipado À Maior Black Friday De Todos Os Tempos",
+    "subject_variation_2": "A Promoção De Black Friday Começa... Agora!",
+    "subject_variation_3": "Prorrogada! A Black Friday Ainda Está Rolando",
+    "subject_variation_4": "Garanta 40%  de desconto nesta Black Friday",
+    "language_name": "undefined (pt-BR)"
+  },
+  {
+    "language": "pt-DE",
+    "subject_variation_1": "Acesso Antecipado À Maior Black Friday De Todos Os Tempos",
+    "subject_variation_2": "A Promoção De Black Friday Começa... Agora!",
+    "subject_variation_3": "Prorrogada! A Black Friday Ainda Está Rolando",
+    "subject_variation_4": "Garanta 40%  de desconto nesta Black Friday",
+    "language_name": "undefined (pt-DE)"
+  },
+  {
+    "language": "pt-GB",
+    "subject_variation_1": "Acesso Antecipado À Maior Black Friday De Todos Os Tempos",
+    "subject_variation_2": "A Promoção De Black Friday Começa... Agora!",
+    "subject_variation_3": "Prorrogada! A Black Friday Ainda Está Rolando",
+    "subject_variation_4": "Garanta 40%  de desconto nesta Black Friday",
+    "language_name": "undefined (pt-GB)"
+  },
+  {
+    "language": "pt-PY",
+    "subject_variation_1": "Acesso Antecipado À Maior Black Friday De Todos Os Tempos",
+    "subject_variation_2": "A Promoção De Black Friday Começa... Agora!",
+    "subject_variation_3": "Prorrogada! A Black Friday Ainda Está Rolando",
+    "subject_variation_4": "Garanta 40%  de desconto nesta Black Friday",
+    "language_name": "undefined (pt-PY)"
+  },
+  {
+    "language": "pt-PT",
+    "subject_variation_1": "Acesso Antecipado À Maior Black Friday De Todos Os Tempos",
+    "subject_variation_2": "A Promoção De Black Friday Começa... Agora!",
+    "subject_variation_3": "Prorrogada! A Black Friday Ainda Está Rolando",
+    "subject_variation_4": "Garanta 40%  de desconto nesta Black Friday",
+    "language_name": "undefined (pt-PT)"
+  },
+  {
+    "language": "da-SE",
+    "subject_variation_1": "Tidlig Adgang Til Vores Største Black Friday Udsalg Nogensinde",
+    "subject_variation_2": "Black Friday Udsalg Starter... Nu!",
+    "subject_variation_3": "Udvidet! Black Friday Kører Stadig",
+    "subject_variation_4": "Få 40 % rabat denne Black Friday",
+    "language_name": "undefined (da-SE)"
+  },
+  {
+    "language": "da-LV",
+    "subject_variation_1": "Tidlig Adgang Til Vores Største Black Friday Udsalg Nogensinde",
+    "subject_variation_2": "Black Friday Udsalg Starter... Nu!",
+    "subject_variation_3": "Udvidet! Black Friday Kører Stadig",
+    "subject_variation_4": "Få 40 % rabat denne Black Friday",
+    "language_name": "undefined (da-LV)"
+  },
+  {
+    "language": "da-LU",
+    "subject_variation_1": "Tidlig Adgang Til Vores Største Black Friday Udsalg Nogensinde",
+    "subject_variation_2": "Black Friday Udsalg Starter... Nu!",
+    "subject_variation_3": "Udvidet! Black Friday Kører Stadig",
+    "subject_variation_4": "Få 40 % rabat denne Black Friday",
+    "language_name": "undefined (da-LU)"
+  },
+  {
+    "language": "da-DK",
+    "subject_variation_1": "Tidlig Adgang Til Vores Største Black Friday Udsalg Nogensinde",
+    "subject_variation_2": "Black Friday Udsalg Starter... Nu!",
+    "subject_variation_3": "Udvidet! Black Friday Kører Stadig",
+    "subject_variation_4": "Få 40 % rabat denne Black Friday",
+    "language_name": "undefined (da-DK)"
+  },
+  {
+    "language": "da-TH",
+    "subject_variation_1": "Tidlig Adgang Til Vores Største Black Friday Udsalg Nogensinde",
+    "subject_variation_2": "Black Friday Udsalg Starter... Nu!",
+    "subject_variation_3": "Udvidet! Black Friday Kører Stadig",
+    "subject_variation_4": "Få 40 % rabat denne Black Friday",
+    "language_name": "undefined (da-TH)"
+  },
+  {
+    "language": "da-HR",
+    "subject_variation_1": "Tidlig Adgang Til Vores Største Black Friday Udsalg Nogensinde",
+    "subject_variation_2": "Black Friday Udsalg Starter... Nu!",
+    "subject_variation_3": "Udvidet! Black Friday Kører Stadig",
+    "subject_variation_4": "Få 40 % rabat denne Black Friday",
+    "language_name": "undefined (da-HR)"
+  },
+  {
+    "language": "ro-IL",
+    "subject_variation_1": "Acces Timpuriu La Cea Mai Mare Promoție De Black Friday",
+    "subject_variation_2": "Black Friday Începe… Acum!",
+    "subject_variation_3": "Prelungită! Black Friday Continuă",
+    "subject_variation_4": "De Black Friday, Get 40%  discount",
+    "language_name": "undefined (ro-IL)"
+  },
+  {
+    "language": "ro-CH",
+    "subject_variation_1": "Acces Timpuriu La Cea Mai Mare Promoție De Black Friday",
+    "subject_variation_2": "Black Friday Începe… Acum!",
+    "subject_variation_3": "Prelungită! Black Friday Continuă",
+    "subject_variation_4": "De Black Friday, Get 40%  discount",
+    "language_name": "undefined (ro-CH)"
+  },
+  {
+    "language": "ro-AT",
+    "subject_variation_1": "Acces Timpuriu La Cea Mai Mare Promoție De Black Friday",
+    "subject_variation_2": "Black Friday Începe… Acum!",
+    "subject_variation_3": "Prelungită! Black Friday Continuă",
+    "subject_variation_4": "De Black Friday, Get 40%  discount",
+    "language_name": "undefined (ro-AT)"
+  },
+  {
+    "language": "ro-MD",
+    "subject_variation_1": "Acces Timpuriu La Cea Mai Mare Promoție De Black Friday",
+    "subject_variation_2": "Black Friday Începe… Acum!",
+    "subject_variation_3": "Prelungită! Black Friday Continuă",
+    "subject_variation_4": "De Black Friday, Get 40%  discount",
+    "language_name": "undefined (ro-MD)"
+  },
+  {
+    "language": "ro-US",
+    "subject_variation_1": "Acces Timpuriu La Cea Mai Mare Promoție De Black Friday",
+    "subject_variation_2": "Black Friday Începe… Acum!",
+    "subject_variation_3": "Prelungită! Black Friday Continuă",
+    "subject_variation_4": "De Black Friday, Get 40%  discount",
+    "language_name": "undefined (ro-US)"
+  },
+  {
+    "language": "ro-IT",
+    "subject_variation_1": "Acces Timpuriu La Cea Mai Mare Promoție De Black Friday",
+    "subject_variation_2": "Black Friday Începe… Acum!",
+    "subject_variation_3": "Prelungită! Black Friday Continuă",
+    "subject_variation_4": "De Black Friday, Get 40%  discount",
+    "language_name": "undefined (ro-IT)"
+  },
+  {
+    "language": "ro-NL",
+    "subject_variation_1": "Acces Timpuriu La Cea Mai Mare Promoție De Black Friday",
+    "subject_variation_2": "Black Friday Începe… Acum!",
+    "subject_variation_3": "Prelungită! Black Friday Continuă",
+    "subject_variation_4": "De Black Friday, Get 40%  discount",
+    "language_name": "undefined (ro-NL)"
+  },
+  {
+    "language": "ro-RO",
+    "subject_variation_1": "Acces Timpuriu La Cea Mai Mare Promoție De Black Friday",
+    "subject_variation_2": "Black Friday Începe… Acum!",
+    "subject_variation_3": "Prelungită! Black Friday Continuă",
+    "subject_variation_4": "De Black Friday, Get 40%  discount",
+    "language_name": "undefined (ro-RO)"
+  },
+  {
+    "language": "no-GB",
+    "subject_variation_1": "Tidlig Tilgang Til Vårt Største Black Friday-Salg Noensinne",
+    "subject_variation_2": "Black Friday-Salget Starter ... Nå!",
+    "subject_variation_3": "Forlenget! Black Friday Pågår Fortsatt",
+    "subject_variation_4": "Få 40% rabatt på Black Friday",
+    "language_name": "undefined (no-GB)"
+  },
+  {
+    "language": "no-ET",
+    "subject_variation_1": "Tidlig Tilgang Til Vårt Største Black Friday-Salg Noensinne",
+    "subject_variation_2": "Black Friday-Salget Starter ... Nå!",
+    "subject_variation_3": "Forlenget! Black Friday Pågår Fortsatt",
+    "subject_variation_4": "Få 40% rabatt på Black Friday",
+    "language_name": "undefined (no-ET)"
+  },
+  {
+    "language": "no-DE",
+    "subject_variation_1": "Tidlig Tilgang Til Vårt Største Black Friday-Salg Noensinne",
+    "subject_variation_2": "Black Friday-Salget Starter ... Nå!",
+    "subject_variation_3": "Forlenget! Black Friday Pågår Fortsatt",
+    "subject_variation_4": "Få 40% rabatt på Black Friday",
+    "language_name": "undefined (no-DE)"
+  },
+  {
+    "language": "no-NO",
+    "subject_variation_1": "Tidlig Tilgang Til Vårt Største Black Friday-Salg Noensinne",
+    "subject_variation_2": "Black Friday-Salget Starter ... Nå!",
+    "subject_variation_3": "Forlenget! Black Friday Pågår Fortsatt",
+    "subject_variation_4": "Få 40% rabatt på Black Friday",
+    "language_name": "undefined (no-NO)"
+  },
+  {
+    "language": "no-US",
+    "subject_variation_1": "Tidlig Tilgang Til Vårt Største Black Friday-Salg Noensinne",
+    "subject_variation_2": "Black Friday-Salget Starter ... Nå!",
+    "subject_variation_3": "Forlenget! Black Friday Pågår Fortsatt",
+    "subject_variation_4": "Få 40% rabatt på Black Friday",
+    "language_name": "undefined (no-US)"
+  },
+  {
+    "language": "no-PL",
+    "subject_variation_1": "Tidlig Tilgang Til Vårt Største Black Friday-Salg Noensinne",
+    "subject_variation_2": "Black Friday-Salget Starter ... Nå!",
+    "subject_variation_3": "Forlenget! Black Friday Pågår Fortsatt",
+    "subject_variation_4": "Få 40% rabatt på Black Friday",
+    "language_name": "undefined (no-PL)"
+  },
+  {
+    "language": "no-CO",
+    "subject_variation_1": "Tidlig Tilgang Til Vårt Største Black Friday-Salg Noensinne",
+    "subject_variation_2": "Black Friday-Salget Starter ... Nå!",
+    "subject_variation_3": "Forlenget! Black Friday Pågår Fortsatt",
+    "subject_variation_4": "Få 40% rabatt på Black Friday",
+    "language_name": "undefined (no-CO)"
+  },
+  {
+    "language": "no-PH",
+    "subject_variation_1": "Tidlig Tilgang Til Vårt Største Black Friday-Salg Noensinne",
+    "subject_variation_2": "Black Friday-Salget Starter ... Nå!",
+    "subject_variation_3": "Forlenget! Black Friday Pågår Fortsatt",
+    "subject_variation_4": "Få 40% rabatt på Black Friday",
+    "language_name": "undefined (no-PH)"
+  },
+  {
+    "language": "th-TH",
+    "subject_variation_1": "เข้าถึงการลดราคา Black Friday ครั้งใหญ่ที่สุดของเราได้ก่อนใคร",
+    "subject_variation_2": "การลดราคา Black Friday เริ่มต้น... วันนี้!",
+    "subject_variation_3": "ขยายเวลา! Black Friday ยังคงดำเนินอยู่",
+    "subject_variation_4": "Black Friday นี้ลด 40%",
+    "language_name": "undefined (th-TH)"
+  },
+  {
+    "language": "pl-GB",
+    "subject_variation_1": "Wcześniejszy Dostęp Do Naszej Największej Wyprzedaży W Czarny Piątek",
+    "subject_variation_2": "Wyprzedaż W Czarny Piątek Zaczyna Się... Teraz!",
+    "subject_variation_3": "Przedłużona! Czarny Piątek Nadal Trwa",
+    "subject_variation_4": "W ten Czarny Piątek odbierz 40%  RABATU",
+    "language_name": "undefined (pl-GB)"
+  },
+  {
+    "language": "pl-DE",
+    "subject_variation_1": "Wcześniejszy Dostęp Do Naszej Największej Wyprzedaży W Czarny Piątek",
+    "subject_variation_2": "Wyprzedaż W Czarny Piątek Zaczyna Się... Teraz!",
+    "subject_variation_3": "Przedłużona! Czarny Piątek Nadal Trwa",
+    "subject_variation_4": "W ten Czarny Piątek odbierz 40%  RABATU",
+    "language_name": "undefined (pl-DE)"
+  },
+  {
+    "language": "pl-PT",
+    "subject_variation_1": "Wcześniejszy Dostęp Do Naszej Największej Wyprzedaży W Czarny Piątek",
+    "subject_variation_2": "Wyprzedaż W Czarny Piątek Zaczyna Się... Teraz!",
+    "subject_variation_3": "Przedłużona! Czarny Piątek Nadal Trwa",
+    "subject_variation_4": "W ten Czarny Piątek odbierz 40%  RABATU",
+    "language_name": "undefined (pl-PT)"
+  },
+  {
+    "language": "pl-TH",
+    "subject_variation_1": "Wcześniejszy Dostęp Do Naszej Największej Wyprzedaży W Czarny Piątek",
+    "subject_variation_2": "Wyprzedaż W Czarny Piątek Zaczyna Się... Teraz!",
+    "subject_variation_3": "Przedłużona! Czarny Piątek Nadal Trwa",
+    "subject_variation_4": "W ten Czarny Piątek odbierz 40%  RABATU",
+    "language_name": "undefined (pl-TH)"
+  },
+  {
+    "language": "pl-FI",
+    "subject_variation_1": "Wcześniejszy Dostęp Do Naszej Największej Wyprzedaży W Czarny Piątek",
+    "subject_variation_2": "Wyprzedaż W Czarny Piątek Zaczyna Się... Teraz!",
+    "subject_variation_3": "Przedłużona! Czarny Piątek Nadal Trwa",
+    "subject_variation_4": "W ten Czarny Piątek odbierz 40%  RABATU",
+    "language_name": "undefined (pl-FI)"
+  },
+  {
+    "language": "pl-US",
+    "subject_variation_1": "Wcześniejszy Dostęp Do Naszej Największej Wyprzedaży W Czarny Piątek",
+    "subject_variation_2": "Wyprzedaż W Czarny Piątek Zaczyna Się... Teraz!",
+    "subject_variation_3": "Przedłużona! Czarny Piątek Nadal Trwa",
+    "subject_variation_4": "W ten Czarny Piątek odbierz 40%  RABATU",
+    "language_name": "undefined (pl-US)"
+  },
+  {
+    "language": "pl-GR",
+    "subject_variation_1": "Wcześniejszy Dostęp Do Naszej Największej Wyprzedaży W Czarny Piątek",
+    "subject_variation_2": "Wyprzedaż W Czarny Piątek Zaczyna Się... Teraz!",
+    "subject_variation_3": "Przedłużona! Czarny Piątek Nadal Trwa",
+    "subject_variation_4": "W ten Czarny Piątek odbierz 40%  RABATU",
+    "language_name": "undefined (pl-GR)"
+  },
+  {
+    "language": "pl-NL",
+    "subject_variation_1": "Wcześniejszy Dostęp Do Naszej Największej Wyprzedaży W Czarny Piątek",
+    "subject_variation_2": "Wyprzedaż W Czarny Piątek Zaczyna Się... Teraz!",
+    "subject_variation_3": "Przedłużona! Czarny Piątek Nadal Trwa",
+    "subject_variation_4": "W ten Czarny Piątek odbierz 40%  RABATU",
+    "language_name": "undefined (pl-NL)"
+  },
+  {
+    "language": "pl-DK",
+    "subject_variation_1": "Wcześniejszy Dostęp Do Naszej Największej Wyprzedaży W Czarny Piątek",
+    "subject_variation_2": "Wyprzedaż W Czarny Piątek Zaczyna Się... Teraz!",
+    "subject_variation_3": "Przedłużona! Czarny Piątek Nadal Trwa",
+    "subject_variation_4": "W ten Czarny Piątek odbierz 40%  RABATU",
+    "language_name": "undefined (pl-DK)"
+  },
+  {
+    "language": "pl-PL",
+    "subject_variation_1": "Wcześniejszy Dostęp Do Naszej Największej Wyprzedaży W Czarny Piątek",
+    "subject_variation_2": "Wyprzedaż W Czarny Piątek Zaczyna Się... Teraz!",
+    "subject_variation_3": "Przedłużona! Czarny Piątek Nadal Trwa",
+    "subject_variation_4": "W ten Czarny Piątek odbierz 40%  RABATU",
+    "language_name": "undefined (pl-PL)"
+  },
+  {
+    "language": "pl-CH",
+    "subject_variation_1": "Wcześniejszy Dostęp Do Naszej Największej Wyprzedaży W Czarny Piątek",
+    "subject_variation_2": "Wyprzedaż W Czarny Piątek Zaczyna Się... Teraz!",
+    "subject_variation_3": "Przedłużona! Czarny Piątek Nadal Trwa",
+    "subject_variation_4": "W ten Czarny Piątek odbierz 40%  RABATU",
+    "language_name": "undefined (pl-CH)"
+  },
+  {
+    "language": "pl-IE",
+    "subject_variation_1": "Wcześniejszy Dostęp Do Naszej Największej Wyprzedaży W Czarny Piątek",
+    "subject_variation_2": "Wyprzedaż W Czarny Piątek Zaczyna Się... Teraz!",
+    "subject_variation_3": "Przedłużona! Czarny Piątek Nadal Trwa",
+    "subject_variation_4": "W ten Czarny Piątek odbierz 40%  RABATU",
+    "language_name": "undefined (pl-IE)"
+  },
+  {
+    "language": "pl-SE",
+    "subject_variation_1": "Wcześniejszy Dostęp Do Naszej Największej Wyprzedaży W Czarny Piątek",
+    "subject_variation_2": "Wyprzedaż W Czarny Piątek Zaczyna Się... Teraz!",
+    "subject_variation_3": "Przedłużona! Czarny Piątek Nadal Trwa",
+    "subject_variation_4": "W ten Czarny Piątek odbierz 40%  RABATU",
+    "language_name": "undefined (pl-SE)"
+  },
+  {
+    "language": "fi-NO",
+    "subject_variation_1": "Varhainen Pääsy Kaikkien Aikojen Suurimpaan Black Friday -Alennusmyyntiimme",
+    "subject_variation_2": "Black Friday -Alennusmyynti Alkaa… Nyt!",
+    "subject_variation_3": "Jatkettu! Black Friday Jatkuu Edelleen",
+    "subject_variation_4": "Tänä mustana perjantaina, 40%  halvemmalla",
+    "language_name": "undefined (fi-NO)"
+  },
+  {
+    "language": "fi-GB",
+    "subject_variation_1": "Varhainen Pääsy Kaikkien Aikojen Suurimpaan Black Friday -Alennusmyyntiimme",
+    "subject_variation_2": "Black Friday -Alennusmyynti Alkaa… Nyt!",
+    "subject_variation_3": "Jatkettu! Black Friday Jatkuu Edelleen",
+    "subject_variation_4": "Tänä mustana perjantaina, 40%  halvemmalla",
+    "language_name": "undefined (fi-GB)"
+  },
+  {
+    "language": "fi-TH",
+    "subject_variation_1": "Varhainen Pääsy Kaikkien Aikojen Suurimpaan Black Friday -Alennusmyyntiimme",
+    "subject_variation_2": "Black Friday -Alennusmyynti Alkaa… Nyt!",
+    "subject_variation_3": "Jatkettu! Black Friday Jatkuu Edelleen",
+    "subject_variation_4": "Tänä mustana perjantaina, 40%  halvemmalla",
+    "language_name": "undefined (fi-TH)"
+  },
+  {
+    "language": "fi-FI",
+    "subject_variation_1": "Varhainen Pääsy Kaikkien Aikojen Suurimpaan Black Friday -Alennusmyyntiimme",
+    "subject_variation_2": "Black Friday -Alennusmyynti Alkaa… Nyt!",
+    "subject_variation_3": "Jatkettu! Black Friday Jatkuu Edelleen",
+    "subject_variation_4": "Tänä mustana perjantaina, 40%  halvemmalla",
+    "language_name": "undefined (fi-FI)"
+  },
+  {
+    "language": "fi-EE",
+    "subject_variation_1": "Varhainen Pääsy Kaikkien Aikojen Suurimpaan Black Friday -Alennusmyyntiimme",
+    "subject_variation_2": "Black Friday -Alennusmyynti Alkaa… Nyt!",
+    "subject_variation_3": "Jatkettu! Black Friday Jatkuu Edelleen",
+    "subject_variation_4": "Tänä mustana perjantaina, 40%  halvemmalla",
+    "language_name": "undefined (fi-EE)"
+  },
+  {
+    "language": "sk-CH",
+    "subject_variation_1": "Skorý Prístup K Nášmu Doposiaľ Najväčšiemu Výpredaju Na Čierny Piatok",
+    "subject_variation_2": "Výpredaj Na Čierny Piatok Začína… Teraz!",
+    "subject_variation_3": "Predĺžené! Akcia Čierny Piatok Stále Trvá",
+    "subject_variation_4": "Tento čierny piatok získajte zľavu 40 %",
+    "language_name": "undefined (sk-CH)"
+  },
+  {
+    "language": "sk-SK",
+    "subject_variation_1": "Skorý Prístup K Nášmu Doposiaľ Najväčšiemu Výpredaju Na Čierny Piatok",
+    "subject_variation_2": "Výpredaj Na Čierny Piatok Začína… Teraz!",
+    "subject_variation_3": "Predĺžené! Akcia Čierny Piatok Stále Trvá",
+    "subject_variation_4": "Tento čierny piatok získajte zľavu 40 %",
+    "language_name": "undefined (sk-SK)"
+  },
+  {
+    "language": "sk-NL",
+    "subject_variation_1": "Skorý Prístup K Nášmu Doposiaľ Najväčšiemu Výpredaju Na Čierny Piatok",
+    "subject_variation_2": "Výpredaj Na Čierny Piatok Začína… Teraz!",
+    "subject_variation_3": "Predĺžené! Akcia Čierny Piatok Stále Trvá",
+    "subject_variation_4": "Tento čierny piatok získajte zľavu 40 %",
+    "language_name": "undefined (sk-NL)"
+  },
+  {
+    "language": "sk-CZ",
+    "subject_variation_1": "Skorý Prístup K Nášmu Doposiaľ Najväčšiemu Výpredaju Na Čierny Piatok",
+    "subject_variation_2": "Výpredaj Na Čierny Piatok Začína… Teraz!",
+    "subject_variation_3": "Predĺžené! Akcia Čierny Piatok Stále Trvá",
+    "subject_variation_4": "Tento čierny piatok získajte zľavu 40 %",
+    "language_name": "undefined (sk-CZ)"
+  },
+  {
+    "language": "ko-KR",
+    "subject_variation_1": "역대 최대 규모의 블랙 프라이데이 세일을 일찍 만나볼 수 있는 기회",
+    "subject_variation_2": "블랙 프라이데이 세일이 지금 시작됩니다!",
+    "subject_variation_3": "연장! 블랙 프라이데이는 계속됩니다",
+    "subject_variation_4": "이번 블랙 프라이데이, 40%  할인 혜택",
+    "language_name": "undefined (ko-KR)"
+  },
+  {
+    "language": "ru-GR",
+    "subject_variation_1": "Предварительный Доступ К Нашей Самой Грандиозной Распродаже «Черная Пятница» В Истории",
+    "subject_variation_2": "Распродажа «Черная Пятница» Начинается ... Сейчас!",
+    "subject_variation_3": "Продлена! «Черная Пятница» Все Еще Продолжается",
+    "subject_variation_4": "В Черную пятницу получите скидку 40%",
+    "language_name": "undefined (ru-GR)"
+  },
+  {
+    "language": "ru-US",
+    "subject_variation_1": "Предварительный Доступ К Нашей Самой Грандиозной Распродаже «Черная Пятница» В Истории",
+    "subject_variation_2": "Распродажа «Черная Пятница» Начинается ... Сейчас!",
+    "subject_variation_3": "Продлена! «Черная Пятница» Все Еще Продолжается",
+    "subject_variation_4": "В Черную пятницу получите скидку 40%",
+    "language_name": "undefined (ru-US)"
+  },
+  {
+    "language": "ru-TH",
+    "subject_variation_1": "Предварительный Доступ К Нашей Самой Грандиозной Распродаже «Черная Пятница» В Истории",
+    "subject_variation_2": "Распродажа «Черная Пятница» Начинается ... Сейчас!",
+    "subject_variation_3": "Продлена! «Черная Пятница» Все Еще Продолжается",
+    "subject_variation_4": "В Черную пятницу получите скидку 40%",
+    "language_name": "undefined (ru-TH)"
+  },
+  {
+    "language": "ru-NL",
+    "subject_variation_1": "Предварительный Доступ К Нашей Самой Грандиозной Распродаже «Черная Пятница» В Истории",
+    "subject_variation_2": "Распродажа «Черная Пятница» Начинается ... Сейчас!",
+    "subject_variation_3": "Продлена! «Черная Пятница» Все Еще Продолжается",
+    "subject_variation_4": "В Черную пятницу получите скидку 40%",
+    "language_name": "undefined (ru-NL)"
+  },
+  {
+    "language": "ru-BE",
+    "subject_variation_1": "Предварительный Доступ К Нашей Самой Грандиозной Распродаже «Черная Пятница» В Истории",
+    "subject_variation_2": "Распродажа «Черная Пятница» Начинается ... Сейчас!",
+    "subject_variation_3": "Продлена! «Черная Пятница» Все Еще Продолжается",
+    "subject_variation_4": "В Черную пятницу получите скидку 40%",
+    "language_name": "undefined (ru-BE)"
+  },
+  {
+    "language": "ru-LT",
+    "subject_variation_1": "Предварительный Доступ К Нашей Самой Грандиозной Распродаже «Черная Пятница» В Истории",
+    "subject_variation_2": "Распродажа «Черная Пятница» Начинается ... Сейчас!",
+    "subject_variation_3": "Продлена! «Черная Пятница» Все Еще Продолжается",
+    "subject_variation_4": "В Черную пятницу получите скидку 40%",
+    "language_name": "undefined (ru-LT)"
+  },
+  {
+    "language": "ru-HU",
+    "subject_variation_1": "Предварительный Доступ К Нашей Самой Грандиозной Распродаже «Черная Пятница» В Истории",
+    "subject_variation_2": "Распродажа «Черная Пятница» Начинается ... Сейчас!",
+    "subject_variation_3": "Продлена! «Черная Пятница» Все Еще Продолжается",
+    "subject_variation_4": "В Черную пятницу получите скидку 40%",
+    "language_name": "undefined (ru-HU)"
+  },
+  {
+    "language": "ru-DE",
+    "subject_variation_1": "Предварительный Доступ К Нашей Самой Грандиозной Распродаже «Черная Пятница» В Истории",
+    "subject_variation_2": "Распродажа «Черная Пятница» Начинается ... Сейчас!",
+    "subject_variation_3": "Продлена! «Черная Пятница» Все Еще Продолжается",
+    "subject_variation_4": "В Черную пятницу получите скидку 40%",
+    "language_name": "undefined (ru-DE)"
+  },
+  {
+    "language": "ru-GB",
+    "subject_variation_1": "Предварительный Доступ К Нашей Самой Грандиозной Распродаже «Черная Пятница» В Истории",
+    "subject_variation_2": "Распродажа «Черная Пятница» Начинается ... Сейчас!",
+    "subject_variation_3": "Продлена! «Черная Пятница» Все Еще Продолжается",
+    "subject_variation_4": "В Черную пятницу получите скидку 40%",
+    "language_name": "undefined (ru-GB)"
+  },
+  {
+    "language": "ru-CZ",
+    "subject_variation_1": "Предварительный Доступ К Нашей Самой Грандиозной Распродаже «Черная Пятница» В Истории",
+    "subject_variation_2": "Распродажа «Черная Пятница» Начинается ... Сейчас!",
+    "subject_variation_3": "Продлена! «Черная Пятница» Все Еще Продолжается",
+    "subject_variation_4": "В Черную пятницу получите скидку 40%",
+    "language_name": "undefined (ru-CZ)"
+  },
+  {
+    "language": "ru-NO",
+    "subject_variation_1": "Предварительный Доступ К Нашей Самой Грандиозной Распродаже «Черная Пятница» В Истории",
+    "subject_variation_2": "Распродажа «Черная Пятница» Начинается ... Сейчас!",
+    "subject_variation_3": "Продлена! «Черная Пятница» Все Еще Продолжается",
+    "subject_variation_4": "В Черную пятницу получите скидку 40%",
+    "language_name": "undefined (ru-NO)"
+  },
+  {
+    "language": "ru-GE",
+    "subject_variation_1": "Предварительный Доступ К Нашей Самой Грандиозной Распродаже «Черная Пятница» В Истории",
+    "subject_variation_2": "Распродажа «Черная Пятница» Начинается ... Сейчас!",
+    "subject_variation_3": "Продлена! «Черная Пятница» Все Еще Продолжается",
+    "subject_variation_4": "В Черную пятницу получите скидку 40%",
+    "language_name": "undefined (ru-GE)"
+  },
+  {
+    "language": "ru-ES",
+    "subject_variation_1": "Предварительный Доступ К Нашей Самой Грандиозной Распродаже «Черная Пятница» В Истории",
+    "subject_variation_2": "Распродажа «Черная Пятница» Начинается ... Сейчас!",
+    "subject_variation_3": "Продлена! «Черная Пятница» Все Еще Продолжается",
+    "subject_variation_4": "В Черную пятницу получите скидку 40%",
+    "language_name": "undefined (ru-ES)"
+  },
+  {
+    "language": "ru-SE",
+    "subject_variation_1": "Предварительный Доступ К Нашей Самой Грандиозной Распродаже «Черная Пятница» В Истории",
+    "subject_variation_2": "Распродажа «Черная Пятница» Начинается ... Сейчас!",
+    "subject_variation_3": "Продлена! «Черная Пятница» Все Еще Продолжается",
+    "subject_variation_4": "В Черную пятницу получите скидку 40%",
+    "language_name": "undefined (ru-SE)"
+  },
+  {
+    "language": "ru-LV",
+    "subject_variation_1": "Предварительный Доступ К Нашей Самой Грандиозной Распродаже «Черная Пятница» В Истории",
+    "subject_variation_2": "Распродажа «Черная Пятница» Начинается ... Сейчас!",
+    "subject_variation_3": "Продлена! «Черная Пятница» Все Еще Продолжается",
+    "subject_variation_4": "В Черную пятницу получите скидку 40%",
+    "language_name": "undefined (ru-LV)"
+  },
+  {
+    "language": "ru-CA",
+    "subject_variation_1": "Предварительный Доступ К Нашей Самой Грандиозной Распродаже «Черная Пятница» В Истории",
+    "subject_variation_2": "Распродажа «Черная Пятница» Начинается ... Сейчас!",
+    "subject_variation_3": "Продлена! «Черная Пятница» Все Еще Продолжается",
+    "subject_variation_4": "В Черную пятницу получите скидку 40%",
+    "language_name": "undefined (ru-CA)"
+  },
+  {
+    "language": "ru-IL",
+    "subject_variation_1": "Предварительный Доступ К Нашей Самой Грандиозной Распродаже «Черная Пятница» В Истории",
+    "subject_variation_2": "Распродажа «Черная Пятница» Начинается ... Сейчас!",
+    "subject_variation_3": "Продлена! «Черная Пятница» Все Еще Продолжается",
+    "subject_variation_4": "В Черную пятницу получите скидку 40%",
+    "language_name": "undefined (ru-IL)"
+  },
+  {
+    "language": "ru-PL",
+    "subject_variation_1": "Предварительный Доступ К Нашей Самой Грандиозной Распродаже «Черная Пятница» В Истории",
+    "subject_variation_2": "Распродажа «Черная Пятница» Начинается ... Сейчас!",
+    "subject_variation_3": "Продлена! «Черная Пятница» Все Еще Продолжается",
+    "subject_variation_4": "В Черную пятницу получите скидку 40%",
+    "language_name": "undefined (ru-PL)"
+  },
+  {
+    "language": "ru-BG",
+    "subject_variation_1": "Предварительный Доступ К Нашей Самой Грандиозной Распродаже «Черная Пятница» В Истории",
+    "subject_variation_2": "Распродажа «Черная Пятница» Начинается ... Сейчас!",
+    "subject_variation_3": "Продлена! «Черная Пятница» Все Еще Продолжается",
+    "subject_variation_4": "В Черную пятницу получите скидку 40%",
+    "language_name": "undefined (ru-BG)"
+  },
+  {
+    "language": "ru-FR",
+    "subject_variation_1": "Предварительный Доступ К Нашей Самой Грандиозной Распродаже «Черная Пятница» В Истории",
+    "subject_variation_2": "Распродажа «Черная Пятница» Начинается ... Сейчас!",
+    "subject_variation_3": "Продлена! «Черная Пятница» Все Еще Продолжается",
+    "subject_variation_4": "В Черную пятницу получите скидку 40%",
+    "language_name": "undefined (ru-FR)"
+  },
+  {
+    "language": "ru-CH",
+    "subject_variation_1": "Предварительный Доступ К Нашей Самой Грандиозной Распродаже «Черная Пятница» В Истории",
+    "subject_variation_2": "Распродажа «Черная Пятница» Начинается ... Сейчас!",
+    "subject_variation_3": "Продлена! «Черная Пятница» Все Еще Продолжается",
+    "subject_variation_4": "В Черную пятницу получите скидку 40%",
+    "language_name": "undefined (ru-CH)"
+  },
+  {
+    "language": "ja-JP",
+    "subject_variation_1": "最大級のブラックフライデーセールへの早期アクセス",
+    "subject_variation_2": "ブラックフライデーセールの開始は...今です！",
+    "subject_variation_3": "延長されました！ブラックフライデーが開催中",
+    "subject_variation_4": "今回のブラックフライデー、40% オフ！",
+    "language_name": "undefined (ja-JP)"
+  },
+  {
+    "language": "hr-RS",
+    "subject_variation_1": "Rani Pristup Našoj Najvećoj Akciji Crnog Petka Ikad",
+    "subject_variation_2": "Akcija Crnog Petka Započinje... Sada!",
+    "subject_variation_3": "Produženo! Crni Petak I Dalje Traje",
+    "subject_variation_4": "Za ovaj Crni petak iskoristite 40%  popusta",
+    "language_name": "undefined (hr-RS)"
+  },
+  {
+    "language": "hr-HR",
+    "subject_variation_1": "Rani Pristup Našoj Najvećoj Akciji Crnog Petka Ikad",
+    "subject_variation_2": "Akcija Crnog Petka Započinje... Sada!",
+    "subject_variation_3": "Produženo! Crni Petak I Dalje Traje",
+    "subject_variation_4": "Za ovaj Crni petak iskoristite 40%  popusta",
+    "language_name": "undefined (hr-HR)"
+  },
+  {
+    "language": "hr-ME",
+    "subject_variation_1": "Rani Pristup Našoj Najvećoj Akciji Crnog Petka Ikad",
+    "subject_variation_2": "Akcija Crnog Petka Započinje... Sada!",
+    "subject_variation_3": "Produženo! Crni Petak I Dalje Traje",
+    "subject_variation_4": "Za ovaj Crni petak iskoristite 40%  popusta",
+    "language_name": "undefined (hr-ME)"
+  },
+  {
+    "language": "hr-BA",
+    "subject_variation_1": "Rani Pristup Našoj Najvećoj Akciji Crnog Petka Ikad",
+    "subject_variation_2": "Akcija Crnog Petka Započinje... Sada!",
+    "subject_variation_3": "Produženo! Crni Petak I Dalje Traje",
+    "subject_variation_4": "Za ovaj Crni petak iskoristite 40%  popusta",
+    "language_name": "undefined (hr-BA)"
+  },
+  {
+    "language": "hr-SI",
+    "subject_variation_1": "Rani Pristup Našoj Najvećoj Akciji Crnog Petka Ikad",
+    "subject_variation_2": "Akcija Crnog Petka Započinje... Sada!",
+    "subject_variation_3": "Produženo! Crni Petak I Dalje Traje",
+    "subject_variation_4": "Za ovaj Crni petak iskoristite 40%  popusta",
+    "language_name": "undefined (hr-SI)"
   }
 ]

@@ -1,205 +1,2648 @@
 [
- {
-   "language_name": "English",
-   "pr_code": "eng",
-   "language": "en",
-   "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
-   "order_again": "ORDER AGAIN"
- },
- {
-   "language_name": "Azerbaijani",
-   "pr_code": "aze",
-   "language": "az",
-   "running_low_on_your_favorites_Reorder_now": "İstədikləriniz yoxdur? Yenidən sifariş edin",
-   "order_again": "YENİDƏN SİFARİŞ EDİN"
- },
- {
-   "language_name": "Bulgarian",
-   "pr_code": "bul",
-   "language": "bg",
-   "running_low_on_your_favorites_Reorder_now": "Дали някои от любимите Ви продукти не са на изчерпване? Поръчайте ги отново още сега",
-   "order_again": "ПОРЪЧАЙТЕ ОТНОВО"
- },
- {
-   "language_name": "Danish",
-   "pr_code": "dan",
-   "language": "da",
-   "running_low_on_your_favorites_Reorder_now": "Er du løbet tør for din(e) favorit(ter)? Genbestil nu",
-   "order_again": "BESTIL IGEN"
- },
- {
-   "language_name": "German",
-   "pr_code": "deu",
-   "language": "de",
-   "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
-   "order_again": "ERNEUT BESTELLEN"
- },
- {
-   "language_name": "Greek (modern)",
-   "pr_code": "ell",
-   "language": "el",
-   "running_low_on_your_favorites_Reorder_now": "Σας τελειώνουν τα αγαπημένα σας προϊόντα; Παραγγείλτε ξανά τώρα",
-   "order_again": "ΠΑΡΑΓΓΕΙΛΤΕ ΞΑΝΑ"
- },
- {
-   "language_name": "Finnish",
-   "pr_code": "fin",
-   "language": "fi",
-  "running_low_on_your_favorites_Reorder_now": "Ovatko suosikkisi loppumassa? Tilaa nyt lisää",
-   "order_again": "TILAA UUDELLEEN"
- },
- {
-   "language_name": "French",
-   "pr_code": "fra",
-   "language": "fr",
-  "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
-   "order_again": "COMMANDEZ À NOUVEAU"
- },
- {
-   "language_name": "Croatian",
-   "pr_code": "hrv",
-   "language": "hr",
-   "running_low_on_your_favorites_Reorder_now": "Ponestaje vam favorita? Ponovno naručite odmah",
-   "order_again": "NARUČITE PONOVO"
- },
- {
-   "language_name": "Hungarian",
-   "pr_code": "hun",
-   "language": "hu",
-  "running_low_on_your_favorites_Reorder_now": "Kezd kifogyni a kedvence(i)ből? Rendelje újra most!",
-   "order_again": "ÚJRARENDELÉS"
- },
- {
-   "language_name": "Indonesian",
-   "pr_code": "ind",
-   "language": "id",
+  {
+    "language_name": "English",
+    "pr_code": "eng",
+    "language": "en",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "Azerbaijani",
+    "pr_code": "aze",
+    "language": "az",
+    "running_low_on_your_favorites_Reorder_now": "İstədikləriniz yoxdur? Yenidən sifariş edin",
+    "order_again": "YENİDƏN SİFARİŞ EDİN"
+  },
+  {
+    "language_name": "Bulgarian",
+    "pr_code": "bul",
+    "language": "bg",
+    "running_low_on_your_favorites_Reorder_now": "Дали някои от любимите Ви продукти не са на изчерпване? Поръчайте ги отново още сега",
+    "order_again": "ПОРЪЧАЙТЕ ОТНОВО"
+  },
+  {
+    "language_name": "Danish",
+    "pr_code": "dan",
+    "language": "da",
+    "running_low_on_your_favorites_Reorder_now": "Er du løbet tør for din(e) favorit(ter)? Genbestil nu",
+    "order_again": "BESTIL IGEN"
+  },
+  {
+    "language_name": "German",
+    "pr_code": "deu",
+    "language": "de",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "Greek (modern)",
+    "pr_code": "ell",
+    "language": "el",
+    "running_low_on_your_favorites_Reorder_now": "Σας τελειώνουν τα αγαπημένα σας προϊόντα; Παραγγείλτε ξανά τώρα",
+    "order_again": "ΠΑΡΑΓΓΕΙΛΤΕ ΞΑΝΑ"
+  },
+  {
+    "language_name": "Finnish",
+    "pr_code": "fin",
+    "language": "fi",
+    "running_low_on_your_favorites_Reorder_now": "Ovatko suosikkisi loppumassa? Tilaa nyt lisää",
+    "order_again": "TILAA UUDELLEEN"
+  },
+  {
+    "language_name": "French",
+    "pr_code": "fra",
+    "language": "fr",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "Croatian",
+    "pr_code": "hrv",
+    "language": "hr",
+    "running_low_on_your_favorites_Reorder_now": "Ponestaje vam favorita? Ponovno naručite odmah",
+    "order_again": "NARUČITE PONOVO"
+  },
+  {
+    "language_name": "Hungarian",
+    "pr_code": "hun",
+    "language": "hu",
+    "running_low_on_your_favorites_Reorder_now": "Kezd kifogyni a kedvence(i)ből? Rendelje újra most!",
+    "order_again": "ÚJRARENDELÉS"
+  },
+  {
+    "language_name": "Indonesian",
+    "pr_code": "ind",
+    "language": "id",
     "running_low_on_your_favorites_Reorder_now": "Kehabisan produk favorit Anda? Pesan Ulang Sekarang",
-   "order_again": "PESAN LAGI"
- },
- {
-   "language_name": "Italian",
-   "pr_code": "ita",
-   "language": "it",
-  "running_low_on_your_favorites_Reorder_now": "Si a corto dei tuoi prodotti preferiti? Riordina ora",
-   "order_again": "ORDINA DI NUOVO"
- },
- {
-   "language_name": "Japanese",
-   "pr_code": "jpn",
-   "language": "ja",
-  "running_low_on_your_favorites_Reorder_now": "お気に入り商品が残り少なくなりましたか？今すぐ注文しましょう",
-   "order_again": "再注文"
- },
- {
-   "language_name": "Korean",
-   "pr_code": "kor",
-   "language": "ko",
-   "running_low_on_your_favorites_Reorder_now": "좋아하는 제품이 더 필요하신가요? 지금 재주문하기",
-   "order_again": "재주문하기"
- },
- {
-   "language_name": "Malay",
-   "pr_code": "msa",
-   "language": "ms",
-   "running_low_on_your_favorites_Reorder_now": "Item kegemaran(-kegemaran) anda akan kehabisan? Pesan Semula Sekarang",
-   "order_again": "PESAN LAGI"
- },
- {
-   "language_name": "Dutch",
-   "pr_code": "nld",
-   "language": "nl",
+    "order_again": "PESAN LAGI"
+  },
+  {
+    "language_name": "Italian",
+    "pr_code": "ita",
+    "language": "it",
+    "running_low_on_your_favorites_Reorder_now": "Si a corto dei tuoi prodotti preferiti? Riordina ora",
+    "order_again": "ORDINA DI NUOVO"
+  },
+  {
+    "language_name": "Japanese",
+    "pr_code": "jpn",
+    "language": "ja",
+    "running_low_on_your_favorites_Reorder_now": "お気に入り商品が残り少なくなりましたか？今すぐ注文しましょう",
+    "order_again": "再注文"
+  },
+  {
+    "language_name": "Korean",
+    "pr_code": "kor",
+    "language": "ko",
+    "running_low_on_your_favorites_Reorder_now": "좋아하는 제품이 더 필요하신가요? 지금 재주문하기",
+    "order_again": "재주문하기"
+  },
+  {
+    "language_name": "Malay",
+    "pr_code": "msa",
+    "language": "ms",
+    "running_low_on_your_favorites_Reorder_now": "Item kegemaran(-kegemaran) anda akan kehabisan? Pesan Semula Sekarang",
+    "order_again": "PESAN LAGI"
+  },
+  {
+    "language_name": "Dutch",
+    "pr_code": "nld",
+    "language": "nl",
     "running_low_on_your_favorites_Reorder_now": "Zijn uw favoriet(en) bijna op? Bestel nu opnieuw",
-   "order_again": "OPNIEUW BESTELLEN"
- },
- {
-   "language_name": "Norwegian",
-   "pr_code": "nor",
-   "language": "no",
-  "running_low_on_your_favorites_Reorder_now": "Er det tomt for favoritten(e) din(e)? Bestill på nytt nå",
-   "order_again": "BESTILL PÅ NYTT"
- },
- {
-   "language_name": "Polish",
-   "pr_code": "pol",
-   "language": "pl",
-  "running_low_on_your_favorites_Reorder_now": "Kończy Ci się zapas ulubionych produktów? Zamów teraz",
-   "order_again": "ZAMÓW PONOWNIE"
- },
- {
-   "language_name": "Portuguese",
-   "pr_code": "por",
-   "language": "pt",
-  "running_low_on_your_favorites_Reorder_now": "Está ficando sem o(s) seu(s) favorito(s)? Faça novo pedido agora",
-   "order_again": "PEDIR NOVAMENTE"
- },
- {
-   "language_name": "Romanian",
-   "pr_code": "ron",
-   "language": "ro",
-   "running_low_on_your_favorites_Reorder_now": "Se termină preferat (ele) dvs.? Faceți o comandă chiar acum",
-   "order_again": "COMANDAȚI DIN NOU"
- },
- {
-   "language_name": "Russian",
-   "pr_code": "rus",
-   "language": "ru",
-  "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
-   "order_again": "ПОВТОРИТЬ ЗАКАЗ"
- },
- {
-   "language_name": "Slovak",
-   "pr_code": "slk",
-   "language": "sk",
-   "running_low_on_your_favorites_Reorder_now": "Dochádzajú vám obľúbené produkty? Objednajte si ich teraz",
-   "order_again": "OBJEDNAJTE SI ZNOVA"
- },
- {
-   "language_name": "Slovene",
-   "pr_code": "slv",
-   "language": "sl",
-  "running_low_on_your_favorites_Reorder_now": "Vam zmanjkuje priljubljenih? Naročite zdaj.",
-   "order_again": "NAROČITE PONOVNO"
- },
- {
-   "language_name": "Spanish",
-   "pr_code": "spa",
-   "language": "es",
-  "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
-   "order_again": "VUELVA A PEDIR"
- },
- {
-   "language_name": "Swedish",
-   "pr_code": "swe",
-   "language": "sv",
-   "running_low_on_your_favorites_Reorder_now": "Har du slut på din(a) favorit(er)? Beställ på nytt nu",
-   "order_again": "BESTÄLL IGEN"
- },
- {
-   "language_name": "Thai",
-   "pr_code": "tha",
-   "language": "th",
-   "running_low_on_your_favorites_Reorder_now": "ของโปรดของคุณเหลือน้อยแล้วใช่ไหม สั่งซื้อใหม่เลยตอนนี้",
-   "order_again": "สั่งซื้อใหม่อีกครั้ง"
- },
- {
-   "language_name": "Turkish",
-   "pr_code": "tur",
-   "language": "tr",
-   "running_low_on_your_favorites_Reorder_now": "En sık sipariş ettiğiniz ürünler azalıyor mu? Şimdi Yeniden Sipariş Edin",
-   "order_again": "TEKRAR SİPARİŞ VER"
- },
- {
-   "language_name": "Vietnamese",
-   "pr_code": "vie",
-   "language": "vi",
-   "running_low_on_your_favorites_Reorder_now": "(Các) mặt hàng yêu thích của bạn sắp hết hàng? Đặt lại ngay",
-   "order_again": "ĐẶT HÀNG LẠI"
- },
- {
-   "language_name": "Chinese Traditional",
-   "pr_code": "zht",
-   "language": "zh",
-  "running_low_on_your_favorites_Reorder_now": "您最愛的商品快用完了？現在就重新訂購",
-   "order_again": "再次訂購"
- }
+    "order_again": "OPNIEUW BESTELLEN"
+  },
+  {
+    "language_name": "Norwegian",
+    "pr_code": "nor",
+    "language": "no",
+    "running_low_on_your_favorites_Reorder_now": "Er det tomt for favoritten(e) din(e)? Bestill på nytt nå",
+    "order_again": "BESTILL PÅ NYTT"
+  },
+  {
+    "language_name": "Polish",
+    "pr_code": "pol",
+    "language": "pl",
+    "running_low_on_your_favorites_Reorder_now": "Kończy Ci się zapas ulubionych produktów? Zamów teraz",
+    "order_again": "ZAMÓW PONOWNIE"
+  },
+  {
+    "language_name": "Portuguese",
+    "pr_code": "por",
+    "language": "pt",
+    "running_low_on_your_favorites_Reorder_now": "Está ficando sem o(s) seu(s) favorito(s)? Faça novo pedido agora",
+    "order_again": "PEDIR NOVAMENTE"
+  },
+  {
+    "language_name": "Romanian",
+    "pr_code": "ron",
+    "language": "ro",
+    "running_low_on_your_favorites_Reorder_now": "Se termină preferat (ele) dvs.? Faceți o comandă chiar acum",
+    "order_again": "COMANDAȚI DIN NOU"
+  },
+  {
+    "language_name": "Russian",
+    "pr_code": "rus",
+    "language": "ru",
+    "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
+    "order_again": "ПОВТОРИТЬ ЗАКАЗ"
+  },
+  {
+    "language_name": "Slovak",
+    "pr_code": "slk",
+    "language": "sk",
+    "running_low_on_your_favorites_Reorder_now": "Dochádzajú vám obľúbené produkty? Objednajte si ich teraz",
+    "order_again": "OBJEDNAJTE SI ZNOVA"
+  },
+  {
+    "language_name": "Slovene",
+    "pr_code": "slv",
+    "language": "sl",
+    "running_low_on_your_favorites_Reorder_now": "Vam zmanjkuje priljubljenih? Naročite zdaj.",
+    "order_again": "NAROČITE PONOVNO"
+  },
+  {
+    "language_name": "Spanish",
+    "pr_code": "spa",
+    "language": "es",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Swedish",
+    "pr_code": "swe",
+    "language": "sv",
+    "running_low_on_your_favorites_Reorder_now": "Har du slut på din(a) favorit(er)? Beställ på nytt nu",
+    "order_again": "BESTÄLL IGEN"
+  },
+  {
+    "language_name": "Thai",
+    "pr_code": "tha",
+    "language": "th",
+    "running_low_on_your_favorites_Reorder_now": "ของโปรดของคุณเหลือน้อยแล้วใช่ไหม สั่งซื้อใหม่เลยตอนนี้",
+    "order_again": "สั่งซื้อใหม่อีกครั้ง"
+  },
+  {
+    "language_name": "Turkish",
+    "pr_code": "tur",
+    "language": "tr",
+    "running_low_on_your_favorites_Reorder_now": "En sık sipariş ettiğiniz ürünler azalıyor mu? Şimdi Yeniden Sipariş Edin",
+    "order_again": "TEKRAR SİPARİŞ VER"
+  },
+  {
+    "language_name": "Vietnamese",
+    "pr_code": "vie",
+    "language": "vi",
+    "running_low_on_your_favorites_Reorder_now": "(Các) mặt hàng yêu thích của bạn sắp hết hàng? Đặt lại ngay",
+    "order_again": "ĐẶT HÀNG LẠI"
+  },
+  {
+    "language_name": "Chinese Traditional",
+    "pr_code": "zht",
+    "language": "zh",
+    "running_low_on_your_favorites_Reorder_now": "您最愛的商品快用完了？現在就重新訂購",
+    "order_again": "再次訂購"
+  },
+  {
+    "language_name": "English (en-AZ)",
+    "pr_code": "eng",
+    "language": "en-AZ",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-TN)",
+    "pr_code": "eng",
+    "language": "en-TN",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-CL)",
+    "pr_code": "eng",
+    "language": "en-CL",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-MY)",
+    "pr_code": "eng",
+    "language": "en-MY",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-FO)",
+    "pr_code": "eng",
+    "language": "en-FO",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-BN)",
+    "pr_code": "eng",
+    "language": "en-BN",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-NG)",
+    "pr_code": "eng",
+    "language": "en-NG",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-LB)",
+    "pr_code": "eng",
+    "language": "en-LB",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-BW)",
+    "pr_code": "eng",
+    "language": "en-BW",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-TW)",
+    "pr_code": "eng",
+    "language": "en-TW",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-BD)",
+    "pr_code": "eng",
+    "language": "en-BD",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-KW)",
+    "pr_code": "eng",
+    "language": "en-KW",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-GG)",
+    "pr_code": "eng",
+    "language": "en-GG",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-RS)",
+    "pr_code": "eng",
+    "language": "en-RS",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-GT)",
+    "pr_code": "eng",
+    "language": "en-GT",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-SE)",
+    "pr_code": "eng",
+    "language": "en-SE",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-LV)",
+    "pr_code": "eng",
+    "language": "en-LV",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-SV)",
+    "pr_code": "eng",
+    "language": "en-SV",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-EE)",
+    "pr_code": "eng",
+    "language": "en-EE",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-AW)",
+    "pr_code": "eng",
+    "language": "en-AW",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-MT)",
+    "pr_code": "eng",
+    "language": "en-MT",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-CR)",
+    "pr_code": "eng",
+    "language": "en-CR",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-PH)",
+    "pr_code": "eng",
+    "language": "en-PH",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-KZ)",
+    "pr_code": "eng",
+    "language": "en-KZ",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-TZ)",
+    "pr_code": "eng",
+    "language": "en-TZ",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-IL)",
+    "pr_code": "eng",
+    "language": "en-IL",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-HN)",
+    "pr_code": "eng",
+    "language": "en-HN",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-LK)",
+    "pr_code": "eng",
+    "language": "en-LK",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-SK)",
+    "pr_code": "eng",
+    "language": "en-SK",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-JO)",
+    "pr_code": "eng",
+    "language": "en-JO",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-DZ)",
+    "pr_code": "eng",
+    "language": "en-DZ",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-CO)",
+    "pr_code": "eng",
+    "language": "en-CO",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-PL)",
+    "pr_code": "eng",
+    "language": "en-PL",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-MC)",
+    "pr_code": "eng",
+    "language": "en-MC",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-PF)",
+    "pr_code": "eng",
+    "language": "en-PF",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-TT)",
+    "pr_code": "eng",
+    "language": "en-TT",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-KG)",
+    "pr_code": "eng",
+    "language": "en-KG",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-BG)",
+    "pr_code": "eng",
+    "language": "en-BG",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-SA)",
+    "pr_code": "eng",
+    "language": "en-SA",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-JE)",
+    "pr_code": "eng",
+    "language": "en-JE",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-VE)",
+    "pr_code": "eng",
+    "language": "en-VE",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-MD)",
+    "pr_code": "eng",
+    "language": "en-MD",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-GP)",
+    "pr_code": "eng",
+    "language": "en-GP",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-AT)",
+    "pr_code": "eng",
+    "language": "en-AT",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-FR)",
+    "pr_code": "eng",
+    "language": "en-FR",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-LU)",
+    "pr_code": "eng",
+    "language": "en-LU",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-NI)",
+    "pr_code": "eng",
+    "language": "en-NI",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-CH)",
+    "pr_code": "eng",
+    "language": "en-CH",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-GI)",
+    "pr_code": "eng",
+    "language": "en-GI",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-KY)",
+    "pr_code": "eng",
+    "language": "en-KY",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-AM)",
+    "pr_code": "eng",
+    "language": "en-AM",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-PK)",
+    "pr_code": "eng",
+    "language": "en-PK",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-IT)",
+    "pr_code": "eng",
+    "language": "en-IT",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-GR)",
+    "pr_code": "eng",
+    "language": "en-GR",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-MU)",
+    "pr_code": "eng",
+    "language": "en-MU",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-AE)",
+    "pr_code": "eng",
+    "language": "en-AE",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-INT)",
+    "pr_code": "eng",
+    "language": "en-INT",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-QA)",
+    "pr_code": "eng",
+    "language": "en-QA",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-NA)",
+    "pr_code": "eng",
+    "language": "en-NA",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-US)",
+    "pr_code": "eng",
+    "language": "en-US",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-FI)",
+    "pr_code": "eng",
+    "language": "en-FI",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-BH)",
+    "pr_code": "eng",
+    "language": "en-BH",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-CY)",
+    "pr_code": "eng",
+    "language": "en-CY",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-IM)",
+    "pr_code": "eng",
+    "language": "en-IM",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-TH)",
+    "pr_code": "eng",
+    "language": "en-TH",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-AO)",
+    "pr_code": "eng",
+    "language": "en-AO",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-KH)",
+    "pr_code": "eng",
+    "language": "en-KH",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-BO)",
+    "pr_code": "eng",
+    "language": "en-BO",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-LI)",
+    "pr_code": "eng",
+    "language": "en-LI",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-SI)",
+    "pr_code": "eng",
+    "language": "en-SI",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-JM)",
+    "pr_code": "eng",
+    "language": "en-JM",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-NL)",
+    "pr_code": "eng",
+    "language": "en-NL",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-DK)",
+    "pr_code": "eng",
+    "language": "en-DK",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-MX)",
+    "pr_code": "eng",
+    "language": "en-MX",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-GL)",
+    "pr_code": "eng",
+    "language": "en-GL",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-MK)",
+    "pr_code": "eng",
+    "language": "en-MK",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-MA)",
+    "pr_code": "eng",
+    "language": "en-MA",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-CG)",
+    "pr_code": "eng",
+    "language": "en-CG",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-IS)",
+    "pr_code": "eng",
+    "language": "en-IS",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-EC)",
+    "pr_code": "eng",
+    "language": "en-EC",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-KE)",
+    "pr_code": "eng",
+    "language": "en-KE",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-BE)",
+    "pr_code": "eng",
+    "language": "en-BE",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-UG)",
+    "pr_code": "eng",
+    "language": "en-UG",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-JP)",
+    "pr_code": "eng",
+    "language": "en-JP",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-DE)",
+    "pr_code": "eng",
+    "language": "en-DE",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-BR)",
+    "pr_code": "eng",
+    "language": "en-BR",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-HU)",
+    "pr_code": "eng",
+    "language": "en-HU",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-BA)",
+    "pr_code": "eng",
+    "language": "en-BA",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-SG)",
+    "pr_code": "eng",
+    "language": "en-SG",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-LT)",
+    "pr_code": "eng",
+    "language": "en-LT",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-EG)",
+    "pr_code": "eng",
+    "language": "en-EG",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-TR)",
+    "pr_code": "eng",
+    "language": "en-TR",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-KR)",
+    "pr_code": "eng",
+    "language": "en-KR",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-ME)",
+    "pr_code": "eng",
+    "language": "en-ME",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-MV)",
+    "pr_code": "eng",
+    "language": "en-MV",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-ID)",
+    "pr_code": "eng",
+    "language": "en-ID",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-PY)",
+    "pr_code": "eng",
+    "language": "en-PY",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-AL)",
+    "pr_code": "eng",
+    "language": "en-AL",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-RO)",
+    "pr_code": "eng",
+    "language": "en-RO",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-GH)",
+    "pr_code": "eng",
+    "language": "en-GH",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-CZ)",
+    "pr_code": "eng",
+    "language": "en-CZ",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-VN)",
+    "pr_code": "eng",
+    "language": "en-VN",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-DO)",
+    "pr_code": "eng",
+    "language": "en-DO",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-FJ)",
+    "pr_code": "eng",
+    "language": "en-FJ",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-OM)",
+    "pr_code": "eng",
+    "language": "en-OM",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-CN)",
+    "pr_code": "eng",
+    "language": "en-CN",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-NO)",
+    "pr_code": "eng",
+    "language": "en-NO",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-HK)",
+    "pr_code": "eng",
+    "language": "en-HK",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-HR)",
+    "pr_code": "eng",
+    "language": "en-HR",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-AR)",
+    "pr_code": "eng",
+    "language": "en-AR",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-PT)",
+    "pr_code": "eng",
+    "language": "en-PT",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-ES)",
+    "pr_code": "eng",
+    "language": "en-ES",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-GE)",
+    "pr_code": "eng",
+    "language": "en-GE",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-MQ)",
+    "pr_code": "eng",
+    "language": "en-MQ",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-GB)",
+    "pr_code": "eng",
+    "language": "en-GB",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-AU)",
+    "pr_code": "eng",
+    "language": "en-AU",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-CA)",
+    "pr_code": "eng",
+    "language": "en-CA",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-IE)",
+    "pr_code": "eng",
+    "language": "en-IE",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-NZ)",
+    "pr_code": "eng",
+    "language": "en-NZ",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-ZA)",
+    "pr_code": "eng",
+    "language": "en-ZA",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "English (en-IN)",
+    "pr_code": "eng",
+    "language": "en-IN",
+    "running_low_on_your_favorites_Reorder_now": "Running low on your favorite(s)? Reorder Now",
+    "order_again": "ORDER AGAIN"
+  },
+  {
+    "language_name": "German (de-CO)",
+    "pr_code": "deu",
+    "language": "de-CO",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-PL)",
+    "pr_code": "deu",
+    "language": "de-PL",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-SK)",
+    "pr_code": "deu",
+    "language": "de-SK",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-FR)",
+    "pr_code": "deu",
+    "language": "de-FR",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-LU)",
+    "pr_code": "deu",
+    "language": "de-LU",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-NZ)",
+    "pr_code": "deu",
+    "language": "de-NZ",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-AD)",
+    "pr_code": "deu",
+    "language": "de-AD",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-SE)",
+    "pr_code": "deu",
+    "language": "de-SE",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-PH)",
+    "pr_code": "deu",
+    "language": "de-PH",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-GB)",
+    "pr_code": "deu",
+    "language": "de-GB",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-DE)",
+    "pr_code": "deu",
+    "language": "de-DE",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-BA)",
+    "pr_code": "deu",
+    "language": "de-BA",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-HU)",
+    "pr_code": "deu",
+    "language": "de-HU",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-DO)",
+    "pr_code": "deu",
+    "language": "de-DO",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-PY)",
+    "pr_code": "deu",
+    "language": "de-PY",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-CZ)",
+    "pr_code": "deu",
+    "language": "de-CZ",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-RO)",
+    "pr_code": "deu",
+    "language": "de-RO",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-ES)",
+    "pr_code": "deu",
+    "language": "de-ES",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-PT)",
+    "pr_code": "deu",
+    "language": "de-PT",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-HR)",
+    "pr_code": "deu",
+    "language": "de-HR",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-US)",
+    "pr_code": "deu",
+    "language": "de-US",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-GR)",
+    "pr_code": "deu",
+    "language": "de-GR",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-IT)",
+    "pr_code": "deu",
+    "language": "de-IT",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-TH)",
+    "pr_code": "deu",
+    "language": "de-TH",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-FI)",
+    "pr_code": "deu",
+    "language": "de-FI",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-SI)",
+    "pr_code": "deu",
+    "language": "de-SI",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-LI)",
+    "pr_code": "deu",
+    "language": "de-LI",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-NL)",
+    "pr_code": "deu",
+    "language": "de-NL",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-BE)",
+    "pr_code": "deu",
+    "language": "de-BE",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-CH)",
+    "pr_code": "deu",
+    "language": "de-CH",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "German (de-AT)",
+    "pr_code": "deu",
+    "language": "de-AT",
+    "running_low_on_your_favorites_Reorder_now": "Sind Ihre Lieblingsprodukte bald alle? Jetzt nachbestellen!",
+    "order_again": "ERNEUT BESTELLEN"
+  },
+  {
+    "language_name": "Spanish (es-BE)",
+    "pr_code": "spa",
+    "language": "es-BE",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-MA)",
+    "pr_code": "spa",
+    "language": "es-MA",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-NL)",
+    "pr_code": "spa",
+    "language": "es-NL",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-DK)",
+    "pr_code": "spa",
+    "language": "es-DK",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-US)",
+    "pr_code": "spa",
+    "language": "es-US",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-IT)",
+    "pr_code": "spa",
+    "language": "es-IT",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-ES)",
+    "pr_code": "spa",
+    "language": "es-ES",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-PT)",
+    "pr_code": "spa",
+    "language": "es-PT",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-DO)",
+    "pr_code": "spa",
+    "language": "es-DO",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-RO)",
+    "pr_code": "spa",
+    "language": "es-RO",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-GB)",
+    "pr_code": "spa",
+    "language": "es-GB",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-DE)",
+    "pr_code": "spa",
+    "language": "es-DE",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-BR)",
+    "pr_code": "spa",
+    "language": "es-BR",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-HU)",
+    "pr_code": "spa",
+    "language": "es-HU",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-HN)",
+    "pr_code": "spa",
+    "language": "es-HN",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-IL)",
+    "pr_code": "spa",
+    "language": "es-IL",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-CR)",
+    "pr_code": "spa",
+    "language": "es-CR",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-CA)",
+    "pr_code": "spa",
+    "language": "es-CA",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-SV)",
+    "pr_code": "spa",
+    "language": "es-SV",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-GT)",
+    "pr_code": "spa",
+    "language": "es-GT",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-CH)",
+    "pr_code": "spa",
+    "language": "es-CH",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-FR)",
+    "pr_code": "spa",
+    "language": "es-FR",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-IE)",
+    "pr_code": "spa",
+    "language": "es-IE",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-AT)",
+    "pr_code": "spa",
+    "language": "es-AT",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-PL)",
+    "pr_code": "spa",
+    "language": "es-PL",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-CO)",
+    "pr_code": "spa",
+    "language": "es-CO",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-MX)",
+    "pr_code": "spa",
+    "language": "es-MX",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-AR)",
+    "pr_code": "spa",
+    "language": "es-AR",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Spanish (es-CL)",
+    "pr_code": "spa",
+    "language": "es-CL",
+    "running_low_on_your_favorites_Reorder_now": "¿Se está quedando sin su(s) favorito(s)? Vuelva a pedir ahora",
+    "order_again": "VUELVA A PEDIR"
+  },
+  {
+    "language_name": "Italian (it-CA)",
+    "pr_code": "ita",
+    "language": "it-CA",
+    "running_low_on_your_favorites_Reorder_now": "Si a corto dei tuoi prodotti preferiti? Riordina ora",
+    "order_again": "ORDINA DI NUOVO"
+  },
+  {
+    "language_name": "Italian (it-IE)",
+    "pr_code": "ita",
+    "language": "it-IE",
+    "running_low_on_your_favorites_Reorder_now": "Si a corto dei tuoi prodotti preferiti? Riordina ora",
+    "order_again": "ORDINA DI NUOVO"
+  },
+  {
+    "language_name": "Italian (it-FR)",
+    "pr_code": "ita",
+    "language": "it-FR",
+    "running_low_on_your_favorites_Reorder_now": "Si a corto dei tuoi prodotti preferiti? Riordina ora",
+    "order_again": "ORDINA DI NUOVO"
+  },
+  {
+    "language_name": "Italian (it-BG)",
+    "pr_code": "ita",
+    "language": "it-BG",
+    "running_low_on_your_favorites_Reorder_now": "Si a corto dei tuoi prodotti preferiti? Riordina ora",
+    "order_again": "ORDINA DI NUOVO"
+  },
+  {
+    "language_name": "Italian (it-CO)",
+    "pr_code": "ita",
+    "language": "it-CO",
+    "running_low_on_your_favorites_Reorder_now": "Si a corto dei tuoi prodotti preferiti? Riordina ora",
+    "order_again": "ORDINA DI NUOVO"
+  },
+  {
+    "language_name": "Italian (it-NL)",
+    "pr_code": "ita",
+    "language": "it-NL",
+    "running_low_on_your_favorites_Reorder_now": "Si a corto dei tuoi prodotti preferiti? Riordina ora",
+    "order_again": "ORDINA DI NUOVO"
+  },
+  {
+    "language_name": "Italian (it-SI)",
+    "pr_code": "ita",
+    "language": "it-SI",
+    "running_low_on_your_favorites_Reorder_now": "Si a corto dei tuoi prodotti preferiti? Riordina ora",
+    "order_again": "ORDINA DI NUOVO"
+  },
+  {
+    "language_name": "Italian (it-TH)",
+    "pr_code": "ita",
+    "language": "it-TH",
+    "running_low_on_your_favorites_Reorder_now": "Si a corto dei tuoi prodotti preferiti? Riordina ora",
+    "order_again": "ORDINA DI NUOVO"
+  },
+  {
+    "language_name": "Italian (it-AE)",
+    "pr_code": "ita",
+    "language": "it-AE",
+    "running_low_on_your_favorites_Reorder_now": "Si a corto dei tuoi prodotti preferiti? Riordina ora",
+    "order_again": "ORDINA DI NUOVO"
+  },
+  {
+    "language_name": "Italian (it-IT)",
+    "pr_code": "ita",
+    "language": "it-IT",
+    "running_low_on_your_favorites_Reorder_now": "Si a corto dei tuoi prodotti preferiti? Riordina ora",
+    "order_again": "ORDINA DI NUOVO"
+  },
+  {
+    "language_name": "Italian (it-GR)",
+    "pr_code": "ita",
+    "language": "it-GR",
+    "running_low_on_your_favorites_Reorder_now": "Si a corto dei tuoi prodotti preferiti? Riordina ora",
+    "order_again": "ORDINA DI NUOVO"
+  },
+  {
+    "language_name": "Italian (it-US)",
+    "pr_code": "ita",
+    "language": "it-US",
+    "running_low_on_your_favorites_Reorder_now": "Si a corto dei tuoi prodotti preferiti? Riordina ora",
+    "order_again": "ORDINA DI NUOVO"
+  },
+  {
+    "language_name": "Italian (it-HR)",
+    "pr_code": "ita",
+    "language": "it-HR",
+    "running_low_on_your_favorites_Reorder_now": "Si a corto dei tuoi prodotti preferiti? Riordina ora",
+    "order_again": "ORDINA DI NUOVO"
+  },
+  {
+    "language_name": "Italian (it-RO)",
+    "pr_code": "ita",
+    "language": "it-RO",
+    "running_low_on_your_favorites_Reorder_now": "Si a corto dei tuoi prodotti preferiti? Riordina ora",
+    "order_again": "ORDINA DI NUOVO"
+  },
+  {
+    "language_name": "Italian (it-HU)",
+    "pr_code": "ita",
+    "language": "it-HU",
+    "running_low_on_your_favorites_Reorder_now": "Si a corto dei tuoi prodotti preferiti? Riordina ora",
+    "order_again": "ORDINA DI NUOVO"
+  },
+  {
+    "language_name": "Italian (it-BR)",
+    "pr_code": "ita",
+    "language": "it-BR",
+    "running_low_on_your_favorites_Reorder_now": "Si a corto dei tuoi prodotti preferiti? Riordina ora",
+    "order_again": "ORDINA DI NUOVO"
+  },
+  {
+    "language_name": "Italian (it-GB)",
+    "pr_code": "ita",
+    "language": "it-GB",
+    "running_low_on_your_favorites_Reorder_now": "Si a corto dei tuoi prodotti preferiti? Riordina ora",
+    "order_again": "ORDINA DI NUOVO"
+  },
+  {
+    "language_name": "Italian (it-CH)",
+    "pr_code": "ita",
+    "language": "it-CH",
+    "running_low_on_your_favorites_Reorder_now": "Si a corto dei tuoi prodotti preferiti? Riordina ora",
+    "order_again": "ORDINA DI NUOVO"
+  },
+  {
+    "language_name": "Dutch (nl-IT)",
+    "pr_code": "nld",
+    "language": "nl-IT",
+    "running_low_on_your_favorites_Reorder_now": "Zijn uw favoriet(en) bijna op? Bestel nu opnieuw",
+    "order_again": "OPNIEUW BESTELLEN"
+  },
+  {
+    "language_name": "Dutch (nl-TH)",
+    "pr_code": "nld",
+    "language": "nl-TH",
+    "running_low_on_your_favorites_Reorder_now": "Zijn uw favoriet(en) bijna op? Bestel nu opnieuw",
+    "order_again": "OPNIEUW BESTELLEN"
+  },
+  {
+    "language_name": "Dutch (nl-DK)",
+    "pr_code": "nld",
+    "language": "nl-DK",
+    "running_low_on_your_favorites_Reorder_now": "Zijn uw favoriet(en) bijna op? Bestel nu opnieuw",
+    "order_again": "OPNIEUW BESTELLEN"
+  },
+  {
+    "language_name": "Dutch (nl-NL)",
+    "pr_code": "nld",
+    "language": "nl-NL",
+    "running_low_on_your_favorites_Reorder_now": "Zijn uw favoriet(en) bijna op? Bestel nu opnieuw",
+    "order_again": "OPNIEUW BESTELLEN"
+  },
+  {
+    "language_name": "Dutch (nl-GB)",
+    "pr_code": "nld",
+    "language": "nl-GB",
+    "running_low_on_your_favorites_Reorder_now": "Zijn uw favoriet(en) bijna op? Bestel nu opnieuw",
+    "order_again": "OPNIEUW BESTELLEN"
+  },
+  {
+    "language_name": "Dutch (nl-PT)",
+    "pr_code": "nld",
+    "language": "nl-PT",
+    "running_low_on_your_favorites_Reorder_now": "Zijn uw favoriet(en) bijna op? Bestel nu opnieuw",
+    "order_again": "OPNIEUW BESTELLEN"
+  },
+  {
+    "language_name": "Dutch (nl-ES)",
+    "pr_code": "nld",
+    "language": "nl-ES",
+    "running_low_on_your_favorites_Reorder_now": "Zijn uw favoriet(en) bijna op? Bestel nu opnieuw",
+    "order_again": "OPNIEUW BESTELLEN"
+  },
+  {
+    "language_name": "Dutch (nl-PL)",
+    "pr_code": "nld",
+    "language": "nl-PL",
+    "running_low_on_your_favorites_Reorder_now": "Zijn uw favoriet(en) bijna op? Bestel nu opnieuw",
+    "order_again": "OPNIEUW BESTELLEN"
+  },
+  {
+    "language_name": "Dutch (nl-FR)",
+    "pr_code": "nld",
+    "language": "nl-FR",
+    "running_low_on_your_favorites_Reorder_now": "Zijn uw favoriet(en) bijna op? Bestel nu opnieuw",
+    "order_again": "OPNIEUW BESTELLEN"
+  },
+  {
+    "language_name": "Dutch (nl-BE)",
+    "pr_code": "nld",
+    "language": "nl-BE",
+    "running_low_on_your_favorites_Reorder_now": "Zijn uw favoriet(en) bijna op? Bestel nu opnieuw",
+    "order_again": "OPNIEUW BESTELLEN"
+  },
+  {
+    "language_name": "French (fr-MC)",
+    "pr_code": "fra",
+    "language": "fr-MC",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "French (fr-PF)",
+    "pr_code": "fra",
+    "language": "fr-PF",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "French (fr-BG)",
+    "pr_code": "fra",
+    "language": "fr-BG",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "French (fr-SK)",
+    "pr_code": "fra",
+    "language": "fr-SK",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "French (fr-GP)",
+    "pr_code": "fra",
+    "language": "fr-GP",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "French (fr-FR)",
+    "pr_code": "fra",
+    "language": "fr-FR",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "French (fr-LU)",
+    "pr_code": "fra",
+    "language": "fr-LU",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "French (fr-NC)",
+    "pr_code": "fra",
+    "language": "fr-NC",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "French (fr-IL)",
+    "pr_code": "fra",
+    "language": "fr-IL",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "French (fr-MG)",
+    "pr_code": "fra",
+    "language": "fr-MG",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "French (fr-DE)",
+    "pr_code": "fra",
+    "language": "fr-DE",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "French (fr-GB)",
+    "pr_code": "fra",
+    "language": "fr-GB",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "French (fr-ES)",
+    "pr_code": "fra",
+    "language": "fr-ES",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "French (fr-PT)",
+    "pr_code": "fra",
+    "language": "fr-PT",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "French (fr-MQ)",
+    "pr_code": "fra",
+    "language": "fr-MQ",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "French (fr-NO)",
+    "pr_code": "fra",
+    "language": "fr-NO",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "French (fr-TH)",
+    "pr_code": "fra",
+    "language": "fr-TH",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "French (fr-IT)",
+    "pr_code": "fra",
+    "language": "fr-IT",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "French (fr-US)",
+    "pr_code": "fra",
+    "language": "fr-US",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "French (fr-MA)",
+    "pr_code": "fra",
+    "language": "fr-MA",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "French (fr-NL)",
+    "pr_code": "fra",
+    "language": "fr-NL",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "French (fr-BE)",
+    "pr_code": "fra",
+    "language": "fr-BE",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "French (fr-CA)",
+    "pr_code": "fra",
+    "language": "fr-CA",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "French (fr-CH)",
+    "pr_code": "fra",
+    "language": "fr-CH",
+    "running_low_on_your_favorites_Reorder_now": "Votre ou vos produits favoris sont épuisés ? Repassez une commande maintenant",
+    "order_again": "COMMANDEZ À NOUVEAU"
+  },
+  {
+    "language_name": "Hungarian (hu-SK)",
+    "pr_code": "hun",
+    "language": "hu-SK",
+    "running_low_on_your_favorites_Reorder_now": "Kezd kifogyni a kedvence(i)ből? Rendelje újra most!",
+    "order_again": "ÚJRARENDELÉS"
+  },
+  {
+    "language_name": "Hungarian (hu-LK)",
+    "pr_code": "hun",
+    "language": "hu-LK",
+    "running_low_on_your_favorites_Reorder_now": "Kezd kifogyni a kedvence(i)ből? Rendelje újra most!",
+    "order_again": "ÚJRARENDELÉS"
+  },
+  {
+    "language_name": "Hungarian (hu-AT)",
+    "pr_code": "hun",
+    "language": "hu-AT",
+    "running_low_on_your_favorites_Reorder_now": "Kezd kifogyni a kedvence(i)ből? Rendelje újra most!",
+    "order_again": "ÚJRARENDELÉS"
+  },
+  {
+    "language_name": "Hungarian (hu-CH)",
+    "pr_code": "hun",
+    "language": "hu-CH",
+    "running_low_on_your_favorites_Reorder_now": "Kezd kifogyni a kedvence(i)ből? Rendelje újra most!",
+    "order_again": "ÚJRARENDELÉS"
+  },
+  {
+    "language_name": "Hungarian (hu-HU)",
+    "pr_code": "hun",
+    "language": "hu-HU",
+    "running_low_on_your_favorites_Reorder_now": "Kezd kifogyni a kedvence(i)ből? Rendelje újra most!",
+    "order_again": "ÚJRARENDELÉS"
+  },
+  {
+    "language_name": "Hungarian (hu-DE)",
+    "pr_code": "hun",
+    "language": "hu-DE",
+    "running_low_on_your_favorites_Reorder_now": "Kezd kifogyni a kedvence(i)ből? Rendelje újra most!",
+    "order_again": "ÚJRARENDELÉS"
+  },
+  {
+    "language_name": "Hungarian (hu-RO)",
+    "pr_code": "hun",
+    "language": "hu-RO",
+    "running_low_on_your_favorites_Reorder_now": "Kezd kifogyni a kedvence(i)ből? Rendelje újra most!",
+    "order_again": "ÚJRARENDELÉS"
+  },
+  {
+    "language_name": "Hungarian (hu-NO)",
+    "pr_code": "hun",
+    "language": "hu-NO",
+    "running_low_on_your_favorites_Reorder_now": "Kezd kifogyni a kedvence(i)ből? Rendelje újra most!",
+    "order_again": "ÚJRARENDELÉS"
+  },
+  {
+    "language_name": "Hungarian (hu-ES)",
+    "pr_code": "hun",
+    "language": "hu-ES",
+    "running_low_on_your_favorites_Reorder_now": "Kezd kifogyni a kedvence(i)ből? Rendelje újra most!",
+    "order_again": "ÚJRARENDELÉS"
+  },
+  {
+    "language_name": "Hungarian (hu-IT)",
+    "pr_code": "hun",
+    "language": "hu-IT",
+    "running_low_on_your_favorites_Reorder_now": "Kezd kifogyni a kedvence(i)ből? Rendelje újra most!",
+    "order_again": "ÚJRARENDELÉS"
+  },
+  {
+    "language_name": "Swedish (sv-FI)",
+    "pr_code": "swe",
+    "language": "sv-FI",
+    "running_low_on_your_favorites_Reorder_now": "Har du slut på din(a) favorit(er)? Beställ på nytt nu",
+    "order_again": "BESTÄLL IGEN"
+  },
+  {
+    "language_name": "Swedish (sv-IT)",
+    "pr_code": "swe",
+    "language": "sv-IT",
+    "running_low_on_your_favorites_Reorder_now": "Har du slut på din(a) favorit(er)? Beställ på nytt nu",
+    "order_again": "BESTÄLL IGEN"
+  },
+  {
+    "language_name": "Swedish (sv-DE)",
+    "pr_code": "swe",
+    "language": "sv-DE",
+    "running_low_on_your_favorites_Reorder_now": "Har du slut på din(a) favorit(er)? Beställ på nytt nu",
+    "order_again": "BESTÄLL IGEN"
+  },
+  {
+    "language_name": "Swedish (sv-ES)",
+    "pr_code": "swe",
+    "language": "sv-ES",
+    "running_low_on_your_favorites_Reorder_now": "Har du slut på din(a) favorit(er)? Beställ på nytt nu",
+    "order_again": "BESTÄLL IGEN"
+  },
+  {
+    "language_name": "Swedish (sv-NO)",
+    "pr_code": "swe",
+    "language": "sv-NO",
+    "running_low_on_your_favorites_Reorder_now": "Har du slut på din(a) favorit(er)? Beställ på nytt nu",
+    "order_again": "BESTÄLL IGEN"
+  },
+  {
+    "language_name": "Swedish (sv-LV)",
+    "pr_code": "swe",
+    "language": "sv-LV",
+    "running_low_on_your_favorites_Reorder_now": "Har du slut på din(a) favorit(er)? Beställ på nytt nu",
+    "order_again": "BESTÄLL IGEN"
+  },
+  {
+    "language_name": "Swedish (sv-SE)",
+    "pr_code": "swe",
+    "language": "sv-SE",
+    "running_low_on_your_favorites_Reorder_now": "Har du slut på din(a) favorit(er)? Beställ på nytt nu",
+    "order_again": "BESTÄLL IGEN"
+  },
+  {
+    "language_name": "Swedish (sv-FR)",
+    "pr_code": "swe",
+    "language": "sv-FR",
+    "running_low_on_your_favorites_Reorder_now": "Har du slut på din(a) favorit(er)? Beställ på nytt nu",
+    "order_again": "BESTÄLL IGEN"
+  },
+  {
+    "language_name": "Portuguese (pt-CA)",
+    "pr_code": "por",
+    "language": "pt-CA",
+    "running_low_on_your_favorites_Reorder_now": "Está ficando sem o(s) seu(s) favorito(s)? Faça novo pedido agora",
+    "order_again": "PEDIR NOVAMENTE"
+  },
+  {
+    "language_name": "Portuguese (pt-IE)",
+    "pr_code": "por",
+    "language": "pt-IE",
+    "running_low_on_your_favorites_Reorder_now": "Está ficando sem o(s) seu(s) favorito(s)? Faça novo pedido agora",
+    "order_again": "PEDIR NOVAMENTE"
+  },
+  {
+    "language_name": "Portuguese (pt-FR)",
+    "pr_code": "por",
+    "language": "pt-FR",
+    "running_low_on_your_favorites_Reorder_now": "Está ficando sem o(s) seu(s) favorito(s)? Faça novo pedido agora",
+    "order_again": "PEDIR NOVAMENTE"
+  },
+  {
+    "language_name": "Portuguese (pt-NZ)",
+    "pr_code": "por",
+    "language": "pt-NZ",
+    "running_low_on_your_favorites_Reorder_now": "Está ficando sem o(s) seu(s) favorito(s)? Faça novo pedido agora",
+    "order_again": "PEDIR NOVAMENTE"
+  },
+  {
+    "language_name": "Portuguese (pt-CH)",
+    "pr_code": "por",
+    "language": "pt-CH",
+    "running_low_on_your_favorites_Reorder_now": "Está ficando sem o(s) seu(s) favorito(s)? Faça novo pedido agora",
+    "order_again": "PEDIR NOVAMENTE"
+  },
+  {
+    "language_name": "Portuguese (pt-CO)",
+    "pr_code": "por",
+    "language": "pt-CO",
+    "running_low_on_your_favorites_Reorder_now": "Está ficando sem o(s) seu(s) favorito(s)? Faça novo pedido agora",
+    "order_again": "PEDIR NOVAMENTE"
+  },
+  {
+    "language_name": "Portuguese (pt-DK)",
+    "pr_code": "por",
+    "language": "pt-DK",
+    "running_low_on_your_favorites_Reorder_now": "Está ficando sem o(s) seu(s) favorito(s)? Faça novo pedido agora",
+    "order_again": "PEDIR NOVAMENTE"
+  },
+  {
+    "language_name": "Portuguese (pt-NL)",
+    "pr_code": "por",
+    "language": "pt-NL",
+    "running_low_on_your_favorites_Reorder_now": "Está ficando sem o(s) seu(s) favorito(s)? Faça novo pedido agora",
+    "order_again": "PEDIR NOVAMENTE"
+  },
+  {
+    "language_name": "Portuguese (pt-IT)",
+    "pr_code": "por",
+    "language": "pt-IT",
+    "running_low_on_your_favorites_Reorder_now": "Está ficando sem o(s) seu(s) favorito(s)? Faça novo pedido agora",
+    "order_again": "PEDIR NOVAMENTE"
+  },
+  {
+    "language_name": "Portuguese (pt-US)",
+    "pr_code": "por",
+    "language": "pt-US",
+    "running_low_on_your_favorites_Reorder_now": "Está ficando sem o(s) seu(s) favorito(s)? Faça novo pedido agora",
+    "order_again": "PEDIR NOVAMENTE"
+  },
+  {
+    "language_name": "Portuguese (pt-ES)",
+    "pr_code": "por",
+    "language": "pt-ES",
+    "running_low_on_your_favorites_Reorder_now": "Está ficando sem o(s) seu(s) favorito(s)? Faça novo pedido agora",
+    "order_again": "PEDIR NOVAMENTE"
+  },
+  {
+    "language_name": "Portuguese (pt-BR)",
+    "pr_code": "por",
+    "language": "pt-BR",
+    "running_low_on_your_favorites_Reorder_now": "Está ficando sem o(s) seu(s) favorito(s)? Faça novo pedido agora",
+    "order_again": "PEDIR NOVAMENTE"
+  },
+  {
+    "language_name": "Portuguese (pt-DE)",
+    "pr_code": "por",
+    "language": "pt-DE",
+    "running_low_on_your_favorites_Reorder_now": "Está ficando sem o(s) seu(s) favorito(s)? Faça novo pedido agora",
+    "order_again": "PEDIR NOVAMENTE"
+  },
+  {
+    "language_name": "Portuguese (pt-GB)",
+    "pr_code": "por",
+    "language": "pt-GB",
+    "running_low_on_your_favorites_Reorder_now": "Está ficando sem o(s) seu(s) favorito(s)? Faça novo pedido agora",
+    "order_again": "PEDIR NOVAMENTE"
+  },
+  {
+    "language_name": "Portuguese (pt-PY)",
+    "pr_code": "por",
+    "language": "pt-PY",
+    "running_low_on_your_favorites_Reorder_now": "Está ficando sem o(s) seu(s) favorito(s)? Faça novo pedido agora",
+    "order_again": "PEDIR NOVAMENTE"
+  },
+  {
+    "language_name": "Portuguese (pt-PT)",
+    "pr_code": "por",
+    "language": "pt-PT",
+    "running_low_on_your_favorites_Reorder_now": "Está ficando sem o(s) seu(s) favorito(s)? Faça novo pedido agora",
+    "order_again": "PEDIR NOVAMENTE"
+  },
+  {
+    "language_name": "Danish (da-SE)",
+    "pr_code": "dan",
+    "language": "da-SE",
+    "running_low_on_your_favorites_Reorder_now": "Er du løbet tør for din(e) favorit(ter)? Genbestil nu",
+    "order_again": "BESTIL IGEN"
+  },
+  {
+    "language_name": "Danish (da-LV)",
+    "pr_code": "dan",
+    "language": "da-LV",
+    "running_low_on_your_favorites_Reorder_now": "Er du løbet tør for din(e) favorit(ter)? Genbestil nu",
+    "order_again": "BESTIL IGEN"
+  },
+  {
+    "language_name": "Danish (da-LU)",
+    "pr_code": "dan",
+    "language": "da-LU",
+    "running_low_on_your_favorites_Reorder_now": "Er du løbet tør for din(e) favorit(ter)? Genbestil nu",
+    "order_again": "BESTIL IGEN"
+  },
+  {
+    "language_name": "Danish (da-DK)",
+    "pr_code": "dan",
+    "language": "da-DK",
+    "running_low_on_your_favorites_Reorder_now": "Er du løbet tør for din(e) favorit(ter)? Genbestil nu",
+    "order_again": "BESTIL IGEN"
+  },
+  {
+    "language_name": "Danish (da-TH)",
+    "pr_code": "dan",
+    "language": "da-TH",
+    "running_low_on_your_favorites_Reorder_now": "Er du løbet tør for din(e) favorit(ter)? Genbestil nu",
+    "order_again": "BESTIL IGEN"
+  },
+  {
+    "language_name": "Danish (da-HR)",
+    "pr_code": "dan",
+    "language": "da-HR",
+    "running_low_on_your_favorites_Reorder_now": "Er du løbet tør for din(e) favorit(ter)? Genbestil nu",
+    "order_again": "BESTIL IGEN"
+  },
+  {
+    "language_name": "Romanian (ro-IL)",
+    "pr_code": "ron",
+    "language": "ro-IL",
+    "running_low_on_your_favorites_Reorder_now": "Se termină preferat (ele) dvs.? Faceți o comandă chiar acum",
+    "order_again": "COMANDAȚI DIN NOU"
+  },
+  {
+    "language_name": "Romanian (ro-CH)",
+    "pr_code": "ron",
+    "language": "ro-CH",
+    "running_low_on_your_favorites_Reorder_now": "Se termină preferat (ele) dvs.? Faceți o comandă chiar acum",
+    "order_again": "COMANDAȚI DIN NOU"
+  },
+  {
+    "language_name": "Romanian (ro-AT)",
+    "pr_code": "ron",
+    "language": "ro-AT",
+    "running_low_on_your_favorites_Reorder_now": "Se termină preferat (ele) dvs.? Faceți o comandă chiar acum",
+    "order_again": "COMANDAȚI DIN NOU"
+  },
+  {
+    "language_name": "Romanian (ro-MD)",
+    "pr_code": "ron",
+    "language": "ro-MD",
+    "running_low_on_your_favorites_Reorder_now": "Se termină preferat (ele) dvs.? Faceți o comandă chiar acum",
+    "order_again": "COMANDAȚI DIN NOU"
+  },
+  {
+    "language_name": "Romanian (ro-US)",
+    "pr_code": "ron",
+    "language": "ro-US",
+    "running_low_on_your_favorites_Reorder_now": "Se termină preferat (ele) dvs.? Faceți o comandă chiar acum",
+    "order_again": "COMANDAȚI DIN NOU"
+  },
+  {
+    "language_name": "Romanian (ro-IT)",
+    "pr_code": "ron",
+    "language": "ro-IT",
+    "running_low_on_your_favorites_Reorder_now": "Se termină preferat (ele) dvs.? Faceți o comandă chiar acum",
+    "order_again": "COMANDAȚI DIN NOU"
+  },
+  {
+    "language_name": "Romanian (ro-NL)",
+    "pr_code": "ron",
+    "language": "ro-NL",
+    "running_low_on_your_favorites_Reorder_now": "Se termină preferat (ele) dvs.? Faceți o comandă chiar acum",
+    "order_again": "COMANDAȚI DIN NOU"
+  },
+  {
+    "language_name": "Romanian (ro-RO)",
+    "pr_code": "ron",
+    "language": "ro-RO",
+    "running_low_on_your_favorites_Reorder_now": "Se termină preferat (ele) dvs.? Faceți o comandă chiar acum",
+    "order_again": "COMANDAȚI DIN NOU"
+  },
+  {
+    "language_name": "Norwegian (no-GB)",
+    "pr_code": "nor",
+    "language": "no-GB",
+    "running_low_on_your_favorites_Reorder_now": "Er det tomt for favoritten(e) din(e)? Bestill på nytt nå",
+    "order_again": "BESTILL PÅ NYTT"
+  },
+  {
+    "language_name": "Norwegian (no-ET)",
+    "pr_code": "nor",
+    "language": "no-ET",
+    "running_low_on_your_favorites_Reorder_now": "Er det tomt for favoritten(e) din(e)? Bestill på nytt nå",
+    "order_again": "BESTILL PÅ NYTT"
+  },
+  {
+    "language_name": "Norwegian (no-DE)",
+    "pr_code": "nor",
+    "language": "no-DE",
+    "running_low_on_your_favorites_Reorder_now": "Er det tomt for favoritten(e) din(e)? Bestill på nytt nå",
+    "order_again": "BESTILL PÅ NYTT"
+  },
+  {
+    "language_name": "Norwegian (no-NO)",
+    "pr_code": "nor",
+    "language": "no-NO",
+    "running_low_on_your_favorites_Reorder_now": "Er det tomt for favoritten(e) din(e)? Bestill på nytt nå",
+    "order_again": "BESTILL PÅ NYTT"
+  },
+  {
+    "language_name": "Norwegian (no-US)",
+    "pr_code": "nor",
+    "language": "no-US",
+    "running_low_on_your_favorites_Reorder_now": "Er det tomt for favoritten(e) din(e)? Bestill på nytt nå",
+    "order_again": "BESTILL PÅ NYTT"
+  },
+  {
+    "language_name": "Norwegian (no-PL)",
+    "pr_code": "nor",
+    "language": "no-PL",
+    "running_low_on_your_favorites_Reorder_now": "Er det tomt for favoritten(e) din(e)? Bestill på nytt nå",
+    "order_again": "BESTILL PÅ NYTT"
+  },
+  {
+    "language_name": "Norwegian (no-CO)",
+    "pr_code": "nor",
+    "language": "no-CO",
+    "running_low_on_your_favorites_Reorder_now": "Er det tomt for favoritten(e) din(e)? Bestill på nytt nå",
+    "order_again": "BESTILL PÅ NYTT"
+  },
+  {
+    "language_name": "Norwegian (no-PH)",
+    "pr_code": "nor",
+    "language": "no-PH",
+    "running_low_on_your_favorites_Reorder_now": "Er det tomt for favoritten(e) din(e)? Bestill på nytt nå",
+    "order_again": "BESTILL PÅ NYTT"
+  },
+  {
+    "language_name": "Chinese Traditional (zh-CHT)",
+    "pr_code": "zht",
+    "language": "zh-CHT",
+    "running_low_on_your_favorites_Reorder_now": "您最愛的商品快用完了？現在就重新訂購",
+    "order_again": "再次訂購"
+  },
+  {
+    "language_name": "Chinese Traditional (zh-CA)",
+    "pr_code": "zht",
+    "language": "zh-CA",
+    "running_low_on_your_favorites_Reorder_now": "您最愛的商品快用完了？現在就重新訂購",
+    "order_again": "再次訂購"
+  },
+  {
+    "language_name": "Chinese Traditional (zh-CHS)",
+    "pr_code": "zht",
+    "language": "zh-CHS",
+    "running_low_on_your_favorites_Reorder_now": "您最愛的商品快用完了？現在就重新訂購",
+    "order_again": "再次訂購"
+  },
+  {
+    "language_name": "Chinese Traditional (zh-NZ)",
+    "pr_code": "zht",
+    "language": "zh-NZ",
+    "running_low_on_your_favorites_Reorder_now": "您最愛的商品快用完了？現在就重新訂購",
+    "order_again": "再次訂購"
+  },
+  {
+    "language_name": "Chinese Traditional (zh-US)",
+    "pr_code": "zht",
+    "language": "zh-US",
+    "running_low_on_your_favorites_Reorder_now": "您最愛的商品快用完了？現在就重新訂購",
+    "order_again": "再次訂購"
+  },
+  {
+    "language_name": "Chinese Traditional (zh-CN)",
+    "pr_code": "zht",
+    "language": "zh-CN",
+    "running_low_on_your_favorites_Reorder_now": "您最愛的商品快用完了？現在就重新訂購",
+    "order_again": "再次訂購"
+  },
+  {
+    "language_name": "Chinese Traditional (zh-TW)",
+    "pr_code": "zht",
+    "language": "zh-TW",
+    "running_low_on_your_favorites_Reorder_now": "您最愛的商品快用完了？現在就重新訂購",
+    "order_again": "再次訂購"
+  },
+  {
+    "language_name": "Chinese Traditional (zh-MO)",
+    "pr_code": "zht",
+    "language": "zh-MO",
+    "running_low_on_your_favorites_Reorder_now": "您最愛的商品快用完了？現在就重新訂購",
+    "order_again": "再次訂購"
+  },
+  {
+    "language_name": "Chinese Traditional (zh-HK)",
+    "pr_code": "zht",
+    "language": "zh-HK",
+    "running_low_on_your_favorites_Reorder_now": "您最愛的商品快用完了？現在就重新訂購",
+    "order_again": "再次訂購"
+  },
+  {
+    "language_name": "Thai (th-TH)",
+    "pr_code": "tha",
+    "language": "th-TH",
+    "running_low_on_your_favorites_Reorder_now": "ของโปรดของคุณเหลือน้อยแล้วใช่ไหม สั่งซื้อใหม่เลยตอนนี้",
+    "order_again": "สั่งซื้อใหม่อีกครั้ง"
+  },
+  {
+    "language_name": "Polish (pl-GB)",
+    "pr_code": "pol",
+    "language": "pl-GB",
+    "running_low_on_your_favorites_Reorder_now": "Kończy Ci się zapas ulubionych produktów? Zamów teraz",
+    "order_again": "ZAMÓW PONOWNIE"
+  },
+  {
+    "language_name": "Polish (pl-DE)",
+    "pr_code": "pol",
+    "language": "pl-DE",
+    "running_low_on_your_favorites_Reorder_now": "Kończy Ci się zapas ulubionych produktów? Zamów teraz",
+    "order_again": "ZAMÓW PONOWNIE"
+  },
+  {
+    "language_name": "Polish (pl-PT)",
+    "pr_code": "pol",
+    "language": "pl-PT",
+    "running_low_on_your_favorites_Reorder_now": "Kończy Ci się zapas ulubionych produktów? Zamów teraz",
+    "order_again": "ZAMÓW PONOWNIE"
+  },
+  {
+    "language_name": "Polish (pl-TH)",
+    "pr_code": "pol",
+    "language": "pl-TH",
+    "running_low_on_your_favorites_Reorder_now": "Kończy Ci się zapas ulubionych produktów? Zamów teraz",
+    "order_again": "ZAMÓW PONOWNIE"
+  },
+  {
+    "language_name": "Polish (pl-FI)",
+    "pr_code": "pol",
+    "language": "pl-FI",
+    "running_low_on_your_favorites_Reorder_now": "Kończy Ci się zapas ulubionych produktów? Zamów teraz",
+    "order_again": "ZAMÓW PONOWNIE"
+  },
+  {
+    "language_name": "Polish (pl-US)",
+    "pr_code": "pol",
+    "language": "pl-US",
+    "running_low_on_your_favorites_Reorder_now": "Kończy Ci się zapas ulubionych produktów? Zamów teraz",
+    "order_again": "ZAMÓW PONOWNIE"
+  },
+  {
+    "language_name": "Polish (pl-GR)",
+    "pr_code": "pol",
+    "language": "pl-GR",
+    "running_low_on_your_favorites_Reorder_now": "Kończy Ci się zapas ulubionych produktów? Zamów teraz",
+    "order_again": "ZAMÓW PONOWNIE"
+  },
+  {
+    "language_name": "Polish (pl-NL)",
+    "pr_code": "pol",
+    "language": "pl-NL",
+    "running_low_on_your_favorites_Reorder_now": "Kończy Ci się zapas ulubionych produktów? Zamów teraz",
+    "order_again": "ZAMÓW PONOWNIE"
+  },
+  {
+    "language_name": "Polish (pl-DK)",
+    "pr_code": "pol",
+    "language": "pl-DK",
+    "running_low_on_your_favorites_Reorder_now": "Kończy Ci się zapas ulubionych produktów? Zamów teraz",
+    "order_again": "ZAMÓW PONOWNIE"
+  },
+  {
+    "language_name": "Polish (pl-PL)",
+    "pr_code": "pol",
+    "language": "pl-PL",
+    "running_low_on_your_favorites_Reorder_now": "Kończy Ci się zapas ulubionych produktów? Zamów teraz",
+    "order_again": "ZAMÓW PONOWNIE"
+  },
+  {
+    "language_name": "Polish (pl-CH)",
+    "pr_code": "pol",
+    "language": "pl-CH",
+    "running_low_on_your_favorites_Reorder_now": "Kończy Ci się zapas ulubionych produktów? Zamów teraz",
+    "order_again": "ZAMÓW PONOWNIE"
+  },
+  {
+    "language_name": "Polish (pl-IE)",
+    "pr_code": "pol",
+    "language": "pl-IE",
+    "running_low_on_your_favorites_Reorder_now": "Kończy Ci się zapas ulubionych produktów? Zamów teraz",
+    "order_again": "ZAMÓW PONOWNIE"
+  },
+  {
+    "language_name": "Polish (pl-SE)",
+    "pr_code": "pol",
+    "language": "pl-SE",
+    "running_low_on_your_favorites_Reorder_now": "Kończy Ci się zapas ulubionych produktów? Zamów teraz",
+    "order_again": "ZAMÓW PONOWNIE"
+  },
+  {
+    "language_name": "Finnish (fi-NO)",
+    "pr_code": "fin",
+    "language": "fi-NO",
+    "running_low_on_your_favorites_Reorder_now": "Ovatko suosikkisi loppumassa? Tilaa nyt lisää",
+    "order_again": "TILAA UUDELLEEN"
+  },
+  {
+    "language_name": "Finnish (fi-GB)",
+    "pr_code": "fin",
+    "language": "fi-GB",
+    "running_low_on_your_favorites_Reorder_now": "Ovatko suosikkisi loppumassa? Tilaa nyt lisää",
+    "order_again": "TILAA UUDELLEEN"
+  },
+  {
+    "language_name": "Finnish (fi-TH)",
+    "pr_code": "fin",
+    "language": "fi-TH",
+    "running_low_on_your_favorites_Reorder_now": "Ovatko suosikkisi loppumassa? Tilaa nyt lisää",
+    "order_again": "TILAA UUDELLEEN"
+  },
+  {
+    "language_name": "Finnish (fi-FI)",
+    "pr_code": "fin",
+    "language": "fi-FI",
+    "running_low_on_your_favorites_Reorder_now": "Ovatko suosikkisi loppumassa? Tilaa nyt lisää",
+    "order_again": "TILAA UUDELLEEN"
+  },
+  {
+    "language_name": "Finnish (fi-EE)",
+    "pr_code": "fin",
+    "language": "fi-EE",
+    "running_low_on_your_favorites_Reorder_now": "Ovatko suosikkisi loppumassa? Tilaa nyt lisää",
+    "order_again": "TILAA UUDELLEEN"
+  },
+  {
+    "language_name": "Slovak (sk-CH)",
+    "pr_code": "slk",
+    "language": "sk-CH",
+    "running_low_on_your_favorites_Reorder_now": "Dochádzajú vám obľúbené produkty? Objednajte si ich teraz",
+    "order_again": "OBJEDNAJTE SI ZNOVA"
+  },
+  {
+    "language_name": "Slovak (sk-SK)",
+    "pr_code": "slk",
+    "language": "sk-SK",
+    "running_low_on_your_favorites_Reorder_now": "Dochádzajú vám obľúbené produkty? Objednajte si ich teraz",
+    "order_again": "OBJEDNAJTE SI ZNOVA"
+  },
+  {
+    "language_name": "Slovak (sk-NL)",
+    "pr_code": "slk",
+    "language": "sk-NL",
+    "running_low_on_your_favorites_Reorder_now": "Dochádzajú vám obľúbené produkty? Objednajte si ich teraz",
+    "order_again": "OBJEDNAJTE SI ZNOVA"
+  },
+  {
+    "language_name": "Slovak (sk-CZ)",
+    "pr_code": "slk",
+    "language": "sk-CZ",
+    "running_low_on_your_favorites_Reorder_now": "Dochádzajú vám obľúbené produkty? Objednajte si ich teraz",
+    "order_again": "OBJEDNAJTE SI ZNOVA"
+  },
+  {
+    "language_name": "Korean (ko-KR)",
+    "pr_code": "kor",
+    "language": "ko-KR",
+    "running_low_on_your_favorites_Reorder_now": "좋아하는 제품이 더 필요하신가요? 지금 재주문하기",
+    "order_again": "재주문하기"
+  },
+  {
+    "language_name": "Russian (ru-GR)",
+    "pr_code": "rus",
+    "language": "ru-GR",
+    "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
+    "order_again": "ПОВТОРИТЬ ЗАКАЗ"
+  },
+  {
+    "language_name": "Russian (ru-US)",
+    "pr_code": "rus",
+    "language": "ru-US",
+    "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
+    "order_again": "ПОВТОРИТЬ ЗАКАЗ"
+  },
+  {
+    "language_name": "Russian (ru-TH)",
+    "pr_code": "rus",
+    "language": "ru-TH",
+    "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
+    "order_again": "ПОВТОРИТЬ ЗАКАЗ"
+  },
+  {
+    "language_name": "Russian (ru-NL)",
+    "pr_code": "rus",
+    "language": "ru-NL",
+    "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
+    "order_again": "ПОВТОРИТЬ ЗАКАЗ"
+  },
+  {
+    "language_name": "Russian (ru-BE)",
+    "pr_code": "rus",
+    "language": "ru-BE",
+    "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
+    "order_again": "ПОВТОРИТЬ ЗАКАЗ"
+  },
+  {
+    "language_name": "Russian (ru-LT)",
+    "pr_code": "rus",
+    "language": "ru-LT",
+    "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
+    "order_again": "ПОВТОРИТЬ ЗАКАЗ"
+  },
+  {
+    "language_name": "Russian (ru-HU)",
+    "pr_code": "rus",
+    "language": "ru-HU",
+    "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
+    "order_again": "ПОВТОРИТЬ ЗАКАЗ"
+  },
+  {
+    "language_name": "Russian (ru-DE)",
+    "pr_code": "rus",
+    "language": "ru-DE",
+    "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
+    "order_again": "ПОВТОРИТЬ ЗАКАЗ"
+  },
+  {
+    "language_name": "Russian (ru-GB)",
+    "pr_code": "rus",
+    "language": "ru-GB",
+    "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
+    "order_again": "ПОВТОРИТЬ ЗАКАЗ"
+  },
+  {
+    "language_name": "Russian (ru-CZ)",
+    "pr_code": "rus",
+    "language": "ru-CZ",
+    "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
+    "order_again": "ПОВТОРИТЬ ЗАКАЗ"
+  },
+  {
+    "language_name": "Russian (ru-NO)",
+    "pr_code": "rus",
+    "language": "ru-NO",
+    "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
+    "order_again": "ПОВТОРИТЬ ЗАКАЗ"
+  },
+  {
+    "language_name": "Russian (ru-GE)",
+    "pr_code": "rus",
+    "language": "ru-GE",
+    "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
+    "order_again": "ПОВТОРИТЬ ЗАКАЗ"
+  },
+  {
+    "language_name": "Russian (ru-ES)",
+    "pr_code": "rus",
+    "language": "ru-ES",
+    "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
+    "order_again": "ПОВТОРИТЬ ЗАКАЗ"
+  },
+  {
+    "language_name": "Russian (ru-SE)",
+    "pr_code": "rus",
+    "language": "ru-SE",
+    "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
+    "order_again": "ПОВТОРИТЬ ЗАКАЗ"
+  },
+  {
+    "language_name": "Russian (ru-LV)",
+    "pr_code": "rus",
+    "language": "ru-LV",
+    "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
+    "order_again": "ПОВТОРИТЬ ЗАКАЗ"
+  },
+  {
+    "language_name": "Russian (ru-CA)",
+    "pr_code": "rus",
+    "language": "ru-CA",
+    "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
+    "order_again": "ПОВТОРИТЬ ЗАКАЗ"
+  },
+  {
+    "language_name": "Russian (ru-IL)",
+    "pr_code": "rus",
+    "language": "ru-IL",
+    "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
+    "order_again": "ПОВТОРИТЬ ЗАКАЗ"
+  },
+  {
+    "language_name": "Russian (ru-PL)",
+    "pr_code": "rus",
+    "language": "ru-PL",
+    "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
+    "order_again": "ПОВТОРИТЬ ЗАКАЗ"
+  },
+  {
+    "language_name": "Russian (ru-BG)",
+    "pr_code": "rus",
+    "language": "ru-BG",
+    "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
+    "order_again": "ПОВТОРИТЬ ЗАКАЗ"
+  },
+  {
+    "language_name": "Russian (ru-FR)",
+    "pr_code": "rus",
+    "language": "ru-FR",
+    "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
+    "order_again": "ПОВТОРИТЬ ЗАКАЗ"
+  },
+  {
+    "language_name": "Russian (ru-CH)",
+    "pr_code": "rus",
+    "language": "ru-CH",
+    "running_low_on_your_favorites_Reorder_now": "У Вас заканчиваются любимые товары? Закажите их снова прямо сейчас",
+    "order_again": "ПОВТОРИТЬ ЗАКАЗ"
+  },
+  {
+    "language_name": "Japanese (ja-JP)",
+    "pr_code": "jpn",
+    "language": "ja-JP",
+    "running_low_on_your_favorites_Reorder_now": "お気に入り商品が残り少なくなりましたか？今すぐ注文しましょう",
+    "order_again": "再注文"
+  },
+  {
+    "language_name": "Croatian (hr-RS)",
+    "pr_code": "hrv",
+    "language": "hr-RS",
+    "running_low_on_your_favorites_Reorder_now": "Ponestaje vam favorita? Ponovno naručite odmah",
+    "order_again": "NARUČITE PONOVO"
+  },
+  {
+    "language_name": "Croatian (hr-HR)",
+    "pr_code": "hrv",
+    "language": "hr-HR",
+    "running_low_on_your_favorites_Reorder_now": "Ponestaje vam favorita? Ponovno naručite odmah",
+    "order_again": "NARUČITE PONOVO"
+  },
+  {
+    "language_name": "Croatian (hr-ME)",
+    "pr_code": "hrv",
+    "language": "hr-ME",
+    "running_low_on_your_favorites_Reorder_now": "Ponestaje vam favorita? Ponovno naručite odmah",
+    "order_again": "NARUČITE PONOVO"
+  },
+  {
+    "language_name": "Croatian (hr-BA)",
+    "pr_code": "hrv",
+    "language": "hr-BA",
+    "running_low_on_your_favorites_Reorder_now": "Ponestaje vam favorita? Ponovno naručite odmah",
+    "order_again": "NARUČITE PONOVO"
+  },
+  {
+    "language_name": "Croatian (hr-SI)",
+    "pr_code": "hrv",
+    "language": "hr-SI",
+    "running_low_on_your_favorites_Reorder_now": "Ponestaje vam favorita? Ponovno naručite odmah",
+    "order_again": "NARUČITE PONOVO"
+  }
 ]
