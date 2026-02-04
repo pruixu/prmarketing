@@ -1,234 +1,3026 @@
 [
- {
-   "language_name": "English",
-   "pr_code": "eng",
-   "language": "en",
-   "ending_soon": "ENDING SOON",
-   "50_off": "50% OFF",
-   "bogo": "BOGO"
- },
- {
-   "language_name": "Azerbaijani",
-   "pr_code": "aze",
-   "language": "az",
-   "ending_soon": "YAXIN ZAMANDA BİTƏCƏK",
-   "50_off": "50% ENDİRİM",
-   "bogo": "BOGO (Birini al, birini pulsuz əldə et)"
- },
- {
-   "language_name": "Bulgarian",
-   "pr_code": "bul",
-   "language": "bg",
-   "ending_soon": "ПРИКЛЮЧВА СКОРО",
-   "50_off": "50% ОТСТЪПКА",
-   "bogo": "ДВЕ НА ЦЕНАТА НА ЕДНО"
- },
- {
-   "language_name": "Danish",
-   "pr_code": "dan",
-   "language": "da",
-   "ending_soon": "SLUTTER SNART",
-   "50_off": "50% RABAT",
-   "bogo": "KØB EN, FÅ EN GRATIS MED."
- },
- {
-   "language_name": "German",
-   "pr_code": "deu",
-   "language": "de",
-   "ending_soon": "NUR KURZE ZEIT",
-   "50_off": "50 % RABATT",
-   "bogo": "2 FÜR 1"
- },
- {
-   "language_name": "Greek (modern)",
-   "pr_code": "ell",
-   "language": "el",
-   "ending_soon": "ΤΕΛΕΙΩΝΕΙ ΣΥΝΤΟΜΑ",
-   "50_off": "50% ΕΚΠΤΩΣΗ",
-   "bogo": "ΑΓΟΡΑΣΤΕ ΕΝΑ ΚΑΙ ΠΑΡΤΕ ΑΛΛΟ ΕΝΑ ΔΩΡΕΑΝ"
- },
- {
-   "language_name": "Finnish",
-   "pr_code": "fin",
-   "language": "fi",
-  "ending_soon": "LOPPUU PIAN",
-   "50_off": "50 % ALENNUSTA",
-   "bogo": "OSTA KAKSI YHDEN HINNALLA"
- },
- {
-   "language_name": "French",
-   "pr_code": "fra",
-   "language": "fr",
-  "ending_soon": "SE TERMINE BIENTÔT",
-   "50_off": "RÉDUCTION DE 50 %",
-   "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
- },
- {
-   "language_name": "Croatian",
-   "pr_code": "hrv",
-   "language": "hr",
-   "ending_soon": "USKORO ZAVRŠAVA",
-   "50_off": "50% POPUSTA",
-   "bogo": "BOGO"
- },
- {
-   "language_name": "Hungarian",
-   "pr_code": "hun",
-   "language": "hu",
-  "ending_soon": "HAMAROSAN VÉGET ÉR",
-   "50_off": "50% KEDVEZMÉNY",
-   "bogo": "EGYET FIZET, KETTŐT KAP"
- },
- {
-   "language_name": "Indonesian",
-   "pr_code": "ind",
-   "language": "id",
-   "ending_soon": "SEGERA BERAKHIR",
-   "50_off": "DISKON 50%",
-   "bogo": "Beli Satu Gratis Satu"
- },
- {
-   "language_name": "Italian",
-   "pr_code": "ita",
-   "language": "it",
-   "ending_soon": "STA PER FINIRE",
-   "50_off": "SCONTO 50%",
-   "bogo": "PAGHI UNO E PRENDI DUE"
- },
- {
-   "language_name": "Japanese",
-   "pr_code": "jpn",
-   "language": "ja",
-   "ending_soon": "まもなく終了",
-   "50_off": "50％引き",
-   "bogo": "BOGO"
- },
- {
-   "language_name": "Korean",
-   "pr_code": "kor",
-   "language": "ko",
-   "ending_soon": "곧 종료",
-   "50_off": "50% 할인",
-   "bogo": "BOGO"
- },
- {
-   "language_name": "Malay",
-   "pr_code": "msa",
-   "language": "ms",
-   "ending_soon": "AKAN TAMAT TIDAK LAMA LAGI",
-   "50_off": "POTONGAN 50 %",
-   "bogo": "BOGO"
- },
- {
-   "language_name": "Dutch",
-   "pr_code": "nld",
-   "language": "nl",
-   "ending_soon": "BINNENKORT TEN EINDE",
-   "50_off": "50% UIT",
-   "bogo": "EÉN KOPEN, ÉÉN GRATIS."
- },
- {
-   "language_name": "Norwegian",
-   "pr_code": "nor",
-   "language": "no",
-  "ending_soon": "SLUTTER SNART",
-   "50_off": "50 % RABATT",
-   "bogo": "BOGO"
- },
- {
-   "language_name": "Polish",
-   "pr_code": "pol",
-   "language": "pl",
- "ending_soon": "WKRÓTCE ZAKOŃCZY SIĘ",
-   "50_off": "ZNIŻKA 50%",
-   "bogo": "O NAZWIE BOGO"
- },
- {
-   "language_name": "Portuguese",
-   "pr_code": "por",
-   "language": "pt",
-  "ending_soon": "ACABANDO LOGO",
-   "50_off": "50% DE DESCONTO",
-   "bogo": "BOGO"
- },
- {
-   "language_name": "Romanian",
-   "pr_code": "ron",
-   "language": "ro",
-   "ending_soon": "SE ÎNCHEIE ÎN CURÂND",
-   "50_off": "50% OFF",
-   "bogo": "BOGO"
- },
- {
-   "language_name": "Russian",
-   "pr_code": "rus",
-   "language": "ru",
-  "ending_soon": "УСПЕЙТЕ КУПИТЬ",
-   "50_off": "СКИДКА 50%",
-   "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
- },
- {
-   "language_name": "Slovak",
-   "pr_code": "slk",
-   "language": "sk",
-  "ending_soon": "ČOSKORO SKONČÍ",
-   "50_off": "50 % ZĽAVA",
-   "bogo": "Kúpte jeden a získajte ďalší"
- },
- {
-   "language_name": "Slovene",
-   "pr_code": "slv",
-   "language": "sl",
-  "ending_soon": "KMALU SE KONČA",
-   "50_off": "50 % POPUSTA",
-   "bogo": "BOGO"
- },
- {
-   "language_name": "Spanish",
-   "pr_code": "spa",
-   "language": "es",
-  "ending_soon": "FINALIZA PRONTO",
-   "50_off": "DESCUENTO DEL 50%",
-   "bogo": "BOGO"
- },
- {
-   "language_name": "Swedish",
-   "pr_code": "swe",
-   "language": "sv",
-   "ending_soon": "SLUTAR SNART",
-   "50_off": "50% RABATT",
-   "bogo": "KÖP TVÅ, BETALA FÖR EN."
- },
- {
-   "language_name": "Thai",
-   "pr_code": "tha",
-   "language": "th",
-   "ending_soon": "ใกล้จะหมดแล้ว",
-   "50_off": "ลดราคา 50%",
-   "bogo": "ซื้อ 1 แถม 1"
- },
- {
-   "language_name": "Turkish",
-   "pr_code": "tur",
-   "language": "tr",
-  "ending_soon": "YAKINDA BİTİYOR",
-   "50_off": "% 50 İNDİRİM",
-   "bogo": "BOGO"
- },
- {
-   "language_name": "Vietnamese",
-   "pr_code": "vie",
-   "language": "vi",
-  "ending_soon": "SẮP KẾT THÚC",
-   "50_off": "GIẢM GIÁ 50%",
-   "bogo": "BOGO"
- },
- {
-   "language_name": "Chinese Traditional",
-   "pr_code": "zht",
-   "language": "zh",
- "ending_soon": "即將結束",
-   "50_off": "五折優惠",
-   "bogo": "買一送一"
- }
+  {
+    "language_name": "English",
+    "pr_code": "eng",
+    "language": "en",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Azerbaijani",
+    "pr_code": "aze",
+    "language": "az",
+    "ending_soon": "YAXIN ZAMANDA BİTƏCƏK",
+    "50_off": "50% ENDİRİM",
+    "bogo": "BOGO (Birini al, birini pulsuz əldə et)"
+  },
+  {
+    "language_name": "Bulgarian",
+    "pr_code": "bul",
+    "language": "bg",
+    "ending_soon": "ПРИКЛЮЧВА СКОРО",
+    "50_off": "50% ОТСТЪПКА",
+    "bogo": "ДВЕ НА ЦЕНАТА НА ЕДНО"
+  },
+  {
+    "language_name": "Danish",
+    "pr_code": "dan",
+    "language": "da",
+    "ending_soon": "SLUTTER SNART",
+    "50_off": "50% RABAT",
+    "bogo": "KØB EN, FÅ EN GRATIS MED."
+  },
+  {
+    "language_name": "German",
+    "pr_code": "deu",
+    "language": "de",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "Greek (modern)",
+    "pr_code": "ell",
+    "language": "el",
+    "ending_soon": "ΤΕΛΕΙΩΝΕΙ ΣΥΝΤΟΜΑ",
+    "50_off": "50% ΕΚΠΤΩΣΗ",
+    "bogo": "ΑΓΟΡΑΣΤΕ ΕΝΑ ΚΑΙ ΠΑΡΤΕ ΑΛΛΟ ΕΝΑ ΔΩΡΕΑΝ"
+  },
+  {
+    "language_name": "Finnish",
+    "pr_code": "fin",
+    "language": "fi",
+    "ending_soon": "LOPPUU PIAN",
+    "50_off": "50 % ALENNUSTA",
+    "bogo": "OSTA KAKSI YHDEN HINNALLA"
+  },
+  {
+    "language_name": "French",
+    "pr_code": "fra",
+    "language": "fr",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "Croatian",
+    "pr_code": "hrv",
+    "language": "hr",
+    "ending_soon": "USKORO ZAVRŠAVA",
+    "50_off": "50% POPUSTA",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Hungarian",
+    "pr_code": "hun",
+    "language": "hu",
+    "ending_soon": "HAMAROSAN VÉGET ÉR",
+    "50_off": "50% KEDVEZMÉNY",
+    "bogo": "EGYET FIZET, KETTŐT KAP"
+  },
+  {
+    "language_name": "Indonesian",
+    "pr_code": "ind",
+    "language": "id",
+    "ending_soon": "SEGERA BERAKHIR",
+    "50_off": "DISKON 50%",
+    "bogo": "Beli Satu Gratis Satu"
+  },
+  {
+    "language_name": "Italian",
+    "pr_code": "ita",
+    "language": "it",
+    "ending_soon": "STA PER FINIRE",
+    "50_off": "SCONTO 50%",
+    "bogo": "PAGHI UNO E PRENDI DUE"
+  },
+  {
+    "language_name": "Japanese",
+    "pr_code": "jpn",
+    "language": "ja",
+    "ending_soon": "まもなく終了",
+    "50_off": "50％引き",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Korean",
+    "pr_code": "kor",
+    "language": "ko",
+    "ending_soon": "곧 종료",
+    "50_off": "50% 할인",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Malay",
+    "pr_code": "msa",
+    "language": "ms",
+    "ending_soon": "AKAN TAMAT TIDAK LAMA LAGI",
+    "50_off": "POTONGAN 50 %",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Dutch",
+    "pr_code": "nld",
+    "language": "nl",
+    "ending_soon": "BINNENKORT TEN EINDE",
+    "50_off": "50% UIT",
+    "bogo": "EÉN KOPEN, ÉÉN GRATIS."
+  },
+  {
+    "language_name": "Norwegian",
+    "pr_code": "nor",
+    "language": "no",
+    "ending_soon": "SLUTTER SNART",
+    "50_off": "50 % RABATT",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Polish",
+    "pr_code": "pol",
+    "language": "pl",
+    "ending_soon": "WKRÓTCE ZAKOŃCZY SIĘ",
+    "50_off": "ZNIŻKA 50%",
+    "bogo": "O NAZWIE BOGO"
+  },
+  {
+    "language_name": "Portuguese",
+    "pr_code": "por",
+    "language": "pt",
+    "ending_soon": "ACABANDO LOGO",
+    "50_off": "50% DE DESCONTO",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Romanian",
+    "pr_code": "ron",
+    "language": "ro",
+    "ending_soon": "SE ÎNCHEIE ÎN CURÂND",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Russian",
+    "pr_code": "rus",
+    "language": "ru",
+    "ending_soon": "УСПЕЙТЕ КУПИТЬ",
+    "50_off": "СКИДКА 50%",
+    "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
+  },
+  {
+    "language_name": "Slovak",
+    "pr_code": "slk",
+    "language": "sk",
+    "ending_soon": "ČOSKORO SKONČÍ",
+    "50_off": "50 % ZĽAVA",
+    "bogo": "Kúpte jeden a získajte ďalší"
+  },
+  {
+    "language_name": "Slovene",
+    "pr_code": "slv",
+    "language": "sl",
+    "ending_soon": "KMALU SE KONČA",
+    "50_off": "50 % POPUSTA",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish",
+    "pr_code": "spa",
+    "language": "es",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Swedish",
+    "pr_code": "swe",
+    "language": "sv",
+    "ending_soon": "SLUTAR SNART",
+    "50_off": "50% RABATT",
+    "bogo": "KÖP TVÅ, BETALA FÖR EN."
+  },
+  {
+    "language_name": "Thai",
+    "pr_code": "tha",
+    "language": "th",
+    "ending_soon": "ใกล้จะหมดแล้ว",
+    "50_off": "ลดราคา 50%",
+    "bogo": "ซื้อ 1 แถม 1"
+  },
+  {
+    "language_name": "Turkish",
+    "pr_code": "tur",
+    "language": "tr",
+    "ending_soon": "YAKINDA BİTİYOR",
+    "50_off": "% 50 İNDİRİM",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Vietnamese",
+    "pr_code": "vie",
+    "language": "vi",
+    "ending_soon": "SẮP KẾT THÚC",
+    "50_off": "GIẢM GIÁ 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Chinese Traditional",
+    "pr_code": "zht",
+    "language": "zh",
+    "ending_soon": "即將結束",
+    "50_off": "五折優惠",
+    "bogo": "買一送一"
+  },
+  {
+    "language_name": "English (en-AZ)",
+    "pr_code": "eng",
+    "language": "en-AZ",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-TN)",
+    "pr_code": "eng",
+    "language": "en-TN",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-CL)",
+    "pr_code": "eng",
+    "language": "en-CL",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-MY)",
+    "pr_code": "eng",
+    "language": "en-MY",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-FO)",
+    "pr_code": "eng",
+    "language": "en-FO",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-BN)",
+    "pr_code": "eng",
+    "language": "en-BN",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-NG)",
+    "pr_code": "eng",
+    "language": "en-NG",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-LB)",
+    "pr_code": "eng",
+    "language": "en-LB",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-BW)",
+    "pr_code": "eng",
+    "language": "en-BW",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-TW)",
+    "pr_code": "eng",
+    "language": "en-TW",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-BD)",
+    "pr_code": "eng",
+    "language": "en-BD",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-KW)",
+    "pr_code": "eng",
+    "language": "en-KW",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-GG)",
+    "pr_code": "eng",
+    "language": "en-GG",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-RS)",
+    "pr_code": "eng",
+    "language": "en-RS",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-GT)",
+    "pr_code": "eng",
+    "language": "en-GT",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-SE)",
+    "pr_code": "eng",
+    "language": "en-SE",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-LV)",
+    "pr_code": "eng",
+    "language": "en-LV",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-SV)",
+    "pr_code": "eng",
+    "language": "en-SV",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-EE)",
+    "pr_code": "eng",
+    "language": "en-EE",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-AW)",
+    "pr_code": "eng",
+    "language": "en-AW",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-MT)",
+    "pr_code": "eng",
+    "language": "en-MT",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-CR)",
+    "pr_code": "eng",
+    "language": "en-CR",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-PH)",
+    "pr_code": "eng",
+    "language": "en-PH",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-KZ)",
+    "pr_code": "eng",
+    "language": "en-KZ",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-TZ)",
+    "pr_code": "eng",
+    "language": "en-TZ",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-IL)",
+    "pr_code": "eng",
+    "language": "en-IL",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-HN)",
+    "pr_code": "eng",
+    "language": "en-HN",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-LK)",
+    "pr_code": "eng",
+    "language": "en-LK",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-SK)",
+    "pr_code": "eng",
+    "language": "en-SK",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-JO)",
+    "pr_code": "eng",
+    "language": "en-JO",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-DZ)",
+    "pr_code": "eng",
+    "language": "en-DZ",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-CO)",
+    "pr_code": "eng",
+    "language": "en-CO",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-PL)",
+    "pr_code": "eng",
+    "language": "en-PL",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-MC)",
+    "pr_code": "eng",
+    "language": "en-MC",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-PF)",
+    "pr_code": "eng",
+    "language": "en-PF",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-TT)",
+    "pr_code": "eng",
+    "language": "en-TT",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-KG)",
+    "pr_code": "eng",
+    "language": "en-KG",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-BG)",
+    "pr_code": "eng",
+    "language": "en-BG",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-SA)",
+    "pr_code": "eng",
+    "language": "en-SA",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-JE)",
+    "pr_code": "eng",
+    "language": "en-JE",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-VE)",
+    "pr_code": "eng",
+    "language": "en-VE",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-MD)",
+    "pr_code": "eng",
+    "language": "en-MD",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-GP)",
+    "pr_code": "eng",
+    "language": "en-GP",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-AT)",
+    "pr_code": "eng",
+    "language": "en-AT",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-FR)",
+    "pr_code": "eng",
+    "language": "en-FR",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-LU)",
+    "pr_code": "eng",
+    "language": "en-LU",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-NI)",
+    "pr_code": "eng",
+    "language": "en-NI",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-CH)",
+    "pr_code": "eng",
+    "language": "en-CH",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-GI)",
+    "pr_code": "eng",
+    "language": "en-GI",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-KY)",
+    "pr_code": "eng",
+    "language": "en-KY",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-AM)",
+    "pr_code": "eng",
+    "language": "en-AM",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-PK)",
+    "pr_code": "eng",
+    "language": "en-PK",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-IT)",
+    "pr_code": "eng",
+    "language": "en-IT",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-GR)",
+    "pr_code": "eng",
+    "language": "en-GR",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-MU)",
+    "pr_code": "eng",
+    "language": "en-MU",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-AE)",
+    "pr_code": "eng",
+    "language": "en-AE",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-INT)",
+    "pr_code": "eng",
+    "language": "en-INT",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-QA)",
+    "pr_code": "eng",
+    "language": "en-QA",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-NA)",
+    "pr_code": "eng",
+    "language": "en-NA",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-US)",
+    "pr_code": "eng",
+    "language": "en-US",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-FI)",
+    "pr_code": "eng",
+    "language": "en-FI",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-BH)",
+    "pr_code": "eng",
+    "language": "en-BH",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-CY)",
+    "pr_code": "eng",
+    "language": "en-CY",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-IM)",
+    "pr_code": "eng",
+    "language": "en-IM",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-TH)",
+    "pr_code": "eng",
+    "language": "en-TH",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-AO)",
+    "pr_code": "eng",
+    "language": "en-AO",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-KH)",
+    "pr_code": "eng",
+    "language": "en-KH",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-BO)",
+    "pr_code": "eng",
+    "language": "en-BO",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-LI)",
+    "pr_code": "eng",
+    "language": "en-LI",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-SI)",
+    "pr_code": "eng",
+    "language": "en-SI",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-JM)",
+    "pr_code": "eng",
+    "language": "en-JM",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-NL)",
+    "pr_code": "eng",
+    "language": "en-NL",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-DK)",
+    "pr_code": "eng",
+    "language": "en-DK",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-MX)",
+    "pr_code": "eng",
+    "language": "en-MX",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-GL)",
+    "pr_code": "eng",
+    "language": "en-GL",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-MK)",
+    "pr_code": "eng",
+    "language": "en-MK",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-MA)",
+    "pr_code": "eng",
+    "language": "en-MA",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-CG)",
+    "pr_code": "eng",
+    "language": "en-CG",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-IS)",
+    "pr_code": "eng",
+    "language": "en-IS",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-EC)",
+    "pr_code": "eng",
+    "language": "en-EC",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-KE)",
+    "pr_code": "eng",
+    "language": "en-KE",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-BE)",
+    "pr_code": "eng",
+    "language": "en-BE",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-UG)",
+    "pr_code": "eng",
+    "language": "en-UG",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-JP)",
+    "pr_code": "eng",
+    "language": "en-JP",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-DE)",
+    "pr_code": "eng",
+    "language": "en-DE",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-BR)",
+    "pr_code": "eng",
+    "language": "en-BR",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-HU)",
+    "pr_code": "eng",
+    "language": "en-HU",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-BA)",
+    "pr_code": "eng",
+    "language": "en-BA",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-SG)",
+    "pr_code": "eng",
+    "language": "en-SG",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-LT)",
+    "pr_code": "eng",
+    "language": "en-LT",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-EG)",
+    "pr_code": "eng",
+    "language": "en-EG",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-TR)",
+    "pr_code": "eng",
+    "language": "en-TR",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-KR)",
+    "pr_code": "eng",
+    "language": "en-KR",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-ME)",
+    "pr_code": "eng",
+    "language": "en-ME",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-MV)",
+    "pr_code": "eng",
+    "language": "en-MV",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-ID)",
+    "pr_code": "eng",
+    "language": "en-ID",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-PY)",
+    "pr_code": "eng",
+    "language": "en-PY",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-AL)",
+    "pr_code": "eng",
+    "language": "en-AL",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-RO)",
+    "pr_code": "eng",
+    "language": "en-RO",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-GH)",
+    "pr_code": "eng",
+    "language": "en-GH",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-CZ)",
+    "pr_code": "eng",
+    "language": "en-CZ",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-VN)",
+    "pr_code": "eng",
+    "language": "en-VN",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-DO)",
+    "pr_code": "eng",
+    "language": "en-DO",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-FJ)",
+    "pr_code": "eng",
+    "language": "en-FJ",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-OM)",
+    "pr_code": "eng",
+    "language": "en-OM",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-CN)",
+    "pr_code": "eng",
+    "language": "en-CN",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-NO)",
+    "pr_code": "eng",
+    "language": "en-NO",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-HK)",
+    "pr_code": "eng",
+    "language": "en-HK",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-HR)",
+    "pr_code": "eng",
+    "language": "en-HR",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-AR)",
+    "pr_code": "eng",
+    "language": "en-AR",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-PT)",
+    "pr_code": "eng",
+    "language": "en-PT",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-ES)",
+    "pr_code": "eng",
+    "language": "en-ES",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-GE)",
+    "pr_code": "eng",
+    "language": "en-GE",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-MQ)",
+    "pr_code": "eng",
+    "language": "en-MQ",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-GB)",
+    "pr_code": "eng",
+    "language": "en-GB",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-AU)",
+    "pr_code": "eng",
+    "language": "en-AU",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-CA)",
+    "pr_code": "eng",
+    "language": "en-CA",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-IE)",
+    "pr_code": "eng",
+    "language": "en-IE",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-NZ)",
+    "pr_code": "eng",
+    "language": "en-NZ",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-ZA)",
+    "pr_code": "eng",
+    "language": "en-ZA",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "English (en-IN)",
+    "pr_code": "eng",
+    "language": "en-IN",
+    "ending_soon": "ENDING SOON",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "German (de-CO)",
+    "pr_code": "deu",
+    "language": "de-CO",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-PL)",
+    "pr_code": "deu",
+    "language": "de-PL",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-SK)",
+    "pr_code": "deu",
+    "language": "de-SK",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-FR)",
+    "pr_code": "deu",
+    "language": "de-FR",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-LU)",
+    "pr_code": "deu",
+    "language": "de-LU",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-NZ)",
+    "pr_code": "deu",
+    "language": "de-NZ",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-AD)",
+    "pr_code": "deu",
+    "language": "de-AD",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-SE)",
+    "pr_code": "deu",
+    "language": "de-SE",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-PH)",
+    "pr_code": "deu",
+    "language": "de-PH",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-GB)",
+    "pr_code": "deu",
+    "language": "de-GB",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-DE)",
+    "pr_code": "deu",
+    "language": "de-DE",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-BA)",
+    "pr_code": "deu",
+    "language": "de-BA",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-HU)",
+    "pr_code": "deu",
+    "language": "de-HU",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-DO)",
+    "pr_code": "deu",
+    "language": "de-DO",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-PY)",
+    "pr_code": "deu",
+    "language": "de-PY",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-CZ)",
+    "pr_code": "deu",
+    "language": "de-CZ",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-RO)",
+    "pr_code": "deu",
+    "language": "de-RO",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-ES)",
+    "pr_code": "deu",
+    "language": "de-ES",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-PT)",
+    "pr_code": "deu",
+    "language": "de-PT",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-HR)",
+    "pr_code": "deu",
+    "language": "de-HR",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-US)",
+    "pr_code": "deu",
+    "language": "de-US",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-GR)",
+    "pr_code": "deu",
+    "language": "de-GR",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-IT)",
+    "pr_code": "deu",
+    "language": "de-IT",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-TH)",
+    "pr_code": "deu",
+    "language": "de-TH",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-FI)",
+    "pr_code": "deu",
+    "language": "de-FI",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-SI)",
+    "pr_code": "deu",
+    "language": "de-SI",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-LI)",
+    "pr_code": "deu",
+    "language": "de-LI",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-NL)",
+    "pr_code": "deu",
+    "language": "de-NL",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-BE)",
+    "pr_code": "deu",
+    "language": "de-BE",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-CH)",
+    "pr_code": "deu",
+    "language": "de-CH",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "German (de-AT)",
+    "pr_code": "deu",
+    "language": "de-AT",
+    "ending_soon": "NUR KURZE ZEIT",
+    "50_off": "50 % RABATT",
+    "bogo": "2 FÜR 1"
+  },
+  {
+    "language_name": "Spanish (es-BE)",
+    "pr_code": "spa",
+    "language": "es-BE",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-MA)",
+    "pr_code": "spa",
+    "language": "es-MA",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-NL)",
+    "pr_code": "spa",
+    "language": "es-NL",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-DK)",
+    "pr_code": "spa",
+    "language": "es-DK",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-US)",
+    "pr_code": "spa",
+    "language": "es-US",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-IT)",
+    "pr_code": "spa",
+    "language": "es-IT",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-ES)",
+    "pr_code": "spa",
+    "language": "es-ES",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-PT)",
+    "pr_code": "spa",
+    "language": "es-PT",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-DO)",
+    "pr_code": "spa",
+    "language": "es-DO",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-RO)",
+    "pr_code": "spa",
+    "language": "es-RO",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-GB)",
+    "pr_code": "spa",
+    "language": "es-GB",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-DE)",
+    "pr_code": "spa",
+    "language": "es-DE",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-BR)",
+    "pr_code": "spa",
+    "language": "es-BR",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-HU)",
+    "pr_code": "spa",
+    "language": "es-HU",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-HN)",
+    "pr_code": "spa",
+    "language": "es-HN",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-IL)",
+    "pr_code": "spa",
+    "language": "es-IL",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-CR)",
+    "pr_code": "spa",
+    "language": "es-CR",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-CA)",
+    "pr_code": "spa",
+    "language": "es-CA",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-SV)",
+    "pr_code": "spa",
+    "language": "es-SV",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-GT)",
+    "pr_code": "spa",
+    "language": "es-GT",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-CH)",
+    "pr_code": "spa",
+    "language": "es-CH",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-FR)",
+    "pr_code": "spa",
+    "language": "es-FR",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-IE)",
+    "pr_code": "spa",
+    "language": "es-IE",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-AT)",
+    "pr_code": "spa",
+    "language": "es-AT",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-PL)",
+    "pr_code": "spa",
+    "language": "es-PL",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-CO)",
+    "pr_code": "spa",
+    "language": "es-CO",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-MX)",
+    "pr_code": "spa",
+    "language": "es-MX",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-AR)",
+    "pr_code": "spa",
+    "language": "es-AR",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Spanish (es-CL)",
+    "pr_code": "spa",
+    "language": "es-CL",
+    "ending_soon": "FINALIZA PRONTO",
+    "50_off": "DESCUENTO DEL 50%",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Italian (it-CA)",
+    "pr_code": "ita",
+    "language": "it-CA",
+    "ending_soon": "STA PER FINIRE",
+    "50_off": "SCONTO 50%",
+    "bogo": "PAGHI UNO E PRENDI DUE"
+  },
+  {
+    "language_name": "Italian (it-IE)",
+    "pr_code": "ita",
+    "language": "it-IE",
+    "ending_soon": "STA PER FINIRE",
+    "50_off": "SCONTO 50%",
+    "bogo": "PAGHI UNO E PRENDI DUE"
+  },
+  {
+    "language_name": "Italian (it-FR)",
+    "pr_code": "ita",
+    "language": "it-FR",
+    "ending_soon": "STA PER FINIRE",
+    "50_off": "SCONTO 50%",
+    "bogo": "PAGHI UNO E PRENDI DUE"
+  },
+  {
+    "language_name": "Italian (it-BG)",
+    "pr_code": "ita",
+    "language": "it-BG",
+    "ending_soon": "STA PER FINIRE",
+    "50_off": "SCONTO 50%",
+    "bogo": "PAGHI UNO E PRENDI DUE"
+  },
+  {
+    "language_name": "Italian (it-CO)",
+    "pr_code": "ita",
+    "language": "it-CO",
+    "ending_soon": "STA PER FINIRE",
+    "50_off": "SCONTO 50%",
+    "bogo": "PAGHI UNO E PRENDI DUE"
+  },
+  {
+    "language_name": "Italian (it-NL)",
+    "pr_code": "ita",
+    "language": "it-NL",
+    "ending_soon": "STA PER FINIRE",
+    "50_off": "SCONTO 50%",
+    "bogo": "PAGHI UNO E PRENDI DUE"
+  },
+  {
+    "language_name": "Italian (it-SI)",
+    "pr_code": "ita",
+    "language": "it-SI",
+    "ending_soon": "STA PER FINIRE",
+    "50_off": "SCONTO 50%",
+    "bogo": "PAGHI UNO E PRENDI DUE"
+  },
+  {
+    "language_name": "Italian (it-TH)",
+    "pr_code": "ita",
+    "language": "it-TH",
+    "ending_soon": "STA PER FINIRE",
+    "50_off": "SCONTO 50%",
+    "bogo": "PAGHI UNO E PRENDI DUE"
+  },
+  {
+    "language_name": "Italian (it-AE)",
+    "pr_code": "ita",
+    "language": "it-AE",
+    "ending_soon": "STA PER FINIRE",
+    "50_off": "SCONTO 50%",
+    "bogo": "PAGHI UNO E PRENDI DUE"
+  },
+  {
+    "language_name": "Italian (it-IT)",
+    "pr_code": "ita",
+    "language": "it-IT",
+    "ending_soon": "STA PER FINIRE",
+    "50_off": "SCONTO 50%",
+    "bogo": "PAGHI UNO E PRENDI DUE"
+  },
+  {
+    "language_name": "Italian (it-GR)",
+    "pr_code": "ita",
+    "language": "it-GR",
+    "ending_soon": "STA PER FINIRE",
+    "50_off": "SCONTO 50%",
+    "bogo": "PAGHI UNO E PRENDI DUE"
+  },
+  {
+    "language_name": "Italian (it-US)",
+    "pr_code": "ita",
+    "language": "it-US",
+    "ending_soon": "STA PER FINIRE",
+    "50_off": "SCONTO 50%",
+    "bogo": "PAGHI UNO E PRENDI DUE"
+  },
+  {
+    "language_name": "Italian (it-HR)",
+    "pr_code": "ita",
+    "language": "it-HR",
+    "ending_soon": "STA PER FINIRE",
+    "50_off": "SCONTO 50%",
+    "bogo": "PAGHI UNO E PRENDI DUE"
+  },
+  {
+    "language_name": "Italian (it-RO)",
+    "pr_code": "ita",
+    "language": "it-RO",
+    "ending_soon": "STA PER FINIRE",
+    "50_off": "SCONTO 50%",
+    "bogo": "PAGHI UNO E PRENDI DUE"
+  },
+  {
+    "language_name": "Italian (it-HU)",
+    "pr_code": "ita",
+    "language": "it-HU",
+    "ending_soon": "STA PER FINIRE",
+    "50_off": "SCONTO 50%",
+    "bogo": "PAGHI UNO E PRENDI DUE"
+  },
+  {
+    "language_name": "Italian (it-BR)",
+    "pr_code": "ita",
+    "language": "it-BR",
+    "ending_soon": "STA PER FINIRE",
+    "50_off": "SCONTO 50%",
+    "bogo": "PAGHI UNO E PRENDI DUE"
+  },
+  {
+    "language_name": "Italian (it-GB)",
+    "pr_code": "ita",
+    "language": "it-GB",
+    "ending_soon": "STA PER FINIRE",
+    "50_off": "SCONTO 50%",
+    "bogo": "PAGHI UNO E PRENDI DUE"
+  },
+  {
+    "language_name": "Italian (it-CH)",
+    "pr_code": "ita",
+    "language": "it-CH",
+    "ending_soon": "STA PER FINIRE",
+    "50_off": "SCONTO 50%",
+    "bogo": "PAGHI UNO E PRENDI DUE"
+  },
+  {
+    "language_name": "Dutch (nl-IT)",
+    "pr_code": "nld",
+    "language": "nl-IT",
+    "ending_soon": "BINNENKORT TEN EINDE",
+    "50_off": "50% UIT",
+    "bogo": "EÉN KOPEN, ÉÉN GRATIS."
+  },
+  {
+    "language_name": "Dutch (nl-TH)",
+    "pr_code": "nld",
+    "language": "nl-TH",
+    "ending_soon": "BINNENKORT TEN EINDE",
+    "50_off": "50% UIT",
+    "bogo": "EÉN KOPEN, ÉÉN GRATIS."
+  },
+  {
+    "language_name": "Dutch (nl-DK)",
+    "pr_code": "nld",
+    "language": "nl-DK",
+    "ending_soon": "BINNENKORT TEN EINDE",
+    "50_off": "50% UIT",
+    "bogo": "EÉN KOPEN, ÉÉN GRATIS."
+  },
+  {
+    "language_name": "Dutch (nl-NL)",
+    "pr_code": "nld",
+    "language": "nl-NL",
+    "ending_soon": "BINNENKORT TEN EINDE",
+    "50_off": "50% UIT",
+    "bogo": "EÉN KOPEN, ÉÉN GRATIS."
+  },
+  {
+    "language_name": "Dutch (nl-GB)",
+    "pr_code": "nld",
+    "language": "nl-GB",
+    "ending_soon": "BINNENKORT TEN EINDE",
+    "50_off": "50% UIT",
+    "bogo": "EÉN KOPEN, ÉÉN GRATIS."
+  },
+  {
+    "language_name": "Dutch (nl-PT)",
+    "pr_code": "nld",
+    "language": "nl-PT",
+    "ending_soon": "BINNENKORT TEN EINDE",
+    "50_off": "50% UIT",
+    "bogo": "EÉN KOPEN, ÉÉN GRATIS."
+  },
+  {
+    "language_name": "Dutch (nl-ES)",
+    "pr_code": "nld",
+    "language": "nl-ES",
+    "ending_soon": "BINNENKORT TEN EINDE",
+    "50_off": "50% UIT",
+    "bogo": "EÉN KOPEN, ÉÉN GRATIS."
+  },
+  {
+    "language_name": "Dutch (nl-PL)",
+    "pr_code": "nld",
+    "language": "nl-PL",
+    "ending_soon": "BINNENKORT TEN EINDE",
+    "50_off": "50% UIT",
+    "bogo": "EÉN KOPEN, ÉÉN GRATIS."
+  },
+  {
+    "language_name": "Dutch (nl-FR)",
+    "pr_code": "nld",
+    "language": "nl-FR",
+    "ending_soon": "BINNENKORT TEN EINDE",
+    "50_off": "50% UIT",
+    "bogo": "EÉN KOPEN, ÉÉN GRATIS."
+  },
+  {
+    "language_name": "Dutch (nl-BE)",
+    "pr_code": "nld",
+    "language": "nl-BE",
+    "ending_soon": "BINNENKORT TEN EINDE",
+    "50_off": "50% UIT",
+    "bogo": "EÉN KOPEN, ÉÉN GRATIS."
+  },
+  {
+    "language_name": "French (fr-MC)",
+    "pr_code": "fra",
+    "language": "fr-MC",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "French (fr-PF)",
+    "pr_code": "fra",
+    "language": "fr-PF",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "French (fr-BG)",
+    "pr_code": "fra",
+    "language": "fr-BG",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "French (fr-SK)",
+    "pr_code": "fra",
+    "language": "fr-SK",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "French (fr-GP)",
+    "pr_code": "fra",
+    "language": "fr-GP",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "French (fr-FR)",
+    "pr_code": "fra",
+    "language": "fr-FR",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "French (fr-LU)",
+    "pr_code": "fra",
+    "language": "fr-LU",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "French (fr-NC)",
+    "pr_code": "fra",
+    "language": "fr-NC",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "French (fr-IL)",
+    "pr_code": "fra",
+    "language": "fr-IL",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "French (fr-MG)",
+    "pr_code": "fra",
+    "language": "fr-MG",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "French (fr-DE)",
+    "pr_code": "fra",
+    "language": "fr-DE",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "French (fr-GB)",
+    "pr_code": "fra",
+    "language": "fr-GB",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "French (fr-ES)",
+    "pr_code": "fra",
+    "language": "fr-ES",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "French (fr-PT)",
+    "pr_code": "fra",
+    "language": "fr-PT",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "French (fr-MQ)",
+    "pr_code": "fra",
+    "language": "fr-MQ",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "French (fr-NO)",
+    "pr_code": "fra",
+    "language": "fr-NO",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "French (fr-TH)",
+    "pr_code": "fra",
+    "language": "fr-TH",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "French (fr-IT)",
+    "pr_code": "fra",
+    "language": "fr-IT",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "French (fr-US)",
+    "pr_code": "fra",
+    "language": "fr-US",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "French (fr-MA)",
+    "pr_code": "fra",
+    "language": "fr-MA",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "French (fr-NL)",
+    "pr_code": "fra",
+    "language": "fr-NL",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "French (fr-BE)",
+    "pr_code": "fra",
+    "language": "fr-BE",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "French (fr-CA)",
+    "pr_code": "fra",
+    "language": "fr-CA",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "French (fr-CH)",
+    "pr_code": "fra",
+    "language": "fr-CH",
+    "ending_soon": "SE TERMINE BIENTÔT",
+    "50_off": "RÉDUCTION DE 50 %",
+    "bogo": "Achetez-en un et obtenez-en un autre gratuitement"
+  },
+  {
+    "language_name": "Hungarian (hu-SK)",
+    "pr_code": "hun",
+    "language": "hu-SK",
+    "ending_soon": "HAMAROSAN VÉGET ÉR",
+    "50_off": "50% KEDVEZMÉNY",
+    "bogo": "EGYET FIZET, KETTŐT KAP"
+  },
+  {
+    "language_name": "Hungarian (hu-LK)",
+    "pr_code": "hun",
+    "language": "hu-LK",
+    "ending_soon": "HAMAROSAN VÉGET ÉR",
+    "50_off": "50% KEDVEZMÉNY",
+    "bogo": "EGYET FIZET, KETTŐT KAP"
+  },
+  {
+    "language_name": "Hungarian (hu-AT)",
+    "pr_code": "hun",
+    "language": "hu-AT",
+    "ending_soon": "HAMAROSAN VÉGET ÉR",
+    "50_off": "50% KEDVEZMÉNY",
+    "bogo": "EGYET FIZET, KETTŐT KAP"
+  },
+  {
+    "language_name": "Hungarian (hu-CH)",
+    "pr_code": "hun",
+    "language": "hu-CH",
+    "ending_soon": "HAMAROSAN VÉGET ÉR",
+    "50_off": "50% KEDVEZMÉNY",
+    "bogo": "EGYET FIZET, KETTŐT KAP"
+  },
+  {
+    "language_name": "Hungarian (hu-HU)",
+    "pr_code": "hun",
+    "language": "hu-HU",
+    "ending_soon": "HAMAROSAN VÉGET ÉR",
+    "50_off": "50% KEDVEZMÉNY",
+    "bogo": "EGYET FIZET, KETTŐT KAP"
+  },
+  {
+    "language_name": "Hungarian (hu-DE)",
+    "pr_code": "hun",
+    "language": "hu-DE",
+    "ending_soon": "HAMAROSAN VÉGET ÉR",
+    "50_off": "50% KEDVEZMÉNY",
+    "bogo": "EGYET FIZET, KETTŐT KAP"
+  },
+  {
+    "language_name": "Hungarian (hu-RO)",
+    "pr_code": "hun",
+    "language": "hu-RO",
+    "ending_soon": "HAMAROSAN VÉGET ÉR",
+    "50_off": "50% KEDVEZMÉNY",
+    "bogo": "EGYET FIZET, KETTŐT KAP"
+  },
+  {
+    "language_name": "Hungarian (hu-NO)",
+    "pr_code": "hun",
+    "language": "hu-NO",
+    "ending_soon": "HAMAROSAN VÉGET ÉR",
+    "50_off": "50% KEDVEZMÉNY",
+    "bogo": "EGYET FIZET, KETTŐT KAP"
+  },
+  {
+    "language_name": "Hungarian (hu-ES)",
+    "pr_code": "hun",
+    "language": "hu-ES",
+    "ending_soon": "HAMAROSAN VÉGET ÉR",
+    "50_off": "50% KEDVEZMÉNY",
+    "bogo": "EGYET FIZET, KETTŐT KAP"
+  },
+  {
+    "language_name": "Hungarian (hu-IT)",
+    "pr_code": "hun",
+    "language": "hu-IT",
+    "ending_soon": "HAMAROSAN VÉGET ÉR",
+    "50_off": "50% KEDVEZMÉNY",
+    "bogo": "EGYET FIZET, KETTŐT KAP"
+  },
+  {
+    "language_name": "Swedish (sv-FI)",
+    "pr_code": "swe",
+    "language": "sv-FI",
+    "ending_soon": "SLUTAR SNART",
+    "50_off": "50% RABATT",
+    "bogo": "KÖP TVÅ, BETALA FÖR EN."
+  },
+  {
+    "language_name": "Swedish (sv-IT)",
+    "pr_code": "swe",
+    "language": "sv-IT",
+    "ending_soon": "SLUTAR SNART",
+    "50_off": "50% RABATT",
+    "bogo": "KÖP TVÅ, BETALA FÖR EN."
+  },
+  {
+    "language_name": "Swedish (sv-DE)",
+    "pr_code": "swe",
+    "language": "sv-DE",
+    "ending_soon": "SLUTAR SNART",
+    "50_off": "50% RABATT",
+    "bogo": "KÖP TVÅ, BETALA FÖR EN."
+  },
+  {
+    "language_name": "Swedish (sv-ES)",
+    "pr_code": "swe",
+    "language": "sv-ES",
+    "ending_soon": "SLUTAR SNART",
+    "50_off": "50% RABATT",
+    "bogo": "KÖP TVÅ, BETALA FÖR EN."
+  },
+  {
+    "language_name": "Swedish (sv-NO)",
+    "pr_code": "swe",
+    "language": "sv-NO",
+    "ending_soon": "SLUTAR SNART",
+    "50_off": "50% RABATT",
+    "bogo": "KÖP TVÅ, BETALA FÖR EN."
+  },
+  {
+    "language_name": "Swedish (sv-LV)",
+    "pr_code": "swe",
+    "language": "sv-LV",
+    "ending_soon": "SLUTAR SNART",
+    "50_off": "50% RABATT",
+    "bogo": "KÖP TVÅ, BETALA FÖR EN."
+  },
+  {
+    "language_name": "Swedish (sv-SE)",
+    "pr_code": "swe",
+    "language": "sv-SE",
+    "ending_soon": "SLUTAR SNART",
+    "50_off": "50% RABATT",
+    "bogo": "KÖP TVÅ, BETALA FÖR EN."
+  },
+  {
+    "language_name": "Swedish (sv-FR)",
+    "pr_code": "swe",
+    "language": "sv-FR",
+    "ending_soon": "SLUTAR SNART",
+    "50_off": "50% RABATT",
+    "bogo": "KÖP TVÅ, BETALA FÖR EN."
+  },
+  {
+    "language_name": "Portuguese (pt-CA)",
+    "pr_code": "por",
+    "language": "pt-CA",
+    "ending_soon": "ACABANDO LOGO",
+    "50_off": "50% DE DESCONTO",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Portuguese (pt-IE)",
+    "pr_code": "por",
+    "language": "pt-IE",
+    "ending_soon": "ACABANDO LOGO",
+    "50_off": "50% DE DESCONTO",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Portuguese (pt-FR)",
+    "pr_code": "por",
+    "language": "pt-FR",
+    "ending_soon": "ACABANDO LOGO",
+    "50_off": "50% DE DESCONTO",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Portuguese (pt-NZ)",
+    "pr_code": "por",
+    "language": "pt-NZ",
+    "ending_soon": "ACABANDO LOGO",
+    "50_off": "50% DE DESCONTO",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Portuguese (pt-CH)",
+    "pr_code": "por",
+    "language": "pt-CH",
+    "ending_soon": "ACABANDO LOGO",
+    "50_off": "50% DE DESCONTO",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Portuguese (pt-CO)",
+    "pr_code": "por",
+    "language": "pt-CO",
+    "ending_soon": "ACABANDO LOGO",
+    "50_off": "50% DE DESCONTO",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Portuguese (pt-DK)",
+    "pr_code": "por",
+    "language": "pt-DK",
+    "ending_soon": "ACABANDO LOGO",
+    "50_off": "50% DE DESCONTO",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Portuguese (pt-NL)",
+    "pr_code": "por",
+    "language": "pt-NL",
+    "ending_soon": "ACABANDO LOGO",
+    "50_off": "50% DE DESCONTO",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Portuguese (pt-IT)",
+    "pr_code": "por",
+    "language": "pt-IT",
+    "ending_soon": "ACABANDO LOGO",
+    "50_off": "50% DE DESCONTO",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Portuguese (pt-US)",
+    "pr_code": "por",
+    "language": "pt-US",
+    "ending_soon": "ACABANDO LOGO",
+    "50_off": "50% DE DESCONTO",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Portuguese (pt-ES)",
+    "pr_code": "por",
+    "language": "pt-ES",
+    "ending_soon": "ACABANDO LOGO",
+    "50_off": "50% DE DESCONTO",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Portuguese (pt-BR)",
+    "pr_code": "por",
+    "language": "pt-BR",
+    "ending_soon": "ACABANDO LOGO",
+    "50_off": "50% DE DESCONTO",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Portuguese (pt-DE)",
+    "pr_code": "por",
+    "language": "pt-DE",
+    "ending_soon": "ACABANDO LOGO",
+    "50_off": "50% DE DESCONTO",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Portuguese (pt-GB)",
+    "pr_code": "por",
+    "language": "pt-GB",
+    "ending_soon": "ACABANDO LOGO",
+    "50_off": "50% DE DESCONTO",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Portuguese (pt-PY)",
+    "pr_code": "por",
+    "language": "pt-PY",
+    "ending_soon": "ACABANDO LOGO",
+    "50_off": "50% DE DESCONTO",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Portuguese (pt-PT)",
+    "pr_code": "por",
+    "language": "pt-PT",
+    "ending_soon": "ACABANDO LOGO",
+    "50_off": "50% DE DESCONTO",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Danish (da-SE)",
+    "pr_code": "dan",
+    "language": "da-SE",
+    "ending_soon": "SLUTTER SNART",
+    "50_off": "50% RABAT",
+    "bogo": "KØB EN, FÅ EN GRATIS MED."
+  },
+  {
+    "language_name": "Danish (da-LV)",
+    "pr_code": "dan",
+    "language": "da-LV",
+    "ending_soon": "SLUTTER SNART",
+    "50_off": "50% RABAT",
+    "bogo": "KØB EN, FÅ EN GRATIS MED."
+  },
+  {
+    "language_name": "Danish (da-LU)",
+    "pr_code": "dan",
+    "language": "da-LU",
+    "ending_soon": "SLUTTER SNART",
+    "50_off": "50% RABAT",
+    "bogo": "KØB EN, FÅ EN GRATIS MED."
+  },
+  {
+    "language_name": "Danish (da-DK)",
+    "pr_code": "dan",
+    "language": "da-DK",
+    "ending_soon": "SLUTTER SNART",
+    "50_off": "50% RABAT",
+    "bogo": "KØB EN, FÅ EN GRATIS MED."
+  },
+  {
+    "language_name": "Danish (da-TH)",
+    "pr_code": "dan",
+    "language": "da-TH",
+    "ending_soon": "SLUTTER SNART",
+    "50_off": "50% RABAT",
+    "bogo": "KØB EN, FÅ EN GRATIS MED."
+  },
+  {
+    "language_name": "Danish (da-HR)",
+    "pr_code": "dan",
+    "language": "da-HR",
+    "ending_soon": "SLUTTER SNART",
+    "50_off": "50% RABAT",
+    "bogo": "KØB EN, FÅ EN GRATIS MED."
+  },
+  {
+    "language_name": "Romanian (ro-IL)",
+    "pr_code": "ron",
+    "language": "ro-IL",
+    "ending_soon": "SE ÎNCHEIE ÎN CURÂND",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Romanian (ro-CH)",
+    "pr_code": "ron",
+    "language": "ro-CH",
+    "ending_soon": "SE ÎNCHEIE ÎN CURÂND",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Romanian (ro-AT)",
+    "pr_code": "ron",
+    "language": "ro-AT",
+    "ending_soon": "SE ÎNCHEIE ÎN CURÂND",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Romanian (ro-MD)",
+    "pr_code": "ron",
+    "language": "ro-MD",
+    "ending_soon": "SE ÎNCHEIE ÎN CURÂND",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Romanian (ro-US)",
+    "pr_code": "ron",
+    "language": "ro-US",
+    "ending_soon": "SE ÎNCHEIE ÎN CURÂND",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Romanian (ro-IT)",
+    "pr_code": "ron",
+    "language": "ro-IT",
+    "ending_soon": "SE ÎNCHEIE ÎN CURÂND",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Romanian (ro-NL)",
+    "pr_code": "ron",
+    "language": "ro-NL",
+    "ending_soon": "SE ÎNCHEIE ÎN CURÂND",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Romanian (ro-RO)",
+    "pr_code": "ron",
+    "language": "ro-RO",
+    "ending_soon": "SE ÎNCHEIE ÎN CURÂND",
+    "50_off": "50% OFF",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Norwegian (no-GB)",
+    "pr_code": "nor",
+    "language": "no-GB",
+    "ending_soon": "SLUTTER SNART",
+    "50_off": "50 % RABATT",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Norwegian (no-ET)",
+    "pr_code": "nor",
+    "language": "no-ET",
+    "ending_soon": "SLUTTER SNART",
+    "50_off": "50 % RABATT",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Norwegian (no-DE)",
+    "pr_code": "nor",
+    "language": "no-DE",
+    "ending_soon": "SLUTTER SNART",
+    "50_off": "50 % RABATT",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Norwegian (no-NO)",
+    "pr_code": "nor",
+    "language": "no-NO",
+    "ending_soon": "SLUTTER SNART",
+    "50_off": "50 % RABATT",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Norwegian (no-US)",
+    "pr_code": "nor",
+    "language": "no-US",
+    "ending_soon": "SLUTTER SNART",
+    "50_off": "50 % RABATT",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Norwegian (no-PL)",
+    "pr_code": "nor",
+    "language": "no-PL",
+    "ending_soon": "SLUTTER SNART",
+    "50_off": "50 % RABATT",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Norwegian (no-CO)",
+    "pr_code": "nor",
+    "language": "no-CO",
+    "ending_soon": "SLUTTER SNART",
+    "50_off": "50 % RABATT",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Norwegian (no-PH)",
+    "pr_code": "nor",
+    "language": "no-PH",
+    "ending_soon": "SLUTTER SNART",
+    "50_off": "50 % RABATT",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Chinese Traditional (zh-CHT)",
+    "pr_code": "zht",
+    "language": "zh-CHT",
+    "ending_soon": "即將結束",
+    "50_off": "五折優惠",
+    "bogo": "買一送一"
+  },
+  {
+    "language_name": "Chinese Traditional (zh-CA)",
+    "pr_code": "zht",
+    "language": "zh-CA",
+    "ending_soon": "即將結束",
+    "50_off": "五折優惠",
+    "bogo": "買一送一"
+  },
+  {
+    "language_name": "Chinese Traditional (zh-CHS)",
+    "pr_code": "zht",
+    "language": "zh-CHS",
+    "ending_soon": "即將結束",
+    "50_off": "五折優惠",
+    "bogo": "買一送一"
+  },
+  {
+    "language_name": "Chinese Traditional (zh-NZ)",
+    "pr_code": "zht",
+    "language": "zh-NZ",
+    "ending_soon": "即將結束",
+    "50_off": "五折優惠",
+    "bogo": "買一送一"
+  },
+  {
+    "language_name": "Chinese Traditional (zh-US)",
+    "pr_code": "zht",
+    "language": "zh-US",
+    "ending_soon": "即將結束",
+    "50_off": "五折優惠",
+    "bogo": "買一送一"
+  },
+  {
+    "language_name": "Chinese Traditional (zh-CN)",
+    "pr_code": "zht",
+    "language": "zh-CN",
+    "ending_soon": "即將結束",
+    "50_off": "五折優惠",
+    "bogo": "買一送一"
+  },
+  {
+    "language_name": "Chinese Traditional (zh-TW)",
+    "pr_code": "zht",
+    "language": "zh-TW",
+    "ending_soon": "即將結束",
+    "50_off": "五折優惠",
+    "bogo": "買一送一"
+  },
+  {
+    "language_name": "Chinese Traditional (zh-MO)",
+    "pr_code": "zht",
+    "language": "zh-MO",
+    "ending_soon": "即將結束",
+    "50_off": "五折優惠",
+    "bogo": "買一送一"
+  },
+  {
+    "language_name": "Chinese Traditional (zh-HK)",
+    "pr_code": "zht",
+    "language": "zh-HK",
+    "ending_soon": "即將結束",
+    "50_off": "五折優惠",
+    "bogo": "買一送一"
+  },
+  {
+    "language_name": "Thai (th-TH)",
+    "pr_code": "tha",
+    "language": "th-TH",
+    "ending_soon": "ใกล้จะหมดแล้ว",
+    "50_off": "ลดราคา 50%",
+    "bogo": "ซื้อ 1 แถม 1"
+  },
+  {
+    "language_name": "Polish (pl-GB)",
+    "pr_code": "pol",
+    "language": "pl-GB",
+    "ending_soon": "WKRÓTCE ZAKOŃCZY SIĘ",
+    "50_off": "ZNIŻKA 50%",
+    "bogo": "O NAZWIE BOGO"
+  },
+  {
+    "language_name": "Polish (pl-DE)",
+    "pr_code": "pol",
+    "language": "pl-DE",
+    "ending_soon": "WKRÓTCE ZAKOŃCZY SIĘ",
+    "50_off": "ZNIŻKA 50%",
+    "bogo": "O NAZWIE BOGO"
+  },
+  {
+    "language_name": "Polish (pl-PT)",
+    "pr_code": "pol",
+    "language": "pl-PT",
+    "ending_soon": "WKRÓTCE ZAKOŃCZY SIĘ",
+    "50_off": "ZNIŻKA 50%",
+    "bogo": "O NAZWIE BOGO"
+  },
+  {
+    "language_name": "Polish (pl-TH)",
+    "pr_code": "pol",
+    "language": "pl-TH",
+    "ending_soon": "WKRÓTCE ZAKOŃCZY SIĘ",
+    "50_off": "ZNIŻKA 50%",
+    "bogo": "O NAZWIE BOGO"
+  },
+  {
+    "language_name": "Polish (pl-FI)",
+    "pr_code": "pol",
+    "language": "pl-FI",
+    "ending_soon": "WKRÓTCE ZAKOŃCZY SIĘ",
+    "50_off": "ZNIŻKA 50%",
+    "bogo": "O NAZWIE BOGO"
+  },
+  {
+    "language_name": "Polish (pl-US)",
+    "pr_code": "pol",
+    "language": "pl-US",
+    "ending_soon": "WKRÓTCE ZAKOŃCZY SIĘ",
+    "50_off": "ZNIŻKA 50%",
+    "bogo": "O NAZWIE BOGO"
+  },
+  {
+    "language_name": "Polish (pl-GR)",
+    "pr_code": "pol",
+    "language": "pl-GR",
+    "ending_soon": "WKRÓTCE ZAKOŃCZY SIĘ",
+    "50_off": "ZNIŻKA 50%",
+    "bogo": "O NAZWIE BOGO"
+  },
+  {
+    "language_name": "Polish (pl-NL)",
+    "pr_code": "pol",
+    "language": "pl-NL",
+    "ending_soon": "WKRÓTCE ZAKOŃCZY SIĘ",
+    "50_off": "ZNIŻKA 50%",
+    "bogo": "O NAZWIE BOGO"
+  },
+  {
+    "language_name": "Polish (pl-DK)",
+    "pr_code": "pol",
+    "language": "pl-DK",
+    "ending_soon": "WKRÓTCE ZAKOŃCZY SIĘ",
+    "50_off": "ZNIŻKA 50%",
+    "bogo": "O NAZWIE BOGO"
+  },
+  {
+    "language_name": "Polish (pl-PL)",
+    "pr_code": "pol",
+    "language": "pl-PL",
+    "ending_soon": "WKRÓTCE ZAKOŃCZY SIĘ",
+    "50_off": "ZNIŻKA 50%",
+    "bogo": "O NAZWIE BOGO"
+  },
+  {
+    "language_name": "Polish (pl-CH)",
+    "pr_code": "pol",
+    "language": "pl-CH",
+    "ending_soon": "WKRÓTCE ZAKOŃCZY SIĘ",
+    "50_off": "ZNIŻKA 50%",
+    "bogo": "O NAZWIE BOGO"
+  },
+  {
+    "language_name": "Polish (pl-IE)",
+    "pr_code": "pol",
+    "language": "pl-IE",
+    "ending_soon": "WKRÓTCE ZAKOŃCZY SIĘ",
+    "50_off": "ZNIŻKA 50%",
+    "bogo": "O NAZWIE BOGO"
+  },
+  {
+    "language_name": "Polish (pl-SE)",
+    "pr_code": "pol",
+    "language": "pl-SE",
+    "ending_soon": "WKRÓTCE ZAKOŃCZY SIĘ",
+    "50_off": "ZNIŻKA 50%",
+    "bogo": "O NAZWIE BOGO"
+  },
+  {
+    "language_name": "Finnish (fi-NO)",
+    "pr_code": "fin",
+    "language": "fi-NO",
+    "ending_soon": "LOPPUU PIAN",
+    "50_off": "50 % ALENNUSTA",
+    "bogo": "OSTA KAKSI YHDEN HINNALLA"
+  },
+  {
+    "language_name": "Finnish (fi-GB)",
+    "pr_code": "fin",
+    "language": "fi-GB",
+    "ending_soon": "LOPPUU PIAN",
+    "50_off": "50 % ALENNUSTA",
+    "bogo": "OSTA KAKSI YHDEN HINNALLA"
+  },
+  {
+    "language_name": "Finnish (fi-TH)",
+    "pr_code": "fin",
+    "language": "fi-TH",
+    "ending_soon": "LOPPUU PIAN",
+    "50_off": "50 % ALENNUSTA",
+    "bogo": "OSTA KAKSI YHDEN HINNALLA"
+  },
+  {
+    "language_name": "Finnish (fi-FI)",
+    "pr_code": "fin",
+    "language": "fi-FI",
+    "ending_soon": "LOPPUU PIAN",
+    "50_off": "50 % ALENNUSTA",
+    "bogo": "OSTA KAKSI YHDEN HINNALLA"
+  },
+  {
+    "language_name": "Finnish (fi-EE)",
+    "pr_code": "fin",
+    "language": "fi-EE",
+    "ending_soon": "LOPPUU PIAN",
+    "50_off": "50 % ALENNUSTA",
+    "bogo": "OSTA KAKSI YHDEN HINNALLA"
+  },
+  {
+    "language_name": "Slovak (sk-CH)",
+    "pr_code": "slk",
+    "language": "sk-CH",
+    "ending_soon": "ČOSKORO SKONČÍ",
+    "50_off": "50 % ZĽAVA",
+    "bogo": "Kúpte jeden a získajte ďalší"
+  },
+  {
+    "language_name": "Slovak (sk-SK)",
+    "pr_code": "slk",
+    "language": "sk-SK",
+    "ending_soon": "ČOSKORO SKONČÍ",
+    "50_off": "50 % ZĽAVA",
+    "bogo": "Kúpte jeden a získajte ďalší"
+  },
+  {
+    "language_name": "Slovak (sk-NL)",
+    "pr_code": "slk",
+    "language": "sk-NL",
+    "ending_soon": "ČOSKORO SKONČÍ",
+    "50_off": "50 % ZĽAVA",
+    "bogo": "Kúpte jeden a získajte ďalší"
+  },
+  {
+    "language_name": "Slovak (sk-CZ)",
+    "pr_code": "slk",
+    "language": "sk-CZ",
+    "ending_soon": "ČOSKORO SKONČÍ",
+    "50_off": "50 % ZĽAVA",
+    "bogo": "Kúpte jeden a získajte ďalší"
+  },
+  {
+    "language_name": "Korean (ko-KR)",
+    "pr_code": "kor",
+    "language": "ko-KR",
+    "ending_soon": "곧 종료",
+    "50_off": "50% 할인",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Russian (ru-GR)",
+    "pr_code": "rus",
+    "language": "ru-GR",
+    "ending_soon": "УСПЕЙТЕ КУПИТЬ",
+    "50_off": "СКИДКА 50%",
+    "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
+  },
+  {
+    "language_name": "Russian (ru-US)",
+    "pr_code": "rus",
+    "language": "ru-US",
+    "ending_soon": "УСПЕЙТЕ КУПИТЬ",
+    "50_off": "СКИДКА 50%",
+    "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
+  },
+  {
+    "language_name": "Russian (ru-TH)",
+    "pr_code": "rus",
+    "language": "ru-TH",
+    "ending_soon": "УСПЕЙТЕ КУПИТЬ",
+    "50_off": "СКИДКА 50%",
+    "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
+  },
+  {
+    "language_name": "Russian (ru-NL)",
+    "pr_code": "rus",
+    "language": "ru-NL",
+    "ending_soon": "УСПЕЙТЕ КУПИТЬ",
+    "50_off": "СКИДКА 50%",
+    "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
+  },
+  {
+    "language_name": "Russian (ru-BE)",
+    "pr_code": "rus",
+    "language": "ru-BE",
+    "ending_soon": "УСПЕЙТЕ КУПИТЬ",
+    "50_off": "СКИДКА 50%",
+    "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
+  },
+  {
+    "language_name": "Russian (ru-LT)",
+    "pr_code": "rus",
+    "language": "ru-LT",
+    "ending_soon": "УСПЕЙТЕ КУПИТЬ",
+    "50_off": "СКИДКА 50%",
+    "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
+  },
+  {
+    "language_name": "Russian (ru-HU)",
+    "pr_code": "rus",
+    "language": "ru-HU",
+    "ending_soon": "УСПЕЙТЕ КУПИТЬ",
+    "50_off": "СКИДКА 50%",
+    "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
+  },
+  {
+    "language_name": "Russian (ru-DE)",
+    "pr_code": "rus",
+    "language": "ru-DE",
+    "ending_soon": "УСПЕЙТЕ КУПИТЬ",
+    "50_off": "СКИДКА 50%",
+    "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
+  },
+  {
+    "language_name": "Russian (ru-GB)",
+    "pr_code": "rus",
+    "language": "ru-GB",
+    "ending_soon": "УСПЕЙТЕ КУПИТЬ",
+    "50_off": "СКИДКА 50%",
+    "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
+  },
+  {
+    "language_name": "Russian (ru-CZ)",
+    "pr_code": "rus",
+    "language": "ru-CZ",
+    "ending_soon": "УСПЕЙТЕ КУПИТЬ",
+    "50_off": "СКИДКА 50%",
+    "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
+  },
+  {
+    "language_name": "Russian (ru-NO)",
+    "pr_code": "rus",
+    "language": "ru-NO",
+    "ending_soon": "УСПЕЙТЕ КУПИТЬ",
+    "50_off": "СКИДКА 50%",
+    "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
+  },
+  {
+    "language_name": "Russian (ru-GE)",
+    "pr_code": "rus",
+    "language": "ru-GE",
+    "ending_soon": "УСПЕЙТЕ КУПИТЬ",
+    "50_off": "СКИДКА 50%",
+    "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
+  },
+  {
+    "language_name": "Russian (ru-ES)",
+    "pr_code": "rus",
+    "language": "ru-ES",
+    "ending_soon": "УСПЕЙТЕ КУПИТЬ",
+    "50_off": "СКИДКА 50%",
+    "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
+  },
+  {
+    "language_name": "Russian (ru-SE)",
+    "pr_code": "rus",
+    "language": "ru-SE",
+    "ending_soon": "УСПЕЙТЕ КУПИТЬ",
+    "50_off": "СКИДКА 50%",
+    "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
+  },
+  {
+    "language_name": "Russian (ru-LV)",
+    "pr_code": "rus",
+    "language": "ru-LV",
+    "ending_soon": "УСПЕЙТЕ КУПИТЬ",
+    "50_off": "СКИДКА 50%",
+    "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
+  },
+  {
+    "language_name": "Russian (ru-CA)",
+    "pr_code": "rus",
+    "language": "ru-CA",
+    "ending_soon": "УСПЕЙТЕ КУПИТЬ",
+    "50_off": "СКИДКА 50%",
+    "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
+  },
+  {
+    "language_name": "Russian (ru-IL)",
+    "pr_code": "rus",
+    "language": "ru-IL",
+    "ending_soon": "УСПЕЙТЕ КУПИТЬ",
+    "50_off": "СКИДКА 50%",
+    "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
+  },
+  {
+    "language_name": "Russian (ru-PL)",
+    "pr_code": "rus",
+    "language": "ru-PL",
+    "ending_soon": "УСПЕЙТЕ КУПИТЬ",
+    "50_off": "СКИДКА 50%",
+    "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
+  },
+  {
+    "language_name": "Russian (ru-BG)",
+    "pr_code": "rus",
+    "language": "ru-BG",
+    "ending_soon": "УСПЕЙТЕ КУПИТЬ",
+    "50_off": "СКИДКА 50%",
+    "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
+  },
+  {
+    "language_name": "Russian (ru-FR)",
+    "pr_code": "rus",
+    "language": "ru-FR",
+    "ending_soon": "УСПЕЙТЕ КУПИТЬ",
+    "50_off": "СКИДКА 50%",
+    "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
+  },
+  {
+    "language_name": "Russian (ru-CH)",
+    "pr_code": "rus",
+    "language": "ru-CH",
+    "ending_soon": "УСПЕЙТЕ КУПИТЬ",
+    "50_off": "СКИДКА 50%",
+    "bogo": "ДВА ПО ЦЕНЕ ОДНОГО"
+  },
+  {
+    "language_name": "Japanese (ja-JP)",
+    "pr_code": "jpn",
+    "language": "ja-JP",
+    "ending_soon": "まもなく終了",
+    "50_off": "50％引き",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Croatian (hr-RS)",
+    "pr_code": "hrv",
+    "language": "hr-RS",
+    "ending_soon": "USKORO ZAVRŠAVA",
+    "50_off": "50% POPUSTA",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Croatian (hr-HR)",
+    "pr_code": "hrv",
+    "language": "hr-HR",
+    "ending_soon": "USKORO ZAVRŠAVA",
+    "50_off": "50% POPUSTA",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Croatian (hr-ME)",
+    "pr_code": "hrv",
+    "language": "hr-ME",
+    "ending_soon": "USKORO ZAVRŠAVA",
+    "50_off": "50% POPUSTA",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Croatian (hr-BA)",
+    "pr_code": "hrv",
+    "language": "hr-BA",
+    "ending_soon": "USKORO ZAVRŠAVA",
+    "50_off": "50% POPUSTA",
+    "bogo": "BOGO"
+  },
+  {
+    "language_name": "Croatian (hr-SI)",
+    "pr_code": "hrv",
+    "language": "hr-SI",
+    "ending_soon": "USKORO ZAVRŠAVA",
+    "50_off": "50% POPUSTA",
+    "bogo": "BOGO"
+  }
 ]

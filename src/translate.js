@@ -2,14 +2,13 @@ const fs = require('fs').promises;
 const path = require('path');
 
 /**
- * Lee todos los archivos JSON de un directorio
- * @param {string} dirPath - Ruta del directorio
- * @returns {Array} Array de objetos {filename, data}
+ * Reads all JSON files from a directory
+ * @param {string} dirPath - Directory path
+ * @returns {Array} Array of objects {filename, data}
  */
 async function loadJSONFiles(dirPath) {
   const files = await fs.readdir(dirPath);
   const jsonFiles = files.filter(file => file.endsWith('.json'));
-  
   const results = [];
   for (const file of jsonFiles) {
     const filePath = path.join(dirPath, file);
@@ -22,11 +21,9 @@ async function loadJSONFiles(dirPath) {
         data: parsed
       });
     } catch (error) {
-      console.error(`\n❌ Error al parsear archivo: ${file}`);
-      console.error(`   Ruta: ${filePath}`);
+      console.error(`\n❌ Error parsing file: ${file}`);
+      console.error(`   Path: ${filePath}`);
       console.error(`   Error: ${error.message}`);
-      
-      // Mostrar contexto del error
       if (error.message.includes('position')) {
         const match = error.message.match(/position (\d+)/);
         if (match) {
@@ -34,36 +31,33 @@ async function loadJSONFiles(dirPath) {
           const content = await fs.readFile(filePath, 'utf-8');
           const start = Math.max(0, position - 100);
           const end = Math.min(content.length, position + 100);
-          console.error(`\n   Contexto (posición ${position}):`);
+          console.error(`\n   Context (position ${position}):`);
           console.error(`   "${content.substring(start, end)}"`);
           console.error(`   ${' '.repeat(Math.min(100, position - start))}^`);
         }
       }
-      
-      throw new Error(`Archivo JSON inválido: ${file}`);
+      throw new Error(`Invalid JSON file: ${file}`);
     }
   }
-  
   return results;
 }
 
 /**
- * Guarda el archivo JSON procesado
- * @param {string} filePath - Ruta donde guardar
- * @param {Array} data - Datos a guardar
+ * Saves the processed JSON file
+ * @param {string} filePath - Path to save
+ * @param {Array} data - Data to save
  */
 async function saveJSON(filePath, data) {
   await fs.writeFile(filePath, JSON.stringify(data, null, 2), 'utf-8');
 }
 
 /**
- * Genera variaciones de traducciones basadas en códigos BCP-47
+ * Generates translation variations based on BCP-47 codes
  */
 function expandTranslations(translations, variations) {
   const expandedTranslations = [];
   const existingLanguages = new Set(translations.map(t => t.language));
   expandedTranslations.push(...translations);
-  
   for (const [languageName, variants] of Object.entries(variations)) {
     for (const variant of variants) {
       if (existingLanguages.has(variant)) {
@@ -71,7 +65,6 @@ function expandTranslations(translations, variations) {
       }
       const baseCode = variant.split('-')[0];
       const baseTranslation = translations.find(t => t.language === baseCode);
-      
       if (baseTranslation) {
         const variantTranslation = {
           ...baseTranslation,
@@ -85,33 +78,25 @@ function expandTranslations(translations, variations) {
       }
     }
   }
-  
   return expandedTranslations;
 }
 
 /**
- * Procesa todos los archivos de un directorio
+ * Processes all files in a directory
  */
 async function processDirectory(dirPath, variations) {
-  console.log(`\n📂 Procesando directorio: ${dirPath}`);
-  
+  console.log(`\n📂 Processing directory: ${dirPath}`);
   const files = await loadJSONFiles(dirPath);
-  console.log(`✅ Encontrados ${files.length} archivos JSON`);
-  
+  console.log(`✅ Found ${files.length} JSON files`);
   const results = [];
-  
   for (const file of files) {
-    console.log(`\n🔄 Procesando: ${file.filename}`);
-    console.log(`   Traducciones originales: ${file.data.length}`);
-    
+    console.log(`\n🔄 Processing: ${file.filename}`);
+    console.log(`   Original translations: ${file.data.length}`);
     const expanded = expandTranslations(file.data, variations);
-    console.log(`   Traducciones expandidas: ${expanded.length}`);
-    console.log(`   Nuevas variaciones: ${expanded.length - file.data.length}`);
-    
-    // Sobrescribir archivo original
+    console.log(`   Expanded translations: ${expanded.length}`);
+    console.log(`   New variations: ${expanded.length - file.data.length}`);
     await saveJSON(file.path, expanded);
-    console.log(`   ✅ Archivo actualizado: ${file.path}`);
-    
+    console.log(`   ✅ File updated: ${file.path}`);
     results.push({
       filename: file.filename,
       original: file.data.length,
@@ -119,59 +104,45 @@ async function processDirectory(dirPath, variations) {
       added: expanded.length - file.data.length
     });
   }
-  
   return results;
 }
 
 /**
- * Función principal
+ * Main function
  */
 async function main() {
   try {
-    console.log('🚀 Iniciando procesamiento de traducciones...\n');
-    
-    // Cargar variaciones
+    console.log('🚀 Starting translation processing...\n');
     const variationsPath = './variations.json';
     const variationsContent = await fs.readFile(variationsPath, 'utf-8');
     const variations = JSON.parse(variationsContent);
-    console.log('✅ Variaciones cargadas correctamente');
-    
-    // Procesar subjects (sobrescribe originales)
+    console.log('✅ Variations loaded successfully');
     const subjectsResults = await processDirectory('./subjects', variations);
-    
-    // Procesar templates (sobrescribe originales)
     const templatesResults = await processDirectory('./templates', variations);
-    
-    // Resumen final
     console.log('\n' + '='.repeat(60));
-    console.log('📊 RESUMEN FINAL');
+    console.log('📊 FINAL SUMMARY');
     console.log('='.repeat(60));
-    
     console.log('\n📁 SUBJECTS:');
     subjectsResults.forEach(r => {
       console.log(`   ${r.filename}: ${r.original} → ${r.expanded} (+${r.added})`);
     });
-    
     console.log('\n📁 TEMPLATES:');
     templatesResults.forEach(r => {
       console.log(`   ${r.filename}: ${r.original} → ${r.expanded} (+${r.added})`);
     });
-    
     const totalAdded = [...subjectsResults, ...templatesResults]
       .reduce((sum, r) => sum + r.added, 0);
-    
     console.log('\n' + '='.repeat(60));
-    console.log(`✨ Total de variaciones agregadas: ${totalAdded}`);
-    console.log(`📝 Archivos sobrescritos con éxito`);
+    console.log(`✨ Total variations added: ${totalAdded}`);
+    console.log(`📝 Files successfully overwritten`);
     console.log('='.repeat(60));
-    
   } catch (error) {
-    console.error('\n❌ Error fatal:', error.message);
-    console.error('\n💡 Sugerencias:');
-    console.error('   1. Revisa el archivo indicado arriba');
-    console.error('   2. Busca comas faltantes o sobrantes');
-    console.error('   3. Verifica que todos los strings tengan comillas cerradas');
-    console.error('   4. Usa un validador JSON online: https://jsonlint.com/');
+    console.error('\n❌ Fatal error:', error.message);
+    console.error('\n💡 Suggestions:');
+    console.error('   1. Check the file indicated above');
+    console.error('   2. Look for missing or extra commas');
+    console.error('   3. Make sure all strings have closing quotes');
+    console.error('   4. Use an online JSON validator: https://jsonlint.com/');
     process.exit(1);
   }
 }

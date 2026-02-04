@@ -4,6 +4,7 @@
   "description": "Automatically expand translation variations for Klaviyo email campaigns using BCP-47 language codes",
   "scripts": {
     "expand": "node ./src/translate.js",
-    "validate": "node ./src/validate.js"
+    "validate": "node ./src/validate.js",
+    "expand-and-validate": "npm run expand && npm run validate"
   }
 }
