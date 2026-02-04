@@ -17,7 +17,7 @@
     "register": "REGISTER",
     "login": "LOGIN",
     "unsubscibe": "Unsubscribe",
-    "privacy_policy": "PRIVACY POLICY"
+    "privacy_policy": "PRIVACY POLICY",
     "this_week_only!": "THIS WEEK ONLY!"
   },
   {
@@ -38,7 +38,7 @@
     "register": "QEYDİYYAT",
     "login": "SİSTEMƏ DAXİL OLMA",
     "unsubscibe": "Abunəlikdən imtina edin",
-    "privacy_policy": "MƏXFİLİK SİYASƏTİ"
+    "privacy_policy": "MƏXFİLİK SİYASƏTİ",
     "this_week_only!": "YALNIZ BU HƏFTƏ!"
   },
   {
@@ -59,7 +59,7 @@
     "register": "РЕГИСТРАЦИЯ",
     "login": "ВХОД",
     "unsubscibe": "Отписване",
-    "privacy_policy": "ПОЛИТИКА ЗА ПОВЕРИТЕЛНОСТ"
+    "privacy_policy": "ПОЛИТИКА ЗА ПОВЕРИТЕЛНОСТ",
     "this_week_only!": "САМО ТАЗИ СЕДМИЦА!"
   },
   {
@@ -80,7 +80,7 @@
     "register": "REGISTRER",
     "login": "LOG PÅ",
     "unsubscibe": "Afmeld",
-    "privacy_policy": "FORTROLIGHEDSPOLITIK"
+    "privacy_policy": "FORTROLIGHEDSPOLITIK",
     "this_week_only!": "KUN I DENNE UGE!"
   },
   {
@@ -101,7 +101,7 @@
     "register": "REGISTRIEREN",
     "login": "ANMELDEN",
     "unsubscibe": "Abmelden",
-    "privacy_policy": "DATENSCHUTZERKLÄRUNG"
+    "privacy_policy": "DATENSCHUTZERKLÄRUNG",
     "this_week_only!": "NUR DIESE WOCHE!"
   },
   {
@@ -122,7 +122,7 @@
     "register": "ΕΓΓΡΑΦΗ",
     "login": "ΣΥΝΔΕΣΗ",
     "unsubscibe": "Κατάργηση εγγραφής",
-    "privacy_policy": "ΠΟΛΙΤΙΚΗ ΑΠΟΡΡΗΤΟΥ"
+    "privacy_policy": "ΠΟΛΙΤΙΚΗ ΑΠΟΡΡΗΤΟΥ",
     "this_week_only!": "ΜΟΝΟ ΓΙΑ ΑΥΤΗ ΤΗΝ ΕΒΔΟΜΑΔΑ!"
   },
   {
@@ -143,7 +143,7 @@
     "register": "REKISTERÖIDY",
     "login": "KIRJAUDU SISÄÄN",
     "unsubscibe": "Lopeta tilaus",
-    "privacy_policy": "TIETOSUOJAKÄYTÄNTÖ"
+    "privacy_policy": "TIETOSUOJAKÄYTÄNTÖ",
     "this_week_only!": "VAIN TÄMÄN VIIKON!"
   },
   {
@@ -164,7 +164,7 @@
     "register": "S'ENREGISTRER",
     "login": "CONNEXION",
     "unsubscibe": "Se désinscrire",
-    "privacy_policy": "POLITIQUE DE CONFIDENTIALITÉ"
+    "privacy_policy": "POLITIQUE DE CONFIDENTIALITÉ",
     "this_week_only!": "CETTE SEMAINE SEULEMENT!"
   },
   {
@@ -185,7 +185,7 @@
     "register": "REGISTRIRAJTE SE",
     "login": "PRIJAVA",
     "unsubscibe": "Odjavi",
-    "privacy_policy": "POLITIKA PRIVATNOSTI"
+    "privacy_policy": "POLITIKA PRIVATNOSTI",
     "this_week_only!": "SAMO OVAJ TJEDAN!"
   },
   {
@@ -206,7 +206,7 @@
     "register": "REGISZTRÁCIÓ",
     "login": "BEJELENTKEZÉS",
     "unsubscibe": "Leiratkozás",
-    "privacy_policy": "ADATVÉDELMI SZABÁLYZAT"
+    "privacy_policy": "ADATVÉDELMI SZABÁLYZAT",
     "this_week_only!": "CSAK EZEN A HÉTEN!"
   },
   {
@@ -227,7 +227,7 @@
     "register": "DAFTAR",
     "login": "MASUK",
     "unsubscibe": "Berhenti Berlangganan",
-    "privacy_policy": "KEBIJAKAN PRIVASI"
+    "privacy_policy": "KEBIJAKAN PRIVASI",
     "this_week_only!": "HANYA BERLAKU MINGGU INI"
   },
   {
@@ -248,7 +248,7 @@
     "register": "REGISTRATI",
     "login": "ACCEDI",
     "unsubscibe": "Annulla iscrizione",
-    "privacy_policy": "INFORMATIVA SULLA PRIVACY"
+    "privacy_policy": "INFORMATIVA SULLA PRIVACY",
     "this_week_only!": "SOLO PER QUESTA SETTIMANA!"
   },
   {
@@ -269,7 +269,7 @@
     "register": "登録",
     "login": "ログイン",
     "unsubscibe": "配信停止",
-    "privacy_policy": "プライバシーポリシー"
+    "privacy_policy": "プライバシーポリシー",
     "this_week_only!": "今週限り！"
   },
   {
@@ -290,7 +290,7 @@
     "register": "등록",
     "login": "로그인",
     "unsubscibe": "구독 취소",
-    "privacy_policy": "개인정보취급방침"
+    "privacy_policy": "개인정보취급방침",
     "this_week_only!": "이번주 한정!"
   },
   {
@@ -311,7 +311,7 @@
     "register": "DAFTAR",
     "login": "LOG MASUK",
     "unsubscibe": "Nyahlanggan",
-    "privacy_policy": "DASAR PRIVASI"
+    "privacy_policy": "DASAR PRIVASI",
     "this_week_only!": "MINGGU INI SAHAJA!"
   },
   {
@@ -332,7 +332,7 @@
     "register": "REGISTREREN",
     "login": "AANMELDEN",
     "unsubscibe": "Afmelden",
-    "privacy_policy": "PRIVACYBELEID"
+    "privacy_policy": "PRIVACYBELEID",
     "this_week_only!": "ALLEEN DEZE WEEK!"
   },
   {
@@ -353,7 +353,7 @@
     "register": "REGISTRER DEG",
     "login": "LOGG PÅ",
     "unsubscibe": "Avslutt abonnement",
-    "privacy_policy": "PERSONVERNREGLER"
+    "privacy_policy": "PERSONVERNREGLER",
     "this_week_only!": "KUN DENNE UKEN!"
   },
   {
@@ -374,7 +374,7 @@
     "register": "ZAREJESTRUJ SIĘ",
     "login": "ZALOGUJ SIĘ",
     "unsubscibe": "Zrezygnuj z subskrypcji",
-    "privacy_policy": "POLITYKA PRYWATNOŚCI"
+    "privacy_policy": "POLITYKA PRYWATNOŚCI",
     "this_week_only!": "TYLKO W TYM TYGODNIU!"
   },
   {
@@ -395,7 +395,7 @@
     "register": "REGISTE-SE",
     "login": "INICIAR SESSÃO",
     "unsubscibe": "Cancelar subscrição",
-    "privacy_policy": "POLÍTICA DE PRIVACIDADE"
+    "privacy_policy": "POLÍTICA DE PRIVACIDADE",
     "this_week_only!": "SOMENTE ESTA SEMANA!"
   },
   {
@@ -416,7 +416,7 @@
     "register": "ÎNREGISTRARE",
     "login": "CONECTARE",
     "unsubscibe": "Dezabonare",
-    "privacy_policy": "POLITICA DE CONFIDENŢIALITATE"
+    "privacy_policy": "POLITICA DE CONFIDENŢIALITATE",
     "this_week_only!": "DOAR SĂPTĂMÂNA ACEASTA!"
   },
   {
@@ -437,7 +437,7 @@
     "register": "РЕГИСТРАЦИЯ",
     "login": "ЛОГИН",
     "unsubscibe": "Отписаться",
-    "privacy_policy": "ПОЛИТИКА КОНФИДЕЦИАЛЬНОСТИ"
+    "privacy_policy": "ПОЛИТИКА КОНФИДЕЦИАЛЬНОСТИ",
     "this_week_only!": "ТОЛЬКО НА ЭТОЙ НЕДЕЛЕ!"
   },
   {
@@ -458,7 +458,7 @@
     "register": "REGISTROVAŤ",
     "login": "PRIHLÁSIŤ",
     "unsubscibe": "Odhlásiť sa z odberu",
-    "privacy_policy": "ZÁSADY OCHRANY OSOBNÝCH ÚDAJOV"
+    "privacy_policy": "ZÁSADY OCHRANY OSOBNÝCH ÚDAJOV",
     "this_week_only!": "IBA TENTO TÝŽDEŇ!"
   },
   {
@@ -479,7 +479,7 @@
     "register": "REGISTRIRAJTE SE",
     "login": "VPIS",
     "unsubscibe": "Odjava",
-    "privacy_policy": "POLITIKA ZASEBNOSTI"
+    "privacy_policy": "POLITIKA ZASEBNOSTI",
     "this_week_only!": "SAMO TA TEDEN!"
   },
   {
@@ -500,7 +500,7 @@
     "register": "REGISTRARSE",
     "login": "INICIAR SESIÓN",
     "unsubscibe": "Cancelar suscripción",
-    "privacy_policy": "POLÍTICA DE PRIVACIDAD"
+    "privacy_policy": "POLÍTICA DE PRIVACIDAD",
     "this_week_only!": "¡SOLO ESTA SEMANA!"
   },
   {
@@ -521,7 +521,7 @@
     "register": "REGISTRERA",
     "login": "LOGGA IN",
     "unsubscibe": "Avprenumerera",
-    "privacy_policy": "SEKRETESSPOLICY"
+    "privacy_policy": "SEKRETESSPOLICY",
     "this_week_only!": "ENDAST DENNA VECKA!"
   },
   {
@@ -542,7 +542,7 @@
     "register": "ลงทะเบียน",
     "login": "ล็อกอิน",
     "unsubscibe": "ยกเลิกการเป็นสมาชิก",
-    "privacy_policy": "นโยบายความเป็นส่วนตัว"
+    "privacy_policy": "นโยบายความเป็นส่วนตัว",
     "this_week_only!": "เฉพาะสัปดาห์นี้!"
   },
   {
@@ -563,7 +563,7 @@
     "register": "KAYIT",
     "login": "GİRİŞ",
     "unsubscibe": "Abonelikten çık",
-    "privacy_policy": "GİZLİLİK POLİTİKASI"
+    "privacy_policy": "GİZLİLİK POLİTİKASI",
     "this_week_only!": "SADECE BU HAFTA!"
   },
   {
@@ -584,7 +584,7 @@
     "register": "ĐĂNG KÝ",
     "login": "ĐĂNG NHẬP",
     "unsubscibe": "Hủy đăng ký",
-    "privacy_policy": "CHÍNH SÁCH BẢO MẬT"
+    "privacy_policy": "CHÍNH SÁCH BẢO MẬT",
     "this_week_only!": "CHỈ TRONG TUẦN NÀY!"
   },
   {
@@ -605,7 +605,7 @@
     "register": "註冊",
     "login": "登錄",
     "unsubscibe": "取消訂閱",
-    "privacy_policy": "隱私政策"
+    "privacy_policy": "隱私政策",
     "this_week_only!": "僅限本週！"
   }
 ]
