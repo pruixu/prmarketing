@@ -2,7 +2,8 @@
   {
     "language_name": "English",
     "language": "en",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -11,7 +12,8 @@
   {
     "language_name": "Azerbaijani",
     "language": "az",
-    "title": "Yalnız Məhdud Zaman!",
+    "LTO_title": "Yalnız Məhdud Zaman!",
+    "LC_title": "Son Şans!",
     "discount_percentage": "50%",
     "discount_text": "ENDİRİM",
     "subtitle": "seçilmiş məhsullarda",
@@ -20,7 +22,8 @@
   {
     "language_name": "Bulgarian",
     "language": "bg",
-    "title": "Само за ограничено време!",
+    "LTO_title": "Само за ограничено време!",
+    "LC_title": "Последен шанс!",
     "discount_percentage": "50%",
     "discount_text": "ОТСТЪПКА",
     "subtitle": "на избрани артикули",
@@ -29,7 +32,8 @@
   {
     "language_name": "Danish",
     "language": "da",
-    "title": "Kun i begrænset tid!",
+    "LTO_title": "Kun i begrænset tid!",
+    "LC_title": "Sidste chance!",
     "discount_percentage": "50%",
     "discount_text": "RABAT",
     "subtitle": "på udvalgte varer",
@@ -38,7 +42,8 @@
   {
     "language_name": "German",
     "language": "de",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -47,7 +52,8 @@
   {
     "language_name": "Greek",
     "language": "el",
-    "title": "Μόνο για περιορισμένο χρόνο!",
+    "LTO_title": "Μόνο για περιορισμένο χρόνο!",
+    "LC_title": "Τελευταία ευκαιρία!",
     "discount_percentage": "50%",
     "discount_text": "ΕΚΠΤΩΣΗ",
     "subtitle": "σε επιλεγμένα είδη",
@@ -56,7 +62,8 @@
   {
     "language_name": "Finnish",
     "language": "fi",
-    "title": "Vain rajoitetun ajan!",
+    "LTO_title": "Vain rajoitetun ajan!",
+    "LC_title": "Viimeinen mahdollisuus!",
     "discount_percentage": "50%",
     "discount_text": "ALE",
     "subtitle": "valituista tuotteista",
@@ -65,7 +72,8 @@
   {
     "language_name": "French",
     "language": "fr",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -74,7 +82,8 @@
   {
     "language_name": "Croatian",
     "language": "hr",
-    "title": "Samo ograničeno vrijeme!",
+    "LTO_title": "Samo ograničeno vrijeme!",
+    "LC_title": "Zadnja šansa!",
     "discount_percentage": "50%",
     "discount_text": "POPUSTA",
     "subtitle": "na odabrane artikle",
@@ -83,7 +92,8 @@
   {
     "language_name": "Hungarian",
     "language": "hu",
-    "title": "Csak korlátozott ideig!",
+    "LTO_title": "Csak korlátozott ideig!",
+    "LC_title": "Utolsó esély!",
     "discount_percentage": "50%",
     "discount_text": "KEDVEZMÉNY",
     "subtitle": "kiválasztott termékekre",
@@ -92,7 +102,8 @@
   {
     "language_name": "Indonesian",
     "language": "id",
-    "title": "Hanya untuk waktu terbatas!",
+    "LTO_title": "Hanya untuk waktu terbatas!",
+    "LC_title": "Kesempatan terakhir!",
     "discount_percentage": "50%",
     "discount_text": "DISKON",
     "subtitle": "untuk barang pilihan",
@@ -101,7 +112,8 @@
   {
     "language_name": "Italian",
     "language": "it",
-    "title": "Solo per un tempo limitato!",
+    "LTO_title": "Solo per un tempo limitato!",
+    "LC_title": "Ultima occasione!",
     "discount_percentage": "50%",
     "discount_text": "DI SCONTO",
     "subtitle": "su articoli selezionati",
@@ -110,7 +122,8 @@
   {
     "language_name": "Japanese",
     "language": "ja",
-    "title": "期間限定！",
+    "LTO_title": "期間限定！",
+    "LC_title": "最後のチャンス！",
     "discount_percentage": "50%",
     "discount_text": "オフ",
     "subtitle": "対象商品",
@@ -119,7 +132,8 @@
   {
     "language_name": "Korean",
     "language": "ko",
-    "title": "한정 기간만!",
+    "LTO_title": "한정 기간만!",
+    "LC_title": "마지막 기회!",
     "discount_percentage": "50%",
     "discount_text": "할인",
     "subtitle": "일부 품목 한정",
@@ -128,7 +142,8 @@
   {
     "language_name": "Malay",
     "language": "ms",
-    "title": "Hanya untuk masa terhad!",
+    "LTO_title": "Hanya untuk masa terhad!",
+    "LC_title": "Peluang terakhir!",
     "discount_percentage": "50%",
     "discount_text": "DISKAUN",
     "subtitle": "untuk barangan terpilih",
@@ -137,7 +152,8 @@
   {
     "language_name": "Dutch",
     "language": "nl",
-    "title": "Alleen voor beperkte tijd!",
+    "LTO_title": "Alleen voor beperkte tijd!",
+    "LC_title": "Laatste kans!",
     "discount_percentage": "50%",
     "discount_text": "KORTING",
     "subtitle": "op geselecteerde artikelen",
@@ -146,7 +162,8 @@
   {
     "language_name": "Norwegian",
     "language": "no",
-    "title": "Kun i en begrenset periode!",
+    "LTO_title": "Kun i en begrenset periode!",
+    "LC_title": "Siste sjanse!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "på utvalgte varer",
@@ -155,7 +172,8 @@
   {
     "language_name": "Polish",
     "language": "pl",
-    "title": "Tylko przez ograniczony czas!",
+    "LTO_title": "Tylko przez ograniczony czas!",
+    "LC_title": "Ostatnia szansa!",
     "discount_percentage": "50%",
     "discount_text": "RABATU",
     "subtitle": "na wybrane produkty",
@@ -164,7 +182,8 @@
   {
     "language_name": "Portuguese",
     "language": "pt",
-    "title": "Só por tempo limitado!",
+    "LTO_title": "Só por tempo limitado!",
+    "LC_title": "Última chance!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCONTO",
     "subtitle": "em itens selecionados",
@@ -173,7 +192,8 @@
   {
     "language_name": "Romanian",
     "language": "ro",
-    "title": "Doar pentru o perioadă limitată!",
+    "LTO_title": "Doar pentru o perioadă limitată!",
+    "LC_title": "Ultima șansă!",
     "discount_percentage": "50%",
     "discount_text": "REDUCERE",
     "subtitle": "la articole selectate",
@@ -182,7 +202,8 @@
   {
     "language_name": "Russian",
     "language": "ru",
-    "title": "Только ограниченное время!",
+    "LTO_title": "Только ограниченное время!",
+    "LC_title": "Последний шанс!",
     "discount_percentage": "50%",
     "discount_text": "СКИДКА",
     "subtitle": "на выбранные товары",
@@ -191,7 +212,8 @@
   {
     "language_name": "Slovak",
     "language": "sk",
-    "title": "Len na obmedzený čas!",
+    "LTO_title": "Len na obmedzený čas!",
+    "LC_title": "Posledná šanca!",
     "discount_percentage": "50%",
     "discount_text": "ZĽAVA",
     "subtitle": "na vybrané položky",
@@ -200,7 +222,8 @@
   {
     "language_name": "Slovenian",
     "language": "sl",
-    "title": "Samo za omejen čas!",
+    "LTO_title": "Samo za omejen čas!",
+    "LC_title": "Zadnja priložnost!",
     "discount_percentage": "50%",
     "discount_text": "POPUST",
     "subtitle": "na izbrane artikle",
@@ -209,7 +232,8 @@
   {
     "language_name": "Spanish",
     "language": "es",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -218,7 +242,8 @@
   {
     "language_name": "Swedish",
     "language": "sv",
-    "title": "Endast under begränsad tid!",
+    "LTO_title": "Endast under begränsad tid!",
+    "LC_title": "Sista chansen!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "på utvalda varor",
@@ -227,7 +252,8 @@
   {
     "language_name": "Thai",
     "language": "th",
-    "title": "เฉพาะเวลาจำกัด!",
+    "LTO_title": "เฉพาะเวลาจำกัด!",
+    "LC_title": "โอกาสสุดท้าย!",
     "discount_percentage": "50%",
     "discount_text": "ส่วนลด",
     "subtitle": "สำหรับสินค้าที่เลือก",
@@ -236,7 +262,8 @@
   {
     "language_name": "Turkish",
     "language": "tr",
-    "title": "Sadece Sınırlı Bir Süre!",
+    "LTO_title": "Sadece Sınırlı Bir Süre!",
+    "LC_title": "%20 İndirim için son şans!",
     "discount_percentage": "50%",
     "discount_text": "İNDİRİM",
     "subtitle": "seçili ürünlerde",
@@ -245,7 +272,8 @@
   {
     "language_name": "Vietnamese",
     "language": "vi",
-    "title": "Chỉ trong thời gian giới hạn!",
+    "LTO_title": "Chỉ trong thời gian giới hạn!",
+    "LC_title": "Cơ hội cuối cùng!",
     "discount_percentage": "50%",
     "discount_text": "GIẢM GIÁ",
     "subtitle": "cho các mặt hàng được chọn",
@@ -254,7 +282,8 @@
   {
     "language_name": "Chinese",
     "language": "zh",
-    "title": "限时优惠！",
+    "LTO_title": "限时优惠！",
+    "LC_title": "最后机会！",
     "discount_percentage": "50%",
     "discount_text": "折扣",
     "subtitle": "精选商品",
@@ -263,7 +292,8 @@
   {
     "language_name": "English (en-AZ)",
     "language": "en-AZ",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -272,7 +302,8 @@
   {
     "language_name": "English (en-TN)",
     "language": "en-TN",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -281,7 +312,8 @@
   {
     "language_name": "English (en-CL)",
     "language": "en-CL",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -290,7 +322,8 @@
   {
     "language_name": "English (en-MY)",
     "language": "en-MY",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -299,7 +332,8 @@
   {
     "language_name": "English (en-FO)",
     "language": "en-FO",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -308,7 +342,8 @@
   {
     "language_name": "English (en-BN)",
     "language": "en-BN",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -317,7 +352,8 @@
   {
     "language_name": "English (en-NG)",
     "language": "en-NG",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -326,7 +362,8 @@
   {
     "language_name": "English (en-LB)",
     "language": "en-LB",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -335,7 +372,8 @@
   {
     "language_name": "English (en-BW)",
     "language": "en-BW",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -344,7 +382,8 @@
   {
     "language_name": "English (en-TW)",
     "language": "en-TW",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -353,7 +392,8 @@
   {
     "language_name": "English (en-BD)",
     "language": "en-BD",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -362,7 +402,8 @@
   {
     "language_name": "English (en-KW)",
     "language": "en-KW",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -371,7 +412,8 @@
   {
     "language_name": "English (en-GG)",
     "language": "en-GG",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -380,7 +422,8 @@
   {
     "language_name": "English (en-RS)",
     "language": "en-RS",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -389,7 +432,8 @@
   {
     "language_name": "English (en-GT)",
     "language": "en-GT",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -398,7 +442,8 @@
   {
     "language_name": "English (en-SE)",
     "language": "en-SE",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -407,7 +452,8 @@
   {
     "language_name": "English (en-LV)",
     "language": "en-LV",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -416,7 +462,8 @@
   {
     "language_name": "English (en-SV)",
     "language": "en-SV",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -425,7 +472,8 @@
   {
     "language_name": "English (en-EE)",
     "language": "en-EE",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -434,7 +482,8 @@
   {
     "language_name": "English (en-AW)",
     "language": "en-AW",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -443,7 +492,8 @@
   {
     "language_name": "English (en-MT)",
     "language": "en-MT",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -452,7 +502,8 @@
   {
     "language_name": "English (en-CR)",
     "language": "en-CR",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -461,7 +512,8 @@
   {
     "language_name": "English (en-PH)",
     "language": "en-PH",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -470,7 +522,8 @@
   {
     "language_name": "English (en-KZ)",
     "language": "en-KZ",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -479,7 +532,8 @@
   {
     "language_name": "English (en-TZ)",
     "language": "en-TZ",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -488,7 +542,8 @@
   {
     "language_name": "English (en-IL)",
     "language": "en-IL",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -497,7 +552,8 @@
   {
     "language_name": "English (en-HN)",
     "language": "en-HN",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -506,7 +562,8 @@
   {
     "language_name": "English (en-LK)",
     "language": "en-LK",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -515,7 +572,8 @@
   {
     "language_name": "English (en-SK)",
     "language": "en-SK",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -524,7 +582,8 @@
   {
     "language_name": "English (en-JO)",
     "language": "en-JO",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -533,7 +592,8 @@
   {
     "language_name": "English (en-DZ)",
     "language": "en-DZ",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -542,7 +602,8 @@
   {
     "language_name": "English (en-CO)",
     "language": "en-CO",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -551,7 +612,8 @@
   {
     "language_name": "English (en-PL)",
     "language": "en-PL",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -560,7 +622,8 @@
   {
     "language_name": "English (en-MC)",
     "language": "en-MC",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -569,7 +632,8 @@
   {
     "language_name": "English (en-PF)",
     "language": "en-PF",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -578,7 +642,8 @@
   {
     "language_name": "English (en-TT)",
     "language": "en-TT",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -587,7 +652,8 @@
   {
     "language_name": "English (en-KG)",
     "language": "en-KG",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -596,7 +662,8 @@
   {
     "language_name": "English (en-BG)",
     "language": "en-BG",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -605,7 +672,8 @@
   {
     "language_name": "English (en-SA)",
     "language": "en-SA",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -614,7 +682,8 @@
   {
     "language_name": "English (en-JE)",
     "language": "en-JE",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -623,7 +692,8 @@
   {
     "language_name": "English (en-VE)",
     "language": "en-VE",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -632,7 +702,8 @@
   {
     "language_name": "English (en-MD)",
     "language": "en-MD",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -641,7 +712,8 @@
   {
     "language_name": "English (en-GP)",
     "language": "en-GP",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -650,7 +722,8 @@
   {
     "language_name": "English (en-AT)",
     "language": "en-AT",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -659,7 +732,8 @@
   {
     "language_name": "English (en-FR)",
     "language": "en-FR",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -668,7 +742,8 @@
   {
     "language_name": "English (en-LU)",
     "language": "en-LU",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -677,7 +752,8 @@
   {
     "language_name": "English (en-NI)",
     "language": "en-NI",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -686,7 +762,8 @@
   {
     "language_name": "English (en-CH)",
     "language": "en-CH",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -695,7 +772,8 @@
   {
     "language_name": "English (en-GI)",
     "language": "en-GI",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -704,7 +782,8 @@
   {
     "language_name": "English (en-KY)",
     "language": "en-KY",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -713,7 +792,8 @@
   {
     "language_name": "English (en-AM)",
     "language": "en-AM",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -722,7 +802,8 @@
   {
     "language_name": "English (en-PK)",
     "language": "en-PK",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -731,7 +812,8 @@
   {
     "language_name": "English (en-IT)",
     "language": "en-IT",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -740,7 +822,8 @@
   {
     "language_name": "English (en-GR)",
     "language": "en-GR",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -749,7 +832,8 @@
   {
     "language_name": "English (en-MU)",
     "language": "en-MU",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -758,7 +842,8 @@
   {
     "language_name": "English (en-AE)",
     "language": "en-AE",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -767,7 +852,8 @@
   {
     "language_name": "English (en-INT)",
     "language": "en-INT",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -776,7 +862,8 @@
   {
     "language_name": "English (en-QA)",
     "language": "en-QA",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -785,7 +872,8 @@
   {
     "language_name": "English (en-NA)",
     "language": "en-NA",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -794,7 +882,8 @@
   {
     "language_name": "English (en-US)",
     "language": "en-US",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -803,7 +892,8 @@
   {
     "language_name": "English (en-FI)",
     "language": "en-FI",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -812,7 +902,8 @@
   {
     "language_name": "English (en-BH)",
     "language": "en-BH",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -821,7 +912,8 @@
   {
     "language_name": "English (en-CY)",
     "language": "en-CY",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -830,7 +922,8 @@
   {
     "language_name": "English (en-IM)",
     "language": "en-IM",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -839,7 +932,8 @@
   {
     "language_name": "English (en-TH)",
     "language": "en-TH",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -848,7 +942,8 @@
   {
     "language_name": "English (en-AO)",
     "language": "en-AO",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -857,7 +952,8 @@
   {
     "language_name": "English (en-KH)",
     "language": "en-KH",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -866,7 +962,8 @@
   {
     "language_name": "English (en-BO)",
     "language": "en-BO",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -875,7 +972,8 @@
   {
     "language_name": "English (en-LI)",
     "language": "en-LI",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -884,7 +982,8 @@
   {
     "language_name": "English (en-SI)",
     "language": "en-SI",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -893,7 +992,8 @@
   {
     "language_name": "English (en-JM)",
     "language": "en-JM",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -902,7 +1002,8 @@
   {
     "language_name": "English (en-NL)",
     "language": "en-NL",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -911,7 +1012,8 @@
   {
     "language_name": "English (en-DK)",
     "language": "en-DK",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -920,7 +1022,8 @@
   {
     "language_name": "English (en-MX)",
     "language": "en-MX",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -929,7 +1032,8 @@
   {
     "language_name": "English (en-GL)",
     "language": "en-GL",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -938,7 +1042,8 @@
   {
     "language_name": "English (en-MK)",
     "language": "en-MK",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -947,7 +1052,8 @@
   {
     "language_name": "English (en-MA)",
     "language": "en-MA",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -956,7 +1062,8 @@
   {
     "language_name": "English (en-CG)",
     "language": "en-CG",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -965,7 +1072,8 @@
   {
     "language_name": "English (en-IS)",
     "language": "en-IS",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -974,7 +1082,8 @@
   {
     "language_name": "English (en-EC)",
     "language": "en-EC",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -983,7 +1092,8 @@
   {
     "language_name": "English (en-KE)",
     "language": "en-KE",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -992,7 +1102,8 @@
   {
     "language_name": "English (en-BE)",
     "language": "en-BE",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1001,7 +1112,8 @@
   {
     "language_name": "English (en-UG)",
     "language": "en-UG",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1010,7 +1122,8 @@
   {
     "language_name": "English (en-JP)",
     "language": "en-JP",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1019,7 +1132,8 @@
   {
     "language_name": "English (en-DE)",
     "language": "en-DE",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1028,7 +1142,8 @@
   {
     "language_name": "English (en-BR)",
     "language": "en-BR",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1037,7 +1152,8 @@
   {
     "language_name": "English (en-HU)",
     "language": "en-HU",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1046,7 +1162,8 @@
   {
     "language_name": "English (en-BA)",
     "language": "en-BA",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1055,7 +1172,8 @@
   {
     "language_name": "English (en-SG)",
     "language": "en-SG",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1064,7 +1182,8 @@
   {
     "language_name": "English (en-LT)",
     "language": "en-LT",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1073,7 +1192,8 @@
   {
     "language_name": "English (en-EG)",
     "language": "en-EG",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1082,7 +1202,8 @@
   {
     "language_name": "English (en-TR)",
     "language": "en-TR",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1091,7 +1212,8 @@
   {
     "language_name": "English (en-KR)",
     "language": "en-KR",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1100,7 +1222,8 @@
   {
     "language_name": "English (en-ME)",
     "language": "en-ME",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1109,7 +1232,8 @@
   {
     "language_name": "English (en-MV)",
     "language": "en-MV",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1118,7 +1242,8 @@
   {
     "language_name": "English (en-ID)",
     "language": "en-ID",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1127,7 +1252,8 @@
   {
     "language_name": "English (en-PY)",
     "language": "en-PY",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1136,7 +1262,8 @@
   {
     "language_name": "English (en-AL)",
     "language": "en-AL",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1145,7 +1272,8 @@
   {
     "language_name": "English (en-RO)",
     "language": "en-RO",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1154,7 +1282,8 @@
   {
     "language_name": "English (en-GH)",
     "language": "en-GH",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1163,7 +1292,8 @@
   {
     "language_name": "English (en-CZ)",
     "language": "en-CZ",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1172,7 +1302,8 @@
   {
     "language_name": "English (en-VN)",
     "language": "en-VN",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1181,7 +1312,8 @@
   {
     "language_name": "English (en-DO)",
     "language": "en-DO",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1190,7 +1322,8 @@
   {
     "language_name": "English (en-FJ)",
     "language": "en-FJ",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1199,7 +1332,8 @@
   {
     "language_name": "English (en-OM)",
     "language": "en-OM",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1208,7 +1342,8 @@
   {
     "language_name": "English (en-CN)",
     "language": "en-CN",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1217,7 +1352,8 @@
   {
     "language_name": "English (en-NO)",
     "language": "en-NO",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1226,7 +1362,8 @@
   {
     "language_name": "English (en-HK)",
     "language": "en-HK",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1235,7 +1372,8 @@
   {
     "language_name": "English (en-HR)",
     "language": "en-HR",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1244,7 +1382,8 @@
   {
     "language_name": "English (en-AR)",
     "language": "en-AR",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1253,7 +1392,8 @@
   {
     "language_name": "English (en-PT)",
     "language": "en-PT",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1262,7 +1402,8 @@
   {
     "language_name": "English (en-ES)",
     "language": "en-ES",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1271,7 +1412,8 @@
   {
     "language_name": "English (en-GE)",
     "language": "en-GE",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1280,7 +1422,8 @@
   {
     "language_name": "English (en-MQ)",
     "language": "en-MQ",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1289,7 +1432,8 @@
   {
     "language_name": "English (en-GB)",
     "language": "en-GB",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1298,7 +1442,8 @@
   {
     "language_name": "English (en-AU)",
     "language": "en-AU",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1307,7 +1452,8 @@
   {
     "language_name": "English (en-CA)",
     "language": "en-CA",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1316,7 +1462,8 @@
   {
     "language_name": "English (en-IE)",
     "language": "en-IE",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1325,7 +1472,8 @@
   {
     "language_name": "English (en-NZ)",
     "language": "en-NZ",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1334,7 +1482,8 @@
   {
     "language_name": "English (en-ZA)",
     "language": "en-ZA",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1343,7 +1492,8 @@
   {
     "language_name": "English (en-IN)",
     "language": "en-IN",
-    "title": "Limited Time Only!",
+    "LTO_title": "Limited Time Only!",
+    "LC_title": "Last Chance!",
     "discount_percentage": "50%",
     "discount_text": "OFF",
     "subtitle": "on select items",
@@ -1352,7 +1502,8 @@
   {
     "language_name": "German (de-CO)",
     "language": "de-CO",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1361,7 +1512,8 @@
   {
     "language_name": "German (de-PL)",
     "language": "de-PL",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1370,7 +1522,8 @@
   {
     "language_name": "German (de-SK)",
     "language": "de-SK",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1379,7 +1532,8 @@
   {
     "language_name": "German (de-FR)",
     "language": "de-FR",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1388,7 +1542,8 @@
   {
     "language_name": "German (de-LU)",
     "language": "de-LU",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1397,7 +1552,8 @@
   {
     "language_name": "German (de-NZ)",
     "language": "de-NZ",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1406,7 +1562,8 @@
   {
     "language_name": "German (de-AD)",
     "language": "de-AD",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1415,7 +1572,8 @@
   {
     "language_name": "German (de-SE)",
     "language": "de-SE",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1424,7 +1582,8 @@
   {
     "language_name": "German (de-PH)",
     "language": "de-PH",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1433,7 +1592,8 @@
   {
     "language_name": "German (de-GB)",
     "language": "de-GB",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1442,7 +1602,8 @@
   {
     "language_name": "German (de-DE)",
     "language": "de-DE",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1451,7 +1612,8 @@
   {
     "language_name": "German (de-BA)",
     "language": "de-BA",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1460,7 +1622,8 @@
   {
     "language_name": "German (de-HU)",
     "language": "de-HU",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1469,7 +1632,8 @@
   {
     "language_name": "German (de-DO)",
     "language": "de-DO",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1478,7 +1642,8 @@
   {
     "language_name": "German (de-PY)",
     "language": "de-PY",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1487,7 +1652,8 @@
   {
     "language_name": "German (de-CZ)",
     "language": "de-CZ",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1496,7 +1662,8 @@
   {
     "language_name": "German (de-RO)",
     "language": "de-RO",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1505,7 +1672,8 @@
   {
     "language_name": "German (de-ES)",
     "language": "de-ES",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1514,7 +1682,8 @@
   {
     "language_name": "German (de-PT)",
     "language": "de-PT",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1523,7 +1692,8 @@
   {
     "language_name": "German (de-HR)",
     "language": "de-HR",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1532,7 +1702,8 @@
   {
     "language_name": "German (de-US)",
     "language": "de-US",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1541,7 +1712,8 @@
   {
     "language_name": "German (de-GR)",
     "language": "de-GR",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1550,7 +1722,8 @@
   {
     "language_name": "German (de-IT)",
     "language": "de-IT",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1559,7 +1732,8 @@
   {
     "language_name": "German (de-TH)",
     "language": "de-TH",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1568,7 +1742,8 @@
   {
     "language_name": "German (de-FI)",
     "language": "de-FI",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1577,7 +1752,8 @@
   {
     "language_name": "German (de-SI)",
     "language": "de-SI",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1586,7 +1762,8 @@
   {
     "language_name": "German (de-LI)",
     "language": "de-LI",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1595,7 +1772,8 @@
   {
     "language_name": "German (de-NL)",
     "language": "de-NL",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1604,7 +1782,8 @@
   {
     "language_name": "German (de-BE)",
     "language": "de-BE",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1613,7 +1792,8 @@
   {
     "language_name": "German (de-CH)",
     "language": "de-CH",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1622,7 +1802,8 @@
   {
     "language_name": "German (de-AT)",
     "language": "de-AT",
-    "title": "Nur für kurze Zeit!",
+    "LTO_title": "Nur für kurze Zeit!",
+    "LC_title": "Letzte Chance!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
@@ -1631,7 +1812,8 @@
   {
     "language_name": "Spanish (es-BE)",
     "language": "es-BE",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1640,7 +1822,8 @@
   {
     "language_name": "Spanish (es-MA)",
     "language": "es-MA",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1649,7 +1832,8 @@
   {
     "language_name": "Spanish (es-NL)",
     "language": "es-NL",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1658,7 +1842,8 @@
   {
     "language_name": "Spanish (es-DK)",
     "language": "es-DK",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1667,7 +1852,8 @@
   {
     "language_name": "Spanish (es-US)",
     "language": "es-US",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1676,7 +1862,8 @@
   {
     "language_name": "Spanish (es-IT)",
     "language": "es-IT",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1685,7 +1872,8 @@
   {
     "language_name": "Spanish (es-ES)",
     "language": "es-ES",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1694,7 +1882,8 @@
   {
     "language_name": "Spanish (es-PT)",
     "language": "es-PT",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1703,7 +1892,8 @@
   {
     "language_name": "Spanish (es-DO)",
     "language": "es-DO",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1712,7 +1902,8 @@
   {
     "language_name": "Spanish (es-RO)",
     "language": "es-RO",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1721,7 +1912,8 @@
   {
     "language_name": "Spanish (es-GB)",
     "language": "es-GB",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1730,7 +1922,8 @@
   {
     "language_name": "Spanish (es-DE)",
     "language": "es-DE",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1739,7 +1932,8 @@
   {
     "language_name": "Spanish (es-BR)",
     "language": "es-BR",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1748,7 +1942,8 @@
   {
     "language_name": "Spanish (es-HU)",
     "language": "es-HU",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1757,7 +1952,8 @@
   {
     "language_name": "Spanish (es-HN)",
     "language": "es-HN",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1766,7 +1962,8 @@
   {
     "language_name": "Spanish (es-IL)",
     "language": "es-IL",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1775,7 +1972,8 @@
   {
     "language_name": "Spanish (es-CR)",
     "language": "es-CR",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1784,7 +1982,8 @@
   {
     "language_name": "Spanish (es-CA)",
     "language": "es-CA",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1793,7 +1992,8 @@
   {
     "language_name": "Spanish (es-SV)",
     "language": "es-SV",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1802,7 +2002,8 @@
   {
     "language_name": "Spanish (es-GT)",
     "language": "es-GT",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1811,7 +2012,8 @@
   {
     "language_name": "Spanish (es-CH)",
     "language": "es-CH",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1820,7 +2022,8 @@
   {
     "language_name": "Spanish (es-FR)",
     "language": "es-FR",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1829,7 +2032,8 @@
   {
     "language_name": "Spanish (es-IE)",
     "language": "es-IE",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1838,7 +2042,8 @@
   {
     "language_name": "Spanish (es-AT)",
     "language": "es-AT",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1847,7 +2052,8 @@
   {
     "language_name": "Spanish (es-PL)",
     "language": "es-PL",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1856,7 +2062,8 @@
   {
     "language_name": "Spanish (es-CO)",
     "language": "es-CO",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1865,7 +2072,8 @@
   {
     "language_name": "Spanish (es-MX)",
     "language": "es-MX",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1874,7 +2082,8 @@
   {
     "language_name": "Spanish (es-AR)",
     "language": "es-AR",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1883,7 +2092,8 @@
   {
     "language_name": "Spanish (es-CL)",
     "language": "es-CL",
-    "title": "¡Solo por tiempo limitado!",
+    "LTO_title": "¡Solo por tiempo limitado!",
+    "LC_title": "¡Última oportunidad!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
@@ -1892,7 +2102,8 @@
   {
     "language_name": "Italian (it-CA)",
     "language": "it-CA",
-    "title": "Solo per un tempo limitato!",
+    "LTO_title": "Solo per un tempo limitato!",
+    "LC_title": "Ultima occasione!",
     "discount_percentage": "50%",
     "discount_text": "DI SCONTO",
     "subtitle": "su articoli selezionati",
@@ -1901,7 +2112,8 @@
   {
     "language_name": "Italian (it-IE)",
     "language": "it-IE",
-    "title": "Solo per un tempo limitato!",
+    "LTO_title": "Solo per un tempo limitato!",
+    "LC_title": "Ultima occasione!",
     "discount_percentage": "50%",
     "discount_text": "DI SCONTO",
     "subtitle": "su articoli selezionati",
@@ -1910,7 +2122,8 @@
   {
     "language_name": "Italian (it-FR)",
     "language": "it-FR",
-    "title": "Solo per un tempo limitato!",
+    "LTO_title": "Solo per un tempo limitato!",
+    "LC_title": "Ultima occasione!",
     "discount_percentage": "50%",
     "discount_text": "DI SCONTO",
     "subtitle": "su articoli selezionati",
@@ -1919,7 +2132,8 @@
   {
     "language_name": "Italian (it-BG)",
     "language": "it-BG",
-    "title": "Solo per un tempo limitato!",
+    "LTO_title": "Solo per un tempo limitato!",
+    "LC_title": "Ultima occasione!",
     "discount_percentage": "50%",
     "discount_text": "DI SCONTO",
     "subtitle": "su articoli selezionati",
@@ -1928,7 +2142,8 @@
   {
     "language_name": "Italian (it-CO)",
     "language": "it-CO",
-    "title": "Solo per un tempo limitato!",
+    "LTO_title": "Solo per un tempo limitato!",
+    "LC_title": "Ultima occasione!",
     "discount_percentage": "50%",
     "discount_text": "DI SCONTO",
     "subtitle": "su articoli selezionati",
@@ -1937,7 +2152,8 @@
   {
     "language_name": "Italian (it-NL)",
     "language": "it-NL",
-    "title": "Solo per un tempo limitato!",
+    "LTO_title": "Solo per un tempo limitato!",
+    "LC_title": "Ultima occasione!",
     "discount_percentage": "50%",
     "discount_text": "DI SCONTO",
     "subtitle": "su articoli selezionati",
@@ -1946,7 +2162,8 @@
   {
     "language_name": "Italian (it-SI)",
     "language": "it-SI",
-    "title": "Solo per un tempo limitato!",
+    "LTO_title": "Solo per un tempo limitato!",
+    "LC_title": "Ultima occasione!",
     "discount_percentage": "50%",
     "discount_text": "DI SCONTO",
     "subtitle": "su articoli selezionati",
@@ -1955,7 +2172,8 @@
   {
     "language_name": "Italian (it-TH)",
     "language": "it-TH",
-    "title": "Solo per un tempo limitato!",
+    "LTO_title": "Solo per un tempo limitato!",
+    "LC_title": "Ultima occasione!",
     "discount_percentage": "50%",
     "discount_text": "DI SCONTO",
     "subtitle": "su articoli selezionati",
@@ -1964,7 +2182,8 @@
   {
     "language_name": "Italian (it-AE)",
     "language": "it-AE",
-    "title": "Solo per un tempo limitato!",
+    "LTO_title": "Solo per un tempo limitato!",
+    "LC_title": "Ultima occasione!",
     "discount_percentage": "50%",
     "discount_text": "DI SCONTO",
     "subtitle": "su articoli selezionati",
@@ -1973,7 +2192,8 @@
   {
     "language_name": "Italian (it-IT)",
     "language": "it-IT",
-    "title": "Solo per un tempo limitato!",
+    "LTO_title": "Solo per un tempo limitato!",
+    "LC_title": "Ultima occasione!",
     "discount_percentage": "50%",
     "discount_text": "DI SCONTO",
     "subtitle": "su articoli selezionati",
@@ -1982,7 +2202,8 @@
   {
     "language_name": "Italian (it-GR)",
     "language": "it-GR",
-    "title": "Solo per un tempo limitato!",
+    "LTO_title": "Solo per un tempo limitato!",
+    "LC_title": "Ultima occasione!",
     "discount_percentage": "50%",
     "discount_text": "DI SCONTO",
     "subtitle": "su articoli selezionati",
@@ -1991,7 +2212,8 @@
   {
     "language_name": "Italian (it-US)",
     "language": "it-US",
-    "title": "Solo per un tempo limitato!",
+    "LTO_title": "Solo per un tempo limitato!",
+    "LC_title": "Ultima occasione!",
     "discount_percentage": "50%",
     "discount_text": "DI SCONTO",
     "subtitle": "su articoli selezionati",
@@ -2000,7 +2222,8 @@
   {
     "language_name": "Italian (it-HR)",
     "language": "it-HR",
-    "title": "Solo per un tempo limitato!",
+    "LTO_title": "Solo per un tempo limitato!",
+    "LC_title": "Ultima occasione!",
     "discount_percentage": "50%",
     "discount_text": "DI SCONTO",
     "subtitle": "su articoli selezionati",
@@ -2009,7 +2232,8 @@
   {
     "language_name": "Italian (it-RO)",
     "language": "it-RO",
-    "title": "Solo per un tempo limitato!",
+    "LTO_title": "Solo per un tempo limitato!",
+    "LC_title": "Ultima occasione!",
     "discount_percentage": "50%",
     "discount_text": "DI SCONTO",
     "subtitle": "su articoli selezionati",
@@ -2018,7 +2242,8 @@
   {
     "language_name": "Italian (it-HU)",
     "language": "it-HU",
-    "title": "Solo per un tempo limitato!",
+    "LTO_title": "Solo per un tempo limitato!",
+    "LC_title": "Ultima occasione!",
     "discount_percentage": "50%",
     "discount_text": "DI SCONTO",
     "subtitle": "su articoli selezionati",
@@ -2027,7 +2252,8 @@
   {
     "language_name": "Italian (it-BR)",
     "language": "it-BR",
-    "title": "Solo per un tempo limitato!",
+    "LTO_title": "Solo per un tempo limitato!",
+    "LC_title": "Ultima occasione!",
     "discount_percentage": "50%",
     "discount_text": "DI SCONTO",
     "subtitle": "su articoli selezionati",
@@ -2036,7 +2262,8 @@
   {
     "language_name": "Italian (it-GB)",
     "language": "it-GB",
-    "title": "Solo per un tempo limitato!",
+    "LTO_title": "Solo per un tempo limitato!",
+    "LC_title": "Ultima occasione!",
     "discount_percentage": "50%",
     "discount_text": "DI SCONTO",
     "subtitle": "su articoli selezionati",
@@ -2045,7 +2272,8 @@
   {
     "language_name": "Italian (it-CH)",
     "language": "it-CH",
-    "title": "Solo per un tempo limitato!",
+    "LTO_title": "Solo per un tempo limitato!",
+    "LC_title": "Ultima occasione!",
     "discount_percentage": "50%",
     "discount_text": "DI SCONTO",
     "subtitle": "su articoli selezionati",
@@ -2054,7 +2282,8 @@
   {
     "language_name": "Dutch (nl-IT)",
     "language": "nl-IT",
-    "title": "Alleen voor beperkte tijd!",
+    "LTO_title": "Alleen voor beperkte tijd!",
+    "LC_title": "Laatste kans!",
     "discount_percentage": "50%",
     "discount_text": "KORTING",
     "subtitle": "op geselecteerde artikelen",
@@ -2063,7 +2292,8 @@
   {
     "language_name": "Dutch (nl-TH)",
     "language": "nl-TH",
-    "title": "Alleen voor beperkte tijd!",
+    "LTO_title": "Alleen voor beperkte tijd!",
+    "LC_title": "Laatste kans!",
     "discount_percentage": "50%",
     "discount_text": "KORTING",
     "subtitle": "op geselecteerde artikelen",
@@ -2072,7 +2302,8 @@
   {
     "language_name": "Dutch (nl-DK)",
     "language": "nl-DK",
-    "title": "Alleen voor beperkte tijd!",
+    "LTO_title": "Alleen voor beperkte tijd!",
+    "LC_title": "Laatste kans!",
     "discount_percentage": "50%",
     "discount_text": "KORTING",
     "subtitle": "op geselecteerde artikelen",
@@ -2081,7 +2312,8 @@
   {
     "language_name": "Dutch (nl-NL)",
     "language": "nl-NL",
-    "title": "Alleen voor beperkte tijd!",
+    "LTO_title": "Alleen voor beperkte tijd!",
+    "LC_title": "Laatste kans!",
     "discount_percentage": "50%",
     "discount_text": "KORTING",
     "subtitle": "op geselecteerde artikelen",
@@ -2090,7 +2322,8 @@
   {
     "language_name": "Dutch (nl-GB)",
     "language": "nl-GB",
-    "title": "Alleen voor beperkte tijd!",
+    "LTO_title": "Alleen voor beperkte tijd!",
+    "LC_title": "Laatste kans!",
     "discount_percentage": "50%",
     "discount_text": "KORTING",
     "subtitle": "op geselecteerde artikelen",
@@ -2099,7 +2332,8 @@
   {
     "language_name": "Dutch (nl-PT)",
     "language": "nl-PT",
-    "title": "Alleen voor beperkte tijd!",
+    "LTO_title": "Alleen voor beperkte tijd!",
+    "LC_title": "Laatste kans!",
     "discount_percentage": "50%",
     "discount_text": "KORTING",
     "subtitle": "op geselecteerde artikelen",
@@ -2108,7 +2342,8 @@
   {
     "language_name": "Dutch (nl-ES)",
     "language": "nl-ES",
-    "title": "Alleen voor beperkte tijd!",
+    "LTO_title": "Alleen voor beperkte tijd!",
+    "LC_title": "Laatste kans!",
     "discount_percentage": "50%",
     "discount_text": "KORTING",
     "subtitle": "op geselecteerde artikelen",
@@ -2117,7 +2352,8 @@
   {
     "language_name": "Dutch (nl-PL)",
     "language": "nl-PL",
-    "title": "Alleen voor beperkte tijd!",
+    "LTO_title": "Alleen voor beperkte tijd!",
+    "LC_title": "Laatste kans!",
     "discount_percentage": "50%",
     "discount_text": "KORTING",
     "subtitle": "op geselecteerde artikelen",
@@ -2126,7 +2362,8 @@
   {
     "language_name": "Dutch (nl-FR)",
     "language": "nl-FR",
-    "title": "Alleen voor beperkte tijd!",
+    "LTO_title": "Alleen voor beperkte tijd!",
+    "LC_title": "Laatste kans!",
     "discount_percentage": "50%",
     "discount_text": "KORTING",
     "subtitle": "op geselecteerde artikelen",
@@ -2135,7 +2372,8 @@
   {
     "language_name": "Dutch (nl-BE)",
     "language": "nl-BE",
-    "title": "Alleen voor beperkte tijd!",
+    "LTO_title": "Alleen voor beperkte tijd!",
+    "LC_title": "Laatste kans!",
     "discount_percentage": "50%",
     "discount_text": "KORTING",
     "subtitle": "op geselecteerde artikelen",
@@ -2144,7 +2382,8 @@
   {
     "language_name": "French (fr-MC)",
     "language": "fr-MC",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2153,7 +2392,8 @@
   {
     "language_name": "French (fr-PF)",
     "language": "fr-PF",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2162,7 +2402,8 @@
   {
     "language_name": "French (fr-BG)",
     "language": "fr-BG",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2171,7 +2412,8 @@
   {
     "language_name": "French (fr-SK)",
     "language": "fr-SK",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2180,7 +2422,8 @@
   {
     "language_name": "French (fr-GP)",
     "language": "fr-GP",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2189,7 +2432,8 @@
   {
     "language_name": "French (fr-FR)",
     "language": "fr-FR",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2198,7 +2442,8 @@
   {
     "language_name": "French (fr-LU)",
     "language": "fr-LU",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2207,7 +2452,8 @@
   {
     "language_name": "French (fr-NC)",
     "language": "fr-NC",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2216,7 +2462,8 @@
   {
     "language_name": "French (fr-IL)",
     "language": "fr-IL",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2225,7 +2472,8 @@
   {
     "language_name": "French (fr-MG)",
     "language": "fr-MG",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2234,7 +2482,8 @@
   {
     "language_name": "French (fr-DE)",
     "language": "fr-DE",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2243,7 +2492,8 @@
   {
     "language_name": "French (fr-GB)",
     "language": "fr-GB",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2252,7 +2502,8 @@
   {
     "language_name": "French (fr-ES)",
     "language": "fr-ES",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2261,7 +2512,8 @@
   {
     "language_name": "French (fr-PT)",
     "language": "fr-PT",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2270,7 +2522,8 @@
   {
     "language_name": "French (fr-MQ)",
     "language": "fr-MQ",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2279,7 +2532,8 @@
   {
     "language_name": "French (fr-NO)",
     "language": "fr-NO",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2288,7 +2542,8 @@
   {
     "language_name": "French (fr-TH)",
     "language": "fr-TH",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2297,7 +2552,8 @@
   {
     "language_name": "French (fr-IT)",
     "language": "fr-IT",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2306,7 +2562,8 @@
   {
     "language_name": "French (fr-US)",
     "language": "fr-US",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2315,7 +2572,8 @@
   {
     "language_name": "French (fr-MA)",
     "language": "fr-MA",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2324,7 +2582,8 @@
   {
     "language_name": "French (fr-NL)",
     "language": "fr-NL",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2333,7 +2592,8 @@
   {
     "language_name": "French (fr-BE)",
     "language": "fr-BE",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2342,7 +2602,8 @@
   {
     "language_name": "French (fr-CA)",
     "language": "fr-CA",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2351,7 +2612,8 @@
   {
     "language_name": "French (fr-CH)",
     "language": "fr-CH",
-    "title": "Offre à durée limitée !",
+    "LTO_title": "Offre à durée limitée !",
+    "LC_title": "Dernière opportunité!",
     "discount_percentage": "50%",
     "discount_text": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
@@ -2360,7 +2622,8 @@
   {
     "language_name": "Hungarian (hu-SK)",
     "language": "hu-SK",
-    "title": "Csak korlátozott ideig!",
+    "LTO_title": "Csak korlátozott ideig!",
+    "LC_title": "Utolsó esély!",
     "discount_percentage": "50%",
     "discount_text": "KEDVEZMÉNY",
     "subtitle": "kiválasztott termékekre",
@@ -2369,7 +2632,8 @@
   {
     "language_name": "Hungarian (hu-LK)",
     "language": "hu-LK",
-    "title": "Csak korlátozott ideig!",
+    "LTO_title": "Csak korlátozott ideig!",
+    "LC_title": "Utolsó esély!",
     "discount_percentage": "50%",
     "discount_text": "KEDVEZMÉNY",
     "subtitle": "kiválasztott termékekre",
@@ -2378,7 +2642,8 @@
   {
     "language_name": "Hungarian (hu-AT)",
     "language": "hu-AT",
-    "title": "Csak korlátozott ideig!",
+    "LTO_title": "Csak korlátozott ideig!",
+    "LC_title": "Utolsó esély!",
     "discount_percentage": "50%",
     "discount_text": "KEDVEZMÉNY",
     "subtitle": "kiválasztott termékekre",
@@ -2387,7 +2652,8 @@
   {
     "language_name": "Hungarian (hu-CH)",
     "language": "hu-CH",
-    "title": "Csak korlátozott ideig!",
+    "LTO_title": "Csak korlátozott ideig!",
+    "LC_title": "Utolsó esély!",
     "discount_percentage": "50%",
     "discount_text": "KEDVEZMÉNY",
     "subtitle": "kiválasztott termékekre",
@@ -2396,7 +2662,8 @@
   {
     "language_name": "Hungarian (hu-HU)",
     "language": "hu-HU",
-    "title": "Csak korlátozott ideig!",
+    "LTO_title": "Csak korlátozott ideig!",
+    "LC_title": "Utolsó esély!",
     "discount_percentage": "50%",
     "discount_text": "KEDVEZMÉNY",
     "subtitle": "kiválasztott termékekre",
@@ -2405,7 +2672,8 @@
   {
     "language_name": "Hungarian (hu-DE)",
     "language": "hu-DE",
-    "title": "Csak korlátozott ideig!",
+    "LTO_title": "Csak korlátozott ideig!",
+    "LC_title": "Utolsó esély!",
     "discount_percentage": "50%",
     "discount_text": "KEDVEZMÉNY",
     "subtitle": "kiválasztott termékekre",
@@ -2414,7 +2682,8 @@
   {
     "language_name": "Hungarian (hu-RO)",
     "language": "hu-RO",
-    "title": "Csak korlátozott ideig!",
+    "LTO_title": "Csak korlátozott ideig!",
+    "LC_title": "Utolsó esély!",
     "discount_percentage": "50%",
     "discount_text": "KEDVEZMÉNY",
     "subtitle": "kiválasztott termékekre",
@@ -2423,7 +2692,8 @@
   {
     "language_name": "Hungarian (hu-NO)",
     "language": "hu-NO",
-    "title": "Csak korlátozott ideig!",
+    "LTO_title": "Csak korlátozott ideig!",
+    "LC_title": "Utolsó esély!",
     "discount_percentage": "50%",
     "discount_text": "KEDVEZMÉNY",
     "subtitle": "kiválasztott termékekre",
@@ -2432,7 +2702,8 @@
   {
     "language_name": "Hungarian (hu-ES)",
     "language": "hu-ES",
-    "title": "Csak korlátozott ideig!",
+    "LTO_title": "Csak korlátozott ideig!",
+    "LC_title": "Utolsó esély!",
     "discount_percentage": "50%",
     "discount_text": "KEDVEZMÉNY",
     "subtitle": "kiválasztott termékekre",
@@ -2441,7 +2712,8 @@
   {
     "language_name": "Hungarian (hu-IT)",
     "language": "hu-IT",
-    "title": "Csak korlátozott ideig!",
+    "LTO_title": "Csak korlátozott ideig!",
+    "LC_title": "Utolsó esély!",
     "discount_percentage": "50%",
     "discount_text": "KEDVEZMÉNY",
     "subtitle": "kiválasztott termékekre",
@@ -2450,7 +2722,8 @@
   {
     "language_name": "Swedish (sv-FI)",
     "language": "sv-FI",
-    "title": "Endast under begränsad tid!",
+    "LTO_title": "Endast under begränsad tid!",
+    "LC_title": "Sista chansen!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "på utvalda varor",
@@ -2459,7 +2732,8 @@
   {
     "language_name": "Swedish (sv-IT)",
     "language": "sv-IT",
-    "title": "Endast under begränsad tid!",
+    "LTO_title": "Endast under begränsad tid!",
+    "LC_title": "Sista chansen!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "på utvalda varor",
@@ -2468,7 +2742,8 @@
   {
     "language_name": "Swedish (sv-DE)",
     "language": "sv-DE",
-    "title": "Endast under begränsad tid!",
+    "LTO_title": "Endast under begränsad tid!",
+    "LC_title": "Sista chansen!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "på utvalda varor",
@@ -2477,7 +2752,8 @@
   {
     "language_name": "Swedish (sv-ES)",
     "language": "sv-ES",
-    "title": "Endast under begränsad tid!",
+    "LTO_title": "Endast under begränsad tid!",
+    "LC_title": "Sista chansen!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "på utvalda varor",
@@ -2486,7 +2762,8 @@
   {
     "language_name": "Swedish (sv-NO)",
     "language": "sv-NO",
-    "title": "Endast under begränsad tid!",
+    "LTO_title": "Endast under begränsad tid!",
+    "LC_title": "Sista chansen!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "på utvalda varor",
@@ -2495,7 +2772,8 @@
   {
     "language_name": "Swedish (sv-LV)",
     "language": "sv-LV",
-    "title": "Endast under begränsad tid!",
+    "LTO_title": "Endast under begränsad tid!",
+    "LC_title": "Sista chansen!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "på utvalda varor",
@@ -2504,7 +2782,8 @@
   {
     "language_name": "Swedish (sv-SE)",
     "language": "sv-SE",
-    "title": "Endast under begränsad tid!",
+    "LTO_title": "Endast under begränsad tid!",
+    "LC_title": "Sista chansen!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "på utvalda varor",
@@ -2513,7 +2792,8 @@
   {
     "language_name": "Swedish (sv-FR)",
     "language": "sv-FR",
-    "title": "Endast under begränsad tid!",
+    "LTO_title": "Endast under begränsad tid!",
+    "LC_title": "Sista chansen!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "på utvalda varor",
@@ -2522,7 +2802,8 @@
   {
     "language_name": "Portuguese (pt-CA)",
     "language": "pt-CA",
-    "title": "Só por tempo limitado!",
+    "LTO_title": "Só por tempo limitado!",
+    "LC_title": "Última chance!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCONTO",
     "subtitle": "em itens selecionados",
@@ -2531,7 +2812,8 @@
   {
     "language_name": "Portuguese (pt-IE)",
     "language": "pt-IE",
-    "title": "Só por tempo limitado!",
+    "LTO_title": "Só por tempo limitado!",
+    "LC_title": "Última chance!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCONTO",
     "subtitle": "em itens selecionados",
@@ -2540,7 +2822,8 @@
   {
     "language_name": "Portuguese (pt-FR)",
     "language": "pt-FR",
-    "title": "Só por tempo limitado!",
+    "LTO_title": "Só por tempo limitado!",
+    "LC_title": "Última chance!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCONTO",
     "subtitle": "em itens selecionados",
@@ -2549,7 +2832,8 @@
   {
     "language_name": "Portuguese (pt-NZ)",
     "language": "pt-NZ",
-    "title": "Só por tempo limitado!",
+    "LTO_title": "Só por tempo limitado!",
+    "LC_title": "Última chance!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCONTO",
     "subtitle": "em itens selecionados",
@@ -2558,7 +2842,8 @@
   {
     "language_name": "Portuguese (pt-CH)",
     "language": "pt-CH",
-    "title": "Só por tempo limitado!",
+    "LTO_title": "Só por tempo limitado!",
+    "LC_title": "Última chance!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCONTO",
     "subtitle": "em itens selecionados",
@@ -2567,7 +2852,8 @@
   {
     "language_name": "Portuguese (pt-CO)",
     "language": "pt-CO",
-    "title": "Só por tempo limitado!",
+    "LTO_title": "Só por tempo limitado!",
+    "LC_title": "Última chance!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCONTO",
     "subtitle": "em itens selecionados",
@@ -2576,7 +2862,8 @@
   {
     "language_name": "Portuguese (pt-DK)",
     "language": "pt-DK",
-    "title": "Só por tempo limitado!",
+    "LTO_title": "Só por tempo limitado!",
+    "LC_title": "Última chance!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCONTO",
     "subtitle": "em itens selecionados",
@@ -2585,7 +2872,8 @@
   {
     "language_name": "Portuguese (pt-NL)",
     "language": "pt-NL",
-    "title": "Só por tempo limitado!",
+    "LTO_title": "Só por tempo limitado!",
+    "LC_title": "Última chance!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCONTO",
     "subtitle": "em itens selecionados",
@@ -2594,7 +2882,8 @@
   {
     "language_name": "Portuguese (pt-IT)",
     "language": "pt-IT",
-    "title": "Só por tempo limitado!",
+    "LTO_title": "Só por tempo limitado!",
+    "LC_title": "Última chance!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCONTO",
     "subtitle": "em itens selecionados",
@@ -2603,7 +2892,8 @@
   {
     "language_name": "Portuguese (pt-US)",
     "language": "pt-US",
-    "title": "Só por tempo limitado!",
+    "LTO_title": "Só por tempo limitado!",
+    "LC_title": "Última chance!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCONTO",
     "subtitle": "em itens selecionados",
@@ -2612,7 +2902,8 @@
   {
     "language_name": "Portuguese (pt-ES)",
     "language": "pt-ES",
-    "title": "Só por tempo limitado!",
+    "LTO_title": "Só por tempo limitado!",
+    "LC_title": "Última chance!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCONTO",
     "subtitle": "em itens selecionados",
@@ -2621,7 +2912,8 @@
   {
     "language_name": "Portuguese (pt-BR)",
     "language": "pt-BR",
-    "title": "Só por tempo limitado!",
+    "LTO_title": "Só por tempo limitado!",
+    "LC_title": "Última chance!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCONTO",
     "subtitle": "em itens selecionados",
@@ -2630,7 +2922,8 @@
   {
     "language_name": "Portuguese (pt-DE)",
     "language": "pt-DE",
-    "title": "Só por tempo limitado!",
+    "LTO_title": "Só por tempo limitado!",
+    "LC_title": "Última chance!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCONTO",
     "subtitle": "em itens selecionados",
@@ -2639,7 +2932,8 @@
   {
     "language_name": "Portuguese (pt-GB)",
     "language": "pt-GB",
-    "title": "Só por tempo limitado!",
+    "LTO_title": "Só por tempo limitado!",
+    "LC_title": "Última chance!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCONTO",
     "subtitle": "em itens selecionados",
@@ -2648,7 +2942,8 @@
   {
     "language_name": "Portuguese (pt-PY)",
     "language": "pt-PY",
-    "title": "Só por tempo limitado!",
+    "LTO_title": "Só por tempo limitado!",
+    "LC_title": "Última chance!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCONTO",
     "subtitle": "em itens selecionados",
@@ -2657,7 +2952,8 @@
   {
     "language_name": "Portuguese (pt-PT)",
     "language": "pt-PT",
-    "title": "Só por tempo limitado!",
+    "LTO_title": "Só por tempo limitado!",
+    "LC_title": "Última chance!",
     "discount_percentage": "50%",
     "discount_text": "DE DESCONTO",
     "subtitle": "em itens selecionados",
@@ -2666,7 +2962,8 @@
   {
     "language_name": "Danish (da-SE)",
     "language": "da-SE",
-    "title": "Kun i begrænset tid!",
+    "LTO_title": "Kun i begrænset tid!",
+    "LC_title": "Sidste chance!",
     "discount_percentage": "50%",
     "discount_text": "RABAT",
     "subtitle": "på udvalgte varer",
@@ -2675,7 +2972,8 @@
   {
     "language_name": "Danish (da-LV)",
     "language": "da-LV",
-    "title": "Kun i begrænset tid!",
+    "LTO_title": "Kun i begrænset tid!",
+    "LC_title": "Sidste chance!",
     "discount_percentage": "50%",
     "discount_text": "RABAT",
     "subtitle": "på udvalgte varer",
@@ -2684,7 +2982,8 @@
   {
     "language_name": "Danish (da-LU)",
     "language": "da-LU",
-    "title": "Kun i begrænset tid!",
+    "LTO_title": "Kun i begrænset tid!",
+    "LC_title": "Sidste chance!",
     "discount_percentage": "50%",
     "discount_text": "RABAT",
     "subtitle": "på udvalgte varer",
@@ -2693,7 +2992,8 @@
   {
     "language_name": "Danish (da-DK)",
     "language": "da-DK",
-    "title": "Kun i begrænset tid!",
+    "LTO_title": "Kun i begrænset tid!",
+    "LC_title": "Sidste chance!",
     "discount_percentage": "50%",
     "discount_text": "RABAT",
     "subtitle": "på udvalgte varer",
@@ -2702,7 +3002,8 @@
   {
     "language_name": "Danish (da-TH)",
     "language": "da-TH",
-    "title": "Kun i begrænset tid!",
+    "LTO_title": "Kun i begrænset tid!",
+    "LC_title": "Sidste chance!",
     "discount_percentage": "50%",
     "discount_text": "RABAT",
     "subtitle": "på udvalgte varer",
@@ -2711,7 +3012,8 @@
   {
     "language_name": "Danish (da-HR)",
     "language": "da-HR",
-    "title": "Kun i begrænset tid!",
+    "LTO_title": "Kun i begrænset tid!",
+    "LC_title": "Sidste chance!",
     "discount_percentage": "50%",
     "discount_text": "RABAT",
     "subtitle": "på udvalgte varer",
@@ -2720,7 +3022,8 @@
   {
     "language_name": "Romanian (ro-IL)",
     "language": "ro-IL",
-    "title": "Doar pentru o perioadă limitată!",
+    "LTO_title": "Doar pentru o perioadă limitată!",
+    "LC_title": "Ultima șansă!",
     "discount_percentage": "50%",
     "discount_text": "REDUCERE",
     "subtitle": "la articole selectate",
@@ -2729,7 +3032,8 @@
   {
     "language_name": "Romanian (ro-CH)",
     "language": "ro-CH",
-    "title": "Doar pentru o perioadă limitată!",
+    "LTO_title": "Doar pentru o perioadă limitată!",
+    "LC_title": "Ultima șansă!",
     "discount_percentage": "50%",
     "discount_text": "REDUCERE",
     "subtitle": "la articole selectate",
@@ -2738,7 +3042,8 @@
   {
     "language_name": "Romanian (ro-AT)",
     "language": "ro-AT",
-    "title": "Doar pentru o perioadă limitată!",
+    "LTO_title": "Doar pentru o perioadă limitată!",
+    "LC_title": "Ultima șansă!",
     "discount_percentage": "50%",
     "discount_text": "REDUCERE",
     "subtitle": "la articole selectate",
@@ -2747,7 +3052,8 @@
   {
     "language_name": "Romanian (ro-MD)",
     "language": "ro-MD",
-    "title": "Doar pentru o perioadă limitată!",
+    "LTO_title": "Doar pentru o perioadă limitată!",
+    "LC_title": "Ultima șansă!",
     "discount_percentage": "50%",
     "discount_text": "REDUCERE",
     "subtitle": "la articole selectate",
@@ -2756,7 +3062,8 @@
   {
     "language_name": "Romanian (ro-US)",
     "language": "ro-US",
-    "title": "Doar pentru o perioadă limitată!",
+    "LTO_title": "Doar pentru o perioadă limitată!",
+    "LC_title": "Ultima șansă!",
     "discount_percentage": "50%",
     "discount_text": "REDUCERE",
     "subtitle": "la articole selectate",
@@ -2765,7 +3072,8 @@
   {
     "language_name": "Romanian (ro-IT)",
     "language": "ro-IT",
-    "title": "Doar pentru o perioadă limitată!",
+    "LTO_title": "Doar pentru o perioadă limitată!",
+    "LC_title": "Ultima șansă!",
     "discount_percentage": "50%",
     "discount_text": "REDUCERE",
     "subtitle": "la articole selectate",
@@ -2774,7 +3082,8 @@
   {
     "language_name": "Romanian (ro-NL)",
     "language": "ro-NL",
-    "title": "Doar pentru o perioadă limitată!",
+    "LTO_title": "Doar pentru o perioadă limitată!",
+    "LC_title": "Ultima șansă!",
     "discount_percentage": "50%",
     "discount_text": "REDUCERE",
     "subtitle": "la articole selectate",
@@ -2783,7 +3092,8 @@
   {
     "language_name": "Romanian (ro-RO)",
     "language": "ro-RO",
-    "title": "Doar pentru o perioadă limitată!",
+    "LTO_title": "Doar pentru o perioadă limitată!",
+    "LC_title": "Ultima șansă!",
     "discount_percentage": "50%",
     "discount_text": "REDUCERE",
     "subtitle": "la articole selectate",
@@ -2792,7 +3102,8 @@
   {
     "language_name": "Norwegian (no-GB)",
     "language": "no-GB",
-    "title": "Kun i en begrenset periode!",
+    "LTO_title": "Kun i en begrenset periode!",
+    "LC_title": "Siste sjanse!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "på utvalgte varer",
@@ -2801,7 +3112,8 @@
   {
     "language_name": "Norwegian (no-ET)",
     "language": "no-ET",
-    "title": "Kun i en begrenset periode!",
+    "LTO_title": "Kun i en begrenset periode!",
+    "LC_title": "Siste sjanse!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "på utvalgte varer",
@@ -2810,7 +3122,8 @@
   {
     "language_name": "Norwegian (no-DE)",
     "language": "no-DE",
-    "title": "Kun i en begrenset periode!",
+    "LTO_title": "Kun i en begrenset periode!",
+    "LC_title": "Siste sjanse!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "på utvalgte varer",
@@ -2819,7 +3132,8 @@
   {
     "language_name": "Norwegian (no-NO)",
     "language": "no-NO",
-    "title": "Kun i en begrenset periode!",
+    "LTO_title": "Kun i en begrenset periode!",
+    "LC_title": "Siste sjanse!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "på utvalgte varer",
@@ -2828,7 +3142,8 @@
   {
     "language_name": "Norwegian (no-US)",
     "language": "no-US",
-    "title": "Kun i en begrenset periode!",
+    "LTO_title": "Kun i en begrenset periode!",
+    "LC_title": "Siste sjanse!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "på utvalgte varer",
@@ -2837,7 +3152,8 @@
   {
     "language_name": "Norwegian (no-PL)",
     "language": "no-PL",
-    "title": "Kun i en begrenset periode!",
+    "LTO_title": "Kun i en begrenset periode!",
+    "LC_title": "Siste sjanse!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "på utvalgte varer",
@@ -2846,7 +3162,8 @@
   {
     "language_name": "Norwegian (no-CO)",
     "language": "no-CO",
-    "title": "Kun i en begrenset periode!",
+    "LTO_title": "Kun i en begrenset periode!",
+    "LC_title": "Siste sjanse!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "på utvalgte varer",
@@ -2855,7 +3172,8 @@
   {
     "language_name": "Norwegian (no-PH)",
     "language": "no-PH",
-    "title": "Kun i en begrenset periode!",
+    "LTO_title": "Kun i en begrenset periode!",
+    "LC_title": "Siste sjanse!",
     "discount_percentage": "50%",
     "discount_text": "RABATT",
     "subtitle": "på utvalgte varer",
@@ -2864,7 +3182,8 @@
   {
     "language_name": "Chinese (zh-CHT)",
     "language": "zh-CHT",
-    "title": "限时优惠！",
+    "LTO_title": "限时优惠！",
+    "LC_title": "最后机会！",
     "discount_percentage": "50%",
     "discount_text": "折扣",
     "subtitle": "精选商品",
@@ -2873,7 +3192,8 @@
   {
     "language_name": "Chinese (zh-CA)",
     "language": "zh-CA",
-    "title": "限时优惠！",
+    "LTO_title": "限时优惠！",
+    "LC_title": "最后机会！",
     "discount_percentage": "50%",
     "discount_text": "折扣",
     "subtitle": "精选商品",
@@ -2882,7 +3202,8 @@
   {
     "language_name": "Chinese (zh-CHS)",
     "language": "zh-CHS",
-    "title": "限时优惠！",
+    "LTO_title": "限时优惠！",
+    "LC_title": "最后机会！",
     "discount_percentage": "50%",
     "discount_text": "折扣",
     "subtitle": "精选商品",
@@ -2891,7 +3212,8 @@
   {
     "language_name": "Chinese (zh-NZ)",
     "language": "zh-NZ",
-    "title": "限时优惠！",
+    "LTO_title": "限时优惠！",
+    "LC_title": "最后机会！",
     "discount_percentage": "50%",
     "discount_text": "折扣",
     "subtitle": "精选商品",
@@ -2900,7 +3222,8 @@
   {
     "language_name": "Chinese (zh-US)",
     "language": "zh-US",
-    "title": "限时优惠！",
+    "LTO_title": "限时优惠！",
+    "LC_title": "最后机会！",
     "discount_percentage": "50%",
     "discount_text": "折扣",
     "subtitle": "精选商品",
@@ -2909,7 +3232,8 @@
   {
     "language_name": "Chinese (zh-CN)",
     "language": "zh-CN",
-    "title": "限时优惠！",
+    "LTO_title": "限时优惠！",
+    "LC_title": "最后机会！",
     "discount_percentage": "50%",
     "discount_text": "折扣",
     "subtitle": "精选商品",
@@ -2918,7 +3242,8 @@
   {
     "language_name": "Chinese (zh-TW)",
     "language": "zh-TW",
-    "title": "限时优惠！",
+    "LTO_title": "限时优惠！",
+    "LC_title": "最后机会！",
     "discount_percentage": "50%",
     "discount_text": "折扣",
     "subtitle": "精选商品",
@@ -2927,7 +3252,8 @@
   {
     "language_name": "Chinese (zh-MO)",
     "language": "zh-MO",
-    "title": "限时优惠！",
+    "LTO_title": "限时优惠！",
+    "LC_title": "最后机会！",
     "discount_percentage": "50%",
     "discount_text": "折扣",
     "subtitle": "精选商品",
@@ -2936,7 +3262,8 @@
   {
     "language_name": "Chinese (zh-HK)",
     "language": "zh-HK",
-    "title": "限时优惠！",
+    "LTO_title": "限时优惠！",
+    "LC_title": "最后机会！",
     "discount_percentage": "50%",
     "discount_text": "折扣",
     "subtitle": "精选商品",
@@ -2945,7 +3272,8 @@
   {
     "language_name": "Thai (th-TH)",
     "language": "th-TH",
-    "title": "เฉพาะเวลาจำกัด!",
+    "LTO_title": "เฉพาะเวลาจำกัด!",
+    "LC_title": "โอกาสสุดท้าย!",
     "discount_percentage": "50%",
     "discount_text": "ส่วนลด",
     "subtitle": "สำหรับสินค้าที่เลือก",
@@ -2954,7 +3282,8 @@
   {
     "language_name": "Polish (pl-GB)",
     "language": "pl-GB",
-    "title": "Tylko przez ograniczony czas!",
+    "LTO_title": "Tylko przez ograniczony czas!",
+    "LC_title": "Ostatnia szansa!",
     "discount_percentage": "50%",
     "discount_text": "RABATU",
     "subtitle": "na wybrane produkty",
@@ -2963,7 +3292,8 @@
   {
     "language_name": "Polish (pl-DE)",
     "language": "pl-DE",
-    "title": "Tylko przez ograniczony czas!",
+    "LTO_title": "Tylko przez ograniczony czas!",
+    "LC_title": "Ostatnia szansa!",
     "discount_percentage": "50%",
     "discount_text": "RABATU",
     "subtitle": "na wybrane produkty",
@@ -2972,7 +3302,8 @@
   {
     "language_name": "Polish (pl-PT)",
     "language": "pl-PT",
-    "title": "Tylko przez ograniczony czas!",
+    "LTO_title": "Tylko przez ograniczony czas!",
+    "LC_title": "Ostatnia szansa!",
     "discount_percentage": "50%",
     "discount_text": "RABATU",
     "subtitle": "na wybrane produkty",
@@ -2981,7 +3312,8 @@
   {
     "language_name": "Polish (pl-TH)",
     "language": "pl-TH",
-    "title": "Tylko przez ograniczony czas!",
+    "LTO_title": "Tylko przez ograniczony czas!",
+    "LC_title": "Ostatnia szansa!",
     "discount_percentage": "50%",
     "discount_text": "RABATU",
     "subtitle": "na wybrane produkty",
@@ -2990,7 +3322,8 @@
   {
     "language_name": "Polish (pl-FI)",
     "language": "pl-FI",
-    "title": "Tylko przez ograniczony czas!",
+    "LTO_title": "Tylko przez ograniczony czas!",
+    "LC_title": "Ostatnia szansa!",
     "discount_percentage": "50%",
     "discount_text": "RABATU",
     "subtitle": "na wybrane produkty",
@@ -2999,7 +3332,8 @@
   {
     "language_name": "Polish (pl-US)",
     "language": "pl-US",
-    "title": "Tylko przez ograniczony czas!",
+    "LTO_title": "Tylko przez ograniczony czas!",
+    "LC_title": "Ostatnia szansa!",
     "discount_percentage": "50%",
     "discount_text": "RABATU",
     "subtitle": "na wybrane produkty",
@@ -3008,7 +3342,8 @@
   {
     "language_name": "Polish (pl-GR)",
     "language": "pl-GR",
-    "title": "Tylko przez ograniczony czas!",
+    "LTO_title": "Tylko przez ograniczony czas!",
+    "LC_title": "Ostatnia szansa!",
     "discount_percentage": "50%",
     "discount_text": "RABATU",
     "subtitle": "na wybrane produkty",
@@ -3017,7 +3352,8 @@
   {
     "language_name": "Polish (pl-NL)",
     "language": "pl-NL",
-    "title": "Tylko przez ograniczony czas!",
+    "LTO_title": "Tylko przez ograniczony czas!",
+    "LC_title": "Ostatnia szansa!",
     "discount_percentage": "50%",
     "discount_text": "RABATU",
     "subtitle": "na wybrane produkty",
@@ -3026,7 +3362,8 @@
   {
     "language_name": "Polish (pl-DK)",
     "language": "pl-DK",
-    "title": "Tylko przez ograniczony czas!",
+    "LTO_title": "Tylko przez ograniczony czas!",
+    "LC_title": "Ostatnia szansa!",
     "discount_percentage": "50%",
     "discount_text": "RABATU",
     "subtitle": "na wybrane produkty",
@@ -3035,7 +3372,8 @@
   {
     "language_name": "Polish (pl-PL)",
     "language": "pl-PL",
-    "title": "Tylko przez ograniczony czas!",
+    "LTO_title": "Tylko przez ograniczony czas!",
+    "LC_title": "Ostatnia szansa!",
     "discount_percentage": "50%",
     "discount_text": "RABATU",
     "subtitle": "na wybrane produkty",
@@ -3044,7 +3382,8 @@
   {
     "language_name": "Polish (pl-CH)",
     "language": "pl-CH",
-    "title": "Tylko przez ograniczony czas!",
+    "LTO_title": "Tylko przez ograniczony czas!",
+    "LC_title": "Ostatnia szansa!",
     "discount_percentage": "50%",
     "discount_text": "RABATU",
     "subtitle": "na wybrane produkty",
@@ -3053,7 +3392,8 @@
   {
     "language_name": "Polish (pl-IE)",
     "language": "pl-IE",
-    "title": "Tylko przez ograniczony czas!",
+    "LTO_title": "Tylko przez ograniczony czas!",
+    "LC_title": "Ostatnia szansa!",
     "discount_percentage": "50%",
     "discount_text": "RABATU",
     "subtitle": "na wybrane produkty",
@@ -3062,7 +3402,8 @@
   {
     "language_name": "Polish (pl-SE)",
     "language": "pl-SE",
-    "title": "Tylko przez ograniczony czas!",
+    "LTO_title": "Tylko przez ograniczony czas!",
+    "LC_title": "Ostatnia szansa!",
     "discount_percentage": "50%",
     "discount_text": "RABATU",
     "subtitle": "na wybrane produkty",
@@ -3071,7 +3412,8 @@
   {
     "language_name": "Finnish (fi-NO)",
     "language": "fi-NO",
-    "title": "Vain rajoitetun ajan!",
+    "LTO_title": "Vain rajoitetun ajan!",
+    "LC_title": "Viimeinen mahdollisuus!",
     "discount_percentage": "50%",
     "discount_text": "ALE",
     "subtitle": "valituista tuotteista",
@@ -3080,7 +3422,8 @@
   {
     "language_name": "Finnish (fi-GB)",
     "language": "fi-GB",
-    "title": "Vain rajoitetun ajan!",
+    "LTO_title": "Vain rajoitetun ajan!",
+    "LC_title": "Viimeinen mahdollisuus!",
     "discount_percentage": "50%",
     "discount_text": "ALE",
     "subtitle": "valituista tuotteista",
@@ -3089,7 +3432,8 @@
   {
     "language_name": "Finnish (fi-TH)",
     "language": "fi-TH",
-    "title": "Vain rajoitetun ajan!",
+    "LTO_title": "Vain rajoitetun ajan!",
+    "LC_title": "Viimeinen mahdollisuus!",
     "discount_percentage": "50%",
     "discount_text": "ALE",
     "subtitle": "valituista tuotteista",
@@ -3098,7 +3442,8 @@
   {
     "language_name": "Finnish (fi-FI)",
     "language": "fi-FI",
-    "title": "Vain rajoitetun ajan!",
+    "LTO_title": "Vain rajoitetun ajan!",
+    "LC_title": "Viimeinen mahdollisuus!",
     "discount_percentage": "50%",
     "discount_text": "ALE",
     "subtitle": "valituista tuotteista",
@@ -3107,7 +3452,8 @@
   {
     "language_name": "Finnish (fi-EE)",
     "language": "fi-EE",
-    "title": "Vain rajoitetun ajan!",
+    "LTO_title": "Vain rajoitetun ajan!",
+    "LC_title": "Viimeinen mahdollisuus!",
     "discount_percentage": "50%",
     "discount_text": "ALE",
     "subtitle": "valituista tuotteista",
@@ -3116,7 +3462,8 @@
   {
     "language_name": "Slovak (sk-CH)",
     "language": "sk-CH",
-    "title": "Len na obmedzený čas!",
+    "LTO_title": "Len na obmedzený čas!",
+    "LC_title": "Posledná šanca!",
     "discount_percentage": "50%",
     "discount_text": "ZĽAVA",
     "subtitle": "na vybrané položky",
@@ -3125,7 +3472,8 @@
   {
     "language_name": "Slovak (sk-SK)",
     "language": "sk-SK",
-    "title": "Len na obmedzený čas!",
+    "LTO_title": "Len na obmedzený čas!",
+    "LC_title": "Posledná šanca!",
     "discount_percentage": "50%",
     "discount_text": "ZĽAVA",
     "subtitle": "na vybrané položky",
@@ -3134,7 +3482,8 @@
   {
     "language_name": "Slovak (sk-NL)",
     "language": "sk-NL",
-    "title": "Len na obmedzený čas!",
+    "LTO_title": "Len na obmedzený čas!",
+    "LC_title": "Posledná šanca!",
     "discount_percentage": "50%",
     "discount_text": "ZĽAVA",
     "subtitle": "na vybrané položky",
@@ -3143,7 +3492,8 @@
   {
     "language_name": "Slovak (sk-CZ)",
     "language": "sk-CZ",
-    "title": "Len na obmedzený čas!",
+    "LTO_title": "Len na obmedzený čas!",
+    "LC_title": "Posledná šanca!",
     "discount_percentage": "50%",
     "discount_text": "ZĽAVA",
     "subtitle": "na vybrané položky",
@@ -3152,7 +3502,8 @@
   {
     "language_name": "Korean (ko-KR)",
     "language": "ko-KR",
-    "title": "한정 기간만!",
+    "LTO_title": "한정 기간만!",
+    "LC_title": "마지막 기회!",
     "discount_percentage": "50%",
     "discount_text": "할인",
     "subtitle": "일부 품목 한정",
@@ -3161,7 +3512,8 @@
   {
     "language_name": "Russian (ru-GR)",
     "language": "ru-GR",
-    "title": "Только ограниченное время!",
+    "LTO_title": "Только ограниченное время!",
+    "LC_title": "Последний шанс!",
     "discount_percentage": "50%",
     "discount_text": "СКИДКА",
     "subtitle": "на выбранные товары",
@@ -3170,7 +3522,8 @@
   {
     "language_name": "Russian (ru-US)",
     "language": "ru-US",
-    "title": "Только ограниченное время!",
+    "LTO_title": "Только ограниченное время!",
+    "LC_title": "Последний шанс!",
     "discount_percentage": "50%",
     "discount_text": "СКИДКА",
     "subtitle": "на выбранные товары",
@@ -3179,7 +3532,8 @@
   {
     "language_name": "Russian (ru-TH)",
     "language": "ru-TH",
-    "title": "Только ограниченное время!",
+    "LTO_title": "Только ограниченное время!",
+    "LC_title": "Последний шанс!",
     "discount_percentage": "50%",
     "discount_text": "СКИДКА",
     "subtitle": "на выбранные товары",
@@ -3188,7 +3542,8 @@
   {
     "language_name": "Russian (ru-NL)",
     "language": "ru-NL",
-    "title": "Только ограниченное время!",
+    "LTO_title": "Только ограниченное время!",
+    "LC_title": "Последний шанс!",
     "discount_percentage": "50%",
     "discount_text": "СКИДКА",
     "subtitle": "на выбранные товары",
@@ -3197,7 +3552,8 @@
   {
     "language_name": "Russian (ru-BE)",
     "language": "ru-BE",
-    "title": "Только ограниченное время!",
+    "LTO_title": "Только ограниченное время!",
+    "LC_title": "Последний шанс!",
     "discount_percentage": "50%",
     "discount_text": "СКИДКА",
     "subtitle": "на выбранные товары",
@@ -3206,7 +3562,8 @@
   {
     "language_name": "Russian (ru-LT)",
     "language": "ru-LT",
-    "title": "Только ограниченное время!",
+    "LTO_title": "Только ограниченное время!",
+    "LC_title": "Последний шанс!",
     "discount_percentage": "50%",
     "discount_text": "СКИДКА",
     "subtitle": "на выбранные товары",
@@ -3215,7 +3572,8 @@
   {
     "language_name": "Russian (ru-HU)",
     "language": "ru-HU",
-    "title": "Только ограниченное время!",
+    "LTO_title": "Только ограниченное время!",
+    "LC_title": "Последний шанс!",
     "discount_percentage": "50%",
     "discount_text": "СКИДКА",
     "subtitle": "на выбранные товары",
@@ -3224,7 +3582,8 @@
   {
     "language_name": "Russian (ru-DE)",
     "language": "ru-DE",
-    "title": "Только ограниченное время!",
+    "LTO_title": "Только ограниченное время!",
+    "LC_title": "Последний шанс!",
     "discount_percentage": "50%",
     "discount_text": "СКИДКА",
     "subtitle": "на выбранные товары",
@@ -3233,7 +3592,8 @@
   {
     "language_name": "Russian (ru-GB)",
     "language": "ru-GB",
-    "title": "Только ограниченное время!",
+    "LTO_title": "Только ограниченное время!",
+    "LC_title": "Последний шанс!",
     "discount_percentage": "50%",
     "discount_text": "СКИДКА",
     "subtitle": "на выбранные товары",
@@ -3242,7 +3602,8 @@
   {
     "language_name": "Russian (ru-CZ)",
     "language": "ru-CZ",
-    "title": "Только ограниченное время!",
+    "LTO_title": "Только ограниченное время!",
+    "LC_title": "Последний шанс!",
     "discount_percentage": "50%",
     "discount_text": "СКИДКА",
     "subtitle": "на выбранные товары",
@@ -3251,7 +3612,8 @@
   {
     "language_name": "Russian (ru-NO)",
     "language": "ru-NO",
-    "title": "Только ограниченное время!",
+    "LTO_title": "Только ограниченное время!",
+    "LC_title": "Последний шанс!",
     "discount_percentage": "50%",
     "discount_text": "СКИДКА",
     "subtitle": "на выбранные товары",
@@ -3260,7 +3622,8 @@
   {
     "language_name": "Russian (ru-GE)",
     "language": "ru-GE",
-    "title": "Только ограниченное время!",
+    "LTO_title": "Только ограниченное время!",
+    "LC_title": "Последний шанс!",
     "discount_percentage": "50%",
     "discount_text": "СКИДКА",
     "subtitle": "на выбранные товары",
@@ -3269,7 +3632,8 @@
   {
     "language_name": "Russian (ru-ES)",
     "language": "ru-ES",
-    "title": "Только ограниченное время!",
+    "LTO_title": "Только ограниченное время!",
+    "LC_title": "Последний шанс!",
     "discount_percentage": "50%",
     "discount_text": "СКИДКА",
     "subtitle": "на выбранные товары",
@@ -3278,7 +3642,8 @@
   {
     "language_name": "Russian (ru-SE)",
     "language": "ru-SE",
-    "title": "Только ограниченное время!",
+    "LTO_title": "Только ограниченное время!",
+    "LC_title": "Последний шанс!",
     "discount_percentage": "50%",
     "discount_text": "СКИДКА",
     "subtitle": "на выбранные товары",
@@ -3287,7 +3652,8 @@
   {
     "language_name": "Russian (ru-LV)",
     "language": "ru-LV",
-    "title": "Только ограниченное время!",
+    "LTO_title": "Только ограниченное время!",
+    "LC_title": "Последний шанс!",
     "discount_percentage": "50%",
     "discount_text": "СКИДКА",
     "subtitle": "на выбранные товары",
@@ -3296,7 +3662,8 @@
   {
     "language_name": "Russian (ru-CA)",
     "language": "ru-CA",
-    "title": "Только ограниченное время!",
+    "LTO_title": "Только ограниченное время!",
+    "LC_title": "Последний шанс!",
     "discount_percentage": "50%",
     "discount_text": "СКИДКА",
     "subtitle": "на выбранные товары",
@@ -3305,7 +3672,8 @@
   {
     "language_name": "Russian (ru-IL)",
     "language": "ru-IL",
-    "title": "Только ограниченное время!",
+    "LTO_title": "Только ограниченное время!",
+    "LC_title": "Последний шанс!",
     "discount_percentage": "50%",
     "discount_text": "СКИДКА",
     "subtitle": "на выбранные товары",
@@ -3314,7 +3682,8 @@
   {
     "language_name": "Russian (ru-PL)",
     "language": "ru-PL",
-    "title": "Только ограниченное время!",
+    "LTO_title": "Только ограниченное время!",
+    "LC_title": "Последний шанс!",
     "discount_percentage": "50%",
     "discount_text": "СКИДКА",
     "subtitle": "на выбранные товары",
@@ -3323,7 +3692,8 @@
   {
     "language_name": "Russian (ru-BG)",
     "language": "ru-BG",
-    "title": "Только ограниченное время!",
+    "LTO_title": "Только ограниченное время!",
+    "LC_title": "Последний шанс!",
     "discount_percentage": "50%",
     "discount_text": "СКИДКА",
     "subtitle": "на выбранные товары",
@@ -3332,7 +3702,8 @@
   {
     "language_name": "Russian (ru-FR)",
     "language": "ru-FR",
-    "title": "Только ограниченное время!",
+    "LTO_title": "Только ограниченное время!",
+    "LC_title": "Последний шанс!",
     "discount_percentage": "50%",
     "discount_text": "СКИДКА",
     "subtitle": "на выбранные товары",
@@ -3341,7 +3712,8 @@
   {
     "language_name": "Russian (ru-CH)",
     "language": "ru-CH",
-    "title": "Только ограниченное время!",
+    "LTO_title": "Только ограниченное время!",
+    "LC_title": "Последний шанс!",
     "discount_percentage": "50%",
     "discount_text": "СКИДКА",
     "subtitle": "на выбранные товары",
@@ -3350,7 +3722,8 @@
   {
     "language_name": "Japanese (ja-JP)",
     "language": "ja-JP",
-    "title": "期間限定！",
+    "LTO_title": "期間限定！",
+    "LC_title": "最後のチャンス！",
     "discount_percentage": "50%",
     "discount_text": "オフ",
     "subtitle": "対象商品",
@@ -3359,7 +3732,8 @@
   {
     "language_name": "Croatian (hr-RS)",
     "language": "hr-RS",
-    "title": "Samo ograničeno vrijeme!",
+    "LTO_title": "Samo ograničeno vrijeme!",
+    "LC_title": "Zadnja šansa!",
     "discount_percentage": "50%",
     "discount_text": "POPUSTA",
     "subtitle": "na odabrane artikle",
@@ -3368,7 +3742,8 @@
   {
     "language_name": "Croatian (hr-HR)",
     "language": "hr-HR",
-    "title": "Samo ograničeno vrijeme!",
+    "LTO_title": "Samo ograničeno vrijeme!",
+    "LC_title": "Zadnja šansa!",
     "discount_percentage": "50%",
     "discount_text": "POPUSTA",
     "subtitle": "na odabrane artikle",
@@ -3377,7 +3752,8 @@
   {
     "language_name": "Croatian (hr-ME)",
     "language": "hr-ME",
-    "title": "Samo ograničeno vrijeme!",
+    "LTO_title": "Samo ograničeno vrijeme!",
+    "LC_title": "Zadnja šansa!",
     "discount_percentage": "50%",
     "discount_text": "POPUSTA",
     "subtitle": "na odabrane artikle",
@@ -3386,7 +3762,8 @@
   {
     "language_name": "Croatian (hr-BA)",
     "language": "hr-BA",
-    "title": "Samo ograničeno vrijeme!",
+    "LTO_title": "Samo ograničeno vrijeme!",
+    "LC_title": "Zadnja šansa!",
     "discount_percentage": "50%",
     "discount_text": "POPUSTA",
     "subtitle": "na odabrane artikle",
@@ -3395,7 +3772,8 @@
   {
     "language_name": "Croatian (hr-SI)",
     "language": "hr-SI",
-    "title": "Samo ograničeno vrijeme!",
+    "LTO_title": "Samo ograničeno vrijeme!",
+    "LC_title": "Zadnja šansa!",
     "discount_percentage": "50%",
     "discount_text": "POPUSTA",
     "subtitle": "na odabrane artikle",
