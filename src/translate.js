@@ -8,7 +8,7 @@ const path = require('path');
  */
 async function loadJSONFiles(dirPath) {
   const files = await fs.readdir(dirPath);
-  const jsonFiles = files.filter(file => file.endsWith('.json'));
+  const jsonFiles = files.filter(file => file.endsWith('.json') && file !== 'package.json');
   const results = [];
   for (const file of jsonFiles) {
     const filePath = path.join(dirPath, file);
@@ -113,15 +113,25 @@ async function processDirectory(dirPath, variations) {
 async function main() {
   try {
     console.log('🚀 Starting translation processing...\n');
-    const variationsPath = './variations.json';
+    const variationsPath = './src/variations.json';
     const variationsContent = await fs.readFile(variationsPath, 'utf-8');
     const variations = JSON.parse(variationsContent);
     console.log('✅ Variations loaded successfully');
+
+    const rootResults = await processDirectory('.', variations);
     const subjectsResults = await processDirectory('./subjects', variations);
     const templatesResults = await processDirectory('./templates', variations);
+
     console.log('\n' + '='.repeat(60));
     console.log('📊 FINAL SUMMARY');
     console.log('='.repeat(60));
+
+    if (rootResults.length > 0) {
+      console.log('\n📁 ROOT:');
+      rootResults.forEach(r => {
+        console.log(`   ${r.filename}: ${r.original} → ${r.expanded} (+${r.added})`);
+      });
+    }
     console.log('\n📁 SUBJECTS:');
     subjectsResults.forEach(r => {
       console.log(`   ${r.filename}: ${r.original} → ${r.expanded} (+${r.added})`);
@@ -130,7 +140,7 @@ async function main() {
     templatesResults.forEach(r => {
       console.log(`   ${r.filename}: ${r.original} → ${r.expanded} (+${r.added})`);
     });
-    const totalAdded = [...subjectsResults, ...templatesResults]
+    const totalAdded = [...rootResults, ...subjectsResults, ...templatesResults]
       .reduce((sum, r) => sum + r.added, 0);
     console.log('\n' + '='.repeat(60));
     console.log(`✨ Total variations added: ${totalAdded}`);
