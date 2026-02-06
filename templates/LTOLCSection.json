@@ -4,7 +4,7 @@
     "language": "en",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -13,7 +13,7 @@
     "language": "az",
     "eyebrowLTO": "Yalnız Məhdud Zaman!",
     "eyebrowLC": "Son Şans!",
-    "subline": "ENDİRİM",
+    "off": "ENDİRİM",
     "subtitle": "seçilmiş məhsullarda",
     "button": "İndi Alış-veriş et"
   },
@@ -22,7 +22,7 @@
     "language": "bg",
     "eyebrowLTO": "Само за ограничено време!",
     "eyebrowLC": "Последен шанс!",
-    "subline": "ОТСТЪПКА",
+    "off": "ОТСТЪПКА",
     "subtitle": "на избрани артикули",
     "button": "Пазарувайте сега"
   },
@@ -31,7 +31,7 @@
     "language": "da",
     "eyebrowLTO": "Kun i begrænset tid!",
     "eyebrowLC": "Sidste chance!",
-    "subline": "RABAT",
+    "off": "RABAT",
     "subtitle": "på udvalgte varer",
     "button": "Shop nu"
   },
@@ -40,7 +40,7 @@
     "language": "de",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -49,7 +49,7 @@
     "language": "el",
     "eyebrowLTO": "Μόνο για περιορισμένο χρόνο!",
     "eyebrowLC": "Τελευταία ευκαιρία!",
-    "subline": "ΕΚΠΤΩΣΗ",
+    "off": "ΕΚΠΤΩΣΗ",
     "subtitle": "σε επιλεγμένα είδη",
     "button": "Αγοράστε τώρα"
   },
@@ -58,7 +58,7 @@
     "language": "fi",
     "eyebrowLTO": "Vain rajoitetun ajan!",
     "eyebrowLC": "Viimeinen mahdollisuus!",
-    "subline": "ALE",
+    "off": "ALE",
     "subtitle": "valituista tuotteista",
     "button": "Osta nyt"
   },
@@ -67,7 +67,7 @@
     "language": "fr",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -76,7 +76,7 @@
     "language": "hr",
     "eyebrowLTO": "Samo ograničeno vrijeme!",
     "eyebrowLC": "Zadnja šansa!",
-    "subline": "POPUSTA",
+    "off": "POPUSTA",
     "subtitle": "na odabrane artikle",
     "button": "Kupi sada"
   },
@@ -85,7 +85,7 @@
     "language": "hu",
     "eyebrowLTO": "Csak korlátozott ideig!",
     "eyebrowLC": "Utolsó esély!",
-    "subline": "KEDVEZMÉNY",
+    "off": "KEDVEZMÉNY",
     "subtitle": "kiválasztott termékekre",
     "button": "Vásárolj most"
   },
@@ -94,7 +94,7 @@
     "language": "id",
     "eyebrowLTO": "Hanya untuk waktu terbatas!",
     "eyebrowLC": "Kesempatan terakhir!",
-    "subline": "DISKON",
+    "off": "DISKON",
     "subtitle": "untuk barang pilihan",
     "button": "Belanja Sekarang"
   },
@@ -103,7 +103,7 @@
     "language": "it",
     "eyebrowLTO": "Solo per un tempo limitato!",
     "eyebrowLC": "Ultima occasione!",
-    "subline": "DI SCONTO",
+    "off": "DI SCONTO",
     "subtitle": "su articoli selezionati",
     "button": "Acquista ora"
   },
@@ -112,7 +112,7 @@
     "language": "ja",
     "eyebrowLTO": "期間限定！",
     "eyebrowLC": "最後のチャンス！",
-    "subline": "オフ",
+    "off": "オフ",
     "subtitle": "対象商品",
     "button": "今すぐ購入"
   },
@@ -121,7 +121,7 @@
     "language": "ko",
     "eyebrowLTO": "한정 기간만!",
     "eyebrowLC": "마지막 기회!",
-    "subline": "할인",
+    "off": "할인",
     "subtitle": "일부 품목 한정",
     "button": "지금 쇼핑하기"
   },
@@ -130,7 +130,7 @@
     "language": "ms",
     "eyebrowLTO": "Hanya untuk masa terhad!",
     "eyebrowLC": "Peluang terakhir!",
-    "subline": "DISKAUN",
+    "off": "DISKAUN",
     "subtitle": "untuk barangan terpilih",
     "button": "Beli Sekarang"
   },
@@ -139,7 +139,7 @@
     "language": "nl",
     "eyebrowLTO": "Alleen voor beperkte tijd!",
     "eyebrowLC": "Laatste kans!",
-    "subline": "KORTING",
+    "off": "KORTING",
     "subtitle": "op geselecteerde artikelen",
     "button": "Nu winkelen"
   },
@@ -148,7 +148,7 @@
     "language": "no",
     "eyebrowLTO": "Kun i en begrenset periode!",
     "eyebrowLC": "Siste sjanse!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "på utvalgte varer",
     "button": "Handle nå"
   },
@@ -157,7 +157,7 @@
     "language": "pl",
     "eyebrowLTO": "Tylko przez ograniczony czas!",
     "eyebrowLC": "Ostatnia szansa!",
-    "subline": "RABATU",
+    "off": "RABATU",
     "subtitle": "na wybrane produkty",
     "button": "Kup teraz"
   },
@@ -166,7 +166,7 @@
     "language": "pt",
     "eyebrowLTO": "Só por tempo limitado!",
     "eyebrowLC": "Última chance!",
-    "subline": "DE DESCONTO",
+    "off": "DE DESCONTO",
     "subtitle": "em itens selecionados",
     "button": "Compre agora"
   },
@@ -175,7 +175,7 @@
     "language": "ro",
     "eyebrowLTO": "Doar pentru o perioadă limitată!",
     "eyebrowLC": "Ultima șansă!",
-    "subline": "REDUCERE",
+    "off": "REDUCERE",
     "subtitle": "la articole selectate",
     "button": "Cumpără acum"
   },
@@ -184,7 +184,7 @@
     "language": "ru",
     "eyebrowLTO": "Только ограниченное время!",
     "eyebrowLC": "Последний шанс!",
-    "subline": "СКИДКА",
+    "off": "СКИДКА",
     "subtitle": "на выбранные товары",
     "button": "Купить сейчас"
   },
@@ -193,7 +193,7 @@
     "language": "sk",
     "eyebrowLTO": "Len na obmedzený čas!",
     "eyebrowLC": "Posledná šanca!",
-    "subline": "ZĽAVA",
+    "off": "ZĽAVA",
     "subtitle": "na vybrané položky",
     "button": "Nakupujte teraz"
   },
@@ -202,7 +202,7 @@
     "language": "sl",
     "eyebrowLTO": "Samo za omejen čas!",
     "eyebrowLC": "Zadnja priložnost!",
-    "subline": "POPUST",
+    "off": "POPUST",
     "subtitle": "na izbrane artikle",
     "button": "Nakupuj zdaj"
   },
@@ -211,7 +211,7 @@
     "language": "es",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -220,7 +220,7 @@
     "language": "sv",
     "eyebrowLTO": "Endast under begränsad tid!",
     "eyebrowLC": "Sista chansen!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "på utvalda varor",
     "button": "Handla nu"
   },
@@ -229,7 +229,7 @@
     "language": "th",
     "eyebrowLTO": "เฉพาะเวลาจำกัด!",
     "eyebrowLC": "โอกาสสุดท้าย!",
-    "subline": "ส่วนลด",
+    "off": "ส่วนลด",
     "subtitle": "สำหรับสินค้าที่เลือก",
     "button": "ช้อปเลย"
   },
@@ -238,7 +238,7 @@
     "language": "tr",
     "eyebrowLTO": "Sadece Sınırlı Bir Süre!",
     "eyebrowLC": "%20 İndirim için son şans!",
-    "subline": "İNDİRİM",
+    "off": "İNDİRİM",
     "subtitle": "seçili ürünlerde",
     "button": "Şimdi Alışveriş Yap"
   },
@@ -247,7 +247,7 @@
     "language": "vi",
     "eyebrowLTO": "Chỉ trong thời gian giới hạn!",
     "eyebrowLC": "Cơ hội cuối cùng!",
-    "subline": "GIẢM GIÁ",
+    "off": "GIẢM GIÁ",
     "subtitle": "cho các mặt hàng được chọn",
     "button": "Mua ngay"
   },
@@ -256,7 +256,7 @@
     "language": "zh",
     "eyebrowLTO": "限时优惠！",
     "eyebrowLC": "最后机会！",
-    "subline": "折扣",
+    "off": "折扣",
     "subtitle": "精选商品",
     "button": "立即购买"
   },
@@ -265,7 +265,7 @@
     "language": "en-AZ",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -274,7 +274,7 @@
     "language": "en-TN",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -283,7 +283,7 @@
     "language": "en-CL",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -292,7 +292,7 @@
     "language": "en-MY",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -301,7 +301,7 @@
     "language": "en-FO",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -310,7 +310,7 @@
     "language": "en-BN",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -319,7 +319,7 @@
     "language": "en-NG",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -328,7 +328,7 @@
     "language": "en-LB",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -337,7 +337,7 @@
     "language": "en-BW",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -346,7 +346,7 @@
     "language": "en-TW",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -355,7 +355,7 @@
     "language": "en-BD",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -364,7 +364,7 @@
     "language": "en-KW",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -373,7 +373,7 @@
     "language": "en-GG",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -382,7 +382,7 @@
     "language": "en-RS",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -391,7 +391,7 @@
     "language": "en-GT",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -400,7 +400,7 @@
     "language": "en-SE",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -409,7 +409,7 @@
     "language": "en-LV",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -418,7 +418,7 @@
     "language": "en-SV",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -427,7 +427,7 @@
     "language": "en-EE",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -436,7 +436,7 @@
     "language": "en-AW",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -445,7 +445,7 @@
     "language": "en-MT",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -454,7 +454,7 @@
     "language": "en-CR",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -463,7 +463,7 @@
     "language": "en-PH",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -472,7 +472,7 @@
     "language": "en-KZ",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -481,7 +481,7 @@
     "language": "en-TZ",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -490,7 +490,7 @@
     "language": "en-IL",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -499,7 +499,7 @@
     "language": "en-HN",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -508,7 +508,7 @@
     "language": "en-LK",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -517,7 +517,7 @@
     "language": "en-SK",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -526,7 +526,7 @@
     "language": "en-JO",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -535,7 +535,7 @@
     "language": "en-DZ",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -544,7 +544,7 @@
     "language": "en-CO",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -553,7 +553,7 @@
     "language": "en-PL",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -562,7 +562,7 @@
     "language": "en-MC",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -571,7 +571,7 @@
     "language": "en-PF",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -580,7 +580,7 @@
     "language": "en-TT",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -589,7 +589,7 @@
     "language": "en-KG",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -598,7 +598,7 @@
     "language": "en-BG",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -607,7 +607,7 @@
     "language": "en-SA",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -616,7 +616,7 @@
     "language": "en-JE",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -625,7 +625,7 @@
     "language": "en-VE",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -634,7 +634,7 @@
     "language": "en-MD",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -643,7 +643,7 @@
     "language": "en-GP",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -652,7 +652,7 @@
     "language": "en-AT",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -661,7 +661,7 @@
     "language": "en-FR",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -670,7 +670,7 @@
     "language": "en-LU",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -679,7 +679,7 @@
     "language": "en-NI",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -688,7 +688,7 @@
     "language": "en-CH",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -697,7 +697,7 @@
     "language": "en-GI",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -706,7 +706,7 @@
     "language": "en-KY",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -715,7 +715,7 @@
     "language": "en-AM",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -724,7 +724,7 @@
     "language": "en-PK",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -733,7 +733,7 @@
     "language": "en-IT",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -742,7 +742,7 @@
     "language": "en-GR",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -751,7 +751,7 @@
     "language": "en-MU",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -760,7 +760,7 @@
     "language": "en-AE",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -769,7 +769,7 @@
     "language": "en-INT",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -778,7 +778,7 @@
     "language": "en-QA",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -787,7 +787,7 @@
     "language": "en-NA",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -796,7 +796,7 @@
     "language": "en-US",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -805,7 +805,7 @@
     "language": "en-FI",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -814,7 +814,7 @@
     "language": "en-BH",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -823,7 +823,7 @@
     "language": "en-CY",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -832,7 +832,7 @@
     "language": "en-IM",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -841,7 +841,7 @@
     "language": "en-TH",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -850,7 +850,7 @@
     "language": "en-AO",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -859,7 +859,7 @@
     "language": "en-KH",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -868,7 +868,7 @@
     "language": "en-BO",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -877,7 +877,7 @@
     "language": "en-LI",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -886,7 +886,7 @@
     "language": "en-SI",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -895,7 +895,7 @@
     "language": "en-JM",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -904,7 +904,7 @@
     "language": "en-NL",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -913,7 +913,7 @@
     "language": "en-DK",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -922,7 +922,7 @@
     "language": "en-MX",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -931,7 +931,7 @@
     "language": "en-GL",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -940,7 +940,7 @@
     "language": "en-MK",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -949,7 +949,7 @@
     "language": "en-MA",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -958,7 +958,7 @@
     "language": "en-CG",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -967,7 +967,7 @@
     "language": "en-IS",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -976,7 +976,7 @@
     "language": "en-EC",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -985,7 +985,7 @@
     "language": "en-KE",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -994,7 +994,7 @@
     "language": "en-BE",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1003,7 +1003,7 @@
     "language": "en-UG",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1012,7 +1012,7 @@
     "language": "en-JP",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1021,7 +1021,7 @@
     "language": "en-DE",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1030,7 +1030,7 @@
     "language": "en-BR",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1039,7 +1039,7 @@
     "language": "en-HU",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1048,7 +1048,7 @@
     "language": "en-BA",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1057,7 +1057,7 @@
     "language": "en-SG",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1066,7 +1066,7 @@
     "language": "en-LT",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1075,7 +1075,7 @@
     "language": "en-EG",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1084,7 +1084,7 @@
     "language": "en-TR",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1093,7 +1093,7 @@
     "language": "en-KR",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1102,7 +1102,7 @@
     "language": "en-ME",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1111,7 +1111,7 @@
     "language": "en-MV",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1120,7 +1120,7 @@
     "language": "en-ID",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1129,7 +1129,7 @@
     "language": "en-PY",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1138,7 +1138,7 @@
     "language": "en-AL",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1147,7 +1147,7 @@
     "language": "en-RO",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1156,7 +1156,7 @@
     "language": "en-GH",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1165,7 +1165,7 @@
     "language": "en-CZ",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1174,7 +1174,7 @@
     "language": "en-VN",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1183,7 +1183,7 @@
     "language": "en-DO",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1192,7 +1192,7 @@
     "language": "en-FJ",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1201,7 +1201,7 @@
     "language": "en-OM",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1210,7 +1210,7 @@
     "language": "en-CN",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1219,7 +1219,7 @@
     "language": "en-NO",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1228,7 +1228,7 @@
     "language": "en-HK",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1237,7 +1237,7 @@
     "language": "en-HR",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1246,7 +1246,7 @@
     "language": "en-AR",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1255,7 +1255,7 @@
     "language": "en-PT",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1264,7 +1264,7 @@
     "language": "en-ES",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1273,7 +1273,7 @@
     "language": "en-GE",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1282,7 +1282,7 @@
     "language": "en-MQ",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1291,7 +1291,7 @@
     "language": "en-GB",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1300,7 +1300,7 @@
     "language": "en-AU",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1309,7 +1309,7 @@
     "language": "en-CA",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1318,7 +1318,7 @@
     "language": "en-IE",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1327,7 +1327,7 @@
     "language": "en-NZ",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1336,7 +1336,7 @@
     "language": "en-ZA",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1345,7 +1345,7 @@
     "language": "en-IN",
     "eyebrowLTO": "Limited Time Only!",
     "eyebrowLC": "Last Chance!",
-    "subline": "OFF",
+    "off": "OFF",
     "subtitle": "on select items",
     "button": "Shop Now"
   },
@@ -1354,7 +1354,7 @@
     "language": "de-CO",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1363,7 +1363,7 @@
     "language": "de-PL",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1372,7 +1372,7 @@
     "language": "de-SK",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1381,7 +1381,7 @@
     "language": "de-FR",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1390,7 +1390,7 @@
     "language": "de-LU",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1399,7 +1399,7 @@
     "language": "de-NZ",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1408,7 +1408,7 @@
     "language": "de-AD",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1417,7 +1417,7 @@
     "language": "de-SE",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1426,7 +1426,7 @@
     "language": "de-PH",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1435,7 +1435,7 @@
     "language": "de-GB",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1444,7 +1444,7 @@
     "language": "de-DE",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1453,7 +1453,7 @@
     "language": "de-BA",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1462,7 +1462,7 @@
     "language": "de-HU",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1471,7 +1471,7 @@
     "language": "de-DO",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1480,7 +1480,7 @@
     "language": "de-PY",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1489,7 +1489,7 @@
     "language": "de-CZ",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1498,7 +1498,7 @@
     "language": "de-RO",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1507,7 +1507,7 @@
     "language": "de-ES",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1516,7 +1516,7 @@
     "language": "de-PT",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1525,7 +1525,7 @@
     "language": "de-HR",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1534,7 +1534,7 @@
     "language": "de-US",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1543,7 +1543,7 @@
     "language": "de-GR",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1552,7 +1552,7 @@
     "language": "de-IT",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1561,7 +1561,7 @@
     "language": "de-TH",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1570,7 +1570,7 @@
     "language": "de-FI",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1579,7 +1579,7 @@
     "language": "de-SI",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1588,7 +1588,7 @@
     "language": "de-LI",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1597,7 +1597,7 @@
     "language": "de-NL",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1606,7 +1606,7 @@
     "language": "de-BE",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1615,7 +1615,7 @@
     "language": "de-CH",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1624,7 +1624,7 @@
     "language": "de-AT",
     "eyebrowLTO": "Nur für kurze Zeit!",
     "eyebrowLC": "Letzte Chance!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "auf ausgewählte Artikel",
     "button": "Jetzt einkaufen"
   },
@@ -1633,7 +1633,7 @@
     "language": "es-BE",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1642,7 +1642,7 @@
     "language": "es-MA",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1651,7 +1651,7 @@
     "language": "es-NL",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1660,7 +1660,7 @@
     "language": "es-DK",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1669,7 +1669,7 @@
     "language": "es-US",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1678,7 +1678,7 @@
     "language": "es-IT",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1687,7 +1687,7 @@
     "language": "es-ES",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1696,7 +1696,7 @@
     "language": "es-PT",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1705,7 +1705,7 @@
     "language": "es-DO",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1714,7 +1714,7 @@
     "language": "es-RO",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1723,7 +1723,7 @@
     "language": "es-GB",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1732,7 +1732,7 @@
     "language": "es-DE",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1741,7 +1741,7 @@
     "language": "es-BR",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1750,7 +1750,7 @@
     "language": "es-HU",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1759,7 +1759,7 @@
     "language": "es-HN",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1768,7 +1768,7 @@
     "language": "es-IL",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1777,7 +1777,7 @@
     "language": "es-CR",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1786,7 +1786,7 @@
     "language": "es-CA",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1795,7 +1795,7 @@
     "language": "es-SV",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1804,7 +1804,7 @@
     "language": "es-GT",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1813,7 +1813,7 @@
     "language": "es-CH",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1822,7 +1822,7 @@
     "language": "es-FR",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1831,7 +1831,7 @@
     "language": "es-IE",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1840,7 +1840,7 @@
     "language": "es-AT",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1849,7 +1849,7 @@
     "language": "es-PL",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1858,7 +1858,7 @@
     "language": "es-CO",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1867,7 +1867,7 @@
     "language": "es-MX",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1876,7 +1876,7 @@
     "language": "es-AR",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1885,7 +1885,7 @@
     "language": "es-CL",
     "eyebrowLTO": "¡Solo por tiempo limitado!",
     "eyebrowLC": "¡Última oportunidad!",
-    "subline": "DE DESCUENTO",
+    "off": "DE DESCUENTO",
     "subtitle": "en artículos seleccionados",
     "button": "Compra ahora"
   },
@@ -1894,7 +1894,7 @@
     "language": "it-CA",
     "eyebrowLTO": "Solo per un tempo limitato!",
     "eyebrowLC": "Ultima occasione!",
-    "subline": "DI SCONTO",
+    "off": "DI SCONTO",
     "subtitle": "su articoli selezionati",
     "button": "Acquista ora"
   },
@@ -1903,7 +1903,7 @@
     "language": "it-IE",
     "eyebrowLTO": "Solo per un tempo limitato!",
     "eyebrowLC": "Ultima occasione!",
-    "subline": "DI SCONTO",
+    "off": "DI SCONTO",
     "subtitle": "su articoli selezionati",
     "button": "Acquista ora"
   },
@@ -1912,7 +1912,7 @@
     "language": "it-FR",
     "eyebrowLTO": "Solo per un tempo limitato!",
     "eyebrowLC": "Ultima occasione!",
-    "subline": "DI SCONTO",
+    "off": "DI SCONTO",
     "subtitle": "su articoli selezionati",
     "button": "Acquista ora"
   },
@@ -1921,7 +1921,7 @@
     "language": "it-BG",
     "eyebrowLTO": "Solo per un tempo limitato!",
     "eyebrowLC": "Ultima occasione!",
-    "subline": "DI SCONTO",
+    "off": "DI SCONTO",
     "subtitle": "su articoli selezionati",
     "button": "Acquista ora"
   },
@@ -1930,7 +1930,7 @@
     "language": "it-CO",
     "eyebrowLTO": "Solo per un tempo limitato!",
     "eyebrowLC": "Ultima occasione!",
-    "subline": "DI SCONTO",
+    "off": "DI SCONTO",
     "subtitle": "su articoli selezionati",
     "button": "Acquista ora"
   },
@@ -1939,7 +1939,7 @@
     "language": "it-NL",
     "eyebrowLTO": "Solo per un tempo limitato!",
     "eyebrowLC": "Ultima occasione!",
-    "subline": "DI SCONTO",
+    "off": "DI SCONTO",
     "subtitle": "su articoli selezionati",
     "button": "Acquista ora"
   },
@@ -1948,7 +1948,7 @@
     "language": "it-SI",
     "eyebrowLTO": "Solo per un tempo limitato!",
     "eyebrowLC": "Ultima occasione!",
-    "subline": "DI SCONTO",
+    "off": "DI SCONTO",
     "subtitle": "su articoli selezionati",
     "button": "Acquista ora"
   },
@@ -1957,7 +1957,7 @@
     "language": "it-TH",
     "eyebrowLTO": "Solo per un tempo limitato!",
     "eyebrowLC": "Ultima occasione!",
-    "subline": "DI SCONTO",
+    "off": "DI SCONTO",
     "subtitle": "su articoli selezionati",
     "button": "Acquista ora"
   },
@@ -1966,7 +1966,7 @@
     "language": "it-AE",
     "eyebrowLTO": "Solo per un tempo limitato!",
     "eyebrowLC": "Ultima occasione!",
-    "subline": "DI SCONTO",
+    "off": "DI SCONTO",
     "subtitle": "su articoli selezionati",
     "button": "Acquista ora"
   },
@@ -1975,7 +1975,7 @@
     "language": "it-IT",
     "eyebrowLTO": "Solo per un tempo limitato!",
     "eyebrowLC": "Ultima occasione!",
-    "subline": "DI SCONTO",
+    "off": "DI SCONTO",
     "subtitle": "su articoli selezionati",
     "button": "Acquista ora"
   },
@@ -1984,7 +1984,7 @@
     "language": "it-GR",
     "eyebrowLTO": "Solo per un tempo limitato!",
     "eyebrowLC": "Ultima occasione!",
-    "subline": "DI SCONTO",
+    "off": "DI SCONTO",
     "subtitle": "su articoli selezionati",
     "button": "Acquista ora"
   },
@@ -1993,7 +1993,7 @@
     "language": "it-US",
     "eyebrowLTO": "Solo per un tempo limitato!",
     "eyebrowLC": "Ultima occasione!",
-    "subline": "DI SCONTO",
+    "off": "DI SCONTO",
     "subtitle": "su articoli selezionati",
     "button": "Acquista ora"
   },
@@ -2002,7 +2002,7 @@
     "language": "it-HR",
     "eyebrowLTO": "Solo per un tempo limitato!",
     "eyebrowLC": "Ultima occasione!",
-    "subline": "DI SCONTO",
+    "off": "DI SCONTO",
     "subtitle": "su articoli selezionati",
     "button": "Acquista ora"
   },
@@ -2011,7 +2011,7 @@
     "language": "it-RO",
     "eyebrowLTO": "Solo per un tempo limitato!",
     "eyebrowLC": "Ultima occasione!",
-    "subline": "DI SCONTO",
+    "off": "DI SCONTO",
     "subtitle": "su articoli selezionati",
     "button": "Acquista ora"
   },
@@ -2020,7 +2020,7 @@
     "language": "it-HU",
     "eyebrowLTO": "Solo per un tempo limitato!",
     "eyebrowLC": "Ultima occasione!",
-    "subline": "DI SCONTO",
+    "off": "DI SCONTO",
     "subtitle": "su articoli selezionati",
     "button": "Acquista ora"
   },
@@ -2029,7 +2029,7 @@
     "language": "it-BR",
     "eyebrowLTO": "Solo per un tempo limitato!",
     "eyebrowLC": "Ultima occasione!",
-    "subline": "DI SCONTO",
+    "off": "DI SCONTO",
     "subtitle": "su articoli selezionati",
     "button": "Acquista ora"
   },
@@ -2038,7 +2038,7 @@
     "language": "it-GB",
     "eyebrowLTO": "Solo per un tempo limitato!",
     "eyebrowLC": "Ultima occasione!",
-    "subline": "DI SCONTO",
+    "off": "DI SCONTO",
     "subtitle": "su articoli selezionati",
     "button": "Acquista ora"
   },
@@ -2047,7 +2047,7 @@
     "language": "it-CH",
     "eyebrowLTO": "Solo per un tempo limitato!",
     "eyebrowLC": "Ultima occasione!",
-    "subline": "DI SCONTO",
+    "off": "DI SCONTO",
     "subtitle": "su articoli selezionati",
     "button": "Acquista ora"
   },
@@ -2056,7 +2056,7 @@
     "language": "nl-IT",
     "eyebrowLTO": "Alleen voor beperkte tijd!",
     "eyebrowLC": "Laatste kans!",
-    "subline": "KORTING",
+    "off": "KORTING",
     "subtitle": "op geselecteerde artikelen",
     "button": "Nu winkelen"
   },
@@ -2065,7 +2065,7 @@
     "language": "nl-TH",
     "eyebrowLTO": "Alleen voor beperkte tijd!",
     "eyebrowLC": "Laatste kans!",
-    "subline": "KORTING",
+    "off": "KORTING",
     "subtitle": "op geselecteerde artikelen",
     "button": "Nu winkelen"
   },
@@ -2074,7 +2074,7 @@
     "language": "nl-DK",
     "eyebrowLTO": "Alleen voor beperkte tijd!",
     "eyebrowLC": "Laatste kans!",
-    "subline": "KORTING",
+    "off": "KORTING",
     "subtitle": "op geselecteerde artikelen",
     "button": "Nu winkelen"
   },
@@ -2083,7 +2083,7 @@
     "language": "nl-NL",
     "eyebrowLTO": "Alleen voor beperkte tijd!",
     "eyebrowLC": "Laatste kans!",
-    "subline": "KORTING",
+    "off": "KORTING",
     "subtitle": "op geselecteerde artikelen",
     "button": "Nu winkelen"
   },
@@ -2092,7 +2092,7 @@
     "language": "nl-GB",
     "eyebrowLTO": "Alleen voor beperkte tijd!",
     "eyebrowLC": "Laatste kans!",
-    "subline": "KORTING",
+    "off": "KORTING",
     "subtitle": "op geselecteerde artikelen",
     "button": "Nu winkelen"
   },
@@ -2101,7 +2101,7 @@
     "language": "nl-PT",
     "eyebrowLTO": "Alleen voor beperkte tijd!",
     "eyebrowLC": "Laatste kans!",
-    "subline": "KORTING",
+    "off": "KORTING",
     "subtitle": "op geselecteerde artikelen",
     "button": "Nu winkelen"
   },
@@ -2110,7 +2110,7 @@
     "language": "nl-ES",
     "eyebrowLTO": "Alleen voor beperkte tijd!",
     "eyebrowLC": "Laatste kans!",
-    "subline": "KORTING",
+    "off": "KORTING",
     "subtitle": "op geselecteerde artikelen",
     "button": "Nu winkelen"
   },
@@ -2119,7 +2119,7 @@
     "language": "nl-PL",
     "eyebrowLTO": "Alleen voor beperkte tijd!",
     "eyebrowLC": "Laatste kans!",
-    "subline": "KORTING",
+    "off": "KORTING",
     "subtitle": "op geselecteerde artikelen",
     "button": "Nu winkelen"
   },
@@ -2128,7 +2128,7 @@
     "language": "nl-FR",
     "eyebrowLTO": "Alleen voor beperkte tijd!",
     "eyebrowLC": "Laatste kans!",
-    "subline": "KORTING",
+    "off": "KORTING",
     "subtitle": "op geselecteerde artikelen",
     "button": "Nu winkelen"
   },
@@ -2137,7 +2137,7 @@
     "language": "nl-BE",
     "eyebrowLTO": "Alleen voor beperkte tijd!",
     "eyebrowLC": "Laatste kans!",
-    "subline": "KORTING",
+    "off": "KORTING",
     "subtitle": "op geselecteerde artikelen",
     "button": "Nu winkelen"
   },
@@ -2146,7 +2146,7 @@
     "language": "fr-MC",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2155,7 +2155,7 @@
     "language": "fr-PF",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2164,7 +2164,7 @@
     "language": "fr-BG",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2173,7 +2173,7 @@
     "language": "fr-SK",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2182,7 +2182,7 @@
     "language": "fr-GP",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2191,7 +2191,7 @@
     "language": "fr-FR",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2200,7 +2200,7 @@
     "language": "fr-LU",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2209,7 +2209,7 @@
     "language": "fr-NC",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2218,7 +2218,7 @@
     "language": "fr-IL",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2227,7 +2227,7 @@
     "language": "fr-MG",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2236,7 +2236,7 @@
     "language": "fr-DE",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2245,7 +2245,7 @@
     "language": "fr-GB",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2254,7 +2254,7 @@
     "language": "fr-ES",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2263,7 +2263,7 @@
     "language": "fr-PT",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2272,7 +2272,7 @@
     "language": "fr-MQ",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2281,7 +2281,7 @@
     "language": "fr-NO",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2290,7 +2290,7 @@
     "language": "fr-TH",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2299,7 +2299,7 @@
     "language": "fr-IT",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2308,7 +2308,7 @@
     "language": "fr-US",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2317,7 +2317,7 @@
     "language": "fr-MA",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2326,7 +2326,7 @@
     "language": "fr-NL",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2335,7 +2335,7 @@
     "language": "fr-BE",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2344,7 +2344,7 @@
     "language": "fr-CA",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2353,7 +2353,7 @@
     "language": "fr-CH",
     "eyebrowLTO": "Offre à durée limitée !",
     "eyebrowLC": "Dernière opportunité!",
-    "subline": "DE RÉDUCTION",
+    "off": "DE RÉDUCTION",
     "subtitle": "sur une sélection d'articles",
     "button": "Acheter maintenant"
   },
@@ -2362,7 +2362,7 @@
     "language": "hu-SK",
     "eyebrowLTO": "Csak korlátozott ideig!",
     "eyebrowLC": "Utolsó esély!",
-    "subline": "KEDVEZMÉNY",
+    "off": "KEDVEZMÉNY",
     "subtitle": "kiválasztott termékekre",
     "button": "Vásárolj most"
   },
@@ -2371,7 +2371,7 @@
     "language": "hu-LK",
     "eyebrowLTO": "Csak korlátozott ideig!",
     "eyebrowLC": "Utolsó esély!",
-    "subline": "KEDVEZMÉNY",
+    "off": "KEDVEZMÉNY",
     "subtitle": "kiválasztott termékekre",
     "button": "Vásárolj most"
   },
@@ -2380,7 +2380,7 @@
     "language": "hu-AT",
     "eyebrowLTO": "Csak korlátozott ideig!",
     "eyebrowLC": "Utolsó esély!",
-    "subline": "KEDVEZMÉNY",
+    "off": "KEDVEZMÉNY",
     "subtitle": "kiválasztott termékekre",
     "button": "Vásárolj most"
   },
@@ -2389,7 +2389,7 @@
     "language": "hu-CH",
     "eyebrowLTO": "Csak korlátozott ideig!",
     "eyebrowLC": "Utolsó esély!",
-    "subline": "KEDVEZMÉNY",
+    "off": "KEDVEZMÉNY",
     "subtitle": "kiválasztott termékekre",
     "button": "Vásárolj most"
   },
@@ -2398,7 +2398,7 @@
     "language": "hu-HU",
     "eyebrowLTO": "Csak korlátozott ideig!",
     "eyebrowLC": "Utolsó esély!",
-    "subline": "KEDVEZMÉNY",
+    "off": "KEDVEZMÉNY",
     "subtitle": "kiválasztott termékekre",
     "button": "Vásárolj most"
   },
@@ -2407,7 +2407,7 @@
     "language": "hu-DE",
     "eyebrowLTO": "Csak korlátozott ideig!",
     "eyebrowLC": "Utolsó esély!",
-    "subline": "KEDVEZMÉNY",
+    "off": "KEDVEZMÉNY",
     "subtitle": "kiválasztott termékekre",
     "button": "Vásárolj most"
   },
@@ -2416,7 +2416,7 @@
     "language": "hu-RO",
     "eyebrowLTO": "Csak korlátozott ideig!",
     "eyebrowLC": "Utolsó esély!",
-    "subline": "KEDVEZMÉNY",
+    "off": "KEDVEZMÉNY",
     "subtitle": "kiválasztott termékekre",
     "button": "Vásárolj most"
   },
@@ -2425,7 +2425,7 @@
     "language": "hu-NO",
     "eyebrowLTO": "Csak korlátozott ideig!",
     "eyebrowLC": "Utolsó esély!",
-    "subline": "KEDVEZMÉNY",
+    "off": "KEDVEZMÉNY",
     "subtitle": "kiválasztott termékekre",
     "button": "Vásárolj most"
   },
@@ -2434,7 +2434,7 @@
     "language": "hu-ES",
     "eyebrowLTO": "Csak korlátozott ideig!",
     "eyebrowLC": "Utolsó esély!",
-    "subline": "KEDVEZMÉNY",
+    "off": "KEDVEZMÉNY",
     "subtitle": "kiválasztott termékekre",
     "button": "Vásárolj most"
   },
@@ -2443,7 +2443,7 @@
     "language": "hu-IT",
     "eyebrowLTO": "Csak korlátozott ideig!",
     "eyebrowLC": "Utolsó esély!",
-    "subline": "KEDVEZMÉNY",
+    "off": "KEDVEZMÉNY",
     "subtitle": "kiválasztott termékekre",
     "button": "Vásárolj most"
   },
@@ -2452,7 +2452,7 @@
     "language": "sv-FI",
     "eyebrowLTO": "Endast under begränsad tid!",
     "eyebrowLC": "Sista chansen!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "på utvalda varor",
     "button": "Handla nu"
   },
@@ -2461,7 +2461,7 @@
     "language": "sv-IT",
     "eyebrowLTO": "Endast under begränsad tid!",
     "eyebrowLC": "Sista chansen!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "på utvalda varor",
     "button": "Handla nu"
   },
@@ -2470,7 +2470,7 @@
     "language": "sv-DE",
     "eyebrowLTO": "Endast under begränsad tid!",
     "eyebrowLC": "Sista chansen!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "på utvalda varor",
     "button": "Handla nu"
   },
@@ -2479,7 +2479,7 @@
     "language": "sv-ES",
     "eyebrowLTO": "Endast under begränsad tid!",
     "eyebrowLC": "Sista chansen!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "på utvalda varor",
     "button": "Handla nu"
   },
@@ -2488,7 +2488,7 @@
     "language": "sv-NO",
     "eyebrowLTO": "Endast under begränsad tid!",
     "eyebrowLC": "Sista chansen!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "på utvalda varor",
     "button": "Handla nu"
   },
@@ -2497,7 +2497,7 @@
     "language": "sv-LV",
     "eyebrowLTO": "Endast under begränsad tid!",
     "eyebrowLC": "Sista chansen!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "på utvalda varor",
     "button": "Handla nu"
   },
@@ -2506,7 +2506,7 @@
     "language": "sv-SE",
     "eyebrowLTO": "Endast under begränsad tid!",
     "eyebrowLC": "Sista chansen!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "på utvalda varor",
     "button": "Handla nu"
   },
@@ -2515,7 +2515,7 @@
     "language": "sv-FR",
     "eyebrowLTO": "Endast under begränsad tid!",
     "eyebrowLC": "Sista chansen!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "på utvalda varor",
     "button": "Handla nu"
   },
@@ -2524,7 +2524,7 @@
     "language": "pt-CA",
     "eyebrowLTO": "Só por tempo limitado!",
     "eyebrowLC": "Última chance!",
-    "subline": "DE DESCONTO",
+    "off": "DE DESCONTO",
     "subtitle": "em itens selecionados",
     "button": "Compre agora"
   },
@@ -2533,7 +2533,7 @@
     "language": "pt-IE",
     "eyebrowLTO": "Só por tempo limitado!",
     "eyebrowLC": "Última chance!",
-    "subline": "DE DESCONTO",
+    "off": "DE DESCONTO",
     "subtitle": "em itens selecionados",
     "button": "Compre agora"
   },
@@ -2542,7 +2542,7 @@
     "language": "pt-FR",
     "eyebrowLTO": "Só por tempo limitado!",
     "eyebrowLC": "Última chance!",
-    "subline": "DE DESCONTO",
+    "off": "DE DESCONTO",
     "subtitle": "em itens selecionados",
     "button": "Compre agora"
   },
@@ -2551,7 +2551,7 @@
     "language": "pt-NZ",
     "eyebrowLTO": "Só por tempo limitado!",
     "eyebrowLC": "Última chance!",
-    "subline": "DE DESCONTO",
+    "off": "DE DESCONTO",
     "subtitle": "em itens selecionados",
     "button": "Compre agora"
   },
@@ -2560,7 +2560,7 @@
     "language": "pt-CH",
     "eyebrowLTO": "Só por tempo limitado!",
     "eyebrowLC": "Última chance!",
-    "subline": "DE DESCONTO",
+    "off": "DE DESCONTO",
     "subtitle": "em itens selecionados",
     "button": "Compre agora"
   },
@@ -2569,7 +2569,7 @@
     "language": "pt-CO",
     "eyebrowLTO": "Só por tempo limitado!",
     "eyebrowLC": "Última chance!",
-    "subline": "DE DESCONTO",
+    "off": "DE DESCONTO",
     "subtitle": "em itens selecionados",
     "button": "Compre agora"
   },
@@ -2578,7 +2578,7 @@
     "language": "pt-DK",
     "eyebrowLTO": "Só por tempo limitado!",
     "eyebrowLC": "Última chance!",
-    "subline": "DE DESCONTO",
+    "off": "DE DESCONTO",
     "subtitle": "em itens selecionados",
     "button": "Compre agora"
   },
@@ -2587,7 +2587,7 @@
     "language": "pt-NL",
     "eyebrowLTO": "Só por tempo limitado!",
     "eyebrowLC": "Última chance!",
-    "subline": "DE DESCONTO",
+    "off": "DE DESCONTO",
     "subtitle": "em itens selecionados",
     "button": "Compre agora"
   },
@@ -2596,7 +2596,7 @@
     "language": "pt-IT",
     "eyebrowLTO": "Só por tempo limitado!",
     "eyebrowLC": "Última chance!",
-    "subline": "DE DESCONTO",
+    "off": "DE DESCONTO",
     "subtitle": "em itens selecionados",
     "button": "Compre agora"
   },
@@ -2605,7 +2605,7 @@
     "language": "pt-US",
     "eyebrowLTO": "Só por tempo limitado!",
     "eyebrowLC": "Última chance!",
-    "subline": "DE DESCONTO",
+    "off": "DE DESCONTO",
     "subtitle": "em itens selecionados",
     "button": "Compre agora"
   },
@@ -2614,7 +2614,7 @@
     "language": "pt-ES",
     "eyebrowLTO": "Só por tempo limitado!",
     "eyebrowLC": "Última chance!",
-    "subline": "DE DESCONTO",
+    "off": "DE DESCONTO",
     "subtitle": "em itens selecionados",
     "button": "Compre agora"
   },
@@ -2623,7 +2623,7 @@
     "language": "pt-BR",
     "eyebrowLTO": "Só por tempo limitado!",
     "eyebrowLC": "Última chance!",
-    "subline": "DE DESCONTO",
+    "off": "DE DESCONTO",
     "subtitle": "em itens selecionados",
     "button": "Compre agora"
   },
@@ -2632,7 +2632,7 @@
     "language": "pt-DE",
     "eyebrowLTO": "Só por tempo limitado!",
     "eyebrowLC": "Última chance!",
-    "subline": "DE DESCONTO",
+    "off": "DE DESCONTO",
     "subtitle": "em itens selecionados",
     "button": "Compre agora"
   },
@@ -2641,7 +2641,7 @@
     "language": "pt-GB",
     "eyebrowLTO": "Só por tempo limitado!",
     "eyebrowLC": "Última chance!",
-    "subline": "DE DESCONTO",
+    "off": "DE DESCONTO",
     "subtitle": "em itens selecionados",
     "button": "Compre agora"
   },
@@ -2650,7 +2650,7 @@
     "language": "pt-PY",
     "eyebrowLTO": "Só por tempo limitado!",
     "eyebrowLC": "Última chance!",
-    "subline": "DE DESCONTO",
+    "off": "DE DESCONTO",
     "subtitle": "em itens selecionados",
     "button": "Compre agora"
   },
@@ -2659,7 +2659,7 @@
     "language": "pt-PT",
     "eyebrowLTO": "Só por tempo limitado!",
     "eyebrowLC": "Última chance!",
-    "subline": "DE DESCONTO",
+    "off": "DE DESCONTO",
     "subtitle": "em itens selecionados",
     "button": "Compre agora"
   },
@@ -2668,7 +2668,7 @@
     "language": "da-SE",
     "eyebrowLTO": "Kun i begrænset tid!",
     "eyebrowLC": "Sidste chance!",
-    "subline": "RABAT",
+    "off": "RABAT",
     "subtitle": "på udvalgte varer",
     "button": "Shop nu"
   },
@@ -2677,7 +2677,7 @@
     "language": "da-LV",
     "eyebrowLTO": "Kun i begrænset tid!",
     "eyebrowLC": "Sidste chance!",
-    "subline": "RABAT",
+    "off": "RABAT",
     "subtitle": "på udvalgte varer",
     "button": "Shop nu"
   },
@@ -2686,7 +2686,7 @@
     "language": "da-LU",
     "eyebrowLTO": "Kun i begrænset tid!",
     "eyebrowLC": "Sidste chance!",
-    "subline": "RABAT",
+    "off": "RABAT",
     "subtitle": "på udvalgte varer",
     "button": "Shop nu"
   },
@@ -2695,7 +2695,7 @@
     "language": "da-DK",
     "eyebrowLTO": "Kun i begrænset tid!",
     "eyebrowLC": "Sidste chance!",
-    "subline": "RABAT",
+    "off": "RABAT",
     "subtitle": "på udvalgte varer",
     "button": "Shop nu"
   },
@@ -2704,7 +2704,7 @@
     "language": "da-TH",
     "eyebrowLTO": "Kun i begrænset tid!",
     "eyebrowLC": "Sidste chance!",
-    "subline": "RABAT",
+    "off": "RABAT",
     "subtitle": "på udvalgte varer",
     "button": "Shop nu"
   },
@@ -2713,7 +2713,7 @@
     "language": "da-HR",
     "eyebrowLTO": "Kun i begrænset tid!",
     "eyebrowLC": "Sidste chance!",
-    "subline": "RABAT",
+    "off": "RABAT",
     "subtitle": "på udvalgte varer",
     "button": "Shop nu"
   },
@@ -2722,7 +2722,7 @@
     "language": "ro-IL",
     "eyebrowLTO": "Doar pentru o perioadă limitată!",
     "eyebrowLC": "Ultima șansă!",
-    "subline": "REDUCERE",
+    "off": "REDUCERE",
     "subtitle": "la articole selectate",
     "button": "Cumpără acum"
   },
@@ -2731,7 +2731,7 @@
     "language": "ro-CH",
     "eyebrowLTO": "Doar pentru o perioadă limitată!",
     "eyebrowLC": "Ultima șansă!",
-    "subline": "REDUCERE",
+    "off": "REDUCERE",
     "subtitle": "la articole selectate",
     "button": "Cumpără acum"
   },
@@ -2740,7 +2740,7 @@
     "language": "ro-AT",
     "eyebrowLTO": "Doar pentru o perioadă limitată!",
     "eyebrowLC": "Ultima șansă!",
-    "subline": "REDUCERE",
+    "off": "REDUCERE",
     "subtitle": "la articole selectate",
     "button": "Cumpără acum"
   },
@@ -2749,7 +2749,7 @@
     "language": "ro-MD",
     "eyebrowLTO": "Doar pentru o perioadă limitată!",
     "eyebrowLC": "Ultima șansă!",
-    "subline": "REDUCERE",
+    "off": "REDUCERE",
     "subtitle": "la articole selectate",
     "button": "Cumpără acum"
   },
@@ -2758,7 +2758,7 @@
     "language": "ro-US",
     "eyebrowLTO": "Doar pentru o perioadă limitată!",
     "eyebrowLC": "Ultima șansă!",
-    "subline": "REDUCERE",
+    "off": "REDUCERE",
     "subtitle": "la articole selectate",
     "button": "Cumpără acum"
   },
@@ -2767,7 +2767,7 @@
     "language": "ro-IT",
     "eyebrowLTO": "Doar pentru o perioadă limitată!",
     "eyebrowLC": "Ultima șansă!",
-    "subline": "REDUCERE",
+    "off": "REDUCERE",
     "subtitle": "la articole selectate",
     "button": "Cumpără acum"
   },
@@ -2776,7 +2776,7 @@
     "language": "ro-NL",
     "eyebrowLTO": "Doar pentru o perioadă limitată!",
     "eyebrowLC": "Ultima șansă!",
-    "subline": "REDUCERE",
+    "off": "REDUCERE",
     "subtitle": "la articole selectate",
     "button": "Cumpără acum"
   },
@@ -2785,7 +2785,7 @@
     "language": "ro-RO",
     "eyebrowLTO": "Doar pentru o perioadă limitată!",
     "eyebrowLC": "Ultima șansă!",
-    "subline": "REDUCERE",
+    "off": "REDUCERE",
     "subtitle": "la articole selectate",
     "button": "Cumpără acum"
   },
@@ -2794,7 +2794,7 @@
     "language": "no-GB",
     "eyebrowLTO": "Kun i en begrenset periode!",
     "eyebrowLC": "Siste sjanse!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "på utvalgte varer",
     "button": "Handle nå"
   },
@@ -2803,7 +2803,7 @@
     "language": "no-ET",
     "eyebrowLTO": "Kun i en begrenset periode!",
     "eyebrowLC": "Siste sjanse!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "på utvalgte varer",
     "button": "Handle nå"
   },
@@ -2812,7 +2812,7 @@
     "language": "no-DE",
     "eyebrowLTO": "Kun i en begrenset periode!",
     "eyebrowLC": "Siste sjanse!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "på utvalgte varer",
     "button": "Handle nå"
   },
@@ -2821,7 +2821,7 @@
     "language": "no-NO",
     "eyebrowLTO": "Kun i en begrenset periode!",
     "eyebrowLC": "Siste sjanse!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "på utvalgte varer",
     "button": "Handle nå"
   },
@@ -2830,7 +2830,7 @@
     "language": "no-US",
     "eyebrowLTO": "Kun i en begrenset periode!",
     "eyebrowLC": "Siste sjanse!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "på utvalgte varer",
     "button": "Handle nå"
   },
@@ -2839,7 +2839,7 @@
     "language": "no-PL",
     "eyebrowLTO": "Kun i en begrenset periode!",
     "eyebrowLC": "Siste sjanse!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "på utvalgte varer",
     "button": "Handle nå"
   },
@@ -2848,7 +2848,7 @@
     "language": "no-CO",
     "eyebrowLTO": "Kun i en begrenset periode!",
     "eyebrowLC": "Siste sjanse!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "på utvalgte varer",
     "button": "Handle nå"
   },
@@ -2857,7 +2857,7 @@
     "language": "no-PH",
     "eyebrowLTO": "Kun i en begrenset periode!",
     "eyebrowLC": "Siste sjanse!",
-    "subline": "RABATT",
+    "off": "RABATT",
     "subtitle": "på utvalgte varer",
     "button": "Handle nå"
   },
@@ -2866,7 +2866,7 @@
     "language": "zh-CHT",
     "eyebrowLTO": "限时优惠！",
     "eyebrowLC": "最后机会！",
-    "subline": "折扣",
+    "off": "折扣",
     "subtitle": "精选商品",
     "button": "立即购买"
   },
@@ -2875,7 +2875,7 @@
     "language": "zh-CA",
     "eyebrowLTO": "限时优惠！",
     "eyebrowLC": "最后机会！",
-    "subline": "折扣",
+    "off": "折扣",
     "subtitle": "精选商品",
     "button": "立即购买"
   },
@@ -2884,7 +2884,7 @@
     "language": "zh-CHS",
     "eyebrowLTO": "限时优惠！",
     "eyebrowLC": "最后机会！",
-    "subline": "折扣",
+    "off": "折扣",
     "subtitle": "精选商品",
     "button": "立即购买"
   },
@@ -2893,7 +2893,7 @@
     "language": "zh-NZ",
     "eyebrowLTO": "限时优惠！",
     "eyebrowLC": "最后机会！",
-    "subline": "折扣",
+    "off": "折扣",
     "subtitle": "精选商品",
     "button": "立即购买"
   },
@@ -2902,7 +2902,7 @@
     "language": "zh-US",
     "eyebrowLTO": "限时优惠！",
     "eyebrowLC": "最后机会！",
-    "subline": "折扣",
+    "off": "折扣",
     "subtitle": "精选商品",
     "button": "立即购买"
   },
@@ -2911,7 +2911,7 @@
     "language": "zh-CN",
     "eyebrowLTO": "限时优惠！",
     "eyebrowLC": "最后机会！",
-    "subline": "折扣",
+    "off": "折扣",
     "subtitle": "精选商品",
     "button": "立即购买"
   },
@@ -2920,7 +2920,7 @@
     "language": "zh-TW",
     "eyebrowLTO": "限时优惠！",
     "eyebrowLC": "最后机会！",
-    "subline": "折扣",
+    "off": "折扣",
     "subtitle": "精选商品",
     "button": "立即购买"
   },
@@ -2929,7 +2929,7 @@
     "language": "zh-MO",
     "eyebrowLTO": "限时优惠！",
     "eyebrowLC": "最后机会！",
-    "subline": "折扣",
+    "off": "折扣",
     "subtitle": "精选商品",
     "button": "立即购买"
   },
@@ -2938,7 +2938,7 @@
     "language": "zh-HK",
     "eyebrowLTO": "限时优惠！",
     "eyebrowLC": "最后机会！",
-    "subline": "折扣",
+    "off": "折扣",
     "subtitle": "精选商品",
     "button": "立即购买"
   },
@@ -2947,7 +2947,7 @@
     "language": "th-TH",
     "eyebrowLTO": "เฉพาะเวลาจำกัด!",
     "eyebrowLC": "โอกาสสุดท้าย!",
-    "subline": "ส่วนลด",
+    "off": "ส่วนลด",
     "subtitle": "สำหรับสินค้าที่เลือก",
     "button": "ช้อปเลย"
   },
@@ -2956,7 +2956,7 @@
     "language": "pl-GB",
     "eyebrowLTO": "Tylko przez ograniczony czas!",
     "eyebrowLC": "Ostatnia szansa!",
-    "subline": "RABATU",
+    "off": "RABATU",
     "subtitle": "na wybrane produkty",
     "button": "Kup teraz"
   },
@@ -2965,7 +2965,7 @@
     "language": "pl-DE",
     "eyebrowLTO": "Tylko przez ograniczony czas!",
     "eyebrowLC": "Ostatnia szansa!",
-    "subline": "RABATU",
+    "off": "RABATU",
     "subtitle": "na wybrane produkty",
     "button": "Kup teraz"
   },
@@ -2974,7 +2974,7 @@
     "language": "pl-PT",
     "eyebrowLTO": "Tylko przez ograniczony czas!",
     "eyebrowLC": "Ostatnia szansa!",
-    "subline": "RABATU",
+    "off": "RABATU",
     "subtitle": "na wybrane produkty",
     "button": "Kup teraz"
   },
@@ -2983,7 +2983,7 @@
     "language": "pl-TH",
     "eyebrowLTO": "Tylko przez ograniczony czas!",
     "eyebrowLC": "Ostatnia szansa!",
-    "subline": "RABATU",
+    "off": "RABATU",
     "subtitle": "na wybrane produkty",
     "button": "Kup teraz"
   },
@@ -2992,7 +2992,7 @@
     "language": "pl-FI",
     "eyebrowLTO": "Tylko przez ograniczony czas!",
     "eyebrowLC": "Ostatnia szansa!",
-    "subline": "RABATU",
+    "off": "RABATU",
     "subtitle": "na wybrane produkty",
     "button": "Kup teraz"
   },
@@ -3001,7 +3001,7 @@
     "language": "pl-US",
     "eyebrowLTO": "Tylko przez ograniczony czas!",
     "eyebrowLC": "Ostatnia szansa!",
-    "subline": "RABATU",
+    "off": "RABATU",
     "subtitle": "na wybrane produkty",
     "button": "Kup teraz"
   },
@@ -3010,7 +3010,7 @@
     "language": "pl-GR",
     "eyebrowLTO": "Tylko przez ograniczony czas!",
     "eyebrowLC": "Ostatnia szansa!",
-    "subline": "RABATU",
+    "off": "RABATU",
     "subtitle": "na wybrane produkty",
     "button": "Kup teraz"
   },
@@ -3019,7 +3019,7 @@
     "language": "pl-NL",
     "eyebrowLTO": "Tylko przez ograniczony czas!",
     "eyebrowLC": "Ostatnia szansa!",
-    "subline": "RABATU",
+    "off": "RABATU",
     "subtitle": "na wybrane produkty",
     "button": "Kup teraz"
   },
@@ -3028,7 +3028,7 @@
     "language": "pl-DK",
     "eyebrowLTO": "Tylko przez ograniczony czas!",
     "eyebrowLC": "Ostatnia szansa!",
-    "subline": "RABATU",
+    "off": "RABATU",
     "subtitle": "na wybrane produkty",
     "button": "Kup teraz"
   },
@@ -3037,7 +3037,7 @@
     "language": "pl-PL",
     "eyebrowLTO": "Tylko przez ograniczony czas!",
     "eyebrowLC": "Ostatnia szansa!",
-    "subline": "RABATU",
+    "off": "RABATU",
     "subtitle": "na wybrane produkty",
     "button": "Kup teraz"
   },
@@ -3046,7 +3046,7 @@
     "language": "pl-CH",
     "eyebrowLTO": "Tylko przez ograniczony czas!",
     "eyebrowLC": "Ostatnia szansa!",
-    "subline": "RABATU",
+    "off": "RABATU",
     "subtitle": "na wybrane produkty",
     "button": "Kup teraz"
   },
@@ -3055,7 +3055,7 @@
     "language": "pl-IE",
     "eyebrowLTO": "Tylko przez ograniczony czas!",
     "eyebrowLC": "Ostatnia szansa!",
-    "subline": "RABATU",
+    "off": "RABATU",
     "subtitle": "na wybrane produkty",
     "button": "Kup teraz"
   },
@@ -3064,7 +3064,7 @@
     "language": "pl-SE",
     "eyebrowLTO": "Tylko przez ograniczony czas!",
     "eyebrowLC": "Ostatnia szansa!",
-    "subline": "RABATU",
+    "off": "RABATU",
     "subtitle": "na wybrane produkty",
     "button": "Kup teraz"
   },
@@ -3073,7 +3073,7 @@
     "language": "fi-NO",
     "eyebrowLTO": "Vain rajoitetun ajan!",
     "eyebrowLC": "Viimeinen mahdollisuus!",
-    "subline": "ALE",
+    "off": "ALE",
     "subtitle": "valituista tuotteista",
     "button": "Osta nyt"
   },
@@ -3082,7 +3082,7 @@
     "language": "fi-GB",
     "eyebrowLTO": "Vain rajoitetun ajan!",
     "eyebrowLC": "Viimeinen mahdollisuus!",
-    "subline": "ALE",
+    "off": "ALE",
     "subtitle": "valituista tuotteista",
     "button": "Osta nyt"
   },
@@ -3091,7 +3091,7 @@
     "language": "fi-TH",
     "eyebrowLTO": "Vain rajoitetun ajan!",
     "eyebrowLC": "Viimeinen mahdollisuus!",
-    "subline": "ALE",
+    "off": "ALE",
     "subtitle": "valituista tuotteista",
     "button": "Osta nyt"
   },
@@ -3100,7 +3100,7 @@
     "language": "fi-FI",
     "eyebrowLTO": "Vain rajoitetun ajan!",
     "eyebrowLC": "Viimeinen mahdollisuus!",
-    "subline": "ALE",
+    "off": "ALE",
     "subtitle": "valituista tuotteista",
     "button": "Osta nyt"
   },
@@ -3109,7 +3109,7 @@
     "language": "fi-EE",
     "eyebrowLTO": "Vain rajoitetun ajan!",
     "eyebrowLC": "Viimeinen mahdollisuus!",
-    "subline": "ALE",
+    "off": "ALE",
     "subtitle": "valituista tuotteista",
     "button": "Osta nyt"
   },
@@ -3118,7 +3118,7 @@
     "language": "sk-CH",
     "eyebrowLTO": "Len na obmedzený čas!",
     "eyebrowLC": "Posledná šanca!",
-    "subline": "ZĽAVA",
+    "off": "ZĽAVA",
     "subtitle": "na vybrané položky",
     "button": "Nakupujte teraz"
   },
@@ -3127,7 +3127,7 @@
     "language": "sk-SK",
     "eyebrowLTO": "Len na obmedzený čas!",
     "eyebrowLC": "Posledná šanca!",
-    "subline": "ZĽAVA",
+    "off": "ZĽAVA",
     "subtitle": "na vybrané položky",
     "button": "Nakupujte teraz"
   },
@@ -3136,7 +3136,7 @@
     "language": "sk-NL",
     "eyebrowLTO": "Len na obmedzený čas!",
     "eyebrowLC": "Posledná šanca!",
-    "subline": "ZĽAVA",
+    "off": "ZĽAVA",
     "subtitle": "na vybrané položky",
     "button": "Nakupujte teraz"
   },
@@ -3145,7 +3145,7 @@
     "language": "sk-CZ",
     "eyebrowLTO": "Len na obmedzený čas!",
     "eyebrowLC": "Posledná šanca!",
-    "subline": "ZĽAVA",
+    "off": "ZĽAVA",
     "subtitle": "na vybrané položky",
     "button": "Nakupujte teraz"
   },
@@ -3154,7 +3154,7 @@
     "language": "ko-KR",
     "eyebrowLTO": "한정 기간만!",
     "eyebrowLC": "마지막 기회!",
-    "subline": "할인",
+    "off": "할인",
     "subtitle": "일부 품목 한정",
     "button": "지금 쇼핑하기"
   },
@@ -3163,7 +3163,7 @@
     "language": "ru-GR",
     "eyebrowLTO": "Только ограниченное время!",
     "eyebrowLC": "Последний шанс!",
-    "subline": "СКИДКА",
+    "off": "СКИДКА",
     "subtitle": "на выбранные товары",
     "button": "Купить сейчас"
   },
@@ -3172,7 +3172,7 @@
     "language": "ru-US",
     "eyebrowLTO": "Только ограниченное время!",
     "eyebrowLC": "Последний шанс!",
-    "subline": "СКИДКА",
+    "off": "СКИДКА",
     "subtitle": "на выбранные товары",
     "button": "Купить сейчас"
   },
@@ -3181,7 +3181,7 @@
     "language": "ru-TH",
     "eyebrowLTO": "Только ограниченное время!",
     "eyebrowLC": "Последний шанс!",
-    "subline": "СКИДКА",
+    "off": "СКИДКА",
     "subtitle": "на выбранные товары",
     "button": "Купить сейчас"
   },
@@ -3190,7 +3190,7 @@
     "language": "ru-NL",
     "eyebrowLTO": "Только ограниченное время!",
     "eyebrowLC": "Последний шанс!",
-    "subline": "СКИДКА",
+    "off": "СКИДКА",
     "subtitle": "на выбранные товары",
     "button": "Купить сейчас"
   },
@@ -3199,7 +3199,7 @@
     "language": "ru-BE",
     "eyebrowLTO": "Только ограниченное время!",
     "eyebrowLC": "Последний шанс!",
-    "subline": "СКИДКА",
+    "off": "СКИДКА",
     "subtitle": "на выбранные товары",
     "button": "Купить сейчас"
   },
@@ -3208,7 +3208,7 @@
     "language": "ru-LT",
     "eyebrowLTO": "Только ограниченное время!",
     "eyebrowLC": "Последний шанс!",
-    "subline": "СКИДКА",
+    "off": "СКИДКА",
     "subtitle": "на выбранные товары",
     "button": "Купить сейчас"
   },
@@ -3217,7 +3217,7 @@
     "language": "ru-HU",
     "eyebrowLTO": "Только ограниченное время!",
     "eyebrowLC": "Последний шанс!",
-    "subline": "СКИДКА",
+    "off": "СКИДКА",
     "subtitle": "на выбранные товары",
     "button": "Купить сейчас"
   },
@@ -3226,7 +3226,7 @@
     "language": "ru-DE",
     "eyebrowLTO": "Только ограниченное время!",
     "eyebrowLC": "Последний шанс!",
-    "subline": "СКИДКА",
+    "off": "СКИДКА",
     "subtitle": "на выбранные товары",
     "button": "Купить сейчас"
   },
@@ -3235,7 +3235,7 @@
     "language": "ru-GB",
     "eyebrowLTO": "Только ограниченное время!",
     "eyebrowLC": "Последний шанс!",
-    "subline": "СКИДКА",
+    "off": "СКИДКА",
     "subtitle": "на выбранные товары",
     "button": "Купить сейчас"
   },
@@ -3244,7 +3244,7 @@
     "language": "ru-CZ",
     "eyebrowLTO": "Только ограниченное время!",
     "eyebrowLC": "Последний шанс!",
-    "subline": "СКИДКА",
+    "off": "СКИДКА",
     "subtitle": "на выбранные товары",
     "button": "Купить сейчас"
   },
@@ -3253,7 +3253,7 @@
     "language": "ru-NO",
     "eyebrowLTO": "Только ограниченное время!",
     "eyebrowLC": "Последний шанс!",
-    "subline": "СКИДКА",
+    "off": "СКИДКА",
     "subtitle": "на выбранные товары",
     "button": "Купить сейчас"
   },
@@ -3262,7 +3262,7 @@
     "language": "ru-GE",
     "eyebrowLTO": "Только ограниченное время!",
     "eyebrowLC": "Последний шанс!",
-    "subline": "СКИДКА",
+    "off": "СКИДКА",
     "subtitle": "на выбранные товары",
     "button": "Купить сейчас"
   },
@@ -3271,7 +3271,7 @@
     "language": "ru-ES",
     "eyebrowLTO": "Только ограниченное время!",
     "eyebrowLC": "Последний шанс!",
-    "subline": "СКИДКА",
+    "off": "СКИДКА",
     "subtitle": "на выбранные товары",
     "button": "Купить сейчас"
   },
@@ -3280,7 +3280,7 @@
     "language": "ru-SE",
     "eyebrowLTO": "Только ограниченное время!",
     "eyebrowLC": "Последний шанс!",
-    "subline": "СКИДКА",
+    "off": "СКИДКА",
     "subtitle": "на выбранные товары",
     "button": "Купить сейчас"
   },
@@ -3289,7 +3289,7 @@
     "language": "ru-LV",
     "eyebrowLTO": "Только ограниченное время!",
     "eyebrowLC": "Последний шанс!",
-    "subline": "СКИДКА",
+    "off": "СКИДКА",
     "subtitle": "на выбранные товары",
     "button": "Купить сейчас"
   },
@@ -3298,7 +3298,7 @@
     "language": "ru-CA",
     "eyebrowLTO": "Только ограниченное время!",
     "eyebrowLC": "Последний шанс!",
-    "subline": "СКИДКА",
+    "off": "СКИДКА",
     "subtitle": "на выбранные товары",
     "button": "Купить сейчас"
   },
@@ -3307,7 +3307,7 @@
     "language": "ru-IL",
     "eyebrowLTO": "Только ограниченное время!",
     "eyebrowLC": "Последний шанс!",
-    "subline": "СКИДКА",
+    "off": "СКИДКА",
     "subtitle": "на выбранные товары",
     "button": "Купить сейчас"
   },
@@ -3316,7 +3316,7 @@
     "language": "ru-PL",
     "eyebrowLTO": "Только ограниченное время!",
     "eyebrowLC": "Последний шанс!",
-    "subline": "СКИДКА",
+    "off": "СКИДКА",
     "subtitle": "на выбранные товары",
     "button": "Купить сейчас"
   },
@@ -3325,7 +3325,7 @@
     "language": "ru-BG",
     "eyebrowLTO": "Только ограниченное время!",
     "eyebrowLC": "Последний шанс!",
-    "subline": "СКИДКА",
+    "off": "СКИДКА",
     "subtitle": "на выбранные товары",
     "button": "Купить сейчас"
   },
@@ -3334,7 +3334,7 @@
     "language": "ru-FR",
     "eyebrowLTO": "Только ограниченное время!",
     "eyebrowLC": "Последний шанс!",
-    "subline": "СКИДКА",
+    "off": "СКИДКА",
     "subtitle": "на выбранные товары",
     "button": "Купить сейчас"
   },
@@ -3343,7 +3343,7 @@
     "language": "ru-CH",
     "eyebrowLTO": "Только ограниченное время!",
     "eyebrowLC": "Последний шанс!",
-    "subline": "СКИДКА",
+    "off": "СКИДКА",
     "subtitle": "на выбранные товары",
     "button": "Купить сейчас"
   },
@@ -3352,7 +3352,7 @@
     "language": "ja-JP",
     "eyebrowLTO": "期間限定！",
     "eyebrowLC": "最後のチャンス！",
-    "subline": "オフ",
+    "off": "オフ",
     "subtitle": "対象商品",
     "button": "今すぐ購入"
   },
@@ -3361,7 +3361,7 @@
     "language": "hr-RS",
     "eyebrowLTO": "Samo ograničeno vrijeme!",
     "eyebrowLC": "Zadnja šansa!",
-    "subline": "POPUSTA",
+    "off": "POPUSTA",
     "subtitle": "na odabrane artikle",
     "button": "Kupi sada"
   },
@@ -3370,7 +3370,7 @@
     "language": "hr-HR",
     "eyebrowLTO": "Samo ograničeno vrijeme!",
     "eyebrowLC": "Zadnja šansa!",
-    "subline": "POPUSTA",
+    "off": "POPUSTA",
     "subtitle": "na odabrane artikle",
     "button": "Kupi sada"
   },
@@ -3379,7 +3379,7 @@
     "language": "hr-ME",
     "eyebrowLTO": "Samo ograničeno vrijeme!",
     "eyebrowLC": "Zadnja šansa!",
-    "subline": "POPUSTA",
+    "off": "POPUSTA",
     "subtitle": "na odabrane artikle",
     "button": "Kupi sada"
   },
@@ -3388,7 +3388,7 @@
     "language": "hr-BA",
     "eyebrowLTO": "Samo ograničeno vrijeme!",
     "eyebrowLC": "Zadnja šansa!",
-    "subline": "POPUSTA",
+    "off": "POPUSTA",
     "subtitle": "na odabrane artikle",
     "button": "Kupi sada"
   },
@@ -3397,7 +3397,7 @@
     "language": "hr-SI",
     "eyebrowLTO": "Samo ograničeno vrijeme!",
     "eyebrowLC": "Zadnja šansa!",
-    "subline": "POPUSTA",
+    "off": "POPUSTA",
     "subtitle": "na odabrane artikle",
     "button": "Kupi sada"
   }
