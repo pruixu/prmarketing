@@ -22,9 +22,10 @@ async function validateDirectory(dirPath) {
 
 async function main() {
   console.log('🔍 Validating JSON files...\n');
+  const rootResults = await validateDirectory('.');
   const subjectsResults = await validateDirectory('./subjects');
   const templatesResults = await validateDirectory('./templates');
-  const allResults = [...subjectsResults, ...templatesResults];
+  const allResults = [...rootResults, ...subjectsResults, ...templatesResults];
   const invalid = allResults.filter(r => !r.valid);
   if (invalid.length > 0) {
     console.error(`❌ ${invalid.length} file(s) with errors:\n`);
