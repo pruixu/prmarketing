@@ -6,7 +6,10 @@
     "eyebrowLC": "Last Chance!",
     "off": "OFF",
     "subtitle": "on select items",
-    "button": "Shop Now"
+    "button": "Shop Now",
+    "buyOne": "BUY ONE",
+    "getOne": "GET ONE",
+    "free": "FREE"
   },
   {
     "language_name": "Azerbaijani",
