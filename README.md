@@ -1,19 +1,16 @@
-# prmarketing
-Store marketing email JSON files for Klaviyo multi-language emails.
-
 ## Table of Contents
 - [Live URL](#live-url)
 - [Validate JSON](#validate-json)
-- [📘 Klaviyo Email Development 101 (with JSON translations)](#-klaviyo-email-development-101-with-json-translations)
+- [Klaviyo Email Development 101 (with JSON translations)](#-klaviyo-email-development-101-with-json-translations)
   - [1. Why This Guide?](#1-why-this-guide)
   - [2. HTML Email Basics](#2-html-email-basics)
   - [3. Using Translations in JSON](#3-using-translations-in-json)
-    - [3.1 Important: Language Code Normalization](#31-important-language-code-normalization)
-    - [3.2 Using Translations in Subject Lines](#32-using-translations-in-subject-lines)
-    - [3.3 Using Translations in HTML Templates](#33-using-translations-in-html-templates)
-    - [3.4 Why This Approach?](#34-why-this-approach)
-    - [3.5 How to Create a Web Feed in Klaviyo](#35-how-to-create-a-web-feed-in-klaviyo)
-    - [3.6 How to Generate New Translations](#36-how-to-generate-new-translations)
+    - [3.1 Language Code Normalization and Variants](#31-language-code-normalization-and-variants)
+    - [3.2 Using Translations in Klaviyo](#32-using-translations-in-klaviyo)
+    - [3.3 Automation: Expanding and Validating Translations](#33-automation-expanding-and-validating-translations)
+      - [Available Commands](#available-commands)
+      - [Running for a single file](#running-for-a-single-file)
+      - [Example workflow](#example-workflow)
   - [4. Example Block (Title + Image + Button)](#4-example-block-title--image--button)
     - [4.1 Example JSON for That Block](#41-example-json-for-that-block)
   - [5. Tips for Better Email Development](#5-tips-for-better-email-development)
@@ -23,85 +20,64 @@ Store marketing email JSON files for Klaviyo multi-language emails.
   - [9. Responsive Design with a Single Table](#9-responsive-design-with-a-single-table)
   - [10. User Acceptance Criteria (UAC) Checklist](#10-user-acceptance-criteria-uac-checklist)
 
----
-
-## Live URL
-The below url is the web accessible link that can be used to link to various json files in Klaviyo or other platforms. https://pruixu.github.io/prmarketing/
-
-### Validate JSON
-If you are trouble loading the json file, you are receiving errors, etc., please make sure that json file doesn't contain any formatting or structure errors. You can use the below link to validate the JSON file. https://jsonlint.com/
-
-
-# 📘 Klaviyo Email Development 101 (with JSON translations)
-
-## 1. Why This Guide?
-This guide is for developers creating **multi-language emails in Klaviyo** using JSON-based translations.  
-It covers best practices for HTML structure, inline CSS, Outlook fallbacks, Gmail quirks, and translation handling.
-
----
-
-## 2. HTML Email Basics
-- Always use **tables** for layout, never rely on `div` or CSS grid/flex.  
-- Keep **inline CSS** styles (many clients strip `<style>`).  
-- Set a background color fallback.  
-- Use **alt text** for all images.  
-- Max email width: **600px** is standard.  
-
----
-
 ## 3. Using Translations in JSON
 
-All translations are managed in the [prmarketing GitHub repository](https://github.com/pruixu/prmarketing).
+All translations are managed in this repository using JSON files per language and variant. The recommended workflow is:
 
-- The **`subjects`** folder contains JSON files for email subjects and preheaders.
-- The **`templates`** folder contains JSON files for the email body content.
+1. **Edit or add keys only in the base language** (e.g., `"language": "en"`).
+2. **Run the expansion script** to automatically generate all required variants (according to BCP-47 and `src/variations.json`).
+3. **Automatic synchronization:** If you add a new key in the base language, the script will add it to all variants that don't have it, copying the value from the base.
+4. **Validate the files** to ensure there are no syntax errors.
 
-Store text in JSON per language, for example:
-
+**Example structure:**
 ```json
 [
   {
     "language_name": "English",
-    "pr_code": "eng",
     "language": "en",
     "congrats_header": "CONGRATS, YOU'VE REACHED A NEW LOYALTY TIER!"
   },
   {
     "language_name": "Spanish",
-    "pr_code": "spa",
+    "language": "es",
+    "congrats_header": "¡FELICIDADES, HAS ALCANZADO UN NUEVO NIVEL DE LEALTAD!"
+  }
+]
+```
+# prmarketing
+
+## 3. Using Translations in JSON
+
+All translations are managed in this repository using JSON files per language and variant. The recommended workflow is:
+
+1. **Edit or add keys only in the base language** (e.g., `"language": "en"`).
+2. **Run the expansion script** to automatically generate all required variants (according to BCP-47 and `src/variations.json`).
+3. **Automatic synchronization:** If you add a new key in the base language, the script will add it to all variants that don't have it, copying the value from the base.
+4. **Validate the files** to ensure there are no syntax errors.
+
+**Example structure:**
+```json
+[
+  {
+    "language_name": "English",
+    "language": "en",
+    "congrats_header": "CONGRATS, YOU'VE REACHED A NEW LOYALTY TIER!"
+  },
+  {
+    "language_name": "Spanish",
     "language": "es",
     "congrats_header": "¡FELICIDADES, HAS ALCANZADO UN NUEVO NIVEL DE LEALTAD!"
   }
 ]
 ```
 
-### 3.1 Important: Language Code Normalization
+### 3.1 Language Code Normalization and Variants
 
-**⚠️ Critical:** The `language` property must contain **only the base language code** (2 characters), NOT the full locale code.
+- The `language` property must contain the base language code (e.g., `"en"`, `"es"`).
+- The script will automatically generate variants like `"en-US"`, `"es-MX"`, etc., based on the configuration in `src/variations.json`.
+- If you add a new key to the base language, running the script will propagate it to all variants.
 
-✅ **Correct:**
-```json
-{
-  "language": "en",
-  "language": "es",
-  "language": "fr",
-  "language": "zh"
-}
-```
-
-❌ **Incorrect:**
-```json
-{
-  "language": "en-US",
-  "language": "es-ES",
-  "language": "fr-FR",
-  "language": "zh-CHS"
-}
-```
-
-**Why?** In Klaviyo, customer profiles store `Last Purchase Language` with full locale codes like `"en-US"`, `"es-MX"`, `"fr-CA"`, etc. To match correctly, we normalize JSON to use only base codes and handle the comparison in Klaviyo templates.
-
-### 3.2 Using Translations in Subject Lines
+### 3.2 Using Translations in Klaviyo
 
 For **subject lines and preheaders**, use the `in` operator to check if the base language code is contained in the full locale:
 
@@ -110,32 +86,12 @@ For **subject lines and preheaders**, use the `in` operator to check if the base
 {% with feed=feeds.YourSubjectFeed %}
   {% for item in feed %}
     {% if item.language in person|lookup:"Last Purchase Language"|default_if_none:"en-US" %}
-      {{ item.subject_variation_1 }}
+      ...
     {% endif %}
   {% endfor %}
 {% endwith %}
 ```
 <!-- {% endraw %} -->
-
-**How it works:**
-- Customer has `Last Purchase Language: "en-US"`
-- JSON has `language: "en"`
-- Check: `"en" in "en-US"` → `true` ✅
-
-**Example:**
-<!-- {% raw %} -->
-```django
-{% with feed=feeds.BOGOLastChanceSubjects %}
-  {% for item in feed %}
-    {% if item.language in person|lookup:"Last Purchase Language"|default_if_none:"en-US" %}
-      {{ item.subject_variation_3 }}
-    {% endif %}
-  {% endfor %}
-{% endwith %}
-```
-<!-- {% endraw %} -->
-
-### 3.3 Using Translations in HTML Templates
 
 For **email body content**, extract the base language code using `slice:":2"` and compare:
 
@@ -144,28 +100,53 @@ For **email body content**, extract the base language code using `slice:":2"` an
 {% with feed=feeds.YourContentFeed %}
   {% with language=person|lookup:"Last Purchase Language"|default:"en-US" %}
     {% with langBase=language|slice:":2" %}
-      {% for item in feed %}
-        {% if item.language == langBase %}
-          {{ item.your_content_key }}
-        {% endif %}
-      {% endfor %}
+      ...
     {% endwith %}
   {% endwith %}
 {% endwith %}
 ```
 <!-- {% endraw %} -->
 
-**How it works:**
-1. Get `Last Purchase Language: "en-US"` from customer profile
-2. Extract first 2 characters: `"en-US"|slice:":2"` → `"en"`
-3. Compare: `"en" == "en"` → `true` ✅
+### 3.3 Automation: Expanding and Validating Translations
 
-**Complete Example (Preheader):**
-<!-- {% raw %} -->
-```django
-{% with feed=feeds.PreHeaders %}
-  {% with language=person|lookup:"Last Purchase Language"|default:"en-US" %}
-    {% with langBase=language|slice:":2" %}
+This project includes automation scripts to help you expand translation variants and validate all JSON files for Klaviyo email campaigns.
+
+#### Available Commands
+
+You can run these commands from the `prmarketing` directory:
+
+| Command                      | Description                                                        |
+|------------------------------|--------------------------------------------------------------------|
+| `npm run expand`             | Expands and synchronizes variants in all JSON files                 |
+| `npm run validate`           | Validates the syntax of all JSON files                              |
+| `npm run expand-and-validate`| Runs both steps in sequence                                         |
+
+**How to use:**
+```sh
+npm run expand
+npm run validate
+npm run expand-and-validate
+```
+
+#### Running for a single file
+
+To expand/synchronize only one file:
+```sh
+node src/translate.js path/to/file.json
+```
+
+#### Example workflow
+
+1. Edit the base file (e.g., `templates/loyalty_points.json`), adding or modifying keys only in `"en"`.
+2. Run `npm run expand` to propagate changes to all variants.
+3. Run `npm run validate` to check that everything is correct.
+4. Commit and push your changes to GitHub.
+
+> **Note:** Always run the expansion script after adding new keys to ensure all variants are up to date.
+
+You can find and modify these scripts in the `package.json` file.
+
+---
       {% for item in feed %}
         {% if item.language == langBase %}
           {{ item.pre_header_variation_3 }}
@@ -232,6 +213,7 @@ You can find and modify these scripts in the `package.json` file.
 
 ---
 
+
 ### 3.4 Why This Approach?
 
 **Problem we solved:**
@@ -240,10 +222,10 @@ You can find and modify these scripts in the `package.json` file.
 - This caused **mismatching** → emails with **empty subject lines** for international users
 
 **Solution:**
-- ✅ Normalize all JSON to use **base language codes only** (`"en"`, `"es"`, `"zh"`)
-- ✅ Use `in` operator for subject lines (simple check)
-- ✅ Use `slice:":2"` for templates (extract base code from locale)
-- ✅ Result: **100% match rate** for all languages
+- ✅ Now, all JSON files are automatically expanded to include all required BCP-47 language variants (e.g., `"en"`, `"en-US"`, `"es"`, `"es-MX"`, etc.)
+- ✅ Any new key added to the base language is propagated to all variants, ensuring consistency
+- ✅ In Klaviyo, you can match either by checking if the variant is present, or by extracting the base code as needed
+- ✅ Result: **100% match rate** for all languages and locales, and all variants are always up to date
 
 ### 3.5 How to Create a Web Feed in Klaviyo
 
