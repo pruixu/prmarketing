@@ -79,27 +79,8 @@ All translations are managed in this repository using JSON files per language an
 
 ### 3.2 Using Translations in Klaviyo
 
-For **subject lines and preheaders**, use the `in` operator to check if the base language code is contained in the full locale:
 
-```django
-# Django template example for subject lines
-{% for item in feed %}
-  {% if item.language in person|lookup:"Last Purchase Language"|default_if_none:"en-US" %}
-    ...
-  {% endif %}
-{% endfor %}
-```
-
-For **email body content**, extract the base language code using `slice:":2"` and compare:
-
-```django
-# Django template example for email body content
-{% with language=person|lookup:"Last Purchase Language"|default:"en-US" %}
-  {% with langBase=language|slice:":2" %}
-    ...
-  {% endwith %}
-{% endwith %}
-```
+For subject lines, preheaders, and email body content, you can use the language and variant fields as needed in your template logic to match the user's language or locale. See your ESP's documentation for the recommended way to select translations based on user profile fields.
 
 ### 3.3 Automation: Expanding and Validating Translations
 
@@ -139,38 +120,6 @@ node src/translate.js path/to/file.json
 > **Note:** Always run the expansion script after adding new keys to ensure all variants are up to date.
 
 You can find and modify these scripts in the `package.json` file.
-
----
-      {% for item in feed %}
-        {% if item.language == langBase %}
-          {{ item.pre_header_variation_3 }}
-        {% endif %}
-      {% endfor %}
-    {% endwith %}
-  {% endwith %}
-{% endwith %}
-```
-<!-- {% endraw %} -->
-
-**Complete Example (Loyalty Points Content):**
-<!-- {% raw %} -->
-```django
-{% with langFeed=feeds.loyaltyPoints %}
-  {% with language=person|lookup:"Last Purchase Language"|default:"en-US" %}
-    {% with langBase=language|slice:":2" %}
-      {% for langItem in langFeed %}
-        {% if langItem.language == langBase %}
-          <h1>{{ langItem.congrats_header }}</h1>
-          <p>{{ langItem.say_hello }}</p>
-        {% endif %}
-      {% endfor %}
-    {% endwith %}
-  {% endwith %}
-{% endwith %}
-```
-<!-- {% endraw %} -->
-
----
 
 #### 🚀 Automation: Expanding and Validating Translations
 
@@ -324,15 +273,15 @@ When you need to add a new set of translations for an email:
         <!-- Title -->
         <tr>
           <td style="font-size:24px; font-weight:bold; color:#123066; text-align:center; padding:20px;">
-            {{ translations.title }}
+            [title translation]
           </td>
         </tr>
 
         <!-- Image with Link -->
         <tr>
           <td align="center" style="padding:10px;">
-            <a href="{{ shop.url }}">
-              <img src="{{ translations.image_url }}" alt="{{ translations.title }}" width="100%" style="max-width:600px; border:0; display:block;">
+            <a href="[shop url]">
+              <img src="[image_url]" alt="[title translation]" width="100%" style="max-width:600px; border:0; display:block;">
             </a>
           </td>
         </tr>
@@ -340,10 +289,10 @@ When you need to add a new set of translations for an email:
         <!-- CTA Button -->
         <tr>
           <td align="center" style="padding:20px;">
-            <a href="{{ shop.url }}" 
+            <a href="[shop url]" 
                style="background:#F5A623; color:#fff; font-size:18px; font-weight:bold;
                       padding:14px 28px; border-radius:6px; text-decoration:none;">
-              {{ translations.cta }}
+              [cta translation]
             </a>
           </td>
         </tr>
@@ -433,7 +382,7 @@ Gmail sometimes clips emails if:
 ```html
 <p style="font-size:14px; color:#666;">
   Having trouble viewing this email? 
-  <a href="{{ view_in_browser_url }}" style="color:#123066;">View in your browser</a>
+  <a href="[view_in_browser_url]" style="color:#123066;">View in your browser</a>
 </p>
 ```
 
