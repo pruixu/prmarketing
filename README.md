@@ -81,31 +81,29 @@ All translations are managed in this repository using JSON files per language an
 
 For **subject lines and preheaders**, use the `in` operator to check if the base language code is contained in the full locale:
 
-<!-- {% raw %} -->
 ```django
-{% with feed=feeds.YourSubjectFeed %}
+# Django template example for subject lines
+{# with feed=feeds.YourSubjectFeed #}
   {% for item in feed %}
     {% if item.language in person|lookup:"Last Purchase Language"|default_if_none:"en-US" %}
       ...
     {% endif %}
   {% endfor %}
-{% endwith %}
+{# endwith #}
 ```
-<!-- {% endraw %} -->
 
 For **email body content**, extract the base language code using `slice:":2"` and compare:
 
-<!-- {% raw %} -->
 ```django
-{% with feed=feeds.YourContentFeed %}
-  {% with language=person|lookup:"Last Purchase Language"|default:"en-US" %}
-    {% with langBase=language|slice:":2" %}
+# Django template example for email body content
+{# with feed=feeds.YourContentFeed #}
+  {# with language=person|lookup:"Last Purchase Language"|default:"en-US" #}
+    {# with langBase=language|slice:":2" #}
       ...
-    {% endwith %}
-  {% endwith %}
-{% endwith %}
+    {# endwith #}
+  {# endwith #}
+{# endwith #}
 ```
-<!-- {% endraw %} -->
 
 ### 3.3 Automation: Expanding and Validating Translations
 
